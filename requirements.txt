@@ -104,7 +104,7 @@ Pygments==2.18.0
 PyMuPDF==1.25.4
 pyogrio==0.10.0
 pyparsing==3.2.0
-pypdf==5.3.1
+pypdf==6.10.2
 PyPDF2==3.0.1
 pypdfium2==4.30.0
 pyproj==3.7.1
