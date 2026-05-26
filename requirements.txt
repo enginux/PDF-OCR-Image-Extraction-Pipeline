@@ -34,7 +34,7 @@ geopy==2.4.1
 h11==0.14.0
 h5py==3.12.1
 huggingface-hub==0.26.1
-idna==3.10
+idna==3.15
 igraph==0.11.8
 img2pdf==0.5.1
 ipykernel==6.29.5
