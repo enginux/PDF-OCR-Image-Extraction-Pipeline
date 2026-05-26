@@ -1,0 +1,44 @@
+GASTROESOPHAGEAL VARICES AND PORTOSYSTEMIC SHUNTS
+Ballon-occluded retrograde transvenous obliteration (BRTO)
+Ballon-occluded retrograde transvenous obliteration (BRTO) is used for the management of
+gastric variceal bleeding due to portal hypertension and is more commonly performed in
+Asia. In the United States and Europe, BRTO is usually performed when endoscopic therapy
+fails and TIPS is not an option.
+In the United States and Europe, TIPS is the first-line treatment for gastric variceal hemorrhage. By
+decompressing portal hypertension, TIPS induces hemostasis of gastric varices and reduces the risk of
+rebleeding, but may cause liver failure and hepatic encephalopathy as described previously.
+BRTO involves endovascular obliteration of gastric varices by injection of a sclerosing agent
+directly into the varix via a gastrorenal or gastrocaval shunt while the variceal blood outflow
+is occluded by an inflated balloon.
+In patients without spontaneous gastrorenal or gastrocaval shunt, BRTO is not at treatment option.
+By obstructing a major gastrorenal shunt, BRTO increases portal venous pressure, therefore
+improving liver function, lowering the risk of liver failure and hepatic encaphalopathy.
+However, it can worsen ascites and esophageal varices if present.
+BRTO has comparable efficacy to TIPS in treating refractory gastric variceal hemorrhage. In
+fact, it is associated with lower rates of rebleeding, hepatic encephalopathy, and mortality.
+Overview of the procedure:
+Percutaneous access is achieved through the femoral vein (most common) or jugular vein.
+Then, catheterization of the gastrorenal shunt via the left renal vein is performed.
+Balloon occlusion of the gastrorenal shunt outflow is done followed by a shunt venogram to map the
+anatomy.
+Sclerosant is injected upstream intoi the varices. Occlusive balloon is left in place for 4-24 hours until
+sclerosant has reached stasis.
+Variations to BRTO have been developed with shorter procedural time and occlusion of the
+shunt by either coiling or vascular plugging.
+Common complications include gross hematuria, aggravation of esophageal varices, ascites,
+hydrothorax/pleural effusion, spontaneous bacterial peritonitis, and portal vein thrombosis.
+ONCOLOGIC INTERVENTIONS
+ABLATION THERAPY
+Percutaneous tumor ablation is a safe alternative to surgical resection in carefully selected
+patients. The role of ablation is actively evolving and expanding. Ablation is commonly
+performed in the liver, kidney, lung, and bone, and its role in other sites (e.g., prostate,
+thyroid) is also expanding. Common indications include local control of solitary or
+oligometastatic disease (1-5 metastatic lesions) and/or pain palliation. The best outcomes
+for local control are obtained for lesions that are <5 cm in maximal diameter, but indications
+for debulking and palliation of larger lesions are increasing. The most common techniques
+for percutaneous ablation include cryoablation, microwave ablation, and radiofrequency
+ablation. Other techniques include irreversible electroporation, laser, and ethanol ablation.
+Heat sink phenomenon is a limitation of all thermal ablation techniques, where adjacent
+blood vessels prevent large temperature variations, resulting in cooler temperatures of the
+surrounding tissue and the potential for residual unablated tissue.
+IR: 636

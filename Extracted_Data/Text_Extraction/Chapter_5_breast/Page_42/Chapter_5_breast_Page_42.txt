@@ -1,0 +1,25 @@
+Examples of NME patterns
+Non-mass enhancement suggestive of DCIS:
+Axial (left image) and sagittal fat-saturated T1-weighted postcontrast images show an area of NME in the
+lower inner quadrant of the right breast (arrows) with clumped morphology and segmental distribution.
+Clustered ring non-mass enhancement in a patient with biopsy-proven high-grade DCIS of the left breast:
+MRI subtraction image shows extensive NME in the left breast in a regional distribution, with clustered ring
+(arrow) and clumped internal enhancement patterns. No MRI evidence of malignancy is seen in the right
+breast.
+Summary of non-mass enhancement
+BI-RADS: MRI non-mass enhancement (NME)
+Focal
+Segmental
+Distribution
+Linear
+Regional
+Multiple regions
+Diffuse
+Internal
+enhance-
+ment
+Homogeneous
+Heterogeneous
+Clumped
+Clustered ring
+Breast: 409

@@ -1,0 +1,60 @@
+IMAGE QUALITY
+Contrast
+The most important factor for optimizing contrast is to increase the number of
+photons that reach the film (film density).
+1 scatter - T contrast
+Collimation J scatter and 1 dose
+Collimation is the rare example of something that T image quality and 1 dose
+1 kV -contrast with automatic exposure control
+In screen film, contrast is related to screen atitude/gradient.
+Resolution and blur
+Only three factors influence blur (resolution), none of which affect image contrast:
+1) Focal spot blur.
+2) Motion blur, which is related to exposure time.
+3) Receptor blur, which is related to intensifying screen thickness. Faster screens T blur.
+STATISTICS
+Sensitivity,
+Sensitivity = TP/(TP + FN)
+TP = true positive
+specificity, positive
+Specificity = TN/(TN+FP)
+TN = true negative
+predictive value,
+and negative
+Positive predictive value (PPV) = TP/(TP + FP)
+FP = false positive
+predictive value
+Negative predictive value (NPV) = TN/(TN + FN)
+FN = false negative
+ROC curve
+A receiver operator characteristic (ROC) curve compares the diagnostic performance
+of a test at various thresholds of decision confidence.
+decision threshold
+"negative"
+"positive"
+ROC curve
+normalls
+abnormals
+-
+thresh,
+thresh,
+I
+#
+TN
+TP
+FN FP
+0
+100%
+thresh, thresh,
+parameter for decision threshold
+false positive fraction
+A patient population includes normals and abnormals. The threshold to determine
+whether a test parameter is negative" or "positive" can be set to optimize the ratio
+of true positives to false positives.
+In threshold 1 (thresh,; blue dashed line above), the decision threshold is chosen to
+balance true positives with false positives. This threshold is visualized on the ROC
+curve as the blue dot.
+Threshold 2 (thresh, brown dashed line above) is lowered. When plotted on the
+ROC curve, thresh, moves to the right, which increases the true positive fraction
+(increases sensitivity) and also increases the false positive fraction.
+Physics: 1211

@@ -1,0 +1,39 @@
+BIOPSY
+Basic principles of bone and soft tissue biopsy
+Indications for biopsy include need for pathologic diagnosis of an indeterminate or
+aggressive lesion, confirmation of and/or molecular analysis of suspected metastatic
+disease, and need for microbial analysis in imaging-confirmed osteomyelitis.
+It is important to perform a thorough imaging workup prior to biopsy planning, in order to
+best determine the pre-test probability, target the highest yield portion of the lesion, and
+avoid unnecessary biopsy.
+As an example of the importance of risk-stratifying lesions on imaging prior to biopsy, if complete imaging
+workup showed an aggresive-appearing lesion with FDG uptake on PET, then a negative or nondiagnostic
+pathology report would not be concordant, and repeat biopsy should be performed.
+In contrast, if complete imaging assessment showed an indeterminate but less-aggressive appearing lesion
+(such as with minimal enhancement and no or low-level uptake on PET), then an indeterminate pathology
+report could possibly be followed by short-interval repeat imaging.
+Absolute contraindications are not common but include an inaccessible percutaneous
+approach, and need to traverse a soft tissue infection to target a non-infected lesion.
+Close consultation with orthopedic oncologists is required when planning biopsy approach,
+especially for solitary lesions that may ultimately be resected. This collaborative planning
+ensures that the biopsy tract can be resected at time of surgery and reduces the risk of
+tumor tract seeding and contamination of additional compartments.
+Special considerations
+For thigh biopsies (bone or soft tissues), it is critical not to traverse the rectus femoris
+muscle (unless a lesion of the rectus femoris is being targeted). This is because rectus is
+one of the primary extensors of the leg traversing both the hip and knee joints, and if it is
+traversed the rectus may need to be sacrificed to reduce the chance of tumor tract seeding.
+For biopsy of weight-bearing bones of the lower extremity (such as the femur or tibia), it
+may be necessary for the patient to be on crutches with touch-down weight-bearing, in
+consultation with the treating orthopedic surgeon.
+Soft tissue biopsies
+Soft tissue biopsy: Contrast-enhanced MRI shows a heterogeneously enhancing mass in the adductor
+compartment of the left thigh (arrows). Pre-procedural color Doppler ultrasound demonstrates the mass, with
+no vascularity along the expected needle tract. Intraprocedural image (right image) demonstrates the biopsy
+needle (arrow) in the center of the mass. Pathology was a cellular myxoma.
+Soft tissue mass biopsies are generally performed with a coaxial spring-loaded biopsy
+device. For highest yield, the most avidly enhancing portion (or most avid focus of FDG
+uptake if a PET was performed) should be targeted as long as it is safe to do SO.
+The majority of musculoskeletal soft tissue biopsies can be performed by ultrasound,
+although CT is often a reasonable modality as well.
+MSK: 1082

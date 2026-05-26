@@ -1,0 +1,7 @@
+{
+    "chapter_number": "15",
+    "chapter_name": "physics",
+    "chapter_title": "Imaging Physics",
+    "page_number": 22,
+    "content": "T1\nlongitudinal relaxation (T1)\ntransverse relaxation (T2)\nShort TR\n1.0\n1.0\nShort TE\nfat\n0.8\n0.8\nfat\nI\n0.6\n0.6\n6\na\n0.4\n0.4\n-\nwater\n:\n0.2\n0:2 water\n1000 2000 3000 4000 5000\n100 200 300 400 500\nTR\ntime (ms)\nTE\ntime (ms)\nT2\nlongitudinal relaxation (T1)\ntransverse relaxation (T2)\nLong TR\n1.0\n1.0\nLong TE\nfat\n0.8\n0.8\nwater\n0.6\n0.6\nfat\n5\n0.4\n0.4\ne\nwater\nI\n0.2\n0.2\n1000 2000 3000 I 4000 5000\n100 200 300 400 500\ntime (ms) TR\nTE time (ms)\nPD\nlongitudinal relaxation (T1)\ntransverse relaxation (T2)\nLong TR\n1.0\nShort TE\nfat\n.8\n08 Li water\nHighest SNR\n1 contrast\nfat\n0.6\n0.6\n5\n0.4\n0.4\nwater\nI\n0.2\n0.2\n1000 2000 3000 4000 5000\n100 200 300 400 500\ntime (ms) TR\nTE\ntime (ms)\nPhysics: 1216"
+}

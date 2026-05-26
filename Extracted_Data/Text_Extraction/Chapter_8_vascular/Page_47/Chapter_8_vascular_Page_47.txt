@@ -1,0 +1,71 @@
+CAROTID ARTERY
+Color and spectral Doppler parameters
+-
+head
+feet
+>
+FRZ 28Hz 60°
+M2M3
+R1
++28.9
+color scale shows
+2D
+PW
+46%
+50%
+red is toward
+gE
+WF SV1.5mm 60Hz
+the probe
+Gen
+M2 3.5MHz
+(above the baseline)
+1.8cm
+165Hz
+-28.9
+5
+Med
+Vel 124 cm/s
+cm/s
+Vel 27.5 cm/s
+Doppler angle
+corrected to 60 degrees
+3.0-
+160
+waveform above
+120
+the baseline
+-80
+is toward the probe- N M A
+-40
+cm/s
+Right Prox CCA
+Normal carotid examination: Duplex ultrasound of the right internal carotid artery shows normal spectral
+waveform. The peak systolic velocity is 124 cm/sec, within the normal range. There is no carotid plaque.
+By convention, for images obtained in the sagittal plane, the patient's head is on the left side
+of the image and the feet are on the right.
+In general, ultrasound parameters are optimized SO that arteries are red and normal arterial
+flow is above the baseline. Certain parameters need to be adjusted SO that arteries above
+the heart (which are normally heading towards the head) appear similar to arteries below
+the heart (which normally are heading towards the feet):
+The color scale can be changed: Colors above the baseline go towards the probe.
+Spectral Doppler baseline inversion can be changed: Positive waveforms go towards the probe.
+Evaluation of the carotid arteries
+There are three components to the carotid artery exam: Evaluation of plaque morphology,
+hemodynamic evaluation, and waveform analysis.
+Plaque morphology
+Plaque morphology is evaluated on grayscale imaging (without Doppler) and is described in
+terms of absolute percent stenosis.
+<50% cross-sectional area plaque would not be expected to be hemodynamically significant.
+>50% luminal plaque is expected to show elevation in peak systolic velocity.
+Hemodynamic evaluation of stenosis
+Normal peak systolic velocity (PSV) in large arteries is 60-100 cm/sec.
+PSV tends to be elevated at a site of significant stenosis. Per the Society of Radiologists in
+ultrasound (SRU) criteria, established in 2003:
+>125 cm/sec suggests >50% stenosis.
+>230 cm/sec suggests >70% stenosis.
+Potential pitfall: An occluded or nearly occluded artery may have no detectable flow.
+In addition to measuring peak systolic velocity, velocities are also measured at the end of
+diastole: End diastolic velocity of >100 cm/sec suggests >70% stenosis.
+As discussed on the following page, the resistive index incorporates both PSV and EDV.
+Vascular: 585

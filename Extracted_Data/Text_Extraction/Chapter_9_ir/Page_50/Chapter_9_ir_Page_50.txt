@@ -1,0 +1,37 @@
+Radiofrequency ablation (RFA)
+B
+Radiofrequency ablation in a 51-year-old male with renal cell carcinoma. A) Axial noncontrast CT preliminary
+images show a hyperdense lesion in the right kidney (arrow). B) Intraprocedure axial CT shows three ablation
+probes in place. The ablation zone is not well seen during the procedure. C) Follow-up post-contrast axial CT at
+three years shows expected appearance of the ablation zone (arrow) with peripheral calcification.
+Mechanism: The RF electrode generates a simple electrical circuit through the body with
+alternating electromagnetic fields that agitate adjacent molecules, resulting in frictional
+heating of tissue around the probe, and ultimately results in coagulation necrosis and cell
+death at temperatures greater than 55°C. There is an exponential drop in temperature as
+you get further from the probe. Grounding pads are used to serve as a dispersive electrode.
+Technique: A single heating cycle slowly heats the tissue to 50-100°C for 6-15 minutes. Care
+must be taken to not increase the temperature too quickly, which can char the soft tissues
+and cause evaporation with formation of microbubbles, both of which increase the electrical
+impedance and limit flow of current, reducing the effectiveness of the probe.
+Advantages: RFA is the most established and widely available option. The total procedure
+time is shorter when compared to cryoablation. RFA cauterizes small vessels and decreases
+bleeding risk. RFA is the most cost-effective option compared to other ablation techniques.
+Disadvantages: RFA is heavily dependent on good electrical and thermal tissue conductivity.
+The ablation zone is not well monitored in real time. RFA is most susceptible to the heat sink
+effect, which can result in residual unablated tissue and an unpredictable ablation zone.
+Microwave ablation (MWA)
+Mechanism: An electromagnetic field is used to force polar molecules (mostly H20) to
+continuously realign with an oscillating electric field, which increases the kinetic energy
+of the molecules and results in heating. The microwave energy is transmitted through the
+antenna and directly into the volume of tissue around the antenna. Rapid cell death occurs
+at temperatures greater than 55°C, and surrounding tissue can reach over 100°C. The
+antennas are then cooled with water or gas.
+Technique: One MWA probe is placed with imaging guidance and the ablation is typically
+completed with one heating cycle. The power and duration of the heat is dependent on
+tumor size, but usually varies between 45W and 80W for 5-10 minutes.
+Advantages: MWA can generate very high temperatures, ablate through charred or necrotic
+tissue, and rapidly heats a large volume of tissue. It is less susceptible to heat sink effects
+from adjacent vessels and can cauterize blood vessels, decreasing bleeding risk. MWA has
+potential for simultaneous use of multiple antennas and does not require grounding pads,
+unlike RFA.
+IR: 637

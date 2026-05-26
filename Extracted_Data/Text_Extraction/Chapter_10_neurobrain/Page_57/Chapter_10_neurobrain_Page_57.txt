@@ -1,0 +1,51 @@
+After determining the intracranial compartment of the lesion, the differential can often be
+narrowed further by specific location.
+The most common cerebellopontine angle masses are vestibular schwannoma, meningioma, and
+epidermoid cyst.
+The most common pineal region tumors are germ cell tumors, such as germinoma, followed by pineal
+parenchymal tumors, such as pineoblastoma.
+The most common tumors involving the corpus callosum and crossing midline (butterfly tumors) are
+primary central nervous system lymphoma and glioblastoma.
+The most common cortical (rather than subcortical) supratentorial brain tumors are pleomorphic
+anthoastrocytoma, dysembryoplastic neuroepithelial tumor, oligodendroglioma, and ganglioglioma.
+The most common primary central skull base tumors are chordoma and chondrosarcoma.
+What is the age of the patient?
+In combination with location, the differential may depend on whether the patient is a child
+or adult.
+The most common: suprasellar tumors are pituitary adenoma in adults and craniopharyngioma in children.
+The most common posterior fossa tumors in adults are hemangioblastoma and metastases, whereas
+in children the most common are pilocytic astrocytoma, medulloblastoma, ependymoma, and diffuse
+midline/intrinsic pontine glioma.
+The most common purely intraventricular masses in the atrium of the lateral ventricle are meningioma
+and degenerative choroid plexus yst/anthogranuloma in adults and choroid plexus papilloma in children.
+The most common mass of thei foramen of Monro in adults is colloid cyst, whereas the most common in
+children is subependymal giant cell astrocytoma.
+What are the signal/attenvation and enhancement characteristics of the lesion?
+As previously described, most brain lesions are hyperintense on T2-weighted images
+and hypointense on T1-weighted images. MRI signal characteristics are most helpful if a
+lesion is either hypointense with T2/T2"-weighting (due to hypercellularity, hemorrhage,
+calcification, or proteinaceous fluid) or hyperintense with T1-weighting (due to fat,
+hemorrhage, melanin, or proteinaceous fluid).
+On noncontrast CT, most tumors fall within a range of brain/soft tissue attenuation and may
+be difficult to detect in the absence of surrounding edema. More marked hyperattenuation
+on CT may be due to hemorrhage or calcification, while more marked hypoattenuation may
+be due to cystic or necrotic components or fat.
+Contrast enhancement occurs in the vast majority of extra-axial and non-glial intra-axial
+neoplasms. Among gliomas, non-enhancing tumor is more likely to reflect lower histologic
+grade, but this correspondence is not entirely reliable: high-grade gliomas may not
+enhance in a third of cases and certain low-grade neoplasms like pilocytic astrocytoma and
+gangliogliomas show enhancement.
+Fat is characteristic of a few lesions: lipoma, dermoid cyst, and teratoma. Rarely,
+meningioma may show fatty metaplasia (lipomatous meningioma).
+Calcifications are found in a minority of certain common tumors but some less common
+lesions nearly always have calcifications.
+The most common extra-axial tumor that may calcify is meningioma. The vast majority of
+craniopharyngiomas are calcified.
+The most common intra-axial tumori that may calcify is astrocytoma. The vast majority of
+oligodendrogliomas are calcified.
+Intracranial calcifications are most commonly physiologi/agngreated rather than tumoral, such as in the
+choroid plexus, pineal gland, and dura of the tentorium and falx cerebri. However, these can be helpful in
+localizing tumors based on their displacement: a tumor that engulfs pineal calcifications is more likely a
+germ cell tumor, while one that disperses pineal calcifications to the periphery is more likely to be a pineal
+parenchymal tumor.
+Neuro Brain: 706

@@ -1,0 +1,43 @@
+IODINATED CONTRAST MEDIA
+Types of iodinated contrast
+There are two types of iodinated contrast media: ionic and nonionic (organic).
+lonic compounds were developed first, and commonly used agents include diatrizoate
+(Gastrografin).
+Nonionic organic compounds covalently bind the iodine and do not dissociate into
+component molecules, thus they typically have fewer side effects. Commonly used nonionic
+agents include iopamidol (Isovue 370) and iohexol (Omnipaque 140, 180, 240, 300, 350).
+The higher the iodine concentration, the more dense it will appear with X-ray exposure.
+The agents are clear, water soluble solutions that are renally excreted and can be used for
+intravascular, intrathecal and oral or body cavity administration.
+CONTRASTF-RELATIVE KIDNEY INJURY
+Post-contrast acute kidney injury (PC-AKI)
+Post-contrast acute kidney injury (PC-AKI) is a decrease in renal function within 48 hours
+following intravascular (venous or arterial) administration of iodinated contrast.
+PC-AKI is a general entity that may result from any nephrotoxic process, including exposure
+to iodinated contrast (CIN, described below) or an unrelated cause.
+Contrast-induced nephropathy (CIN)
+Contrast-induced nephropathy (CIN) is a decrease in renal function caused by intravascular
+administration of iodinated contrast. Its exact pathophysiology is unclear.
+Recent studies show that CIN occurs much less commonly than previously thought.
+The most important risk factor for development of CIN is pre-existing renal insufficiency.
+In patients with eGFR 245 ml/min/1.73m*, intravascular iodinated contrast is not an independent risk
+factor of AKI.
+Even in patients with eGFR 230 and <45, the development of CIN is exceptionally rare.
+An eGFR <30 is the most commonly used threshold for stratifying CIN risk.
+Note that gadolinium-based contrast media are not known to cause CIN.
+Prevention of contrast nephropathy
+The main preventative strategies against CIN are to use the minimal dose of contrast
+possible and to adequately hydrate the patient (intravenous hydration is more effective).
+The use of sodium bicarbonate and N-acetylcysteine has been previously advocated but the effectiveness
+of these agents has not been proven.
+Administration of intravenous contrast to a patient with an eGFR <30 would require a careful
+assessment of risks and benefits on a case-by-case basis.
+The standard dose of intravenous iodinated contrast can generally be given to patients with
+end-stage renal disease on chronic dialysis. Careful attention should be paid to the volume
+status in these patients as theoretically the osmotic load increases intravascular volume.
+IODINATED INTRAVENOUS CONTRAST: GENERAL CONSIDERATIONS
+lodinated contrast and pheochromocytoma
+It is safe to administer nonionic contrast media to patients with pheochromocytoma. Prior
+studies showed an increased in serum catecholamines after high-osmolality contrast agents,
+which are no longer in current use.
+Physics: 1199

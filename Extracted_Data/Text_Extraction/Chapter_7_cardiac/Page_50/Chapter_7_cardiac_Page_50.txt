@@ -1,0 +1,22 @@
+BENIGN PRIMARY CARDIAC TUMORS
+Thrombus
+Thrombus: Axial MR images show a pedunculated mass in the right atrium attached to the inter-atrial septum
+(arrows), which is mildly T2 hyperintense (right image), T1 isointense relative to myocardium (not shown), and
+demonstrates no gadolinium enhancement (left image).
+Intracardiac thrombus can mimic a cardiac tumor.
+Distinguishing imaging features are lack of contrast enhancement in the thrombus and
+adjacent myocardial scar and/or akinetic cardiac wall.
+Myxoma
+-
+-
+Left atrial myxoma: Axial CTA image (left image) shows a left atrial mass attached to the inter-atrial septum
+(arrow). Axial MRi images show the T2 hyperintense mass (arrow, middle image) and demonstrates
+heterogeneous late gadolinium enhancement (arrow, right image).
+Myxoma is the most common benign primary cardiac tumor in adults.
+75% of cardiac myxomas arise in the left atrium, usually attached to the inter-atrial septum
+in region of the fossa ovalis. 20% arise in the right atrium. The tumor may prolapse through
+a valve or patent foramen ovale.
+On MRI, myxomas have similar T1 signal to myocardium, are T2 hyperintense, demonstrate
+little to no enhancement on first pass perfusion, and heterogeneous low-level LGE.
+Calcification and hemosiderin deposition from intralesional hemorrhage are common.
+Cardiac: 535

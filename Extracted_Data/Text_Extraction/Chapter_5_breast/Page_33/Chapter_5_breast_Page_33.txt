@@ -1,0 +1,43 @@
+BI-RADS LEXICON FOR ULTRASOUND MASSES
+Use of the BI-RADS lexicon allows one to stratify sonographic masses on a spectrum from
+benign to malignant based solely on the report wording.
+Size and position
+A mass should be measured in all three orthogonal planes, with position labeled in terms of
+clockface and distance from the nipple.
+Shape
+The BI-RADS lexicon for the shape of an ultrasound mass includes round, oval, and irregular,
+the same as for a mammographic mass.
+Orientation
+The orientation of the long axis of a mass (relative to the skin) is unique to ultrasound.
+A mass that is parallel in orientation is more likely to be benign.
+In contrast, a non-parallel mass (known informally as taller-than-wide? is oriented with
+the long axis vertical and is suspicious for malignancy. This finding is based on the propensity
+of a malignant process to violate tissue planes.
+Margin
+Similar to mammography, benign masses are typically circumscribed.
+If the margins of a mass are not circumscribed, they can be characterized as indistinct,
+angular, microlobulated, or spiculated.
+Indistinct: No clear boundary between the mass and its surrounding tissue.
+Angular: Featuring sharp corners.
+Microlobulated: Serrated appearance of the margins.
+Spiculated: Linear projections emanating from the mass.
+Note that obscured is not a BI-RADs descriptor for ultrasound, only for mammography.
+Echo pattern
+The echo pattern describes the internal texture of an ultrasound lesion. Most benign
+and malignant lesions are hypoechoic. The margins of a lesion are more reliable than the
+echogenicity in determining if a lesion has benign features.
+An anechoic structure has no internal echoes and most commonly (but not always)
+represents a simple cyst.
+Al hypoechoic structure is defined as decreased echogenicity in comparison to the
+surrounding mammary fat.
+An isoechoic structure has the same echogenicity as surrounding fat. An isoechoic lesion can
+be challenging to visualize.
+Al hyperechoic structure is more echogenic than fat. It may be either equal or greater in
+echogenicity compared to fibroglandular tissue.
+A complex cystic and solid echo pattern describes a lesion that is partially cystic (containing
+anechoic elements) and partially solid (containing elements of varying echogenicity).
+Al heterogeneous echo pattern represents a combination of internal echogenicities.
+Posterior features
+The posterior features of a lesion describe the attenuation characteristics of the sound beam
+deep to the lesion.
+Breast: 400

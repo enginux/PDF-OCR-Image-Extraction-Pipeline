@@ -1,0 +1,30 @@
+PERIPHERAL VASCULAR DISEASE
+Femoropopliteal disease
+Similar to aortoiliac disease, the second TransAtlantic Inter-Society (TASC-II) consensus
+classifies emoropopliteal lesions and gives associated recommendations for intervention.
+Type A: Single stenosis <10 cm: Endovascular treatment is the treatment of choice.
+Type B: Multiple lesions (stenosis or occlusion), each <5 cm; single lesion <15 cm: Endovascular treatment
+is preferred, depending on patient comorbidities and preference.
+Type C: Multiple stenoses or occlusions >15 cm: Surgery is preferred, depending on patient comorbidities
+and preference.
+Type D: Chronic total occlusion: Surgery is treatment of choice.
+Acute thromboembolic disease
+Acute limb ischemia is an emergency and is often associated with pain, pallor,
+poikilothermia (coldness), pulselessness, and paresthesias. Blue toe syndrome is acute
+thromboembolism in the toes. The characteristic imaging feature in the upper extremities is
+occlusion of distal small arteries of the hand.
+Thromboembolic disease of the upper extremities is most commonly caused by cardiac emboli (of which
+atrial fibrillation is a common cause). Less commonly, a subclavian artery aneurysm may be the source of
+the thrombus.
+Ifthe source of emboli is central (such as the heart), bilateral disease would be expected, while a unilateral
+lesion would show unilateral emboli.
+Angiography shows an acute cutoff of the affected vessel, often with a meniscus sign.
+Significant atherosclerotic disease may be absent.
+Treatment options include surgical embolectomy, surgical bypass graft, and endovascular
+thrombolysis. When attempting to treat endovascularly, a hydrophilic wire is used to cross
+the lesion. A multi-sidehole infusion catheter is placed across the thrombus and tissue
+plasminogen activator (tPA) is infused at 0.5 mg/hr for 48-72 hours.
+While receiving intra-arterial tPA, the patient must be cared for in the ICU, with regular
+monitoring of hematocrit and fibrinogen. TPA infusion should be slowed if the fibrinogen
+decreases to <150 mg/dL and stopped if it reaches <100 mg/dL.
+IR: 619

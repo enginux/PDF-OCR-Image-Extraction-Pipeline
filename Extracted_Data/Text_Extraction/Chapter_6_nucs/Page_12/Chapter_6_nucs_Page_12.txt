@@ -1,0 +1,38 @@
+Brain tumor recurrence versus radiation necrosis
+Several nuclear imaging protocols have been described in the differentiation of tumor
+recurrence versus radiation necrosis. Regardless of the radiotracer involved, fusion to MRI is
+usually performed.
+Thallium-201 generally accumulates in malignant gliomas and not in post-treatment
+granulation tissue (i.e., thallium is not taken up by radiation necrosis). Thallium-201 uptake
+requires a living cell and blood-brain barrier disruption. The degree of uptake can be graded
+in comparison to the scalp activity:
+Uptake <scalp is low; uptake between scalp and 2x scalp is moderate; and uptake >2x scalp is high.
+PG4W 1Del light a Left
+PG4W 1oei
+SANFEZN SRMSSRATSE
+Axial T1-weighted post-contrast MRI
+SPECT thallium-201 (top image, with 4.4 mCi administered)
+shows a left parietal resection cavity with and fused SPECT-MRI (bottom image) show thallium
+an enhancing nodule (arrow) along the
+uptake in the posteromedial aspect of the resection cavity
+posteromedial aspect of the resection
+correlating with the enhancing nodule seen on MRI (arrow).
+cavity.
+This pattern is suggestive of tumor recurrence.
+Dual-phase F-18 FDG PET employs early and delayed imaging to evaluate a region of
+suspected tumor recurrence versus radiation necrosis. PET scanning is performed at 1 hour
+and 4 hours after the injection of the radiotracer. Dual phase PET has been shown to have
+increased accuracy for the assessment of recurrence versus post-treatment changes in
+metastatic disease compared to single-phase PET.
+CEREBROSPINAL FLUID IMAGING
+Radiotracer: Indium-111 DTPA
+Indium-111 has a half-life of 67 hours.
+In-111 DTPA is ideal for cerebrospinal fluid imaging because it is non-lipid soluble, not
+metabolized, and has a long half-life (CSF imaging may span several days). It is administered
+intrathecally by lumbar puncture.
+Normally, radiotracer should reach the basal cisterns by 1 hour, the sylvian and anterior
+interhemispheric cisterns by 2-6 hours, cerebral convexities by 12 hours, and the arachnoid
+villi in the sagittal sinus by 24 hours.
+Presence of radiotracer activity in the lateral ventricles is abnormal. Failure of radiotracer
+ascent over the cerebral convexities at 24 hours is also abnormal.
+Nucs: 455

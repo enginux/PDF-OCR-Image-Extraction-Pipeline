@@ -1,0 +1,27 @@
+MRI adrenal imaging: Chemical shift imaging = in and out of phase imaging
+Lipid-rich adenomas contain intracytoplasmic lipid. MRI can detect even small amounts of
+intracytoplasmic lipid that may be undetectable by CT. MRI takes advantage of the fact that
+protons resonate at different frequencies in fat and in water.
+Chemical shift imaging consists of paired GRE images obtained at different echo times (TES): in-phase (IP)
+and out-of-phase (OOP). When fat and water are contained within the same voxel, OOP images will show
+a drop in signal intensity when compared to IP, due to cancellation effect caused by fat and water protons
+being in "opposite direction" (out of phase). Adenomas suppress on OOP images, while metastases
+generally do not.
+Axial MRI demonstrates signal dropout in a right adrenal mass (arrows) on OOP (right image) compared to
+IP (left image), consistent with a lipid-rich adenoma.
+Some malignant adrenal masses may rarely contain intracytoplasmic lipid and lose signal on
+out-of-phase images:
+Wel-differentiated adrenocortical carcinoma (very rare).
+Metastatic clear cell renal cell carcinoma (RCC).
+Metastatic hepatocellular carcinoma (HCC).
+Liposarcoma (typically a predominantly fatty mass that is rarely confused with adrenal adenoma).
+Role of biopsy of an adrenal mass
+Adrenal biopsy: Fused axial PET-CT (left image) in a patient with lung cancer and indeterminate adrenal mass
+demonstrates an FDG-avid left adrenal mass (yellow arrow). Intraprocedural image from a CT-guided left
+adrenal biopsy with the patient decubitus demonstrates the deployed tract of the biopsy needle traversing the
+mass (yellow arrow). Pathology was metastatic lung cancer.
+Percutaneous adrenal mass biopsy is a safe procedure often performed under CT guidance.
+It is very accurate in providing definitive diagnosis.
+Biopsy is indicated for an adrenal mass that remains indeterminate after comprehensive
+imaging workup, particularly in the context of underlying malignancy.
+GU: 236

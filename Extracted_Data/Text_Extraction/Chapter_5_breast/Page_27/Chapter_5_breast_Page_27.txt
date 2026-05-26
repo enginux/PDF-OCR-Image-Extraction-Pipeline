@@ -1,0 +1,35 @@
+Rolled views (CC variant)
+Rolled views are obtained by moving the top and bottom of the breast in opposite
+directions. Rolled CC views are helpful to localize a lesion that is seen on the CC view only.
+Two rolled views are typically obtained. One view is obtained with the top of the breast
+rolled medially (RCCM) and a second view with the top rolled laterally (RCCL).
+If a lesion moves medially with an RCCM view, then it's in the superior breast.
+If a lesion moves laterally with an RCCM view, then it's in thei inferior breast.
+The lateral view can also be rolled, although this is less commonly performed.
+Reduced compression
+Images with reduced compression can be obtained to image far posterior lesions that may
+"slip out" of the detector when full compression is applied.
+True lateral view (ML or LM)
+A true lateral can be obtained in an ML (most commonly) or LM projection. In an ML
+view, the X-rays first travel through the medial breast, with the detector placed laterally.
+Conversely, the detector is medial in an LM projection. It is ideal to place the lesion in
+question closer to the detector if possible. For instance, a medial lesion is best imaged in an
+LM projection.
+The true lateral is used to diagnose milk of calcium. In addition to spot compression
+magnification, magnification spot views should also be obtained in the true lateral
+projection when milk of calcium is suspected.
+In the true lateral view, the precipitated calcium sinks to the bottom of the small cysts, where it is seen
+mammographicaly as tiny crescents (versus the fuzzy round appearance of the CC view).
+The true lateral view is helpful to triangulate a lesion seen in the MLO view but not CC.
+The true lateral can be helpful for planning a stereotactic procedure.
+Triangulation
+CC
+MLO
+Lateral
+lateral
+superior-lateral
+superior
+medial
+inferior-medial
+inferior
+Breast: 394

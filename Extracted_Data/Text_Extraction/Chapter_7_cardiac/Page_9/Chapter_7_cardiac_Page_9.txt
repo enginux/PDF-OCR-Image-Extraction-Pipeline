@@ -1,0 +1,65 @@
+Reconstruction axes and vascular territories
+apex
+base
+anterior wall
+LAD
+LAD
+Cx- LAD
+Cx
+Cx
+a
+RCA
+RCA
+RCA
+inferior wall
+free lateral
+septum 4
+wall
+anterior wall
+LAD
+LAD
+G
+Cx
+RCA
+inferior wall
+inferior
+anterior
+wall
+wall
+apex
+€
+LAD
+RCA
+LAD
+-
+Cx
+The heart is reconstructed into short axis (SA, the traditional "donut" view from apex of
+heart through the base), vertical long axis (VLA, a "U-shaped" view pointing to the left), and
+the horizontal long axis (HLA, a "U-shaped" view pointing down). The polar plot represents
+the entire three-dimensional left ventricle unfolded onto a two-dimensional map.
+Myocardial segments
+17-segment left ventricular segmentation:
+apex
+apical
+mid
+basal
+anterior
+anterior
+LAD (left anterior descending)
+ant-septal
+ant-lateral
+septal
+lateral
+LCx (left circumflex)
+infiseptal
+inf-lateral
+inferior
+inferior
+RCA (right coronary artery)
+1 segment 4 segments
+6s segments
+6: segments
+For evaluation of perfusion defect size, there are 17 standard left ventricular segments,
+evaluated on the SA ("donut") views. Each segment is usually supplied by the color-coded
+coronary artery indicated above, although vascular supply is variable between patients.
+Cardiac: 494

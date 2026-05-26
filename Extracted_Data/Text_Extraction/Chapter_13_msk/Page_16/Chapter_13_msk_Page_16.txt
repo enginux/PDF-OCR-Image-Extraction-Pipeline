@@ -1,0 +1,46 @@
+CRYSTAL ARTHROPATHIES
+Overview of crystal arthropathies
+Crystalline arthropathies are a common form of arthritis caused by intra-articular
+inflammation induced by the deposition of various crystals.
+By far the two most common crystal arthropathies are calcium pyrophosphate crystal
+arthritis and gout (caused by monosodium urate). While calcium hydroxyapatite usually
+causes calcific tendinopathy, it much less commonly causes intra-articular inflammation.
+Clinically, crystal arthropathies may mimic inflammatory arthropathy, septic arthritis, or
+osteoarthritis.
+Imaging plays a key role in diagnosis of crystal arthropathies, although arthrocentesis with
+crystal analysis is the gold standard in ambiguous cases.
+Calcium pyrophosphate manifests on imaging as chondrocalcinosis, which is deposition of calcium salts on
+hyaline cartilage and fibrocartilage.
+Gout has characteristic periarticular erosions with overhanging edges, and gouty tophi may manifest as
+high attenuation soft tissue nodules or masses.
+Hydroxyapatite appears as globular or amorphous mineralization (usually within a tendon) without
+internal trabeculation.
+Dual-energy CT can identify monosodium urate or calcium pyrophosphate.
+Calcium pyrophosphate
+The most common crystalline arthropathy is the arthritis caused by calcium pyrophosphate
+(CPP). Microscopically, the rhomboid crystals of CPPD are positively birefringent.
+Crystal deposition may be idiopathic (by far the most common) or associated with
+hemochromatosis, yperparathyroidism, and nypophospnatasia.
+Acute CPP arthritis describes the acute inflammatory phase of this condition, with a clinical
+presentation that may mimic septic arthritis with acute pain, swelling, erythema, and
+elevated inflammatory markers. Chronic CPP arthritis has been called the "great mimicker"
+of other arthropathies, including osteoarthritis (most common), gout, and rheumatoid.
+The hallmark radiographic finding of CPP arthritis is chondrocalcinosis, which is calcification
+of hyaline (articular) or fibro meniscal/labral) cartilage. Radiographs of the knees, wrist, and
+pelvis (pubic symphysis) are nearly 100% sensitive for the detection of chondrocalcinosis.
+Importantly, chondrocalcinosis is a very common finding of unknown incidence seen in both
+symptomatic and asymptomatic individuals. Additionally, positive crystal analysis has been
+reported in patients without radiographic chondrocalcinosis, especially in the early stages.
+Therefore, the absence of chondrocalcinosis cannot exclude CPP arthritis, and the presence
+of chondroclcinosis does not imply that the patient's pain is due to CPP arthritis.
+On radiography and CT, chondrocalcinosis of the articular cartilage appears as thin,
+linear calcifications of the articular cartilage, paralleling the subchondral bone plate.
+Chondrocalcinosis of the fibrocartilage (e.g., menisci and labral) follows the course of the
+fibrocartilage, with a thick and irregular or shaggy border. Calcium pyrophosphate may also
+line ligaments and synovium, where it appears as an indistinct, cloud-like mineralization.
+In the wrist, chondrocalcinosis tends to affect the triangular fibrocartilage complex
+(TFCC). Advanced disease may lead to scapholunate advanced collapse (SLAC) wrist due to
+destruction of the scapholunate ligament due to CPP-induced inflammation. SLAC wrist is
+proximal migration of the capitate between the dissociated scaphoid and lunate, and may
+also be seen in RA or trauma.
+MSK: 923

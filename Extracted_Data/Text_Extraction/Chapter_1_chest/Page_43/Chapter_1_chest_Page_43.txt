@@ -1,0 +1,38 @@
+Pleural effusion
+Pleural effusions are relatively common in lung cancer, which may be due to ymphatic
+obstruction or pleural metastases.
+A malignant effusion is the presence of malignant cells within the effusion. A malignant
+effusion is an M1a lesion, which precludes curative resection. Not all effusions associated
+with lung cancer are malignant effusions, SO cytologic evaluation is necessary.
+STAGING OF LUNG CANCER
+Overview of lung cancer staging
+The eighth edition of the TNM system, published in 2018, is based on data collected on over
+77,000 patients with lung cancer from 1999 to 2010.
+The eighth edition re-categorizes tumor size by upstaging T-classifiers to reflect that survival
+is inversely proportional to every centimeter increase in size until 7 cm; at this point, the
+same prognosis as T4 disease is reached.
+Extrathoracic metastases that were classified as M1b in the seventh edition are further
+subcategorized into M1b Oligometastatic) and M1c (multiple metastases) in the eighth
+edition, to better define oligometastasis, which has a better prognosis and may benefit from
+more aggressive local therapy.
+Treatment based on staging
+For early stages up to IIB and sometimes IIIA, surgery is usually performed. Neoadjuvant or
+adjuvant chemotherapy and radiotherapy can be used.
+Stage IIIB (N3 - contralateral or supraclavicular nodes; or T4/N2) is unresectable.
+Stage IV disease is generally not treated surgically unless there is a solitary adrenal or brain
+metastasis.
+T (tumor)
+T1: Tumor <3 cm surrounded by lung or visceral pleura.
+Tla: Tumor: <1 cm; T1b: >1 and <2 cm; T1c: >2 and <3 cm
+T2: Tumor >3 cm and <5 cm, or local invasion of the visceral pleura, or endobronchial
+lesions.
+T2a: >3 to <4 cm; T2b: >4 and <5 cm
+T3: Tumor >5 to <7 cm, or local invasion of chest wall, pericardium, phrenic nerve, or
+metastatic nodules in the same lobe
+T4: >7 cm, or invasion of mediastinum, diaphragm, heart, great vessels, recurrent laryngeal
+nerve, carina, trachea, esophagus, spine or separate tumor nodule in a different lobe in the
+psilateral lung
+N (nodes)
+The color coding of the lymph nodes on the diagram on the following page represents the
+nodal staging of lung cancer for an example left-sided mass:
+Chest: 43

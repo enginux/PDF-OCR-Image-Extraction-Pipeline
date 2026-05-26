@@ -1,0 +1,56 @@
+SAMPLE NUCLEAR PERFUSION CASES
+Normal
+SA
+HLA
+VLA
+Normal exercise stress sestamibi perfusion study: 5.1 mCi
+Tc-99m sestamibi was administered and rest SPECT images
+were obtained. Subsequently 16 mCi Tc-99m sestamibi
+Stress
+was administered at peak exercise using a modified Bruce
+treadmill protocol and the stress SPECT images were
+obtained.
+The rest and stress images are identical and normal.
+Rest
+SA = short axis
+HLA = horizontal long axis
+VLA = vertical long axis
+Fixed defect
+SA
+HLA
+VLA
+Fixed defect seen on regadenoson sestamibi perfusion
+study. 7.67 mCi Tc-99m sestamibi was administered and
+rest SPECT images were obtained.: Subsequently 0.4 mg
+regadenoson was administered intravenously followed by
+Stress
+32 mCi Tc-99m sestamibi and stress SPECT images were
+obtained. The: stress images are displayed above the rest
+images.
+There is a moderate-sized fixed defect involving the mid
+and basal inferior wall (arrows), in the right coronary
+Rest
+artery distribution. This represents either diaphragmatic
+attenuation, scar or hibernating myocardium.
+Normal wall motion and wall thickening indicated this is
+attenuation artifact. If contractility is abnormal, it could
+represent hibernating myocardium or scar.
+Reversible defect
+SA
+HLA
+VLA
+Large reversible defect seen on regadenoson sestamibi
+perfusion study: 11 mCi Tc-99m sestamibi was
+administered and rest SPECT images were obtained.
+Stress
+Subsequently 0.4 mg regadenoson was administered
+intravenously followed by 29 mCi Tc-99m sestamibi and
+stress SPECT images were obtained." The: stress images are
+displayed above the rest images.
+There is a large-sized perfusion defect of severe intensity
+Rest
+involving the apical, mid, and basal segments of the
+anterior (LAD territory, yellow arrows) and lateral (left
+circumflex territory, red arrows) walls that was partially
+reversible.
+Cardiac: 495

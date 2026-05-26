@@ -1,0 +1,28 @@
+Routine screening mammographic views
+cranio-caudal (CC)
+medial-ateral-oblique (MLO)
+compression plane is transaxial
+compression plane is between
+45 and 60 degrees depending on
+patient anatomy
+lateral
+superior-lateral
+R
+L
+R
+L
+pectoralis
+medial
+inferior-medial
+The two standard mammographic views are cranio-caudal (CC) and medial-atera-oblique
+(MLO).
+The cranio-caudal (CC) image plane is transaxial.
+The medial-atera-oblique (MLO) image plane is approximately 45-60 degrees from the
+axial plane, paralleling the course of the pectoralis muscle heading into the axilla.
+The MLO view is ideal for screening, as it captures most of the breast tissue in a single view.
+Note that the superior-medial breast tissue may be excluded on the MLO view.
+At the technologist's discretion, additional views may be performed to assure complete
+imaging of all fibroglandular tissue:
+Cleavage view (CV) images the medial breast tissue of both breasts.
+The exaggerated CC (XCC) view pulls either lateral or medial tissue into the imaging detector.
+Breast: 376

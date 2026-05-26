@@ -1,0 +1,48 @@
+MRI-guided biopsy (continued)
+MRI-guided biopsy can be performed for lesions seen only on MRI. Given that MRI-guided
+biopsy is expensive and can be more uncomfortable for the patient, it is common to perform
+a second-look ultrasound targeted towards the MRI abnormality SO that ultrasound-guided
+biopsy might be an option. A corresponding ultrasound finding is identified in 56-57% of
+cases, with masses and larger lesions being more likely to have a correlate than non-mass
+enhancement and smaller lesions.
+MRI-guided biopsy almost always requires intravenous gadolinium. Time is of the essence
+during the procedure because the lesion must be targeted before contrast washes out or the
+lesion becomes obscured by delayed parenchymal enhancement.
+The grid-coordinate method allows accurate biopsy of an abnormality seen only on MRI.
+This method is most analogous to a grid-based CT-guided biopsy elsewhere in the body.
+With the patient lying prone, a grid is applied to either the medial or lateral breast. A lateral
+approach is preferred whenever possible as it allows greater access to posterior tissues.
+After initial images are obtained, the targeted lesion is localized on the grid. Local anesthesia
+is administered without imaging guidance. During the biopsy, the core needle device is
+inserted exactly perpendicular to the breast to a pre-measured depth, similar to stereotactic
+biopsy. Multiple 9- to 11-gauge vacuum-assisted samples are obtained. Finally, a post-biopsy
+marker is deployed.
+PRE-OPERATIVE LESION LOCALIZATION
+Radioactive seed localization
+Prior to excisional biopsy or lumpectomy, pre-operative localization of a breast lesion can be
+performed using an iodine-125 radioactive seed. Under either mammographic or ultrasound
+guidance, the seed is placed within or next to the targeted lesion. Its position is confirmed
+by orthogonal mammographic images. In the operating room, the surgeon uses a gamma
+probe to detect the radioactivity prior to excision.
+Radioactive seeds are increasingly utilized due to certain advantages over wire localization.
+Unlike wire localization which is restricted to the day of surgery, radioactive seed can be placed up to 5
+days before surgery.
+There is more flexibility in approach for placement by the radiologist and choice for incision location by
+the surgeon, allowing potentially better cosmesis.
+Lack of external wires outside the skin surface leads to higher patient satisfaction, and less risk for wire
+migration or dislodgement.
+The main drawback of radioactive seeds is implementing the many safety requirements
+for their use. Additionally, if a seed is naccurately positioned, it cannot be removed prior
+to surgery; a second seed must be placed to localize the targeted lesion, with both seeds
+removed during surgery. Radioseeds cannot currently be placed under MRI guidance as the
+pre-loaded radioseed needles and gamma probes used to check for deployment are not MRI
+compatible.
+Wire localization
+Another option for pre-operative marking of a breast lesion is wire localization. The wire can
+be placed under mammographic, sonographic or MRI guidance (if an MRI compatible system
+is used).
+The shortest approach to the lesion should be used and an appropriate wire length should
+be chosen (typically 5, 7, or 9 cm).
+After the lumpectomy or excisional biopsy, specimen radiographs are obtained to confirm
+that the targeted lesion and the intact hook wire are contained within the specimen.
+Breast: 442

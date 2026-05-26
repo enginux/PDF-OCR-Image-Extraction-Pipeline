@@ -1,0 +1,30 @@
+Biliary leak
+*!!r!r!
+Bile leak: Sequential images (top row) and two enlarged still images (bottom two images) from a HIDA
+scan with 5.4 mCi Tc-99m disofenin administered to a patient with right upper quadrant pain status post
+cholecystectomy. shows tracer accumulating in the gallbladder fossa (yellow arrow) and pooling in the right
+paracolic gutter (blue arrow). The gallbladder is surgically absent. The leak was thought to arise from the cystic
+duct stump.
+A HIDA scan is an accurate method to assess for the presence of a biliary leak. Imaging can
+be performed in the right lateral decubitus position to promote dependent pooling of bile.
+PULMONARY
+RADIOTRACERS
+Tc-99m MAA (perfusion)
+Technetium-99m macro-aggregated albumin (MAA) is a particulate radiopharmaceutical
+that lodges in the pulmonary capillary bed and can therefore be used to evaluate pulmonary
+perfusion. Most particles are between 10-30 um in size.
+Typically 3-5 mCi Tc-99m MAA are administered intravenously, comprising between 200,000
+and 600,000 particles. Particles begin to break down in approximately 30 minutes. In
+children, pregnant patients, patients with mild pulmonary hypertension, and patients with a
+known right-to-left shunt, the dose can be halved to approximately 100,000 particles.
+A relative contraindication to MAA is severe pulmonary hypertension, as obstruction of even
+a few pulmonary capillaries can cause clinical worsening.
+A right-to-left shunt causes immediate renal and brain uptake after intravenous injection. A
+Tc-99m MAA study may be able to quantify the shunt fraction in these patients. Note that
+renal uptake can also be seen if free pertechnetate is present, but evaluation of the head
+and neck can differentiate free pertechnetate from a right-to-left shunt. Free pertechnetate
+is taken up by the thyroid, but not the brain. A right-to-left shunt, in contrast, demonstrates
+immediate brain uptake and no significant uptake in the neck.
+Clumping of MAA can be seen when MAA is inadvertently drawn back into injection syringe,
+causing coagulation with the patient's blood.
+Nucs: 468

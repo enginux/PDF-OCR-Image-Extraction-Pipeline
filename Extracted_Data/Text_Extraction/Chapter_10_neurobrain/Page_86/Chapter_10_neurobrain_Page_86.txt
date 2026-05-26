@@ -1,0 +1,33 @@
+Microangiopathy
+Microangiopathy describes age-related chronic axonal loss, gliosis, and ischemic changes
+seen in up to 80% of elderly individuals. Microangiopathy never involves the corpus
+callosum: If involvement of the corpus callosum is present, an alternative diagnosis should
+be considered, such as MS or neoplasm.
+Binswanger disease represents the combination of dementia and severe microangiopathy.
+INFECTIOUS (VIRAL) WHITE MATTER DISEASE
+Progressive multifocal eukoentephalopathy (PML)
+Axial FLAIR images at three different levels show asymmetric multifocal FLAIR hyperintense white matter
+lesions involving the right frontal lobe subcortical U-fibers (left image, arrows), left temporal lobe (middle
+image), left cerebellum and brainstem (right image). The lesions demonstrate restricted diffusion and lack of
+enhancement (not shown). This patient has a history of rheumatoid. arthritis and immunosuppression from
+rituximab prescribed for pemphigoid. JC virus was detected in CSF sample by PCR.
+Progressive multifocal eukoencephalopathy (PML) is a demyelinating disease of
+mmunocompromised patients caused by reactivation of JC virus. There is progressive
+demyelination with lack of inflammatory response.
+PML occurs most commonly in AIDS patients (PML is an AIDS defining illness), but can also
+be seen in patients with malignancy, status post-organ transplant, or with autoimmune
+disorders. Approximately 1 in 1,000 patients with MS treated with natalizumab (Tysabri)
+may have superimposed PML and it may be difficult to distinguish between MS and PML.
+Diagnosis is made by PCR for JC virus DNA in CSF.
+MR imaging of PML shows asymmetric multifocal white matter lesions that may become
+confluent. There is rarely mass effect or enhancement. The arcuate (subcortical U) fibers
+are typically involved. Arcuate fibers are myelinated tracts at the gray-white junction that
+connect cortex to cortex.
+In an AIDS patient, the primary differential for white matter lesions is PML and HIV
+encephalitis. In contrast to PML, HIV encephalitis is usually bilateral (and symmetric), spares
+the subcortical white matter, and is associated with cerebral atrophy:
+Diffuse bilateral involvement, sparing of subcortical white matter, and cerebral atrophy - HIV encephalitis.
+Asymmetric signal, involvement of subcortical white matter, hypointensity on T1-weighted images,
+peripheral DWI hyperintensity, and lack of atrophy during acute phase - PML. However, progressive
+cerebral atrophy can be seen in late stage PML.
+Neuro Brain: 735

@@ -1,0 +1,44 @@
+Posterior features (continued)
+Acoustic enhancement (also called posterior through-transmision) refers to a column of
+increased echogenicity posterior (deep) to the mass. Posterior enhancement is one of the
+characteristics of a simple cyst, although on its own posterior enhancement is not specific.
+Shadowing is attenuation of the sound beam as it passes through the lesion. Shadowing is
+associated with fibrosis, such as from a neoplastic desmoplastic reaction or surgical scar.
+If a lesion has no posterior acoustic features, then the echogenicity of the area immediately
+deep to the mass is the same as adjacent tissue.
+Al lesion can also have a combined pattern of posterior acoustic features, such as a
+fibroadenoma containing a large, coarse, shadowing calcification.
+ULTRASOUND DIFFERENTIATION OF BENIGN AND MALIGNANT SOLID MASSES
+Certain ultrasound features are associated with benign or malignant lesions. In some
+circumstances, a solid mass that demonstrates only benign ultrasound findings may be
+classified as BI-RADS 3 and followed.
+Ultrasound features of a benign mass
+Lack of any malignant findings: If even a single malignant feature is present then a lesion is
+indeterminate or suspicious and should be biopsied.
+Marked hyperechogenicity (relative to fat).
+Circumscribed margins.
+Parallel orientation to the skin wider-than-tall, width:height >1.4).
+Oval shape.
+Few gentle lobulations.
+Thin echogenic pseudocapsule.
+Ultrasound features of a malignant mass
+Spiculated margins, which is the most specific sign of malignancy.
+Non-parallel taller-than-wide) orientation, the second most specific sign.
+Angular or microlobulated margins.
+Posterior shadowing.
+Markedly hypoechoic echotexture.
+Indeterminate ultrasound features
+The following features are not helpful in differentiating between benign or malignant
+masses: Lesion size, iso- or mild hypoechogenicity, posterior acoustic enhancement, and
+heterogeneous or homogeneous texture.
+ULTRASOUND USE OF BI-RADS 3
+It may be appropriate to place specific well-defined entities into the BI-RADS 3 (probably
+benign) category, with literature supporting less than 2% risk of cancer.
+Isolated complicated cyst containing low-level internal echoes, without solid component
+Clustered microcysts (discussed later in the chapter).
+Oval, hypoechoic, circumscribed, parallel mass, most likely a fibroadenoma.
+Hyperechoic mass with central hypoechogenicity, most likely fat necrosis. Note that if an oil
+cyst is seen at mammograpny this finding can be classified as benign.
+Additional BI-RADS 3 cases for which robust data does not exist include isolated shadowing
+without a mass, and architectural distortion thought to be due to a surgical scar.
+Breast: 401

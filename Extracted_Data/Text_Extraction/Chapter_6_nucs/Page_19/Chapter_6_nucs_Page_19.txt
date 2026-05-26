@@ -1,0 +1,46 @@
+GASTROINTESTINAL
+LIVER-SPLEEN IMAGING
+Radiotracer: Tc-99m sulfur colloid
+Sulfur colloid is taken up by reticuloendothelial cells, which are found in the liver, spleen,
+and bone marrow. Sulfur colloid is also taken up by Kupffer cells in the liver. Hepatic Kupffer
+cells make up only approximately 10% of the liver mass.
+80-90% of sulfur colloid particles are taken up by the liver. Most of the remainder is taken
+up by the spleen, and a small amount taken up in the bone marrow. The bone marrow is not
+normally seen at typical windowing levels.
+Although Tc-99m has a physical half-life of 6 hours, sulfur colloid is rapidly cleared with a
+biologic half-life of 2-3 minutes.
+76
+76
+Normal liver-spleen scan following
+administration of 4.2 mCi Tc-99m
+sulfur colloid shows homogeneous
+uptake in the liver and spleen.
+Note splenic uptake is slightly
+lower in intensity than the liver.
+Bone marrow uptake is faint.
+0
+0
+ANTERIORF Pic1.9mm
+POSTERIOR Pixc1.9mm
+Focal decreased hepatic uptake on sulfur colloid scan
+The most common cause of a photopenic defect (complete absence of radiotracer) is a
+hepatic cyst. It may be difficult to distinguish focal decreased uptake from a photopenic
+defect if the lesion is small.
+Most hepatic masses cause focal decreased radiocolloid uptake, including hepatocellular
+carcinoma (HCC), adenoma, and abscess. Focal decreased uptake should raise concern for
+HCC in a patient with any risk factors for HCC such as cirrhosis or chronic hepatitis.
+Focal increased hepatic uptake on sulfur colloid scan
+Focal nodular nyperplasia, discussed below, may nyperconcentrate radiocolloid.
+Ar regenerating nodule in a cirrhotic liver can cause focal increased radiocolloid uptake.
+Budd-Chiari syndrome, or hepatic vein thrombosis, can lead to increased uptake in the
+caudate lobe in the later stage of disease.
+Colloid shift
+Colloid shift is increased sulfur colloid accumulation within the spleen and bone marrow. It
+suggests liver dysfunction, most commonly due to cirrhosis.
+Diffuse pulmonary uptake
+Diffuse pulmonary uptake on a sulfur colloid scan is nonspecific, and can be seen in:
+Cirrhosis.
+COPD with superimposed infection.
+Langerhans cell histiocytosis.
+High serum aluminum (either due to antacids or excess aluminum in the colloid preparation).
+Nucs: 462

@@ -1,0 +1,39 @@
+INTRODUCTION TO BI-RADS
+Overview
+The breast imaging and reporting data system (BI-RADS) is a system for standardizing
+mammography, ultrasound, and MRI reports that incorporates a strict lexicon, structured
+reporting, and clearly defined assessment categories. This text adheres to the terminology
+of the fifth edition of the BI-RADS atlas, which was released in 2013.
+All mammographic, ultrasound, and breast MRI findings and reports should closely adhere
+to the BI-RADS lexicon and assessment categories.
+Structure of the mammographic report
+1) History and indication for examination with patient risk factors stated.
+. 2) List of comparison studies.
+3) Description of the overall breast composition, using the following categories:
+The breasts are almost entirely fatty.
+There are scattered areas of fibroglandular density.
+The breasts are heterogeneously dense, which may obscure small masses.
+The breasts are extremely dense, which lowers the sensitivity of mammography.
+4) A clear description of any significant findings, including location.
+5) Overall impression, with BI-RADS assessment category and course of action when
+appropriate.
+Almost always, the course of action will be concordant with the BI-RADs assessment category. However,
+the fifth edition of BI-RADS allows the course of action to be separated from the assessment category in
+certain clinical situations. For example, the aspiration of a simple cyst designated as BI-RADS 2 to relieve
+patient pain. Additionally, a clinically suspected breast abscess or hematoma may be given a designation
+of BI-RADS 4, with the biopsy deferred for one month pending a repeat diagnostic evaluation.
+BI-RADS ASSESSMENT CATEGORIES
+Category 0: Need additional imaging
+Additional imaging evaluation (such as spot compression, magnification, special
+mammographic views, or ultrasound) and/or prior mammograms are necessary before a
+final assessment can be assigned.
+Category 0 is only appropriate for screening. All diagnostic mammography must conclude
+with a final assessment from 1-6.
+Category 1: Negative
+Breasts are normal.
+Category 2: Benign
+A finding that is described but is definitely benign is BI-RADS 2.
+No additional workup or follow-up is needed.
+Examples: Vascular or other typically benign calcifications, simple breast cysts,
+intramammary lymph nodes.
+Breast: 373

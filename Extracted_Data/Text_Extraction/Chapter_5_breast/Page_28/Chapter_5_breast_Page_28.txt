@@ -1,0 +1,41 @@
+Triangulation (continued)
+A true lateral view is helpful to triangulate a lesion seen only on the MLO view.
+If the lesion rises on the lateral compared to the MLO, the lesion is located in the medial
+breast (medial: muffins rise). If the lesion sinks, it is lateral (lateral: lead sinks).
+Working up a mass or focal asymmetry seen on screening mammography
+A screening mammogram can only receive the BI-RADS 1, 2, or 0 assessments. If screening
+mammogram findings are concerning, the patient is assessed as BI-RADS 0 and is recalled
+for additional evaluation.
+When the patient returns for the diagnostic workup, spot compression views of the area
+in question should be obtained. Altered projections or rolled views can also be used
+if necessary. If additional diagnostic mammographic views show only normal pliable
+fibroglandular tissue, then no further workup is needed (BI-RADS 1).
+If an abnormality persists on spot compression, then it needs to be localized on two
+orthogonal views. When correlating a lesion on two views, it is important to remember that
+the lesion should be located at approximately the same distance (within 1 cm) from the
+nipple on each view. This rule may prevent mistaken localization of different lesions on each
+projection.
+If the lesion is seen only on the MLO, a lateral view should be obtained to triangulate the
+lesion. A lesion seen on the MLO view but not the CC view may be located far laterally. An
+exaggerated CC lateral (XCCL) view can better image the far lateral tissue.
+Al lesion seen only on the CC view may be in the upper-inner quadrant and not included in
+the MLO view. Rolled CC views are typically performed to localize lesions seen only in the CC
+view.
+Once a lesion is localized to a quadrant, targeted ultrasound should be performed.
+If a suspicious single-view finding still cannot be localized despite a thorough
+mammographic and ultrasound evaluation, MRI can be helpful as a problem-solving tool.
+Mammographic stereotactic biopsy is also an option to biopsy a one-view finding (although
+stereotactic biopsy is used most commonly to biopsy calcifications).
+In general, biopsy should be performed for a mass with any suspicious feature either
+on ultrasound or mammography. For instance, a circumscribed mammographic mass
+that has an indistinct or microlobulated margin on ultrasound is suspicious despite its
+mammographic appearance.
+Most new findings are suspicious, with a notable exception being a circumscribed
+mammographic mass shown definitively to be a simple cyst on ultrasound.
+Two years of stability is generally considered adequate to call a benign-appearing mass
+benign, although some institutions advocate three years of surveillance.
+Palpable mass
+The mammographic workup for a palpable abnormality is similar to that of an asymptomatic
+lesion found on mammography, with one key difference: In general, all palpable findings are
+evaluated by ultrasound, even if the mammogram is negative.
+Breast: 395

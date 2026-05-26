@@ -1,0 +1,36 @@
+ENDOMETRIAL CANCER
+Endometrial carcinoma overview
+Endometrial cancer: Grayscale ultrasound of the uterus (left image) shows a mildly echogenic, irregular
+endometrial mass (arrows). Fluid in the endometrial canal has likely accumulated due to cervical stenosis.
+Color Doppler shows vascularity within the mass.
+Case courtesy. Julie Ritner, MD, Brigham and Women's Hospital.
+Endometrial carcinoma is the most common female gynecologic malignancy and is thought
+to be caused by prolonged estrogen exposure. Specific risk factors include nulliparity,
+hormone replacement therapy (HRT), and tamoxifen.
+Over 95% of endometrial carcinoma presents with postmenopausal bleeding. The average
+endometrial thickness of patients with endometrial carcinoma is 21 mm.
+In patients with postmenopausal bleeding, endometrial thickness 25 mm requires further
+workup (usually biopsy and/or hysteroscopy). If endometrial thickness <5 mm, this most
+likely represents endometrial atrophy.
+For patients on HRT, postmenopausal bleeding with endometrial thickness 28 mm requires further
+workup. This cutoff accounts for effects of HRT on endometrial proliferation. If HRT is given cyclically,
+imaging should be repeated when patient is off HRT.
+Without bleeding, endometrium thickness 28-11 mm (based on source) requires workup.
+Although uncommonly seen in the absence of bleeding, the finding most suggestive of
+endometrial carcinoma is the presence of ill-defined margins separating the endometrium
+and the myometrium.
+Staging of endometrial carcinoma
+MRI can be used for staging once endometrial carcinoma is confirmed by histologic
+sampling.
+Staging of endometrial carcinoma is based on the International Federation of Gynecology
+and Obstetrics (FIGO) system, which characterizes extent of disease based on involvement
+of the cervix, vagina, uterine serosa, adnexa, adjacent bladder/bowel, inguinal lymph nodes,
+and/or distant metastases.
+The presence (and extent) of myometrial invasion is key for staging purposes. In a
+premenopausal patient, an intact junctional zone confirms no myometrial invasion. The
+junctional zone cannot be distinguished in post-menopausal patients.
+The depth of myometrial invasion highly correlates with the presence of lymph node
+metastasis.
+Postcontrast images demonstrate the tumor with the highest conspicuity, as endometrial
+cancer enhances less avidly than the surrounding myometrium.
+GU: 304

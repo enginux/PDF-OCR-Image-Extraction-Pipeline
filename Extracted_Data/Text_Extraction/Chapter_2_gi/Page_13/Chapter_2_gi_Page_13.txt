@@ -1,0 +1,30 @@
+Hepatocellular carcinoma (continued)
+LI-RADS is an imaging reporting and classification system for HCC on CT and MRI which
+is an indication of the relative risk of HCC ranging from LR-1 (favoring benignity) to LR-5
+(favoring malignancy). This is used only in people with risk factors for HCC (chronic hepatitis
+infections, cirrhosis, but not cirrhosis due to cardiac or vascular etiologies). The 2018 version
+describes major and ancillary criteria: the major imaging criteria lead to the assignment of
+the LI-RADS score, while the ancillary findings may be used as tie breakers.
+Major criteria for HCC:
+Arterial enhancement.
+Non-peripheral washout on portal venous and delayed phases.
+Enhancing apsule/pseudocapsule seen in portal venous or delayed phases.
+Threshold growth with diameter increase of >50% in <6 months.
+Ancillary findings favoring HCC include non-enhancing capsule, nodule-in-nodule architecture, mosaic
+architecture, fat in mass, blood products in mass.
+Treatment options for HCC include partial hepatectomy, orthotopic liver transplantation,
+radiation therapy, percutaneous ablation, and transcatheter embolization.
+Fibrolamellar HCC
+Fibrolamellar HCC: Axial CT (top left image) shows al heterogeneous lesion corresponding to heterogeneous: signal
+on T2-weighted MRI (top right). DWI (bottom left) and post-contrast (bottom right) images show hypercellular
+enhancing components within the mass (arrows).
+Fibrolamellar carcinoma is a rare subtype of HCC that occurs in young patients without
+cirrhosis. The tumor tends to be large when diagnosed but has a better prognosis than
+typical HCC. Unlike in conventional HCC, AFP is not elevated.
+On imaging, fibrolamellar HCC is a large, heterogeneous liver mass. A fibrotic central scar is
+classic, which is hypointense on T1- and T2-weighted MRI images (in contrast, focal nodular
+hyperplasia features a T2 hyperintense scar that enhances late). Capsular retraction may be
+seen in 10%.
+Unlike HCC, the fibrolamellar subtype does not have a capsule, although there may be a
+pseudocapsule of peripherally compressed normal hepatic tissue.
+GI: 107

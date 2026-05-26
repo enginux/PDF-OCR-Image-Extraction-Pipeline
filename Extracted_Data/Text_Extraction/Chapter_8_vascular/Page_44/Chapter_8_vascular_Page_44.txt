@@ -1,0 +1,39 @@
+Chronic arterial occlusive disease (continued)
+An ankle-brachial index (ABI) should be performed in every patient with suspected
+arterial occlusive disease. The ABI is the ratio of systolic blood pressure (SBP) in the ankles
+compared to the arms, and is calculated as: ankle SBP/brachial SBP.
+A decreased ABI suggests a hemodynamically significant stenosis between the great vessels and the ankles
+since the ankle blood pressure is less than the upper extremity blood pressure.
+An ABI <0.9 is abnormal. An ABI between 0.5 and 0.9 usually correlates with intermittent claudication.
+Rest pain is usually present with an ABI <0.4.
+Pulse-volume recordings characterize the Doppler waveform at multiple levels. The
+anatomic location of a lesion can be deduced by the change from a normal triphasic
+waveform to a biphasic (moderate stenosis) or flat waveform (severe stenosis/0cclusion),
+For anatomical mapping and to confirm ABI and ultrasound findings, CTA or MRA can be
+done for further characterization.
+CTA can detect luminal narrowing or irregularities, and occlusion due to calcified and non-
+calcified plaques. However, blooming artifact from the calcified plaque can limit assessment
+of the arteries below the knee.
+MRA plays an important role in the diagnosis of PAD. Particularly, time-resolved MRA, which
+obtains a series of images while the contrast is passing through the calves, can demonstrate
+occlusion or stenosis and complements the conventional MRA images.
+Recently, noncontrast MRA sequence-quiescent interval single shot (QISS) technique has
+been used clinically with high diagnostic accuracy compared to DSA, while being less prone
+to artifact than CTA.
+Acute thromboembolic disease
+Acute limb ischemia is an emergency, with a very different clinical and imaging presentation
+compared to chronic atherosclerotic disease. In acute thromboembolic disease, symptom
+onset is acute, with pain, pallor, poikilothermia (coldness), pulselessness, and paresthesias.
+Blue toe syndrome is acute thromboembolism in the toes.
+The most common embolic source is a left atrial thrombus, with atrial fibrillation a
+significant risk factor. Echocardiography is indicated in the workup.
+CTA or MRA shows an acute cutoff of the affected vessel with a filling defect at the level of
+the vessel bifurcation. On MRA, filling defect will appear hypointense with mild perivascular
+Typerenhancement due to inflammation. Significant atherosclerotic disease may be absent.
+Treatment options include surgical embolectomy, surgical bypass graft, and endovascular
+thrombolysis.
+Acute thromboembolic disease: A COVID-19 patient presented
+with acute limb ischemia. CTA revealed acute thrombus in the
+left lower extremity and abrupt non-opacification of the left
+common iliac and external iliac arteries (arrows).
+Vascular: 582

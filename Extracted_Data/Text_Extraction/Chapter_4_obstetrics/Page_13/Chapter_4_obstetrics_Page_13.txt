@@ -1,0 +1,36 @@
+Conjoined twins
+Conjoined twins are caused by late (>13 days) incomplete division of embryo.
+COMPLICATIONS OF MONOCHORIONIC TWINS
+Twin embolization syndrome
+When one monochorionic twin dies in utero, the surviving twin is at risk for twin
+embolization syndrome, which can cause CNS, gastrointestinal, or renal infarcts.
+In general, prognosis for a surviving monochorionic twin is very poor when one twin dies in
+utero. In contrast, prognosis is generally good for a surviving dichorionic twin when one twin
+dies in utero.
+Twin-twin transfusion syndrome (TTTS)
+Twin-twin transfusion syndrome (TTTS) is a complication of monochorionic twins (either
+mono- or diamniotic) and is the result of abnormal vascular communications in the single
+shared placenta, with disproportionate blood flow between the fetuses.
+The donor twin transfers excess blood flow to the recipient twin. The donor twin is small
+and has oligonydramnios. The recipient twin is larger and has polyhydramnios.
+There are three criteria to diagnose TTTS by ultrasound:
+1) Single shared placenta (monochorionic).
+2) Disproportionate fetal sizes, with at least 25% discrepancy.
+3) Disproportionate amniotic fluid, with the small twin having oligohydramnios and the large twin having
+polyhydramnios.
+There is a spectrum of severities of TTTS. In the earliest stages, the donor twin's bladder is
+still visible and amniotic fluid discrepancy is mild. Later stages are marked by absent bladder,
+marked fluid discrepancy, fetal hydrops or death.
+twin 1
+twin 2
+Ultrasound of monochonon/dimmotc twins: Grayscale image with Doppler overlay (left) of twin #1 at level
+of the pelvis shows normal appearance of two umbilical arteries, but no visualization of the bladder. Twin #1
+also has moderate oligohydramnios with the amnionic membrane "stuck" to the body (yellow arrow), and size
+discrepancy by gestational age. Twin #2 (right image) has a large bladder (red arrow) and mild polyhydramnios.
+These findings are suggestive fori twin-twin transfusion syndrome.
+A: stuck twin describes severe oligohydramnios in the donor (small) twin. A stuck twin has SO
+little amniotic fluid that the amnion is wrapped around the twin like shrink wrap.
+Treatment options of TTTS include laser ablation of placental arteriovenous connections,
+therapeutic amniocentesis from the recipient (large, poly) twin, or selective coagulation of
+the umbilical cord of the less viable twin.
+Obstetrics: 336

@@ -1,0 +1,38 @@
+Compare each side
+Each projection should be globally compared side-to-side to evaluate for symmetry.
+Evaluate and magnify each image
+Each image should be carefully evaluated for signs of malignancy. The mammographic signs
+of malignancy are mass, calcification, architectural distortion, and asymmetry. Calcifications
+are best viewed at 1:1 or higher magnification, while architectural distortion is best seen
+when the whole breast is visualized.
+When viewing a digital mammogram, every portion of the image should be carefully
+evaluated at 1:1 zoom.
+Compare to prior studies
+Even if a study appears unremarkable at first glance, comparison to prior exams can often
+reveal a subtle progressive change. For instance, an apparent normal island of parenchymal
+tissue may be slowly growing and represent malignancy.
+In general, it is best to carefully compare the previous exam from at least two years prior, to
+appreciate slowly growing changes.
+IBROGLANDULAR DENSITY
+Almost entirely fatty
+Scattered areas of
+Heterogeneously dense, which Extremely dense, which lowers
+fibroglandular density
+may obscure small masses
+the sensitivity of mammography
+In every mammographic report, the mammographic pattern of fibroglandular density should
+be characterized into one of the above descriptors.
+Women with dense fibroglandular tissue have an increased risk of developing breast cancer,
+and detection of early cancer can be obscured by the hbroglandular tissue. A woman with
+extremely dense breasts has a 5x relative risk of breast cancer compared to a woman with
+almost entirely fatty breasts.
+Bilateral interval increase in fibroglandular density is usually benign and may be caused
+either by hormonal effects or breast edema. A unilateral increase in fibroglandular density is
+worrisome for lymphatic obstruction, which may be malignant.
+Edema due to systemic causes, such as congestive heart failure, typically causes bilateral
+trabecular blurring and skin thickening.
+Hormone therapy may cause an increase in fibroglandular density, without skin thickening.
+Proliferation of cysts and fibrocystic change can be seen, even in postmenopausal women.
+Pregnancy, lactation, and weight loss may all cause an interval increase in fibroglandular
+density.
+Breast: 378

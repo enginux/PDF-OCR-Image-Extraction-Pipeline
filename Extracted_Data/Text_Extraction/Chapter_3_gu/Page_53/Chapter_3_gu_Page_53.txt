@@ -1,0 +1,45 @@
+Prostatitis (continued)
+Prostatitis can be diffuse or focal and typically occurs within the peripheral zone. On
+MRI, regions of T2 hypointense signal and mild-moderate diffusion restriction are due to
+inflammatory cellular infiltrates. Both prostatitis and prostate cancer show increased and
+early enhancement. Compared to prostate cancer, chronic prostatitis shows less diffusion
+restriction.
+Another type of prostatitis, granulomatous prostatitis, is usually idiopathic and self-limited.
+PROSTATE CANCER
+Overview of prostate cancer imaging
+Most prostate cancers (90%) occur in the peripheral zone.
+Histologically, prostate cancers are classified by the Gleason scale (1-5) where the first
+number is the predominant pattern and the second number is the secondary pattern.
+The most important goal of MRI is to distinguish between surgical and nonsurgical disease.
+Cancer that is contained within the gland (tumor stage T2) is generally amenable to radical
+prostatectomy, while cancer that has spread outside of the gland is typically treated non-
+surgically (e.g., anti-androgen and radiation therapy).
+MRI may not detect all prostate cancers: low Gleason (<7) grade prostate cancers are
+typically not detectable; some cancers are not T2 hypointense; central zone cancers are
+difficult to detect on T2-weighted images; and cancer conspicuity is decreased if the
+peripheral zone is not T2 hyperintense due to underlying disease, such as chronic prostatitis.
+Pitfalls of imaging include prostatitis and involutional changes from androgen-deprivation
+therapy which may appear as abnormal T2 hypointense lesions.
+Post-biopsy normal prostatic tissue is T1 hyperintense due to high concentration of citrate
+that causes more bleeding (right image, yellow arrows). Neoplastic tissue does not produce
+as much citrate and will bleed less, resulting in the hemorrhage exclusion sign (red arrows).
+Post-biopsy T1-weighted post-contrast
+MR with fat suppression demonstrates
+T1 hyperintense bleeding within normal
+prostatic tissue peripherally (yellow
+arrows). Prostate cancer (red arrows) does
+not bleed, resulting in the hemorrhage
+exclusion. sign.
+Prostate cancer typically shows: (1) restricted diffusion with high signal on high B-value
+DWI and low signal on ADC, (2) low T2 signal, and (3) early enhancement relative to the
+surrounding peripheral zone.
+DWI assessment is usually qualitative, not quantitative, but active research is under way to determine
+thresholds for ADC value(s).
+MRI spectroscopy of prostate cancer may show elevated choline and depressed citrate
+peaks compared to normal prostate, but it is not routinely performed in most centers.
+Prostate Imaging Reporting and Data System (PI-RADS)
+Prostate Imaging Reporting and Data System (PI-RADS) was designed to provide a global
+standard for reporting and interpreting multiparametric prostate MRI. Using PI-RADS system
+improves communication of clinically significant cancer, increases confidence in benign
+disease and dormant malignancies, and reduces unnecessary biopsies and treatments.
+GU: 281

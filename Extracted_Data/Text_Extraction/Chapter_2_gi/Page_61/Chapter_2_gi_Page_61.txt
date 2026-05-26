@@ -1,0 +1,42 @@
+SOLID PANCREATIC EPITHELIAL NEOPLASMS
+Adenocarcinoma (ductal adenocarcinoma)
+PD
+Pancreatic adenocarcinoma of the head causing the double duct sign: Two coronal images from a contrast-
+enhanced CT show marked dilation of the common bile duct (CBD), moderate dilation of the pancreatic duct
+(PD), and the obstructing, ill-defined hypoattenuating mass in the pancreatic head (red arrows).
+Pancreatic ductal adenocarcinoma accounts for 80-90% of all pancreatic tumors. It is
+typically seen in patients over age 60, with a slight male predominance. Risk factors include
+smoking, alcohol use, chronic pancreatitis, and family history of pancreatic adenocarcinoma.
+A pancreatic mass protocol CT includes early arterial phase, late arterial phase (pancreatic
+phase), and portal venous phase images. The late arterial phase (pancreatic parenchymal
+phase) has the greatest conspicuity for detecting the hypoenhancing tumor against the
+background enhancing pancreas.
+The most common location for a tumor to arise is the pancreatic head where it often
+causes ductal obstruction. Pancreatic adenocarcinoma is usually hypoenhancing relative
+to pancreatic parenchyma and results in upstream (towards the tail) ductal dilatation and
+parenchymal atrophy. The double duct sign describes dilation of both the pancreatic duct
+and the CBD due to obstruction by the pancreatic head mass.
+Since pancreatic adenocarcinoma is almost always associated with a dilated pancreatic duct,
+an alternative diagnosis should be strongly considered if there is a pancreatic mass with no
+ductal dilation, such as:
+Autoimmune pancreatitis.
+Duodenal gastrointestinal stromal tumor (GIST).
+Groove pancreatitis.
+Peripancreatic lymph node.
+Cystic pancreatic tumor.
+Pancreatic metastasis (e.g., renal cell, thyroid, or melanoma).
+Neuroendocrine tumor.
+Lymphoma.
+Conversely, if a dilated pancreatic duct or double duct sign is present but no mass is visible,
+one should still be suspicious for pancreatic adenocarcinoma. Approximately 10% of lesions
+will be isoattenuating relative to pancreas and/or difficult to visualize on a portal venous
+phase CT and thus extremely difficult to detect.
+When evaluating whether a pancreatic neoplasm is resectable, it is important to evaluate
+for any vascular variants and to determine tumor involvement of the nearby vessels: SMA
+(including first jejunal branch), SMV, portal vein, celiac axis, common hepatic artery, and
+splenic artery.
+Abutment: <180° circumferential contact with vessel.
+Encasement: >180° circumferential contact and/or deformation of the vessel.
+Limited extension to the duodenum, distal stomach, or CBD does not preclude resection, as
+these structures are resected during a Whipple procedure.
+GI: 155

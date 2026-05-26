@@ -1,0 +1,37 @@
+IDH-mutant diffuse gliomas
+IDH-mutant diffuse gliomas carry gain-of-function mutations in IDH1 or IDH2, which encode
+isoforms of isocitrate dehydrogenase, the rate-limiting enzyme of the Krebs cycle.
+The mutations lead to overproduction of 2-hydroxygutarate (2HG), a metabolite that can be measured by
+MR spectroscopy.
+IDH-mutant diffuse gliomas are most commonly diagnosed as WHO grade 2 or 3
+tumors. These are divided into astrocytic and oligodendroglial subtypes based on 1p19q
+chromosomal co-deletion (allelic loss of the short arm of chromosome 1 and the long arm of
+chromosome 19).
+1p19q non-co-deleted IDH-mutant tumors are more common and include diffuse astrocytomas (WHO
+grade 2) and anaplastic astrocytomas (grade 3).
+1p19q co-deleted IDH-mutant tumors are less common and include oligodendrogliomas (WHO grade 2)
+and anaplastic oligodendrogliomas (grade 3).
+Histologically, lower-grade diffuse gliomas can have both astrocytic and oligodendroglial phenotypes and
+were previously termed oligoastrocytomas or mixed gliomas. These terms are no longer used when 1p19q
+co-deletion status is available.
+These tumors grow very slowly, often only noticeably changing when imaging over a long
+time. Over time, as mutations accumulate, these tumors can behave more aggressively
+and secondarily become grade 4, which may be histologically indistinguishable from IDH-
+wildtype glioblastomas but nevertheless carry a better prognosis.
+IDH-mutant diffuse gliomas occur mostly in young to middle-aged adults (20-55 years).
+1p19q non-co-deleted astrocytomas usually present younger, typically between 20 and 30 years.
+1p19q co-deleted olgodendrogliomas usually present between 30 and 40 years with seizures.
+On MRI, IDH-mutant diffuse gliomas are predominantly hypoenhancing and more
+homogeneous than their IDH-wildtype counterparts. Contrast enhancement is present in a
+minority and more likely in grade 3 than grade 2 tumors.
+Lower-grade astrocytomas typically appear as a circumscribed hyperintense mass on
+T2-weighted images. In 12-25% of nonenhancing lower-grade gliomas in adults, the T2-
+FLAIR mismatch sign is highly specific for 1p19q non-co-deleted IDH-mutant astrocytomas:
+hyperintense on T2-weighted images but relatively centrally hypointense on FLAIR due to
+microcystic changes.
+T2-FLAIR mismatch:. Axial FLAIR (left image) and T2-weighted (right image) MRI demonstrate a hyperintense
+intra-axial mass in the left posterior medial temporal lobe with lower FLAIR signal than T2 signal (yellow
+arrows), representing the T2-FLAIR mismatch sign, which is highly suggestive of 1p19q non-co-deleted
+astrocytoma. The mass has no post-contrast enhancement, restricted diffusion, or calcification (not shown).
+Note the trapped left temporal horn (red arrow).
+Neuro Brain: 710

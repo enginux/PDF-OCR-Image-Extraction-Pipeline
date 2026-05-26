@@ -1,0 +1,29 @@
+SCHEMIC HEART DISEASE
+IMAGING OF MYOÇARDIAL INFARCTION
+Plain film evaluation of myocardial infarction
+The majority of initial plain chest radiographs obtained in patients with acute myocardial
+infarction (MI) are normal; however, the most common abnormality seen is increased
+pulmonary venous pressure (or overt pulmonary edema).
+The presence of pulmonary edema after MI is a poor prognostic indicator.
+The plain chest radiograph can evaluate for some complications of acute MI such as
+pericardial effusion, left ventricular aneurysm, and papillary muscle rupture. It can also
+suggest an alternative cause for the patient's acute chest pain, such as pneumothorax or
+pneumonia.
+MR imaging of myocardial infarction
+Similar to stress echocardiography and nuclear scintigraphy (discussed earlier in this
+chapter), cardiac MRI can be used with pharmacologic stress to evaluate for myocardial
+ischemia. Cine MRI demonstrates wall motion abnormality or decreased wall thickening in
+affected coronary artery territory. Stress perfusion MRI demonstrates regional perfusion
+deficit on first-pass contrast-enhanced images; the subendocardial layer is always involved.
+Pharmacologic stress cardiac MRI shows RCA ischemia (left image is rest, right is stress): First-pass cine images
+show regadenoson-induced first pass myocardial perfusion defect involving the apical inferior and inferoseptal
+segments (red arrows) in keeping with moderate size ischemia in the right coronary artery territory.
+Myocardial viability can be assessed by delayed contrast-enhanced MRI. Both acute
+(necrotic) and chronic (fibrotic) myocardial infarctions show late gadolinium enhancement,
+while viable myocardium does not.
+Greater than 50% transmural LGE indicates low likelihood of recovery of function after
+revascularization therapy.
+Myocardial edema in region of acute infarct demonstrates increased T2 signal and is usually
+larger than the area of LGE (necrotic myocardium). The edematous region without LGE
+represents myocardium at risk for ischemia.
+Cardiac: 521

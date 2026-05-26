@@ -1,0 +1,29 @@
+American Association for the Surgery of Trauma organ injury scale for spleen
+The 2018 revision of the AAST spleen injury scale takes into consideration the extent of
+injury seen on CT imaging, at operation, or on pathologic specimen. The highest-grade
+assessment represents the final grade assigned.
+The revision incorporates vascular injury seen on CT including active bleeding,
+pseudoaneurysm, and AV fistula as defined above.
+The CT imaging criteria is similar to that used for liver trauma.
+Grade :
+Subcapsular hematoma <10% spleen surface.
+Tear of splenic capsule or superficial laceration <1 cm deep.
+Grade I:
+Subcapsular hematoma 10-50% spleen surface.
+Intraparenchymal hematoma <5 cm in size.
+Laceration 1-3 cm deep.
+Grade II:
+Subcapsular hematoma >50% spleen surface.
+Ruptured subcapsular/intraparenchymal hematoma.
+Laceration >3 cm deep.
+Grade IV:
+Any intraparenchymal vascular injury (i.e., pseudoaneurysm or AV fistula) or contained active bleeding.
+Laceration involving central splenic vessels resulting in >25% devascularization.
+Grade V:
+Extraparenchyma extension of active bleeding into the peritoneum.
+Shattered spleen.
+When multiple injuries are present, advance one grade up to a grade III.
+Left image: Coronal contrast-enhanced CT demonstrates a large subcapsular hematoma (arrows) compressing
+the spleen, without evidence of active extravasation, in keeping with grade III splenic injury.
+Right image: Axial contrast-enhanced CT shows a shattered spleen (grade V) with surrounding hematoma.
+GI: 171

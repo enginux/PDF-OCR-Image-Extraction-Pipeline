@@ -1,0 +1,42 @@
+Medulloblastoma (continued)
+Medulloblastoma is slightly hyperattenuating on CT due to its densely packed cells and
+is accordingly hypointense on T2-weighted images and has low ADC values. The tumor
+enhances, except for possibly group 4 tumors, and may appear heterogeneous due to
+internal hemorrhage and calcification.
+The low ADC values can be a useful finding to differentiate medulloblastoma from ependymoma and
+pilocytic astrocytoma, the two other most common childhood posterior fossa tumors.
+Leptomeningeal metastatic disease is present in up to 1/3 of patients and medulloblastoma
+is the most common cause of drop metastases to the spine in children. In this setting,
+sugar-coating (Zuckerguss) refers to the icing-like enhancement over the brain and
+spinal cord surface. Imaging of the entire brain and spine should be performed prior to
+surgery. Since medulloblastomas are hypercellular, DWI is particularly helpful in detecting
+leptomeningeal disease.
+When medulloblastoma occurs in a young adult (as opposed to a child), the tumor tends to
+arise eccentrically in the posterior fossa, from the cerebellar hemisphere.
+Atypical teratoid/rhabdoid tumor (AT/RT)
+Atypical teratoid/thabdoid tumor (AT/RT) is an uncommon WHO grade 4 embryonal tumor
+characterized molecularly by loss of SMARCB1/INI1 or SMARCA4/BRG1 expression.
+AT/RT appears similar to medulloblastoma but is less common and occurs in slightly younger
+patients. It should be considered as part of the differential for a large brain tumor in children
+younger than three years of age.
+The majority occur in the cerebellum. Unlike medulloblastoma, however, about a third of
+cases of AT/RT are supratentorial.
+For al large heterogeneous supratentorial mass in an infant/young child, the differential diagnosis includes
+AT/RT and, less commonly, what was previously known as primitive neuroectodermal tumor (PNET) and is
+now mostly classified as either (1) embryonal tumor with multilayered rosettes (ETMR), C19MC-altered; or
+(2) CNS embryonal tumor, not otherwise specified.
+A third of patients with AT/RT have germline mutations in SMARCB1 or SMARCA4, resulting
+in rhabdoid tumor predisposition syndrome, which is also associated with malignant
+rhabdoid tumor of the kidney.
+Dysplastic cerebellar gangliocytoma (hermitte-Duclos)
+Dysplastic gangliocytoma of the cerebellum, more often known as Lhermitte-Duclos disease,
+is a WHO grade 1 neuronal lesion that has been considered a hamartoma by some and
+neoplasm by others.
+Adult-onset Lhermitte-Duclos disease is often associated with Cowden syndrome
+(multiple hamartoma syndrome associated with benign mucocutaneous lesions like facial
+trichilemmomas as well as breast and thyroid cancer), a part of the PTEN hamartoma tumor
+syndrome.
+The characteristic imaging finding is a corduroy or tiger-striped appearance of thickened
+folia in the cerebellar hemisphere. The lesion is hyperintense on T2-weighted images and
+enhancement is rare.
+Neuro Brain: 719

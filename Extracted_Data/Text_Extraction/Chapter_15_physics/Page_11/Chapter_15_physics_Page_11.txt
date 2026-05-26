@@ -1,0 +1,47 @@
+Linear attenuation
+N= No *e-ut
+N, =i initial number of photons
+coefficient
+N - transmitted number of photons after
+fraction transmitted = eut
+thickness t
+(cm-1)
+If p is "small" (<0.1/cm), then
+This is only true for weakly attenuating material.
+is the proportion of photons that
+interacts with matter.
+Ifis "large" (>0.1/cm), then the
+Example: If- 0.5/cm, then eut = 61%
+formula above is used.
+transmitted.
+Mass attenuation
+Mass attenuation coefficient = (u/p), where p = density
+coefficient
+Because density is accounted for in the formula above, the mass attenuation
+coefficient is independent of density.
+Scatter and grids
+In radiography, the typical scatter:primary ratio is 5-10:1
+Scatter 1 contrast
+Grid ratio = height/width
+Typical grid ratios in radiography are between 8-12 (the height of the grid is 8-12 times
+the width between grid elements).
+IWI
+-
+About 70% of primary radiation passes through the grid.
+Bucky factor is the relative T dose due to grid = incident/transmitted radiation
+The Bucky factor should not be confused with the grid ratio!
+Typical Bucky factor is 5-10 (e.g., T mAs from 40 - 200).
+T kV will T scatter (Compton effects dominate at higher kV).
+Grids not used for extremity radiography (bone is T Z and not very thick).
+Beam quality and half
+A "high quality" beam has low-energy photons filtered out.
+value layer (HVI)
+The half-value layer (HVL) is a measurement of the beam quality and is the
+thickness of material that attenuates 50% of the incident energy.
+HVL is dependent on photon energy. HVL T with T photon energy.
+Aluminum (Al) is the standard material for measuring HVL.
+Typical HVL for mammography is 0.3 mm Al.
+Typical HVL for radiography is 3 mm Al.
+State regulations require beam quality: HVL >2.5 mm Al at 80 kVp.
+Typical HVL for CT is 8-9 mm Al.
+Physics: 1205

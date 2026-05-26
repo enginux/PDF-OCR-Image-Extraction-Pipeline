@@ -1,0 +1,52 @@
+Tc-99m HMPAO leukocytes (WBCs)
+The advantages of a WBC scan labeled with Tc-99m HMPAO compared to In-111 are related
+to the shorter half-life of Tc-99m, which allows a higher administered activity, better counts,
+a lower absorbed dose, and ability to perform earlier imaging. For these reasons, Tc-99m is
+often preferred in children in appropriate cases.
+However, a major disadvantage is physiologic uptake within the gastrointestinal and
+genitourinary tracts due to unbound Tc-99m HMPAO complexes, which limits bowel
+evaluation. Renal activity occurs early, while bowel activity is seen after 1-2 hours.
+Additionally, delayed imaging is less practical with Tc-99m due to its shorter half-life.
+Gallium-67
+Gallium-67 is cyclotron-produced and decays by electron
+capture, with a half-life of 78 hours. It emits multiple gamma
+rays at 93, 184, 296, and 388 keV (easier to remember as 90,
+190, 290, and 390 kev). Gallium binds to transferrin, which is
+found in infection, inflammation, and neoplasm.
+Normal distribution includes the nasopharynx, lacrimal and
+salivary glands, liver, colon, and bone marrow. Use is limited in
+the abdomen due to high bowel and liver uptake.
+Persistent gallium in the kidneys is never normal after 24 hours
+and signifies renal disease or obstruction.
+Diffuse pulmonary uptake is also not normal, with a wide
+differential of infectious and inflammatory conditions:
+Pneumocystis pneumonia, idiopathic pulmonary fibrosis, sarcoidosis,
+lymphangitic carcinomatosis, miliary tuberculosis, and fungal infection.
+The panda sign reflects increased uptake in the nasopharynx,
+parotid glands, and lacrimal glands due to inflammation,
+resembling the dark markings on a panda's face. It is classically
+seen in sarcoidosis.
+Normal Gallium-67 scan
+The panda sign is not specific for sarcoidosis, although it strongly
+(5.25 mCi administered)
+suggests sarcoid when the A sign is also seen (due to bilateral hilar
+shows high uptake in the
+and right paratracheal adenopathy). Sarcoid is also the most common
+bowel and salivary glands,
+disorder to affect the salivary and lacrimal glands symmetrically.
+moderate uptake in the liver
+Differential diagnosis of the panda sign includes Sjogren syndrome,
+and bone marrow, and faint
+lymphoma after irradiation, and AIDS.
+uptake in the lungs.
+Gallium scans have been largely replaced by F-18 FDG PET/CT. A residual first-line application
+of gallium scan is the evaluation of spinal discovertebral osteomyelitis.
+Thallium-201
+Thallium-201 is cyclotron-produced, decays by electron capture, and produces relatively
+low-energy characteristic: x-rays of 69-81 keV. Its half-life is 73 hours. Normal distribution is
+prominent uptake in the kidneys, heart, liver, thyroid, and bowel.
+Thallium imaging is infrequently used due to its long half-life and resultant high radiation
+exposure. Historically, thallium has been used in combination with gallium scan to
+distinguish between Kaposi sarcoma, lymphoma, and tuberculosis in immunocompromised
+patients. Thallium was also historically used as a myocardial agent.
+Nucs: 482

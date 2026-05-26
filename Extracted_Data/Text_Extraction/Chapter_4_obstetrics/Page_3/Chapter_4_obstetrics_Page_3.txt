@@ -1,0 +1,32 @@
+Embryo and heartbeat (continued)
+Heart rate is measured using M-mode.
+Dist = 0.22cm
+AT = 0.534s
+AT- = 112bpm
+Slope = 0.41cm/s
+Cal: 5mm
+10
+Normal heart rate:
+M-mode shows a calculated heart rate of 112 bpm, which is normal in this 6-week embryo with a 3 mm
+crown-rump length.
+Amnion
+The amnion is visible by TVUS beginning around 7 weeks.
+PREGNANCY DATING
+Dating convention
+Gestational age is calculated from the first day of the last menstrual cycle, not from
+conception. Therefore, a "six week" pregnancy has really only existed for four weeks. For IVF
+patients with a precisely known implantation date, two weeks are added to be consistent
+with the dating of spontaneous pregnancies.
+Assigning gestational age
+Between 5 and 6 weeks gestation, gestational age is determined based on three typical
+appearances of the early pregnancy.
+Gestational sac only: 5.0 weeks.
+Gestational sac with a yolk sac, but without an embryo: 5.5 weeks.
+Gestational sac with an embryo <3 mm and heartbeat: 6 weeks.
+For embryos >3 mm in length, the CRL is used to assign gestational age using established
+reference tables. The CRL can be used to estimate gestational age up to 12 weeks. After 12
+weeks, dating is estimated using multiple fetal measurements.
+The only ways to reliably know a precise gestational age are if a previous ultrasound was
+performed to establish dating, or the patient underwent in vitro fertilization with a known
+embryo transfer date.
+Obstetrics: 326

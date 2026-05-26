@@ -1,0 +1,32 @@
+Steps in mammographic wire localization- C -
+2 3
+IIIIII
+IIITIII
+B
+C
+5
+-
+-
+Em
+-
+-
+Step 1: Imaging is performed with the alphanumeric Step 2: After local anesthesia, the needle is inserted
+localization grid in place. The clip (arrow) is the target into the skin entry site based on the grid and
+of the localization wire (F3 on the grid; dashed lines). advanced towards the target. Ideally the needle shaft
+The clip is associated with an ill-defined mass, which should be exactly in-line with the x-ray beam.
+was previously biopsied as malignant.
+Step 3: Orthogonal imaging is obtained. If necessary, Step 4: Once satisfactory position is confirmed, the
+the needle can be advanced or pulled back. The mass wire hook is unsheathed. Note the thickened distal
+is more evident on this orthogonal view. Note the clip segment (red arrows), which begins 1 cm from the
+location in the epicenter of the mass (arrow).
+hook and is 2 cm in length. The thickened segment
+gives the surgeon tactile feedback.
+Other localization modalities
+Non-magnetic radioactive radar localization and magnetic seed localization are additional
+newer methods used for pre-operative localization.
+Bracketing method
+When targeting a large area of breast tissue, two or more wires or seeds can be placed, to
+delineate the boundaries of the target. The surgeon can then remove the tissue in between
+and around the bracketing wires or seeds, to ensure excision of the targeted lesion in its
+entirety.
+Breast: 443

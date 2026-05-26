@@ -1,0 +1,41 @@
+BALLOON ANGIOPLASTY
+Percutaneous transluminal angioplasty (PTA)
+Percutaneous transluminal angioplasty (PTA) is the first-line technique for treatment of a
+stenosis, where a balloon is inflated across the stenosis to create a controlled stretch injury
+and increase the luminal cross-sectional area.
+When treating a stenosis caused by atherosclerotic plaque, angioplasty widens the luminal
+diameter due to disruption of the intima and extension of the plaque into the media.
+Most balloons are non-compliant. That is, they have a fixed diameter that does not further
+expand with increased applied pressure, though it will burst above a maximum rated
+pressure. They expand to open a blockage or stricture (seen as a "waist" in the balloon) or
+dilate the vasculature.
+Cutting balloons are non-compliant balloons with microsurgical blades to break through a
+tight stricture.
+In general, a balloon should be selected that is 10-20% larger than the vessel diameter.
+Compliant balloons are inflated by volume, rather than pressure. They are used to fully
+conform to the vascular contour or occlude the vessel, commonly used for fully expanding/
+molding a stent-graft against a vessel wall.
+Balloons are sized by diameter in millimeters and length in centimeters. For instance, a 10 X
+6 balloon is 10 mm in diameter and 6 cm in length.
+Risks of angioplasty include distal emboli, vessel rupture, and dissection. Anticoagulation
+(typically heparin) should usually be used with angioplasty.
+STENTS
+Self-expandable versus balloon-expandable
+The two broad categories of stents are. balloon-expandable and self-expandable stents.
+In general, alloon-expandable stents have a higher radial force upon deployment but will
+stay deformed if crushed. Thus, Dalloon-expandable stents are suboptimal for sites prone to
+external compression, such as around joints or the adductor canal in the leg.
+Self-expandable stents are more flexible and trackable through vessels than balloon-
+expandable stents. Their use is favored when the route to the lesion is tortuous or when the
+anatomy is prone to external compression.
+Covered or uncovered
+Most stents are bare metal stents and provide only a scaffolding-like support that allows
+blood to still flow through the interstices; however, covered stents (e.g., stent grafts)
+are impervious to fluid and create a new conduit, commonly employed for treatment of
+aneurysms, pseudoaneurysms, ruptures, dissections, and TIPS.
+Because stents are prone to in-stent stenosis, drug-eluting stents were developed to deliver
+antiproliferative agents into the arterial wall.
+In general, a stent should be selected that is 1-2 cm longer than the stenosis, with a
+diameter that is 1-2 mm wider than the non-stenosed vessel lumen. A rule of thumb is 10%
+oversizing of an arterial stent and 20% oversizing of a venous stent.
+IR: 594

@@ -1,0 +1,29 @@
+Summary of MRI masses
+BI-RADS: MRI mass lexicon
+Round
+Oval
+Shape
+Irregular
+Circumscribed
+Margins
+Spiculated
+Irregular
+Homogeneous
+Heterogeneous
+Enhancement
+Rim
+Darki internal
+septations
+MRI FOCUS
+A focus is a small dot of enhancement <5 mm in size that does not have any mass effect or
+correlate on pre-contrast images. A focus is too small for accurate assessment of margins or
+internal enhancement characteristics.
+It can be difficult to differentiate a single focus from normal background parenchymal
+enhancement (BPE). Multiple bilateral enhancing foci may be due to BPE and are generally
+considered benign. Some authors advocate for assigning a conspicuous, isolated focus as BI-
+RADS 3.
+It is generally not possible to characterize enhancement kinetics of a focus by CAD due to its
+small size; however, if kinetics appear to be washout based on manual measurements then
+suspicion should be raised. If a focus has any suspicious features, it should be described as a
+mass even if less than 5 mm.
+Breast: 407

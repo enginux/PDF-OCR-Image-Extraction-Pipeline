@@ -1,0 +1,46 @@
+Neuroblastoma (continued)
+On MRI, neuroblastoma often invades into neural foramina and the spinal canal. Diffusion is
+often restricted, reflecting hypercellularity.
+Neuroblastoma is a atecholaminesecreting tumor and therefore positive on I-123 MIBG
+scintigraphy.
+Other catecholaminesecreting tumors Pheochromocytoma, carcinoid and medullary thyroid cancer) are
+rare in children.
+Metastases may be found in 75% of patients and commonly involve the bone marrow
+(typically permeative and lytic). A classic presentation of metastatic neuroblastoma is an
+intracranial, subdural mass originating from the marrow.
+The prior International Neuroblasoma Staging System (INSS, 1993) for neuroblastoma
+surgical staging may be helpful to know, and is summarized below. "Midline" is defined as
+the contralateral edge of the vertebral body (i.e., for a left neuroblastoma, "midline" is the
+right lateral edge of the vertebral body)
+Stage :: Tumor limited to organ of origin (e.g., adrenal). 75% two-year survival.
+Stage I: Local spread (nodes may be positive), but no disease crossing midline. 75% two-year survival.
+Stage II: Local spread, crosses midline. 25% two-year survival.
+Stage IV: Distant metastases. 25% two-year survival.
+Stage IVS: Stage lor II with metastases confined to skin, liver, and bone marrow, and age <1 year (better
+prognosis than Stage III or IV). May also apply to children up to 18 months. 75% two-year survival.
+A more recent system by the International Neuroblastoma Risk Group (INRG, 2009) features
+a set of image-defined risk factors (IDRF), such as invasion into adjacent organs, bones or
+vessels, to stage the extent of disease.
+Stage L1: Localized tumor, not involving vital structures defined in IDRF and confined to one body
+compartment. 95% survival rate.
+Stage L2: Locoregional tumor with presence of 1+ IDRF.
+Stage M: Distant metastases (excluding stage MS), with 10-30% survival rate.
+Stage MS: Metastatic disease confined to skin, liver and/or bone marrow disease in children less than 18
+months. More favorable prognosis with 75-100% survival rate.
+Ganglioneuroma
+Ganglioneuroma is a benign neurogenic tumor that appears similar to neuroblastoma on
+imaging. Gangloneuroblastoma is intermediate in biological behavior between benign
+ganglioneuroma and malignant neuroblastoma. It is thought that neuroblastoma may
+differentiate into either of these lesions.
+In contrast to neuroblastoma, ganglioneuroma affects slightly older children (most
+common age of a ganglioneuroma patient is 6 years old) and only 50% of ganglioneuromas
+are positive on I-123 MIBG scintigraphy. MRI classically shows restricted diffusion of a
+neuroblastoma, but not in ganglioneuroma.
+Adrenal hemorrhage (in neonates)
+Adrenal hemorrhage is the most common adrenal "mass" in neonates, and most often
+associated with difficult deliveries or perinatal stress related to maternal diabetes, breech
+delivery and sepsis.
+It is typically diagnosed by ultrasound as a hypoechoic avascular suprarenal mass.
+Hemorrhage may appear similar to neuroblastoma on initial ultrasound, but a follow-up
+scan would demonstrate involution. Old hemorrhage may calcify.
+Peds: 1156

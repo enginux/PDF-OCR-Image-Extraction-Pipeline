@@ -1,0 +1,40 @@
+Plaque vulnerability
+High-risk (vulnerable) atherosclerotic plaques are associated with increased risk of acute
+coronary syndrome. High-risk features include low-attenuation plaque (<30 HU), spotty
+calcification, positive remodeling, and the napkin-ring sign.
+There is no established guideline for management of patients with vulnerable plaques.
+Napkin-ring sign: low-
+Low-attenuation plaque
+attenuation core (yellow
+(arrow) measures less
+arrow) surrounded by
+than 30 HU on CTA.
+higher attenuation rim
+(red arrow).
+Positive remodeling: characterized
+by compensatory enlargement of
+the vessel wall at site of plaque
+(yellow arrows) beyond the
+normal caliber (red arrows), with
+preserved vessel lumen.
+Also seen are spotty calcifications
+(blue arrows).
+Evaluation of coronary stents and bypass grafts
+Two major complications following coronary artery stenting are stent thrombosis (in the
+acute setting) and in-stent restenosis (a late complication). In-stent restenosis occurs by
+neointimal hyperplasia and appears as low-attenuation material within the stent lumen.
+Unfortunately, CCTA evaluation of coronary stents remains difficult and adequate
+visualization of the stent lumen depends on various factors, including stent type, diameter,
+location, presence of motion or blooming artifacts.
+Cross-sectional CTA image of a coronary stent shows
+low-attenuation material in the lumen, consistent
+with in-stent restenosis.
+Potential complications of bypass grafts are graft stenosis, occlusion, and aneurysm
+formation. One pitfall on imaging is that a completely occluded graft can be difficult to
+discern, with the only hint being an outpouching at the graft-aortic anastomosis.
+Coronary bypass grafts can be accurately evaluated by CCTA, however because beam
+hardening and streak artifacts from adjacent surgical clips can obscure findings, cardiac
+catheterization remains the preferred diagnostic modality at most locations.
+Stenoses of both coronary stents and bypass grafts are graded similarly to those of native
+coronary arteries, using the CAD-RADS.
+Cardiac: 513

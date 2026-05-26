@@ -1,0 +1,41 @@
+Digital mammography
+Pixel size 80 m; smallest visible microcalcfications 150 um
+Resolution -3,000 X 4,000 pixels = 24 MB at 2 byte/pixel
+5 megapixel monitors needed for viewing
+Magnification
+Magnification = SID/SOD
+mammography
+SID - source-image distance
+SOD = source-receptor distance
+SID typically 65 cm, SOD typically 35 cm
+In the example below, SID = 65 cm, SOD = 35 cm, and magnification = 65/35 = 1.85
+a
+-
+5
+II
+E
+-
+3
+OID = object-image distance
+If T SID (X-ray tube moved away) then exposure time will be too long.
+If 1 SID (X-ray tube moved closer) then there will be too much focal spot blur.
+No grid needed (air gap introduced).
+0.1 mm focal spot used.
+Magnification mammography technique summary:
+25 mA current
+3 second exposure
+70 mAs. Because a grid is not employed, a lower total mAs is needed (compared to 100
+mAs with contact mammography using a grid).
+MQSA
+The interpreting physician needs to have read 240 mammograms in the last 24
+months of training during a 6 month period.
+A quality control program must be in place.
+Phantom must be tested weekly with an average glandular dose <3 mGy with a
+grid, and <1 mGy without a grid.
+Average glandular dose
+Federal requirement that AGD <3 mGy per view per breast.
+(AGD)
+Note that the fluoroscopic dose limit of 100 or 200 mGy/min is the only other federal dose
+regulation.
+A typical AGD is -1.8-1.5 mGy per view per breast (digital slightly lower dose).
+Physics: 1208

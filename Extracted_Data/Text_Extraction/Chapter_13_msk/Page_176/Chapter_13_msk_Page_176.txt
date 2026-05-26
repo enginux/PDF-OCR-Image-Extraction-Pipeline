@@ -1,0 +1,38 @@
+Bone biopsies
+Planning CT image with grid (top left image), with
+patient prone. The mixed lytic and sclerotic lesion
+(arrows) of the left iliac bone was targeted.
+Intraprocedural CT-fluoroscopic image (top right
+image) shows the bone biopsy device progressing
+towards the lesion. The lesion is obscured by streak
+and beam hardening artifact.
+Intraprocedural CT-fluoroscopic image (left image)
+shows the coaxial biopsy device traversing the region
+of the lesion, although the lesion is obscured. Careful
+correlation of landmarks is necessary in this case.
+Pathology was metastatic breast cancer.
+Most bone biopsies are performed with CT guidance. Lesions that are occult on CT but
+apparent on MR can generally be targeted by CT using landmarks. MR-guided biopsy may
+also be performed in suitable cases.
+Similar to fluoroscopic interventions, patient dose should be maintained as low as
+reasonably achievable. A major contribution to patient dose is the initial planning CT with
+the grid. This should be performed in a dose-reduced manner, if possible. Intraprocedural
+CT-fluoroscopy generally yields lower patient dose compared to spiral CT acquisitions.
+To reduce operator dose during CT fluoroscopy, take a step back and stand behind in the
+wings of the CT gantry. Operator dose is 100 times less in this location compared to the
+standard location standing next to the patient at the opening of the CT gantry.
+There are several manual and battery-powered drill devices available.
+Lucent lesions generally have higher diagnostic yield than sclerotic lesions.
+Similar to targeting of soft tissue biopsies, the most avidly enhancing component or region
+of highest FDG uptake should be targeted, as long as it is safe to do SO.
+Vertebral biopsies
+The safest approach to biopsy a vertebral body is transpedicular, where the biopsy needle
+traverses the pedicle. The bony walls of the pedicle protect the needle from inadvertently
+traversing the spinal canal.
+Biopsies for osteomyelitis
+The sensitivity of biopsy for diagnosing osteomyelitis is highly variable in the literature, but
+in general it is quite low.
+Therefore, biopsy should not be performed to diagnose osteomyelitis in equivocal cases.
+Rather, it is useful to obtain microbial cultures and sensitivities when imaging already
+confirms osteomyelitis.
+MSK: 1083

@@ -1,0 +1,46 @@
+RADIATION BIOLOGY
+DNA damage
+Free radicals mediate the majority of biological damage due to radiation.
+Syndromes
+Xeroderma pigmentosa:
+Ataxia telangiectasia:
+T sensitivity to UV light
+T sensitivity to X-rays.
+Deterministic effects
+Deterministic effects occur once the radiation exposure crosses a certain
+threshold and would not be expected to occur below that exposure.
+A decrease in peripheral lymphocyte count can occur after as little as 20.5 Gy
+exposure.
+Cataracts may occur after an eye dose of 2 Gy. The posterior pole is
+preferentially affected. For a given dose, high-LET radiation (neutrons and alpha
+particles) are much more effective at inducing cataracts compared to X-rays.
+Radiation-induced erythema can occur in 1-2 days, but may take up to 10-14
+days to develop.
+2 Gy: Transient early erythema
+6 Gy: Robust erythema
+Epilation occurs after about three weeks.
+3 Gy: Temporary epilation
+7 Gy: Permanent epilation
+Desquamation may begin 4 weeks after exposure.
+15 Gy: Moist desquamation
+Vascular damage is expected for skin doses >20 Gy.
+Ulceration and depigmentation are late effects due to dermal damage.
+Sterility can be caused in males or females.
+Males: Temporary sterility after >0.15 Gy
+Females: Permanent sterility and early menopause after >3.5 Gy.
+Hereditary effects
+The doubling dose is the dose required to double the spontaneous mutation
+rate when applied to a population. The doubling dose is approximately 1 Gy
+given to each member of the population.
+The risk of hereditary effects (for an individual) is thought to be approximately
+0.2% per Sv. For instance, the risk of a hereditary effect from a gonad dose of
+100 mSv = 0.2% * 0.1 Sv = 0.02%
+Death by radiation
+Terminology: LD 50/X = lethal dose that kills 50% of the population in X days. For
+(whole-body radiation)
+instance, an LD 50/60 will kill 50% of the population in 60 days.
+3-4 Gy: LD 50/60 due to failure of hematopoietic system.
+10 Gy: LD 50/5 due to denuding of the GI tract lining (small bowel most
+sensitive).
+100 Gy: LD 50/2 due to cerebrovascular syndrome.
+Physics: 1212

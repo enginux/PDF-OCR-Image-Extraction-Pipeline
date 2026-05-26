@@ -1,0 +1,42 @@
+Transarterial radioembolization (TARE)
+TARE, also called selective internal radiation therapy (SIRT), consists of intra-arterial infusion
+of microspheres with radioactive isotopes (i.e., Yttrium-90).
+TARE does not have the same macro-embolic effects as TACE. Treatment effect depends on
+radiation emitted by the spheres which induce tumor necrosis. Intra-arterial administration
+allows for targeted delivery of high radiation dose to the tumor than can be given via
+external beam radiation.
+Due to less disruption of vessels, TARE can be performed in the setting of portal vein
+thrombosis.
+Absolute contraindications include: pregnancy, breastfeeding, uncorrectable GI vascular
+reflux, and uncorrectable hepatopulmonary shunting.
+TARE procedure is similar to TACE except for a few differences as below:
+After angiography to map out the anatomy, labeled macroaggregates of albumin (MAA) are injected,
+followed by a nuclear medicine study to confirm tracer uptake.
+The distribution of MAA is similar to that of the radioembolization microspheres, which allows mapping,
+calculation of dose, and evaluation for potential extrahepatic shunt or nontarget embolization (i.e., uptake
+in lungs, GI, skin).
+TARE should NEVER be performed when there is a shunt to the GI tract, because even small amounts can
+cause enteritis or ulceration.
+To prevent nontarget embolization, coil embolization of nearby arteries can be performed.
+TARE does NOT cause significant post-embolization syndrome.
+Portal vein embolization
+Portal vein embolization is typically performed prior to partial hepatectomy.
+Blood supply is redirected to the future liver remnant (FLR) which causes hypertrophy.
+Most commonly, target for embolization is the right lobe.
+Right hepatic lobe is usually large enough to maintain function after left hepatectomy.
+The portal vein is accessed percutaneously.
+Contraindications: Patients with portal hypertension or extensive ipsilateral tumor thrombus
+should not undergo portal vein embolization due to risk of altered hemodynamics and
+massive tumoral necrosis.
+RENAL NEOPLASMS AND ANGIOMYOUIPOMA
+Renal cell carcinoma (RCC)
+Most renal cell carcinomas (RCC) are hypervascular. The tumors often feature arteriovenous
+shunting and venous lakes, with a classic angiographic appearance of bizarre neovascularity.
+Radiofrequency ablation has been a successful minimally invasive treatment for RCC in
+patients who are not good operative candidates.
+Oncocytoma
+Oncocytoma is a benign renal mass that cannot be reliably distinguished from renal cell
+carcinoma on cross-sectional imaging.
+Angiography classically shows a spokewheel appearance with a peritumoral halo. In contrast
+to RCC, bizarre neoplastic vessels are absent.
+IR: 641

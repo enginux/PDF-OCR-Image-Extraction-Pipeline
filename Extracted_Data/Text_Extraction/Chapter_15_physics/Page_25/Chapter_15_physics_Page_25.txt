@@ -1,0 +1,40 @@
+NUCLEAR MEDICINE PHYSICS
+Definitions
+A
+A = atomic mass = N +Z
+X
+Z= # protons = atomic number
+Z
+V
+N = # neutrons
+X: = Element
+Isobar: Same atomic mass (e.g., 1311 and 131Xe)
+IsotoPes: Same number of Protons
+IsotoNes: Same number of Neutrons
+Decay and stability
+The graph below demonstrates that as atomic number (Z) increases, stable
+elements tend to have slightly increased neutrons relative to protons.
+Isotopes with excess neutrons decay by beta-minus decay, while isotopes with
+excess protons decay by beta-plus decay.
+100
+neutron excess
+B- decay
+band of
+80
+stability
+N=Z
+M
+60
+I
+of
+proton excess
+B+ decay- 40
+20
+(
+20
+40
+60
+80
+100
+number of protons (Z)
+Physics: 1219

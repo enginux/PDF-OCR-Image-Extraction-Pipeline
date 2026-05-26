@@ -1,0 +1,44 @@
+Spin-echo proton density (PD)-weighted imaging
+Proton density (PD) images are not used in many neuroradiology MRI protocols, but they do
+have the highest signal-to-noise ratio of any sequence. PD sequences may be useful in the
+evaluation of multiple sclerosis (MS), especially in the spinal cord.
+Diffusion-weighted imaging (DWI)
+DWI depicts Brownian motion of water protons. Signal is lost with increasing diffusion.
+Free water (CSF) experiences the most signal attenuation, while many pathologic processes
+(primarily ischemia) cause reduced diffusivity and less signal loss.
+DWI is an inherently T2-weighted sequence with diffusion-sensitzing pulsed gradients
+applied sequentially in multiple directions. The b-value is the setting that determines the
+degree of diffusion weighting, which is based on the diffusion gradient amplitude, duration,
+and time interval between pulses.
+The higher the b-value, the more contrast the image will provide for detecting reduced diffusivity.
+The downside to increasing the b-value is a decrease in the signal-to-noise ratio, unless scan time is
+proportionally increased for additional acquisitions.
+DWI is typically displayed in two ways, interpreted together: Trace images and ADC
+(apparent diffusion coefficient) maps.
+Trace images are a summation of the source images sensitive to diffusion in different directions. Reduced
+diffusivity will be hyperintense and lesions are very conspicuous.
+The ADC map: shows pure diffusion information without any T2 weighting, obtained by calculating the
+exponential decay constant when plotting the MR: signal obtained with a set of at least two b-values. In
+contrast to DWI, reduced diffusivity is hypointense on the ADC map.
+Because readers are less sensitive to detecting reduced diffusivity using the ADC map alone, DWI is the
+primary sequence used to detect diffusion abnormalities.
+Whereas trace images show a scalar measure of diffusion, diffusion tensori imaging (DTI) depicts
+directional asymmetries, called anisotropy, such as that inherent to white matter fiber tracts.
+An important pitfall to be aware of is the phenomenon of T2. shine-through. Because DWI
+images are T2-weighted, lesions with long T2 relaxation times will also be hyperintense
+on DWI, particularly on low b-value images. True restricted diffusion will correlate with a
+corresponding area of hypointensity on the ADC map.
+Restricted diffusion is best known in the setting of acute ischemic stroke, as DWI is sensitive
+for infarction within minutes of onset. However, the causes of reduced diffusion are diverse:
+Neoplastic: e.g., lymphoma, glioblastoma, medulloblastoma.
+Inflammatory: e.g-, multiple sclerosis, acute disseminated encephalomyelitis.
+Infectious: e.g., abscess, empyema, ventriculitis, herpes encephalitis, Creutzfeldt-Jakob disease.
+Vascular: e.g., arterial or venous infarction, global hypoxic-ischemic injury, posterior reversible
+encephalopathy syndrome.
+Toxic: e.g., carbon monoxide, methanol, ethylene glycol, Wernicke encephalopathy, chemotherapy.
+Metabolic: e.g., osmotic demyelination, hypoglycemic encephalopathy, hepatic encephalopathy.
+Congenital: e.g., epidermoid cyst, mitochondrial diseases.
+Traumatic: diffuse axonal injury, hematoma.
+Seizure (status epilepticus).
+Treatment: radiosurgery, antiangiogenic therapy.
+Neuro Brain: 658

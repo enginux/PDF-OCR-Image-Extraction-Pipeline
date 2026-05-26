@@ -1,0 +1,48 @@
+CT imaging: Adrenal washout CT
+Typically, adrenal adenomas demonstrate rapid washout characteristics, while adrenal
+metastases demonstrate slow washout (<60% absolute washout; <40% relative washout).
+The adrenal protocol study consists of three phases: unenhanced, enhanced (60 seconds
+post-injection), and delayed (15 minutes post-injection).
+If an adrenal nodule measures <10 HU on noncontrast CT, adrenal adenoma is diagnosed
+and the exam is terminated. If the nodule measures >10 HU on noncontrast CT, IV contrast
+is administered and enhanced plus delayed imaging is obtained.
+>60% absolute washout is diagnostic of adenoma.
+E-D
+enhanced attenuation - delayed attenuation
+% washout
+E-U
+enhanced attenuation = unenhanced attenuation
+Avg 16.0 HU
+Avg412 HU
+Dev-23
+ev
+2
+Unenhanced (precontrast) phase
+60-second contrast-enhanced phase (adrenal
+parenchymal phase)
+Avg 46.0 HU
+Axial unenhanced, enhanced, and delayed images
+Dev31.9
+from adrenal washout protocol CT show an
+adrenal nodule measuring 16 HU, 112 HU, and 46
+HU, respectively.
+Using the washout formula E- D/E - U:
+(112 - 46). / (112 = 16) = 69% washout
+>60% washout is diagnostic of an adenoma.
+Note is made of two large simple cysts of the left
+-AT
+kidney.
+Case courtesy Cheryl Sadow, MD, Brigham and
+15-minute delay washout
+Women's Hospital.
+If unenhanced CT images are unavailable, relative washout calculation can still be performed
+by using the formula below.
+>40% relative washout is diagnostic of adenoma:
+E-D
+enhanced attenuation - delayed attenuation
+% relative washout =
+E
+enhanced attenuation
+In a patient with a known primary malignancy, lesions that do not demonstrate benign
+washout kinetics are suspicious for, but not diagnostic of, metastasis.
+GU: 235

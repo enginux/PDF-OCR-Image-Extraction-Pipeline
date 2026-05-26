@@ -1,0 +1,38 @@
+Transarterial chemoembolization (continued)
+Common contraindications of TACE include:
+Portal vein thrombosis (associated with post-treatment liver failure).
+High tumor burden (>50%).
+Extrahepatic metastases.
+Decompensated cirrhosis encephalopathy, tension ascites, Child-Pugh C).
+Elevated bilirubin (>3 mg/dL).
+Pre-procedural cross-sectional imaging is usually performed for treatment planning, with
+the goals of: evaluate for variant anatomy, extrahepatic collateral blood supply (i.e., right
+phrenic artery), and possible contraindications.
+Procedural steps:
+After obtaining arterial access, celiac arteriogram is done to map out anatomy.
+Selective or super-selective embolization can be done with the use of a catheter or micro-catheter into the
+proximal arterial branches of a small tumor.
+Alternatively, medications or embolic agents can be delivered from a proximal point (left or right hepatic
+artery), called lobar embolization, if there are multiple lesions.
+Materials are injected until stasis/low flow is seen under fluoroscopy.
+Arteriography is performed to document persistent low flow or absence of flow to the region.
+Immediate post-procedural CT imaging is usually avoided because normal post-procedural
+changes may mimic an abscess.
+TACE in a patient with recurrent HCC:
+Selective DSA of celiac artery (top left image) shows
+patent middle (green arrow) and left hepatic arteries
+(yellow arrow). Superselective middle hepatic artery
+with multifocal hypervascular tumor blushes (top right
+image, red arrows). TACE of the middle hepatic artery
+was performed with two vials of 100-300 micron
+DEB loaded with 100 mg doxorubicin. Follow-up
+angiography demonstrated pruning of distal arterial
+branches and no residual tumor enhancement in the
+embolized territory.
+Case courtesy Arjun Sharma, MD, Brigham and
+Women's Hospital.
+Post-embolization syndrome is very common after TACE. Symptoms include right upper
+quadrant pain, fever, nausea, and vomiting. LFT may show transaminitis.
+Other common complications include: abscess, acute liver failure, or biliary injuries (the
+biliary tree is primarily supplied by hepatic arteries).
+IR: 640

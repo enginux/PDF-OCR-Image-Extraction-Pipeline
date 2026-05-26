@@ -1,0 +1,39 @@
+Is there attenuation artifact from the breast, diaphragm, or chest wall? Attenuation artifacts have normal
+wall motion on gated SPECT cine. A true fixed defect (infarct or scar) is hypokinetic or akinetic.
+Is there abnormal extracardiac uptake? Focal intense uptake in the breast or lung may signify cancer.
+Is there pulmonary uptake on exercise thallium-201 or Tc-99m sestamibi/tetrofosmin scan? Abnormally
+increased lung-to-heart activity ratio indicates stress-induced left ventricular dysfunction, usually from left
+main or multivessel coronary artery disease.
+2: Mean 164.48: 17.07 CNTS (25,126,191
+of
+=263.28: 59.48 CNTS (25. 158,346 Pulmonary uptake Tc-99m
+sestamibi:
+Planar rotating projection images
+demonstrate increased lung uptake on
+exercise Tc-99m sestamibi scan with a
+lung to heart ratio of 0.62.
+SPECT rest and exercise perfusion
+images demonstrated multivessel
+ischemia (not shown).
+Evaluation of the rest and stress SPECT or PET perfusion images is the core of the exam, with
+the key question: Is there a perfusion defect on the stress images? If a perfusion abnormality
+is present, the following additional questions help to characterize it:
+Is the defect reversible on rest images? A reversible defect signifies ischemia, while a fixed defect may
+represent either infarct/scar or hibernating myocardium.
+How large is the defect (number of myocardial segments, described on the next page)? Small (1-2
+segments); medium (3-4 segments); large (5 or more segments).
+How severe is it? Mild subendocardial), moderate, or severe (transmural)?
+Where is it? In which coronary artery territory?
+Is there dilation of the left ventricle during stress (transient ischemic dilation, TID)? If SO, implies left main
+or three vessel disease and worse prognosis, even when there is no focal defect.
+Is there right ventricular uptake? If so, implies right heart disease or pulmonary hypertension.
+Is there exercise-induced reversible: septal defect, not following a coronary artery territory? This occurs
+with LBBB in the absence of coronary artery disease and is not seen with pharmacologic stress.
+In summary, an example interpretation may be: There is a medium-sized, perfusion defect of severe
+intensity involving the mid and basal inferior walls and the basal inferoseptal wall that was fixed. These
+findings suggest myocardial scar in the typical distribution of the RCA.
+Gated SPECT (GSPECT) uses ECG gating of a standard myocardial perfusion SPECT acquisition
+for the quantitative assessment of the LV function. GSPECT allows for evaluation of LV
+perfusion at the same time as left ventricular wall motion, wall thickening, and ejection
+fraction (LVEF). It is not used to evaluate right ventricular function.
+Cardiac: 492

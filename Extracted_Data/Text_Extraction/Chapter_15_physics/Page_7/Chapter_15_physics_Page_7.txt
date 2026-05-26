@@ -1,0 +1,44 @@
+GADOUINIUM-BASED CONTRAST MEDIA
+IMMEDIATE ADVERSE REACTIONS TO GADOUINIUM-BASED CONTRAST
+Both mild and severe adverse reactions to gadolinium-based contrast are much more rare
+compared to iodinated contrast. Most adverse reactions to gadolinium-based contrast are
+mild such as nausea, vomiting, headache, or pain at the injection site.
+Allergic-type reactions to gadolinium are rare, seen in 0.004% to 0.7%. Serious anaphylactic
+reactions are exceedingly rare (<0.01%).
+Contrast extravasation
+Gadolinium-based contrast is much less toxic to the skin and soft tissues compared to
+iodinated contrast. Evaluation and treatment of extravasation is similar for both types of
+contrast.
+NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+Nephrogenic systemic fibrosis (NSF) is a highly morbid disease characterized by diffuse
+fibrosis of the skin and subcutaneous tissues, which may also involve the visceral organs.
+NSF is strongly associated with gadolinium exposure in patients with reduced renal function.
+The exact mechanism for development of NSF is unknown, but may involve dissociation of
+toxic free gadolinium in patients with reduced renal clearance. The free gadolinium may
+bind phosphate and precipitate in tissues, precipitating a fibrotic reaction.
+Patients with end-stage renal disease (eGFR <30 ml/min/1.73m*) have between 1% and 7%
+chance of developing NSF even after a single exposure to a adolnum-containing contrast
+agent. There has been only one established case of NSF in a patient with an eGFR >30.
+In general, gadolinium-based contrast should not be given to patients on dialysis or with
+eGFR <30 or AKI. Although it is exceedingly rare for NSF to develop in a patient with eGFR
+between 30 and 59, eGFR may fluctuate daily in these patients. For this reason, caution
+should be employed for patients on the lower end of this spectrum.
+Different brands and formulations of gadolinium-based contrast are associated with
+varying rates of NSF. Group I agents associated with unconfounded cases of NSF include
+gadodiamide, gadopentetate dimeglumine, gadoversetamide.
+GADOUINIUM-BASED CONTRAST IN PREGNANCY AND BREAST FEEDING
+Gadolinium-based contrast and pregnancy
+Gadolinium-based contrast should not be administered during pregnancy. Gadolinium-based
+contrast crosses the placenta. Although never demonstrated to cause harm, gadolinium
+chelates may accumulate in the amniotic fluid and remain there indefinitely, with risk of
+dissociation of the toxic free gadolinium ion.
+Gdolinium-based contrast and breast feeding
+The plasma half-life of gadolinium-Dased contrast is two hours. Less than 0.04% of the
+administered maternal dose is excreted in the breast milk within 24 hours of maternal
+administration, and 1% of that dose may be absorbed by the infant's gastrointestinal tract.
+The total infant absorbed dose of gadolinium is therefore approximately 0.0004% of the
+administered maternal dose.
+It is likely safe for the mother to continue breast feeding. There is no information to suggest
+that oral ingestion of such a tiny amount of gadolinlum-containing contrast may be harmful
+to the fetus.
+Physics: 1201

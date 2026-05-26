@@ -1,0 +1,36 @@
+LINES, TUBES AND DRAINS
+DIALYSIS ACCESS AND INTERVENTIONS
+Arteriovenous fistula
+A surgical fistula for dialysis access provides good long-term patency (85% at two years), but
+requires several months to "mature" and about 30% of fistulas fail to mature. A fistula is
+mature when the veins have enlarged sufficiently to allow the high flow rates for dialysis.
+Once mature, a fistula can remain patent even with relatively low flow rates.
+The two common fistula locations are:
+Radial artery - cephalic vein at the wrist
+Brachial artery - variable veins in the forearm
+Common causes of late fistula failure include venous outflow stenosis and peri-anastomotic
+venous stenosis.
+Polyletraflvorellylene (PTFE) graft
+A polyetrafluorethylene (PTFE) graft is a short bridge of synthetic graft material placed
+surgically between an adjacent artery and vein. Grafts have only 50% patency at two years,
+but are able to be used sooner than fistulas. Grafts require higher flow rates to remain
+patent compared to fistulas.
+Similar to a fistula, the most common cause of graft failure is a venous stenosis, either at the
+venous anastomosis or outflow vein.
+Clinical evaluation of surgical dialysis access
+A pulsatile fistula with lack of thrill suggests venous outflow obstruction.
+High access recirculation at dialysis suggests venous outflow stenosis.
+Weak pulse and poor thrill suggests arterial inflow stenosis.
+Complete absence of a pulse suggests arterial thrombosis.
+A pulseless fistula suggests thrombosed fistula.
+Venous stenosis of surgical dialysis access
+Venous outflow stenoses are typically treated with angioplasty, often requiring high-
+pressure or cutting balloons to dilate the fibrotic lesions.
+The goal of the procedure is to restore a palpable thrill and pulse, or to restore the venous
+to brachial artery pressure ratio to less than 0.4.
+Thrombosis of surgical dialysis access
+Both arteriovenous fistulas and PTFE grafts may become thrombosed. In general, PTFE grafts
+are simpler to declot compared to fistulas as the thrombus is usually limited to the graft.
+Thrombosis is often secondary to venous stenosis, which must be treated as well.
+Either pharmacologic or mechanical thrombosis can be performed.
+IR: 646

@@ -1,0 +1,39 @@
+NEONATAL CHOLESTATIC JAUNDICE
+Approach to pathologic neonatal jaundice
+In contrast to the unconjugated hyperbilirubinemia of the benign and self-limited
+physiologic jaundice of the newborn, conjugated hyperbilirubinemia is never normal and is
+due to hepatic or biliary dysfunction.
+There are innumerable causes of conjugated nyperolirubinemia, including biliary atresia,
+Alagille syndrome, bile acid synthetic defects, metabolic disease, alpha-l-antitrypsin
+deficiency, and infectious etiologies.
+Alagille syndrome features hereditary cholestasis from paucity of intrahepatic bile ducts, and peripheral
+pulmonary stenosis.
+The goal of imaging is to differentiate between biliary atresia (approximately 25% of
+neonatal conjugated yperbilirubinemia, and "neonatal hepatitis," which is a wastebasket
+diagnosis for all other causes combined. Tc-99m-HIDA hepatobiliary scintigraphy is the test
+of choice to distinguish between these two entities.
+Patients may be premedicated with 5 days of phenobarbital to stimulate hepatocyte activity prior to
+hepatobiliary scintigraphy, although this varies by institution.
+The HIDA agent is actively transported intoi the hepatocyte and excreted (not conjugated) into the bile.
+Biliary atresia requires prompt repair to prevent irreversible liver damage. The treatment of
+neonatal hepatitis is nonsurgical.
+Neonatal hepatitis
+Neonatal hepatitis: 60-minute delay HIDA (left image) shows uptake in the liver but with a large amount of
+blood pool activity. There is uptake in the bladder and the diaper, but no bowel uptake. Delayed 24-hour image
+(middle image) also does not show bowel uptake, but there is abnormal persistent hepatic uptake, which
+is suggestive of hepatitis. A follow-up exam was performed a few weeks later (right image), which showed
+normal hepatic uptake and small bowel excretion, confirming resolution of neonatal hepatitis.
+Case courtesy Michael Hanley, MD, University of Virginia Health System.
+Hepatobiliary scintigraphy shows poor hepatic excretion, delayed hepatic clearance (beyond
+12 hours), and variable bowel excretion.
+Biliary atresia can be effectively ruled out if there is any excretion into the GI tract.
+Biliary atresia
+Ultrasound may not be able to distinguish between biliary atresia and neonatal hepatitis,
+though the triangular cord sign representing the obliterated common hepatic duct can be
+seen in the region of the porta hepatis. An absent or atretic gallbladder on ultrasound is
+suggestive of biliary atresia, but a gallbladder is seen in 20% of cases. The main hepatic
+artery is also often enlarged in the setting biliary atresia, with a HA:PV ratio >0.45 suggestive
+of biliary atresia.
+Hepatobiliary scintigraphy shows normal hepatic tracer uptake and clearance but no
+excretion into the small bowel after 24 hours.
+Peds: 1139

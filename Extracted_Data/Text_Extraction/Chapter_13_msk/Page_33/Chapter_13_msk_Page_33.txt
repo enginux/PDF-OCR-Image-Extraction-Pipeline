@@ -1,0 +1,32 @@
+Malignant: Osteosarcoma
+Osteosarcoma represents a heterogeneous group of malignant tumors where the neoplastic
+cells are derived form osteoid lineage and most subtypes produce an osteoid matrix.
+Osteosarcoma can be primary or secondary. Secondary osteosarcoma may arise from Paget
+disease or after radiation. Secondary osteosarcoma in Paget disease is extremely aggressive.
+General imaging hallmarks of osteosarcoma are bony destruction, production of
+osteoid matrix, aggressive periosteal reaction, and an associated soft-tissue mass. Early
+osteosarcoma may be only evident as subtle sclerosis.
+There are more than 10 primary subtypes. The 4 most important subtypes are conventional
+(most common), telangiectatic, and the two juxtacortical subtypes including parosteal
+(pronounced PAR-ostea!) and periosteal (pronounced PERI-osteal).
+Conventional intramedullary) osteosarcoma represents 75% of osteosarcomas and occurs
+in adolescents/young adults usually about the knee in the metaphysis of the femur or tibia.
+Conventional osteosarcoma features an intramedullary osteoid matrix, both intramedullary and cortical
+bone destruction, aggressive periosteal reaction (sunburst or Codman), and a soft-tissue mass.
+Radiograph
+Post-contrast T1-weighted MRI T2-weighted MRI with fat supp.
+with fat suppression.
+Conventional osteosarcoma with classic radiographic appearance: Frontal radiograph of the femur in a
+skeletally immature patient shows a heterogeneous mass in the distal femoral metaphysis with aggressive
+sunburst periosteal reaction and cloud-like osteoid matrix (yellow arrows). Coronal MR images show a
+heterogeneously T2 hyperintense mass with soft tissue extension and extensive enhancing periosteal
+reaction.
+Radiograph
+T1-weighted MRI
+T2-weighted MRI with fat supp.
+Conventional osteosarcoma, subtle on radiography: Radiograph (left image) shows a region of subtle
+sclerosis in the medial proximal tibial metaphysis (arrow). No periosteal reaction is apparent, which is
+unusual for osteosarcoma. T1-weighted MRI shows a well-defined region of marrow replacement by
+tumor (red arrows). T2-weighted MRI with fat suppression demonstrates diffuse marrow edema in the
+tibia, with a region of decreased T2 signal (arrow) likely corresponding to the sclerosis seen on radiograph.
+MSK: 940

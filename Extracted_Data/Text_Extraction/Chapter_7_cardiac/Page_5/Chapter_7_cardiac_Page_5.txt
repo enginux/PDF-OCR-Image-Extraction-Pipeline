@@ -1,0 +1,47 @@
+Adenosine stress - pharmacologic vasodilator
+Adenosine has identical physiologic effects as dipyridamole but a more rapid effect. It may
+also frequently cause atrioventricular block that is resolved most of the time by physical
+exercise (hand grip or moving the legs or walking on a treadmill during infusion). Wheezing
+is also seen, especially in patients with asthma. Because adenosine has an extremely short
+half-life (K10 seconds), a reversal agent is usually not required.
+Regadenoson - pharmacologic vasodilator
+Regadenoson is a selective A2A (adenosine) receptor agonist with a 2-3 minute half-life.
+It is easier to administer than adenosine with a convenient non-weight based fixed-dose
+intravenous injection over 10 seconds. Its effects can be reversed with aminophylline.
+Dobutamine stress - pharmacologic stress
+Dobutamine is a B, agonist that increases myocardial oxygen demand. Dobutamine is used
+when vasodilator is contraindicated (severe asthma, COPD, or recent caffeine).
+Contraindications are the same as for exercise stress testing (see above).
+IMAGING PROTOCOLS
+Single-day Tc-99m sestumibi/letrofosmin perfusion SPECT
+Tc-99m sestamibi or tetrofosmin perfusion SPECT is most commonly performed as a single-
+day study. Rest images are first obtained after intravenous injection of 8-10 mCi Tc-99m
+radiotracer. After background activity has cleared in 1-4 hours, stress images are obtained
+with an additional 25-30 mCi (three times rest dose) administered during peak exercise, or
+following pharmacologic stress.
+Imaging is performed 45-90 minutes post-injection for resting studies, and at 30 minutes
+for exercise stress because of faster liver activity clearance. Since there is no redistribution,
+imaging can be delayed after tracer administration.
+Gated SPECT images show wall motion at time of imaging, while perfusion images show
+perfusion at time ofinjection. Therefore, severely ischemic territories may sometimes not
+show evidence of regional wall motion abnormalities. If wall motion is abnormal in an
+ischemia territory, this typically indicates myocardial stunning, a highly specific feature for
+significant obstructive coronary artery disease.
+Two-day Tc-99m sestamibi/letrofosmin perfusion SPECT
+By performing the stress and rest studies on separate days, maximum dose (25-30 mCi)
+of radiotracer can be administered for optimal image quality, and interference by residual
+activity from the first study is minimized. This protocol is usually used in obese patients.
+Also, if the stress study is performed first and is normal, the rest study can be safely
+omitted. This is currently the preferred protocol due to shorter test duration and lower
+radiation dose.
+Thallium stress-redistribution (rest) SPECT
+Because thallium undergoes redistribution, imaging is performed immediately (within
+10-15 minutes) post-exercise and approximately 3-4 hours later once redistribution has
+occurred. Both sets of images can be obtained after a single injection of 3 mCi thallium, or
+two separate injections with 2 mCi administered at peak exercise for the stress images, and
+an additional 1 mCi administered before the second image set to ensure adequate thallium
+is available for redistribution.
+Thallium is not often used for myocardial perfusion imaging because of its long 73-hour half-
+life and high radiation dose. However, it is used for viability imaging at sites without access
+to a PET scanner.
+Cardiac: 490

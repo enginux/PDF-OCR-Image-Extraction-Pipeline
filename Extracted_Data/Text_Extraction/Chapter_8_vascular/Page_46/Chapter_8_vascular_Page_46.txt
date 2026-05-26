@@ -1,0 +1,40 @@
+Cystic adventitial disease
+Cystic adventitial disease is a rare cause of distal claudication where one or more mucoid
+cysts in the adventitia surrounding the popliteal artery leads to luminal compression.
+Clinically, most patients are middle-aged men presenting with Claudication.
+MRI is the best diagnostic tool, as the cystic component can be readily identified with typical
+T2 hyperintensity. T1 signal intensity varies based on the mucoid content. On MRA images
+there is luminal narrowing and lateral displacement, which is called a scimitar sign.
+Treatment is surgical resection of the cyst or surgical bypass. Cyst aspiration can also be
+performed, but the cyst almost always recurs.
+VASCULAR ULTRASOUND
+GENERAL PRINCIPLES
+Angle correction
+90°
+75°
+60°
+45°
+30°
+0>60°
+15°
+0=60°
+ei
+/e11
+0
+A
+The Doppler signal is proportional to cos(0). There is no Doppler shift at 90°.
+All measurements of velocity should be made at a consistent angle (typically 60°).
+Measurements should never be taken at an angle greater than 60°.
+Overview of peak systolic velocity (PSV)
+Peak systolic velocity (PSV) is usually the most accurate method to evaluate the degree of
+arterial stenosis. PSV is elevated proximal to and at the site of stenosis.
+PSV may be decreased distal to a nemodynamicaly significant stenosis.
+The differential diagnosis of increased PSV includes:
+Downstream (distal) stenosis.
+Compensatory flow, contralateral to an obstruction or severe stenosis.
+Physiologic hyperdynamic state in a healthy young patient.
+The differential diagnosis of decreased PSV includes:
+Upstream (more proximal) stenosis.
+Poor cardiac pump function.
+Near-total occlusion.
+Vascular: 584

@@ -1,0 +1,38 @@
+ARTERIAL INTERVENTIONS
+TRAUMA
+General considerations
+Trauma accounts for the majority of IR emergencies. Level 1 trauma centers must have IR
+procedures available 24 hours a day.
+Management of traumatic solid organ injury depends on the degree of injury and
+hemodynamics of the patient. Conservative management involves resuscitation, monitoring
+of vitals and laboratory values and serial exams, and is best for stable patients with low-
+grade solid organ injury. IR angiography and embolization are best for stable patients with
+moderate-to-high grade organ injuries and CT findings showing contrast extravasation
+or pseudoaneurysm. IR embolization can be applied to either contained or uncontained
+hemorrhage, with the intention of avoiding surgery. Management of high-grade injuries can
+vary based on the organ involved.
+Aortic injury
+CTA is the gold standard for evaluation of suspected traumatic aortic injury.
+Open surgical repair is the gold standard treatment for acute traumatic aortic injury with
+endovascular stent-graft repair becoming more commonly performed recently.
+Aortic trauma: Catheter aortogram shows a large,
+Post-endograft repair aortogram shows stent-graft in
+fusiform pseudoaneurysm (arrows) of the aortic
+place with good opacification of the arch vessels.
+isthmus, distal to the brachiocephalic artery.
+Case courtesy Michael Hanley, MD, University of Virginia Health System.
+Renal trauma
+Renal trauma can be classified as blunt (>80% of injuries), penetrating (such as gunshot
+or stab wound), or iatrogenic. Hematuria is usually present with renal trauma, regardless
+of etiology. A horseshoe kidney is especially susceptible to traumatic injury as it is not
+protected by the inferior ribs and may be compressed against the vertebral column.
+The Organ Injury Scale (OIS) from the American Association for the Surgery of Trauma
+(AAST) Classification is the most widely used classification of renal injury. This scale is further
+discussed in the "Genitourinary imaging" chapter.
+Grades I-III include nonexpanding hematomas or parenchymal laceration without collecting system injury.
+These injuries are usually managed conservatively.
+Grade IV includes a deep parenchymal laceration which extends to the collecting system, causing the CT
+finding of extravasation of opacified urine on delayed imaging. Injury to the renal vessels with contained
+hemorrhage is also OIS grade IV, often treated with endovascular coil embolization as in the case below.
+Grade V (most severe) injury is a shattered kidney with avulsion of the renal hilum. Treatment is surgical.
+IR: 604

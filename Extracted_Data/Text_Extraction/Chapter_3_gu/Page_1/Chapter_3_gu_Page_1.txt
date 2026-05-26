@@ -1,0 +1,28 @@
+Cory Robinson-Weiss, Madhvi Deol, Fiona E. Malone, Khushboo Jhala, Junzi Shi,
+Ellen X. Sun, Michael A. Buckner, Jose M. Lopez, Khanant M. Desai, Daniel Souza
+Genitourinary magiing
+Retroperitoneum
+230
+Adrenal glands
+233
+Kidneys
+241
+Ureter
+269
+Bladder
+273
+Male genitourinary system
+276
+MRI of the prostate
+279
+Scrotum and testicle
+.285
+Female genitourinary system.
+.293
+Female pelvis
+298
+Uterus
+301
+Ovaries and adnexa
+314
+GU: 229

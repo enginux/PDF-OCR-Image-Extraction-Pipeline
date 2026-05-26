@@ -1,0 +1,36 @@
+INDICATIONS FOR BREAST MRI
+Screening for breast cancer in women at increased risk
+Screening for cancer in high-risk patients is an accepted indication for breast MRI. High risk
+is defined as a 20% or greater lifetime risk of developing breast cancer. There are several
+models for risk prediction taking into account family history, gene mutations, and exposures
+such as thoracic radiation (typically administered for treatment of lymphoma). BRCA1 or
+BRCA2 gene mutation carriers (or untested first-degree relatives of a confirmed carrier) are
+high risk, with 50-85% lifetime risk of developing breast cancer.
+MRI has been shown to detect occult breast cancer in 2-5% of high-risk women.
+Staging of known cancer
+In patients with an established diagnosis of breast cancer, MRI can be helpful to evaluate the
+extent of disease and can change clinical management.
+The presence of two or more sites of cancer in one quadrant (multifocal disease) may
+preclude breast conservation, depending on the size of the breast. MRI has been reported to
+find additional cancer in the same quadrant in 1-20% of women.
+The presence of cancer in more than one quadrant (multicentric disease) usually requires
+mastectomy. Unsuspected multicentric disease was found by MRI in 2-24% of women.
+MRI can accurately measure tumor size and has the highest correlation with pathology
+specimens when compared to ultrasound or mammography, which tend to underestimate
+the true size.
+MRI can assess for the presence of enlarged or abnormal axillary lymph nodes.
+MRI can evaluate for pectoralis or intercostal muscle invasion.
+Pectoralis muscle invasion: Axial (left image) and sagittal contrast-enhanced fat-suppressed MRI shows
+an ill-defined enhancing mass (yellow arrows) in the far posterior breast with loss of normal fat plane
+separating the posterior fibroglandular tissue from the pectoralis muscle. There is associated abnormal
+enhancement of the pectoralis muscle itself (red arrows).
+Evaluation for recurrent or residual disease
+Breast conservation therapy combines lumpectomy with radiation therapy and is the
+treatment of choice for most early stage breast cancers. If resection margins after
+lumpectomy pathologically show remaining tumor, MRI can evaluate for the extent of
+residual disease, which may manifest as small nodular areas of enhancement around the
+lumpectomy site.
+Normal enhancement following lumpectomy can be seen for up to 18 months due to
+granulation tissue. Suspicious features include enhancement beyond 18 months or new
+enhancement after the initial post-operative enhancement has subsided.
+Breast: 404

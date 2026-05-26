@@ -1,0 +1,35 @@
+MAGNETIC RESONANCE CHOLANGIOPANCREATOGRAPHY (MRCP)
+Magnetic resonance holanglepanrealogrephy (MRCP) overview
+right hepatic
+left hepatic
+duct
+duct
+common
+cystic duct
+hepatic
+duct
+pancreatic
+duct
+CBD
+Magnetic resonance moangopancreatogapny (MRCP) involves specific sequences of an
+abdominal MRI acquired to image the biliary tree, utilizing heavily T2-weighted sequences
+that increase the contrast between T2 hyperintense stationary fluid in the biliary tract and
+the surrounding structures.
+Sequences with intermediate T2-weighting (TE 80-100 ms) are best suited for visualization
+of the biliary ductal system and surrounding tissue, in particular to evaluate extraluminal
+structures.
+Fast spin echo sequences are most commonly used for MRCP acquisition. Various
+techniques can be employed to optimize imaging including breath-hold sequences and
+respiratory-triggered sequences.
+Advantages of MRCP over endoscopic retrograde moangopancreatogaphy (ERCP) include:
+MRCP is noninvasive.
+It does not require sedation.
+It has ability to visualize surrounding anatomy.
+Disadvantages of MRCP compared to ERCP include:
+MRCP cannot simultaneously diagnose and treat abnormalities.
+Contrast-enhanced MRCP can also be performed with fat-saturated T1-weighted imaging
+after injection of gadolinium contrast agents that have biliary excretion, such as gadoxetic
+acid disodium (Eovist). These agents shorten T1 relaxation, resulting in T1 hyperintense
+biliary fluid, but require at least a 20-minute delay prior to imaging to allow time for biliary
+excretion.
+GI: 138

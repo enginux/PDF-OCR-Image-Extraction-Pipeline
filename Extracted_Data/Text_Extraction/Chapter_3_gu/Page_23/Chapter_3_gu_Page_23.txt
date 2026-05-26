@@ -1,0 +1,31 @@
+CT evaluation of stones (continued)
+Dual-energy CT can be used to differentiate the chemical composition of urinary stones, and
+in turn, provide useful information for clinical management.
+The soft tissue rim sign helps to distinguish a phlebolith from a ureteral stone. The presence
+of a small amount of soft tissue surrounding the calcification, thought to represent the
+edematous ureteral wall, favors a ureteral stone.
+Secondary signs of ureteral obstruction include psilateral hydronephrosis and perinephric
+stranding.
+Right obstructive uropathy caused by a distal ureteral stone: Noncontrast axial CT through the kidneys (left
+image) shows unilateral right hydronephrosis (red arrow). Axial image through the pelvis shows a calcification
+along the expected course of the right ureter (yellow arrow) demonstrating the soft tissue rim sign, with a faint
+halo of soft tissue surrounding the calculus.
+Sonographic evaluation of stones and hydronephrosis
+Ultrasound is a fast and inexpensive way to evaluate for nephrolithiasis and hydronephrosis.
+An echogenic shadowing focus in the kidney, ureter or bladder is suspicious for a stone,
+particularly when associated with twinkling artifact.
+After diagnosing a renal or ureteral calculus, assess for the presence of hydronephrosis and
+perinephric fluid.
+Resistive index (RI) may be helpful in diagnosing obstruction.
+RI can be elevated in acute obstruction.
+Iti is calculated with pulse-width Doppler of the renal segmental or arcuate arteries.
+RI = (PSV = EDV)/PSV
+PSV = peak systolic velocity
+EDV = end-diastolic velocity
+Higher resistive indices correlate with higher resistance.
+With no diastolic flow, RI = PSV/PSV = 1
+Reversal of diastolici flow technically causes RI >1, although in such cases RI is not measured.
+A RI of >0.7 on the affected side, or a difference of >0.1 between kidneys, suggests acute obstruction.
+Bilateral elevated Ris (>0.7) are nonspecific and can be due to any number of medical renal processes.
+RI is not used to diagnose chronic obstruction.
+GU: 251

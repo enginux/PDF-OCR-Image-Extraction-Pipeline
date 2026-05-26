@@ -1,0 +1,31 @@
+Abdomen measurements
+The abdominal diameter is measured from outer skin-to-skin in AP and transverse at the
+level of the intrahepatic umbilical vein, portal vein, and fetal stomach.
+Ideally, the abdomen should be round, with less than 1 cm difference between the AP and
+transverse measurements. The entire circumference of the skin should be well visualized.
+The best measurements are often obtained if the anterior-posterior axis of the fetal
+abdomen is angled approximately 45 degrees SO that the artifacts from the spine are
+minimized.
+The scanning plane for abdominal diameter is at
+the junction of the umbilical vein and portal vein
+(yellow arrow). The stomach (red arrow) should be
+visualized. Note how the anterior-posterior axis of
+the abdomen is angled approximately 45 degrees to
+minimize artifacts from the spine.
+Case courtesy Carol Benson, MD, Brigham and
+Women's Hospital.
+Femur length
+The femur length is most accurately measured when the femur is closest to the transducer,
+perpendicular to the sound beam.
+Grayscale ultrasound demonstrating
+femur length measurement (calipers).
+Amniotic fluid assessment
+The amount of amniotic fluid should always be subjectively assessed. There are three
+options for assessing amniotic fluid volume.1. Subjective assessment only.2. Deepest vertical pocket of fluid is measured in cm.3. Amniotic fluid index.
+To quantify the amniotic fluid index (AFI) between 16-42 weeks, the largest vertical pocket
+of fluid is measured (in cm) in each of the four quadrants and summed. AFI varies with
+gestational age. In borderline cases, the subjective assessment should take precedent. Some
+references state that an AFI between 7 and 25 is normal, but these cutoffs vary.
+Oligohydramnios: AFI $6.3 cm is <2.5th percentile. Peaks at 24 weeks: 9.0 cm = 2.5th percentile.
+Polyhydramnios: AFI 219.2 cm is 297.5th percentile. Peaks at 36 weeks: 27.9 cm = 97.5th percentile.
+Obstetrics: 340

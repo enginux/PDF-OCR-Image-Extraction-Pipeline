@@ -1,0 +1,40 @@
+PANCREATITIS
+Pancreatitis is inflammation of the pancreas, which may be due to a variety of etiologies that
+share a final common pathway of premature activation of pancreatic enzymes and resultant
+autodigestion of pancreatic parenchyma.
+Pancreatitis may range in severity from mild self-limited disease to necrotizing infection
+resulting in multiorgan failure and death.
+Ultrasound role of imaging
+Ultrasound is useful in the initial evaluation of clinically suspected acute pancreatitis to
+evaluate for gallstones, choledocholithiasis or biliary obstruction.
+Ultrasound has limited utility in evaluating complications of pancreatitis such as pancreatic
+necrosis or peripancreatic fluid collections.
+CT protocol and role of imaging
+Imaging of pancreatitis is ideally performed in the pancreatic phase (late arterial; "40
+seconds after contrast injection when the pancreatic parenchyma is maximally enhancing),
+which is the optimal time to detect subtle areas of decreased enhancement suggestive of
+necrosis.
+CT may be helpful when the clinical presentation is equivocal for pancreatitis, a patient is
+critically ill or worsening over time, to assess for severity, detect complications, and guide
+treatment.
+CT imaging is not indicated in patients with clinical diagnosis of mild acute pancreatitis,
+especially if they are improving. CT imaging may be negative or show a mildly edematous
+pancreas in these cases.
+MR protocol and role of imaging
+MRI is indicated for evaluation of etiology (i.e., choledocholithiass), edema, necrosis,
+associated neoplasm, and the pancreatic duct.
+Different sequences in MRI with MRCP assess for the following pancreatic abnormalities:
+MR Sequence
+Can evaluate for
+T2-weighted fat saturation
+Edema and fluid collections
+MRCP
+Biliary tree and pancreatic duct
+Pre-contrast T1-weighted
+Pancreatic parenchymal bulk and signal (normally, pancreas
+should be the brightest organ)
+T1 post-contrast at 30, 60, and 90 seconds Pancreatic parenchymal enhancement, vascular complications
+and fluid collections
+Subtraction
+Best to evaluate for pancreatic necrosis
+GI: 150

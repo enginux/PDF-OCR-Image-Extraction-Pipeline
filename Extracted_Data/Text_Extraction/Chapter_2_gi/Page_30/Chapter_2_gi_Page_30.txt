@@ -1,0 +1,43 @@
+Normal hepatic vein waveform
+A-wave V-wave
+atrial tricuspid
+systole valve
+retrograde
+(towards transducer)
+opens
+anterograde
+(into heart;
+away from transducer)
+D-wave
+S-wave ventricular
+diastole
+ventricular
+systole
+A-wave: Atrial contraction, during which blood is forced retrograde (away from the heart) into the liver.
+S-wave: Ventricular systole, during which al large volume of blood returns to the right atrium.
+V-wave: Atrial overfilling, followed by tricuspid valve opening (peak of the V-wave) and early ventricular
+diastolic filling of the right ventricle.
+D-wave: Continued filling of the right ventricle during ventricular diastole, during which a smaller volume
+of blood returns to the right atrium.
+PORTAL VEIN PATHOLOGIES
+Portal venous pulsatility
+While the normal portal venous waveform may be gently undulating (described as phasic),
+a pulsatile portal venous waveform is abnormal. The differential diagnosis for a pulsatile
+portal venous waveform includes tricuspid regurgitation and right-sided heart failure.
+Portal vein thrombosis
+Thrombosis of the portal vein can be bland (simple thrombosis) or may be due to tumor
+invasion.
+Bland portal vein thrombus can be caused by a hypercoagulable state or may be due to local
+inflammation from pancreatitis or hepatitis.
+In infants, omphalitis or dehydration may also lead to portal vein thrombosis.
+Tumor thrombus is most commonly caused by HCC and is referred to as "tumor-in-vein'.
+LES
+Abdom
+Generdl
+80dB
+Gain:
+Storein
+Grayscale transverse image of the porta hepatis shows echogenic debris within the main portal vein (arrows).
+Color Doppler confirms partial portal vein thrombosis with lack of flow in the proximal portal vein (arrow).
+Case courtesy. Julie Ritner, MD, Brigham and Women's Hospital, Boston.
+GI: 124

@@ -1,0 +1,31 @@
+RADIONUCLIDE IMAGING OF CARDIAC FUNCTION
+Gated SPECT (GSPECT)
+As described earlier in the chapter, GSPECT using TC-99m-labeled perfusion agents (e.g.,
+sestamibi) is most commonly performed for evaluation of ventricular function.
+First-pass radionuclide angiography (FP-RNA)
+TC-99m-labeled red blood cells (RBCs) are injected intravenously and dynamic imaging is
+performed during the rapid initial transit of radiotracer through the heart, great vessels, and
+lungs. The study can be done at both rest and during stress. This study is no longer used in
+clinical practice.
+Data can be processed for visual and quantitative assessment of ventricular wall motion,
+ejection fraction (EF), and left-to-right intracardiac shunts.
+FP-RNA is more accurate than E-RNA (below) for evaluation of right ventricular EF. It is not
+sensitive for right-to-left intracardiac shunts, which can be better detected on a pulmonary
+perfusion scan with Tc-99m MAA (discussed under "Nuclear Imaging" chapter).
+Equilibrium radionuclide angiography (E-RNA)
+EDI Frame
+ES Frame
+EF Image
+Stroke VolumeMUGA scan: Representative planar images for calculation of LVEF and stroke volume.
+This is also known as gated blood pool ventriculography or multi-gated acquisition (MUGA)
+scan. ECG-gated planar blood pool images of the heart are obtained after injected Tc-
+99m RBCS have achieved equilibrium in the intravascular space. In vitro labeling of RBCs is
+preferred. E-RNA can also be performed with SPECT (SPECT-E-RNA).
+E-RNA allows visual evaluation of cardiac size, shape, and wall motion, as well as functional
+analysis of ventricular performance.
+LVEF = (end diastolic counts - end systolic counts) / (end diastolic counts - background counts)
+The calculated LVEF can be falsely elevated if the selected background region of interest includes part of
+the left atrium (in case of left atrial enlargement) or extracardiac activity (e.g., spleen).
+E-RNA is comparable to FP-RNA for measurement of LVEF. However, it has been largely
+replaced by the more available echocardiography and GSPECT perfusion imaging.
+Cardiac: 497

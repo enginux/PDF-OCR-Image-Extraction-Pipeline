@@ -1,0 +1,45 @@
+PLAIN FILM IMAGING OF HEART DISEASE
+By applying a systematic approach, the standard chest radiograph can offer valuable
+information about the presence or severity of heart disease.
+The radiographic evaluation of heart disease begins with an assessment of the size of
+the cardiac silhouette. Radiographically evident heart disease can be divided into two
+categories: Those with a normal-sized cardiac silhouette and those with an enlarged cardiac
+silhouette.
+A ratio of the cardiac silhouette to the inner diameter of the thorax (the cardiothoracic ratio)
+of 0.55 or greater (on a PA projection) suggests enlargement of the cardiac silhouette.
+Cardiovascular diseases with an enlarged cardiac silhouette include cardiomyopathy
+secondary to congestive heart failure, valvular regurgitation (aortic, mitral, or tricuspid
+regurgitation), high-output or volume overload states, dilated cardiomyopathy, pericardial
+effusion, and paracardiac mass.
+To distinguish between the various causes of enlarged cardiac silhouette, the key structures
+to evaluate are the left atrium and the aorta.
+If the left atrium is enlarged and the cardiac silhouette is enlarged, that suggests mitral regurgitation.
+Ifthe aortai is enlarged and the cardiac silhouette is enlarged, that suggests aortic regurgitation.
+If neither the left atrium nor the aorta is enlarged, that suggests one of the other etiologies.
+Cardiovascular diseases with a normal-sized cardiac silhouette include valvular stenosis
+(aortic or mitral stenosis), pulmonary artery hypertension, hypertrophic cardiomyopathy,
+restrictive physiology, and acute myocardial infarction.
+Similar to evaluation of diseases with an enlarged cardiac silhouette, the key structures to
+evaluate in the presence of a normal cardiac silhouette are the left atrium and the aorta.
+Ifthe left atrium is enlarged and the cardiac silhouette is normal, that suggests mitral stenosis.
+Ift the aortai is enlarged and the cardiac silhouette is normal, that suggests aortic stenosis or aortic
+aneurysm.
+If neither the left atrium nor the aorta is enlarged, that suggests one of the other etiologies.
+Other structures to always evaluate include the pulmonary vascularity, thoracic wall,
+chamber enlargement, and the great vessels (pulmonary arteries, ascending aorta, aortic
+arch, and descending aorta).
+Right ventricular enlargement
+The right ventricle is the most anterior cardiac chamber. Right ventricular enlargement
+causes displacement of the cardiac apex in a leftward direction (in contrast to left ventricular
+enlargement, which causes displacement in a left-inferior direction).
+Right ventricular enlargement may cause opacification of the retrosternal clear space on the
+lateral radiograph.
+Right atrial enlargement
+The right atrium forms the right heart border. Right atrial enlargement causes lateral bulging
+or elongation of the right heart border.
+Left ventricular enlargement
+The left ventricle forms the left heart border. Left ventricular enlargement typically causes
+displacement of the cardiac apex in a left-inferior direction.
+Note that hypertrophic cardiomyopathy does not cause enlargement of the external contour
+of the ventricle.
+Cardiac: 501

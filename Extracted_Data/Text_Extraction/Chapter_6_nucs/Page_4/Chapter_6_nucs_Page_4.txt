@@ -1,0 +1,30 @@
+ONCOLOGIC INDICATIONS OF F-18 FDG PET/CT
+Lung cancer
+Lung cancer initial staging: Fused axial PET/CT (left image) and coronal PET MIP (right image) show an intensely
+FDG-avid right upper lobe mass (blue arrow) representing the patient's primary bronchogenic carcinoma.
+There were no enlarged or FDG-avid hilar or mediastinal lymph nodes, and no FDG-avid distant metastases.
+Also note normal biodistribution of FDG in the other organs.
+PET/CT plays a role both in the initial staging of patients with lung cancer, and in evaluating
+response to treatment.
+For initial staging, PET/CT is most useful in evaluating local tumor extension and searching
+for distant metastases. Approximately 10% of patients with a negative metastatic workup by
+CT will have PET evidence of metastasis.
+PET/CT also plays a role in the initial detection of mediastinal and hilar lymph nodes.
+Although PET is very sensitive for detecting malignant lymph nodes, it is not specific.
+Mediastinoscopy is the gold standard for lymph node staging. Given the lack of PET
+specificity, PET-positive mediastinal nodes must be followed by mediastinoscopy before
+potentially curative surgery is denied based solely on the PET.
+Solitary pulmonary nodule (SPN)
+Evaluation of a suspicious solitary pulmonary nodule (SPN) is an indication for PET/CT.
+Depending on the equipment used, 5-8 mm is typically the smallest size for a nodule that
+can be reliably evaluated by PET.
+The majority of malignant SPNS are FDG-avid. However, low-grade tumors such as lung
+adenocarcinoma or carcinoid may not be metabolically active and may be falsely negative
+on PET.
+Conversely, the majority of benign SPNS are not FDG-avid. Active granulomatous disease
+(including tuberculosis) may take up FDG, thus falsely positive on PET.
+Iti is never possible to definitively diagnose a nodule as benign or malignant based on SUV
+value alone.
+In general, if a nodule is not FDG-avid, short-term follow-up is reasonable. If the nodule is
+FDG-avid then biopsy or resection is preferred.
+Nucs: 447

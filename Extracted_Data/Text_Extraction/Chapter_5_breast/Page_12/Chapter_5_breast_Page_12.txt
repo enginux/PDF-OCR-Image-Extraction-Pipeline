@@ -1,0 +1,38 @@
+SKIN THICKENING
+Unilateral skin thickening can be due to either benign or malignant causes. Similar to
+changes in fibroglandular density, bilateral skin thickening is usually benign and the result of
+a systemic process.
+Skin thickening: Benign causes
+Radiation therapy (usually unilateral).
+Acute mastitis (usually unilateral).
+Skin inflammation (usually unilateral and focal).
+CHF (fluid overload), renal failure (fluid overload due to protein wasting), and liver failure
+(fluid overload due to ypoalbuminemia) may all produce unilateral or bilateral skin
+thickening.
+Skin thickening: Malignant causes
+Inflammatory carcinoma, which represents invasion of dermal ymphatics by cancer. A
+mammographic mass may be present.
+Locally advanced carcinoma.
+Lymphatic obstruction from axillary adenopathy.
+BI-RADS LEXICON FOR MAMMOGRAPHIC MASSES
+Is the mass seen in more than one view?
+A mammographic mass is a space-occupying lesion with convex borders seen in two
+different projections. In contrast, an asymmetry is seen in one view only.
+Evaluate past films: Is it new?
+There are many different descriptors to characterize a mammographic mass using the BI-
+RADS lexicon, but regardless of morphology, the presence of a new mass is suspicious and
+must be evaluated fully.
+Conversely, a malignant-looking mass should still be regarded with suspicion even if it hasn't
+changed. Slow growing carcinomas, such as tubular carcinoma, can stay stable for years.
+A: stable mass with all benign features is almost always regarded as benign.
+Evaluate the margins, using the BI-RADS lexicon
+Circumscribed
+Microlobulated
+Obscured
+Indistinct
+Spiculated
+Careful evaluation of the margins of a mammographic mass at the interface with
+surrounding tissue is key to stratifying the suspicion for malignancy. The five BI-RADS terms
+used to describe the margins are circumscribed, microlobulated, obscured, indistinct, and
+spiculated.
+Breast: 379

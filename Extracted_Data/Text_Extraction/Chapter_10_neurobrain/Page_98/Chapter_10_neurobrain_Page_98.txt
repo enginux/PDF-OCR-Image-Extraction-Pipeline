@@ -1,0 +1,45 @@
+Herpes encephalitis (continued)
+Once the infection becomes hemorrhagic, MRI will show foci of T1 shortening and gradient
+susceptibility. The affected areas typically demonstrate reduced diffusion.
+Enhancement may develop later in the infection, and is typically gyral in morphology-
+In an immunocompromised patient, HSV-6 infection should be considered with the above
+findings, although enhancement and diffusion abnormalities may be absent.
+The differential diagnosis of medial temporal lobe lesions includes MCA infarction,
+infiltrating glioma, limbic encephalitis, and seizure-related changes. Fever is typically absent
+in infarction and glioma. Herpes encephalitis should be the first consideration in any patient
+with fever and signal abnormality in the medial temporal lobe.
+Treatment is urgent antiviral therapy.
+HIV encephalopathy
+HIV encephalopathy is the most common CNS infection in AIDS patients. It is a progressive
+neurodegenerative disease caused by direct infection of CNS lymphocytes and microglial
+cells (CNS macrophages) by the HIV virus.
+On imaging, HIV encephalitis manifests as diffuse cerebral atrophy and symmetric T2
+prolongation in the periventricular and deep white matter.
+As previously discussed, in contrast to progressive multifocal eukpencephalopathy (PML),
+HIV encephalitis spares the subcortical U-fibers and tends to be symmetric.
+Cytomegalovirus (CMV) encephalitis
+Cytomegalovirus (CMV) encephalitis only affects the immunosuppressed, typically when the
+CD4 cells are less than 50 cells/pL.
+The most common CNS manifestation of CMV infection is ventriculitis or
+meningoencephalitis.
+The characteristic imaging features of CMV ventriculitis include subependymal FLAIR
+hyperintensity and enhancement throughout the ventricular system.
+In neonates, CMV is one of the most common TORCH infections and causes atrophy,
+encephalomalacia, ventricular enlargement, and periventricular calcification.
+FUNGAL INFECTION
+Radiologic manifestations of CNS fungal infections are often nonspecific, including
+parenchymal abscesses, granulomas, cerebritis, meningitis, vasculitis, or mycotic aneurysms.
+Imaging features that help distinguish intracranial fungal abscesses from bacterial abscesses
+include crenated/lobulated border, nonenhancing intracavitary projections (thought to
+represent fungal hyphae) with restricted diffusion, and a core without restricted diffusion.
+Skull base involvement (basilar meningitis) is a common feature in fungal infections and can
+present as multiple cranial nerve palsies.
+Fungal mycotic aneurysms often arise from the proximal cerebral vasculature and are
+fusiform in morphology (due to involvement of long segments of vessel wall), in contrast to
+bacterial mycotic aneurysms which are typically saccular, small, multiple, and arise distally.
+Immune status of the patient and geographic distribution of some fungal organisms can also
+help narrow down the differential.
+Fungal organisms that infect immunocompetent patients: Cryptococcus neoformans, Coccidioides immitis,
+Histoplasma capsulatum, Blastomyces dermatitidis.
+Fungal organisms that infect immunocompromised patients: Aspergillus, Candida, Mucormycoses.
+Neuro Brain: 747

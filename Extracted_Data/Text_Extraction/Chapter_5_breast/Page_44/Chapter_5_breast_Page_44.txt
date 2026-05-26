@@ -1,0 +1,36 @@
+INTERPRETING BREAST MRI
+The main component of breast MRI is the dynamic post-contrast images with post-processing
+to evaluate for the morphology, and kinetics of any enhancing mass, focus, or NME. Initial
+evaluation of the post-processed CAD angiomap or MIP images can give a global overview of
+any abnormal enhancement.
+T1-weighted images best show susceptibility artifact from biopsy clips or calcifications, and
+demonstrate hyperintense hemorrhagic cysts and proteinaceous ductal fluid.
+T2-weighted images can be helpful to confirm benignity in a lesion that appears
+morphologically benign on the post-contrast images. Although no specific BI-RADS
+nomenclature exists to describe T2 characteristics, T2 hyperintensity within the enhancing
+portion of a mass is suggestive of a benign lesion. For instance, in younger women, myxoid
+fibroadenomas are typically hyperintense on T2-weighted images.
+In isolation, T2 nyperintensity is not reliable for determining benignity. An important
+example is mucinous carcinoma, which is typically hyperintense on T2-weighted images.
+A
+Contrast-enhanced MRI of a patient with biopsy-proven high-grade DCIS of the left breast: Post-processed
+color CAD angiomap shows extensive regional non-mass enhancement with suspicious enhancement kinetics
+(red and yellow colors).
+BI-RADS CLASSIFICATION OF MASSES OR NME
+Classification should be determined based on morphology and enhancement kinetics. Note
+that a lesion with malignant morphology is suspicious regardless of enhancement curve.
+Mass or NME with a type I kinetic curve and benign morphology:
+BI-RADS 2: Bilateral scattered foci of enhancement, without a dominant mass or suspicious focal NME.
+BI-RADS 3: Mass or NME with benign morphology and enhancement kinetics, and negative targeted
+ultrasound. In order for follow-up to be appropriate (rather than biopsy), the lesion must demonstrate
+only benign features on MRI. It is specifically these benign MRI features, rather than the negative targeted
+ultrasound, that allow a lesion to be classified as BI-RADS 3.
+BI-RADS 4: Solitary, dominant, or asymmetric NME in a high-risk patient.
+Mass or NME with type II or III kinetic curve and benign morphology:
+BI-RADS 4: A notable exception is a benign intramammary lymph node, which is typically located in the
+lateral breast adjacent to a vessel, and is reniform in shape.
+Mass or NME with type I kinetics and malignant morphology is generally classified as BI-
+RADS 4.
+A mass or NME with a type II-III kinetic curve and malignant morphology may be classified
+as BI-RADS 4 or 5.
+Breast: 411

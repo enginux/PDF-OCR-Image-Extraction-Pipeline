@@ -1,0 +1,42 @@
+HEPATIC DOPPLER
+NORMAL ANATOMY AND DOPPLER WAVEFORMS
+normal = hepatopetal flow (towards the liver)
+hepatic arteries and portal veins flow in the same direction
+LPV
+RHA = right hepatic artery
+LHA = left hepatic artery
+RHA
+LHA
+CHA = common hepatic artery
+RPV= right portal vein
+RPV
+LPV: = left portal vein
+MPV: = main portal vein
+CHA
+MPV
+The normal hepatic artery waveform is pulsatile and towards the liver, called hepatopedal
+flow (-pedal = toward).
+Normal hepatic artery waveform:
+AC 50 80 Doppler tracing shows a pulsatile waveform, above
+60 the baseline, indicating hepatopedal flow. The peak
+40 height corresponds to the peak systolic velocity
+20 while the trough corresponds to end-diastolic
+velocity. A typical resistive index (RI) is 0.55-0.7.
+cm/s
+-20 RI is calculated by (peak systolic velocity - end
+diastolic velocity)/ peak systolic velocity.
+The normal portal vein waveform is above the baseline (hepatopedal) and gently undulating
+(phasic) with velocity ranging from 16-40 cm/sec.
+The hepatic veins feed into the IVC and the right side of the heart. The spectral Doppler
+waveform is pulsatile and representative of changes during the cardiac cycle, though with
+the majority of blood flowing antegrade (away from the liver and towards the heart). The
+normal hepatic venous waveform has four distinct components: The A, S, V and D waves.
+AC 48
+40
+30
+cm/s
+10
+20
+Normal portal vein waveform.
+Normal hepatic vein waveform.
+GI: 123

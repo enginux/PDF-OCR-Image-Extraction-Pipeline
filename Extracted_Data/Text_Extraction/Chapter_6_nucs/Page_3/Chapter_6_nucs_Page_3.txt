@@ -1,0 +1,47 @@
+CT correlation
+Most modern PET studies are performed together with CT as a PET/CT. One important
+exception is in the pediatric population, where PET may be performed in isolation to reduce
+the risk of radiation exposure from CT.
+The CT exam is often performed with a lower dose than a diagnostic-quality CT. The CT
+protocol varies by institution (e.g., whether intravenous contrast is administered).
+The CT is used for anatomic localization and attenuation correction.
+Very dense retained oral contrast or dense metallic objects (such as joint prostheses) may
+cause artifactual FDG uptake due to miscalculation of attenuation correction.
+Patient preparation
+The uptake of FDG in both normal and pathological tissues is dependent on the serum
+glucose and insulin levels.
+Elevated insulin levels will cause increased muscle uptake and decrease the sensitivity for
+detecting mildly FDG-avid lesions.
+Patients should be NPO for at least 4 hours to allow insulin to reach a basal level.
+In type 1 diabetes, imaging should be performed in the morning after an overnight fast. Insulin is not
+recommended.
+In type 2 diabetes, regular insulin should be held 2-4 hours prior to the study. Short-acting insulin can
+be used but is not recommended. There is no need to hold long-acting insulin and oral hypoglycemic
+medications such as Metformin, though the latter can increase bowel uptake.
+Blood glucose should be below 200 mg/dL, preferably below 150.
+Elevated serum glucose will result in decreased FDG uptake by tumors and the brain.
+The typical administered dose of F-18 FDG is 10-25 mCi. After intravenous injection, the
+patient should rest in a quiet room for 60 minutes before imaging.
+Ifthe patient talks, the vocal cords may show FDG uptake.
+Ifthe patient walks, the muscles may show FDG uptake.
+Normal FDG distribution
+Brain: The brain has intense FDG uptake. Brains love sugar!
+Despite intense uptake, with appropriate windowing, excellent detail of the cortex, basal ganglia, and
+cerebellum can be seen.
+Renal, ureters, and bladder: FDG is concentrated in the urine, with very intense activity in
+the renal collecting system, ureters, and bladder. As a result, bladder is the critical organ
+(the body part most susceptible to radiation damage from a given isotope). Good hydration
+is recommended for clearance of radioactivity.
+Salivary glands, tonsils, thyroid: Mild to moderate symmetric uptake.
+Liver: Moderate, largely homogeneous uptake.
+Bowel: Diffuse mild to moderate uptake is normal. Focal uptake within the bowel, however,
+should be regarded with suspicion.
+Metformin can increase colonic, and to a lesser extent, small bowel FDG uptake and may mask a lesion.
+Heart: Uptake is often variable, depending on insulin/glucose levels and the patient's fasting
+state. The heart prefers fatty acids but will use glucose in the postprandial state.
+Muscles: FDG uptake is normally low. However, elevated insulin levels or recent exercise can
+cause increased muscle uptake.
+Brown fat: Brown fat is metabolically active adipose tissue that can be found in the
+supraclavicular, axillary, mediastinal and paravertebral regions in adults that can be mildly to
+moderately FDG avid, especially if the patient is cold or after food intake.
+Nucs: 446

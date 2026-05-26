@@ -1,0 +1,33 @@
+BI-RADS: Mammographic calcification lexicon
+Skin calcifications
+Round calcifications
+Vascular calcifications
+Rim calcification
+Typically
+benign
+Coarse or "popcorn-like"
+Milk of
+calcifications
+calcium
+Lat
+C
+Large rod-like calcifications
+Dystrophic calcifications
+Morphology
+Suture calcifications
+Amorphous
+Coarse heterogeneous
+calcifications
+calcifications
+Suspicious
+Fine pleomorphic
+Finel linear or fine-linear
+calcifications
+branching calcifications
+Grouped
+Segmental
+Linear
+Regional
+Distribution
+Diffuse
+Breast: 389

@@ -1,0 +1,62 @@
+IMAGING OF THE LIVER
+Liver CT
+A "routine" contrast-enhanced abdominal CT is acquired in the portal venous phase of
+enhancement, obtained 70 seconds following intravenous contrast administration.
+In the portal venous phase, the portal veins should be fully opacified and contrast should
+also be seen in the hepatic veins. The liver should be homogeneously enhancing, allowing
+detection of attenuation alterations and/or morphologic changes of diffuse liver disease,
+such as hepatic steatosis and cirrhosis. As most metastatic tumors are not hypervascular
+(with a few notable exceptions, which will be subsequently discussed), liver metastases can
+also generally be detected on the portal venous phase as hypoattenuating masses. Of note,
+some breast cancers may rarely be soattenuating on the portal venous phase and may be
+more conspicuous on unenhanced CT.
+Most benign and malignant primary liver masses are hypervascular and thus are most
+conspicuous in the late arterial phase of enhancement ("45 seconds). If the patient has
+a known hypervascular primary malignancy, both a late arterial phase and portal venous
+phase may be obtained for metastatic workup and restaging. If the patient has a suspected
+primary liver mass (such as hemangioma, focal nodular hyperplasia, hepatocellular
+carcinoma), a multiphase CT or MRI may be obtained, usually including a noncontrast,
+arterial phase, portal venous phase and delayed phase.
+Liver MRI
+Compared to CT, MRI of the liver has superior lesion-to-liver contrast.
+MRI also does not impart ionizing radiation, allowing for dynamic post-contrast imaging
+in multiple phases without any penalty in radiation exposure to the patient. In- and out-
+of-phase gradient imaging allows for detection of intracytoplasmic lipid, which is seen in
+hepatic steatosis and may be seen within certain masses, including hepatocellular carcinoma
+(HCC) and adenomas. Diffusion-weighted imaging is useful for detection of metastatic
+lesions.
+MRI Contrast agents:
+Extracellular agents pass through the intravascular system and interstitium similarly to CT contrast.
+Gadobutrol (Gadavist) is a commonly used extracellular contrast agent that is 90% excreted through the
+renal system.
+Combined cataceluar/hepatoallary agents pass through the intravascular system and interstitium
+similarly to CT contrast, but are partially excreted through the biliary system. Gadoxetic acid disodium
+(Eovist) is 50% excreted through the biliary system and 50% through the renal system. Indications for use
+include evaluation for metastatic lesions and focal nodular hyperplasia (FNH).
+Hepatobiliary Mechanism
+Indications
+Contrast Agent
+Differentiating FNH and adenoma
+Gadolinium- Gadoxetic
+Taken up by liver in the delayed (FNH is iso to hyperintense)
+based,
+acid disodium phase
+Hepatic metastases (uptake excludes
+combined
+(Eovist)
+50% biliary excretion
+a metastasis from nonliver primary)
+extracellular/
+hepatobiliary Gadobenate
+Only 5% taken up by the liver, Now mainly used in pelvic, cardiac
+agents
+dimeglumine requires 1 hour delay
+and MSK imaging
+(MultiHance)
+Iron oxide-
+Ferumoxides or Particles trapped by Kupffer cells
+based
+and reduce T2 relaxivity, making Adjunct for detection of HCC
+ferumoxytol
+liver or spleen dark on T2
+G!: 98

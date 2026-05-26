@@ -1,0 +1,35 @@
+BI-RADS: Ultrasound mass lexicon
+Round
+de
+Oval
+Irregular
+Shape
+Parallel
+Not parallel
+Orientation
+Indistinct
+Spiculated
+Circum-
+Margins
+scribed
+Angular
+Micro-
+lobulated
+Anechoic
+Hypo-
+Hyper-
+echoic
+echoic
+Echo
+pattern
+Isoechoic
+Complex
+cystic and
+solid
+Posterior
+None
+Enhancement
+Shadowing
+Combined,
+features
+Breast: 402

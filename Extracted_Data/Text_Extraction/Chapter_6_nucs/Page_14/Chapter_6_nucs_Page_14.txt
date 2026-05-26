@@ -1,0 +1,40 @@
+THYROID
+RADIOTRACERS
+lodine-131
+I-131 emits both beta particles and 364 keV gamma photons (only the gamma photons are
+used for imaging). The half-life is 8 days. I-131 is produced by fission in a nuclear reactor. It is
+administered orally.
+I-131 is ideal for therapy due to its high radiation dose to the thyroid and relatively low
+whole body dose. Indications include treatment of thyroid cancer status post thyroidectomy,
+and hyperthyroidism from Graves disease or multinodular goiter.
+lodine-123
+I-123 decays by electron capture and emits 159 keV gamma photons. The half-life is 13
+hours. I-123 is expensive because it is produced by cyclotron. It is administered orally.
+I-123 is the preferred radioisotope for thyroid imaging, as it can image in high detail and
+obtain thyroid uptake values.
+Tc-99m pertechnetate
+Tc-99m emits 140 keV gamma photons, has a half-life of 6 hours, and is generatorproduced.
+Unlike iodine, pertechnetate is trapped but not organified by the thyroid. After initial
+uptake it is released into the blood pool. Thyroid uptake is not routinely quantified with
+pertechnetate due to its rapid washout.
+Pertechnetate is an excellent alternative to I-123 for thyroid imaging because of its ready
+availability from generators, and its low patient dose which allows administration of higher
+doses and thereby permits quicker imaging with less motion artifact. It is administered
+intravenously.
+Because pertechnetate does not specifically localize to the thyroid, high background counts
+are typical. Only 1-5% of administered activity is taken up by the thyroid.
+In contrast to I-123, the salivary glands are well seen with pertechnetate.
+Tc-99m pertechnetate is preferred over I-123 when the patient has received recent
+intravenous iodinated contrast (iodine in contrast blocks thyroid uptake of additional
+iodine), when IV administration is necessary, or when a quick study is required.
+Tc-99m pertechnetate (left image) versus
+1-123 (right image) thyroid scans. Note,
+pertechnetate has higher background counts
+and physiologic uptake in salivary glands.
+Patient preparation
+Patients undergoing I-123 or I-131 maging/therapy must have non-suppressed TSH,
+which can be achieved by stopping exogenous thyroid hormone for 4 weeks, or by two
+intramuscular injections of recombinant TSH (rTSH).
+Patients who received intravenous iodinated contrast should wait one month before
+radioiodine imaging.
+Nucs: 457

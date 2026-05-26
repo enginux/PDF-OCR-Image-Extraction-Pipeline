@@ -1,0 +1,58 @@
+Film optical density (OD)
+Film optical density (OD) = logio( o/, - 0g,fndlden/transmited light intensity)
+and characteristic curves
+OD of 1 - 10% photons transmitted through film
+OD of 2 - 1% transmitted
+OD of 3 - 0.1% transmitted
+Film "looks good" if the average OD is "1.5. This occurs after approximately 5
+yGy photons hit the film/screen.
+A characteristic curve ogarithmically plots the relationship between radiation
+exposure (air kerma) and film optical density.
+The toe is the low-exposure region and the shoulder is the high exposure region. Fog is the
+baseline low-level darkening of film that occurs in the absence of radiation exposure.
+Latitude is the range of air kerma with satisfactory film density. A high-
+latitude film is ideal for imaging body parts with a wide variation of X-ray
+transmission (e.g., a chest radiograph). A high-contrast (low-latitude) film is
+ideal for accentuating image contrast in tissues with low subject contrast (e.g.,
+mammography).
+Gamma is steepest part of curve;
+Effect of latitude on characteristic
+gradient is average steepness:
+curve:
+3
+shoulder
+3
+high-contrast
+(mammo)
+high-latitude,
+D 2.
+(cxr)
+S
+1
+toe
+base + fog - 0.2 OD
+log(exposure)
+log(exposure)
+Digital detectors
+lonization chamber: High-pressure Xe (k-edge 35 kev): Used for measuring
+radiation, not for imaging.
+All except Xe are Solid
+Photostimulable phosphor: Barium fluorohalide (BaFBr); used in computed
+State detectors.
+radiography.
+Read out with red laser light (emits blue light).
+Dynamic range is 10,000:1 (vs. 40:1 for screen-film).
+Can be used with air kerma <0.1 yGy to 1000 MGy.
+Csl and Selenium used
+Scintillator: Cesium iodide (Csl); note that Csl also used as input phosphor in an
+without cassette.
+image intensifier.
+Indirect: Absorbed X-rays first converted to light, which is then stored as charge.
+Advantage: K-edge 30-ish, good at absorbing X-rays.
+Disadvantage: Light spreads out - blur
+Photoconductor: (Selenium)
+Direct: Absorbed X-rays directly converted to charge.
+Advantage: No light spreading, very: sharp.
+Disadvantage: K-edge 13, poor X-ray absorber at standard radiography keV.
+Used in digital mammography.
+Physics: 1206

@@ -1,0 +1,29 @@
+Cryptococcosis
+Cryptococcosis: Axial post-contrast T1-weighted MRI (left image) and DWI (right image) show abnormal
+enhancement of the choroid plexus (yellow arrows) with cystic components that demonstrate restricted
+diffusion (red arrows), suggesting cryptococcomas. Lumbar puncture confirmed cryptococcal meningitis.
+Cryptococcosis is the most common CNS fungal infection in patients with AIDS and is caused
+by Cryptococcus neoformans. It is the third most common CNS infection in AIDS overall, after
+HIV encephalopathy and toxoplasmosis.
+Similar to toxoplasmosis, AIDS patients become susceptible to cryptococcus with a CD4
+count less than 100 cells/uL. The most common clinical presentation is chronic basilar
+meningitis. The most common imaging finding is hydrocephalus, which is very nonspecific.
+Cryptococcus spreads along the basal ganglia perivascular spaces, leaving behind gelatinous
+pseudocysts, which appear as round water-signal lesions on T1- and T2-weighted MRI.
+Cryptococcus has a predilection for spread to the choroid plexus, producing ring-enhancing
+granulomas (called cryptococcomas) within the ventricles.
+Treatment is with antifungal agents including fluconazole and amphotericin B.
+Aspergillosis
+Aspergillus spp. are ubiquitous molds that are angioinvasive and can lead to disseminated
+disease in immunocompromised patients. Routes of infection include hematogenous spread
+from the lung, extension from paranasal sinuses, or direct inoculation from trauma.
+Clinical presentation of invasive aspergillosis includes brain abscesses, meningitis, or
+meningoencephalitis.
+Aspergillus has a propensity to invade blood vessels, leading to vasculitis with secondary
+thrombosis, infarction, and mycotic aneurysm formation. Superimposed hemorrhage is a
+common feature.
+Aspergillus abscesses may demonstrate a hypointense rim on T2-weighted and gradient-
+echo images (representing hemorrhage and hemosiderin deposition) and peripheral
+restricted diffusion.
+Treatment includes voriconazole or amphotericin B.
+Neuro Brain: 748

@@ -1,0 +1,28 @@
+Paragangliomas
+Paragangliomas are the most common primary middle ear tumors. Clinically, they typically
+present with pulsatile tinnitus or conductive hearing loss and appear on otoscopic
+evaluation as a red retrotympanic mass.
+Paragangliomas are extra-adrenal neoplasms of sympathetic or parasympathetic
+paraganglionic tissue. In the head and neck, most arise from the parasympathetic,
+noncatecholaminergic glomus cells and therefore are called glomus tumors. Most are
+benign, but they can be locally aggressive. Less than 5% undergo malignant degeneration.
+Most head and neck paragangliomas are sporadic but a significant minority are associated
+with a hereditary disorder: familial paraganglioma due to succinate dehydrogenase (SDH)
+subunit gene mutations, multiple endocrine neoplasia type 2 (MEN2), neurofibromatosis
+type 1 (NF1), or von Hippel Lindau disease (VHL).
+Paragangliomas tend to occur in a few locations in the head and neck: at the carotid
+bifurcation, in the suprahyoid neck along the course of the vagus nerve, at the jugular
+foramen, and in the middle ear.
+Glomus tympanicum tumor is a paraganglioma isolated to the middle ear, typically centered at the
+cochlear promontory along the Jacobson nerve (branch of CN IX). The jugular plate is preserved.
+Glomus jugulotympanicum tumor describes a paraganglioma that involves both the middle ear cavity
+and jugular foramen, eroding through the jugular plate.
+Paragangliomas are highly vascular, avidly enhancing soft tissue masses. In larger tumors,
+the classic MRI pattern is the salt and pepper appearance due to intratumoral flow voids.
+Preoperative angiography with tumor embolization can reduce surgical blood loss.
+Glomus tympanicum: Coronal (left image) and axial post-contrast T1-weighted MRI demonstrates a
+heterogeneously enhancing lesion (yellow arrows) with apparent flow voids (red arrows) within the left
+middle ear.
+As paragangliomas are neuroendocrine tumors that express somatostatin receptor 2
+(SSTR2), the most sensitive modality for their detection is Ga-68 DOTATATE PET-CT.
+Neuro Head & Neck: 815

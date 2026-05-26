@@ -1,0 +1,44 @@
+Alpha decay
+An a particle is two protons and two neutrons = Helium nucleus
+Alpha decay causes loss of an a particle: Atomic mass 1 by 4; Z 1 by 2 and N 1 2
+A-4X,
+Z-2
+N-2
+Beta minus decay
+B- decay occurs with neutron excess: Neutron converted to proton.
+Z
+energy
+Z+1
+B- decay
+Z (atomic number)
+Elements produced in nuclear reactors are neutron rich.
+A
+X
+Z+1
+N-1
+Beta plus decay
+B+ decay occurs with proton excess: Proton converted to neutron.
+Z
+energy
+B+ decay
+Z-1
+electron capture
+Z (atomic number)
+Elements produced in a cyclotron are proton-rich. B+ decay competes with
+electron capture (both cause Z - 1 and N T 1). Atomic mass is unchanged.
+A
+X .
+N+
+Electron capture
+Electron capture is similar to, and competes with, B+ decay. A proton is
+converted to a neutron by capturing an e, which usually comes from the
+K-shell. The resultant vacancy is filled by an outer shell e and a characteristic
+X-ray or Auger e is released.
+The net change is identical to B+ decay: Z 1 1 and N T 1, unchanged mass.
+The following isotopes decay by electron capture (mnemonic: Cowboy says
+"GIIT over here" when trying to capture his horse):
+Gallium-67
+Indium-111
+lodine-123
+Thallium-201
+Physics: 1220

@@ -1,0 +1,45 @@
+lodinated contrast and thyroid uptake
+Thyroid gland uptake of I-131 is reduced to about 50% one week after iodinated contrast
+injection. Therefore, if radioactive I-131 therapy is planned, iodinated contrast should be
+avoided for one month prior to I-131 therapy.
+Metformin and intravenous contrast
+Metformin is an oral ant-hyperglycemic agent that decreases hepatic glucose production
+and increases peripheral glucose uptake. Although exceptionally rare, there is an increased
+risk of metormin-associated lactic acidosis in patients receiving intravenous iodinated
+contrast, thought to be due to PC-AKI and the resultant accumulation of metformin.
+There is no need to discontinue metformin in patients with normal renal function. In
+patients with multiple comorbidities, metformin should be discontinued at time of contrast
+administration and withheld for 48 hours.
+Note that it is not necessary to discontinue metformin prior to gadolinium-Dased contrast.
+lodinated contrast and pregnancy
+lodinated contrast crosses the placenta and enters the fetal circulation. No mutagenic or
+teratogenic effects have been observed in vivo; however, no controlled studies in pregnant
+patients have been performed.
+It is acceptable to administer iodinated contrast to a pregnant patient if medically necessary.
+It is recommended that a pregnant patient sign an informed consent form prior to
+undergoing an examination involving ionizing radiation and iodinated contrast.
+lodinated contrast and breast feeding
+The plasma half-life of iodinated contrast is approximately two hours. Less than 1% of the
+administered maternal dose of iodinated contrast is excreted in the breast milk within 24
+hours of maternal administration, and 1% of that dose may be absorbed by the infant's
+gastrointestinal tract. The total infant absorbed dose is therefore approximately 0.01% of
+the administered maternal dose.
+Breast feeding mothers do not need to halt breast feeding. If the mother is concerned,
+abstaining from breast feeding for 24 hours (while pumping and discarding milk) would
+result in effectively zero fetal dose.
+Contrast extravasation
+Extravasation is the leakage of contrast into the soft tissues at the injection site. Although
+the risk of extravasation is not related to the injection flow rate, the use of automatic
+injectors can lead to a large extravasated volume of contrast media.
+lodinated contrast is toxic to the soft tissues and skin, although serious adverse events are
+relatively rare following extravasation. The most common serious injury due to contrast
+extravasation is compartment syndrome. Less commonly, skin ulceration and tissue necrosis
+can occur.
+All patients with extravasation should be evaluated by the radiologist. Elevation of the
+extremity to decrease capillary hydrostatic pressure has been recommended, but is without
+supporting data. There is no evidence favoring warm or cold compresses, and both are used
+commonly.
+Surgical consultation should be obtained for progressive swelling and pain, altered tissue
+perfusion (decreased capillary refill), change in sensation or strength, skin ulceration or
+blistering.
+Physics: 1200

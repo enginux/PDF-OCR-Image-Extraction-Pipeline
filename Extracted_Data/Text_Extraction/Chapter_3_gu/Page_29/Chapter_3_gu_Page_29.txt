@@ -1,0 +1,36 @@
+Biopsy of a renal mass
+After full imaging workup is complete, there are several well-accepted indications for
+percutaneous renal mass biopsy:
+To distinguish renal cell carcinoma from metastasis in a patient with a known primary.
+To distinguish between renal infection and cystic neoplasm.
+To definitively diagnose al hyperdense, homogeneously enhancing mass (after MRI has been performed),
+as it may represent a benign angiomyolipoma with minimal fat versus a renal cell carcinoma.
+To definitively diagnose a suspicious renal mass in patient with multiple comorbidities for whom
+nephrectomy would be high risk.
+To definitely diagnose malignancy and subtype in unresectable disease to guide treatment.
+To ensure correct tissue diagnosis prior to renal mass ablation or stereotactic radiotherapy.
+To provide definite diagnosis in patients with multiple or bilateral renal masses.
+To provide definite diagnosis in a renal mass that is in a solitary (or transplant) kidney.
+To exclude benign neoplasm in small renal masses (K4 cm), as 20% of solid renal masses are benign, and
+proportion increases among smaller masses.
+CYSTIC RENAL MASSES
+Overview of Bosniak classification of cystic renal masses
+The 2019 Bosniak classification for cystic renal masses was updated from 2012 to
+incorporate MRI, formalize definitions, and reclassify additional masses as lower risk. The
+Bosniak system risk-stratifies cystic renal masses, with increasing risk for malignancy (RCC)
+with each subsequent category. Classification is based on morphology, and thus MRI criteria
+generally mirror those of CT. Calcification plays a limited role in classification.
+MRI frequently upgrades Bosniak criteria due to higher sensitivity for detecting features
+including septations. MRI can also provide more accuate characterization of enhancement
+and is most useful to distinguish a Bosniak IIF lesion from a Bosniak III lesion (which can
+impact management). MRI is not obscured by calcification which also permits easier lesion
+evaluation.
+Risk stratification of cystic renal mass based on Bosniak classification:
+Category I and I: <1% risk of malignancy. No follow-up necessary.
+Category IIF: 0-38% risk of malignancy. Imaging follow-up is needed; any morphologic change or new
+enhancement would be concerning for malignancy.
+Category II: -50% risk of malignancy but range varies by studies. Concern for malignancy, but may be
+benign (e.g., infection, multilocular cystic nephroma). Management varies from imaging follow-up to
+surgical excision (if without comorbidities).
+Category IV: 90% risk of malignancy. Surgical excision is required unless significant comorbidities.
+GU: 257

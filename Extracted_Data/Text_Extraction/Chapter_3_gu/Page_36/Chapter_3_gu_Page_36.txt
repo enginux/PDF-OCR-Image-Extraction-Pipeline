@@ -1,0 +1,32 @@
+SOLID RENAL MASSES = BENIGN
+Angiomyolipoma (AML)
+Axial noncontrast CT shows an exophytic mass (arrow) Axial T1-weighted MRI shows that the lesion is
+in the right kidney containing macroscopic fat. There predominantly isointense to intra-abdominal fat.
+are a few linear strands of soft tissue within the lesion.
+Axial early arterial postcontrast T1-weighted fat
+Late arterial postcontrast T1-weighted fat suppressed
+suppressed image shows slight enhancement of the image shows more prominent enhancement of the
+soft tissue components.
+soft tissue components of the lesion.
+Angiomyolpoma (AML) is a benign hamartoma made up of blood vessels (angio), smooth
+muscle (myo), and fat (lipoma). AMLS are the most common benign renal neoplasm. Most
+occur sporadically (unilateral and solitary), but 40% are associated with tuberous sclerosis
+(typically multiple and bilateral).
+Although benign, when AMLS are >4 cm in size, there is an increased risk of hemorrhage due
+to microaneurysm rupture within the vascular components of the AML.
+The presence of macroscopic fat in a non-calcified renal lesion is diagnostic of AML. The
+nonfat-containing portion enhances avidly and homogeneously. Calcification is rare in AMLS
+and should raise suspicion for RCC with macroscopic fat.
+On ultrasound, AML is echogenic due to the fat component. There is considerable overlap
+between the ultrasound appearance of AML and RCC. About one-third of AML demonstrate
+shadowing, which is a specific finding for AML.
+On MRI, the fat component will follow retroperitoneal fat on all sequences and will
+saturate out on fat-saturated sequences. The muscle component will be T2 hypointense.
+intracytoplasmic lipid is not a feature of AML, SO there should be no significant signal drop-
+out on dual-echo in- and out-of-phase images on MRI.
+4% of AMLS lack macroscopic fat and appear as hyperdense enhancing mass on CT. In such
+cases, MRI can be helpful. A T2 hyperintense mass is suggestive of clear cell RCC or less likely
+oncocytoma. A T2 hypointense mass may represent a fat-poor AML or papillary RCC, thus
+biopsy is usually recommended for definitive diagnosis. In rare cases, RCC with macroscopic
+fat has been described.
+GU: 264

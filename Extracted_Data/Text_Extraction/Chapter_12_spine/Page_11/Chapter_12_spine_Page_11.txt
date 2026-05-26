@@ -1,0 +1,44 @@
+SPINAL CORD MECHANICAL/TRAUMATIC/MISCELLANEOUS LESIONS
+Syrinx Syringohydromyeli)
+Syrinx and syringonydromyela are collective terms referring to intramedullary cystic lesions
+that may represent hydromyelia and/or syringomyelia. Syrinx may rarely also refer to
+intracranial variants.
+Syringomyelia is a fluid-filled, gliosis-lined cavity within the spinal cord parenchyma that
+does not communicate with the central canal.
+Hydromyelia is dilatation of the ependymal cell-lined central canal (>2 mm).
+The most common congenital cause is Chiari malformations (more often Chiari I). Other
+congenital causes include spinal dysraphisms myelomeningocele, tethered cord syndrome)
+and Klippel-Feil syndrome.
+Acquired causes include hydrocephalus, post-infectious, post-intlammatory, post-traumatic,
+and intramedullary tumors (particularly ependymomas and hemangioblastomas).
+Of note, minimal dilation of the central canal of less than 2 mm is likely within normal limits.
+Compressive myelopathy
+Compressive myelopathy refers to neurological deficits related to spinal cord compression.
+The most common cause is degenerative disease spondylosis) in the cervical spine. Other
+causes include extradural masses.
+MRI demonstrates T2 prolongation within the compressed segment of cord.
+Traumatic spinal cord injury
+MRI is useful to evaluate severity of traumatic injury to the spinal cord and provide
+prognosis for functional outcome. Injury can manifest as concussion (normal MRI
+appearance), cord edema, hemorrhagic contusion, or cord hematoma.
+Spinal cord edema is characterized by abnormal T2 prolongation within the spinal cord, with normal or
+low associated T1 signal.
+Hemorrhagic contusion appears as a focus of hypointensity surrounded by hyperintensity on T2-weighted
+images.
+Cord hematoma (poorest prognosis) is al larger (>4 mm) focus of hypointensity surrounded by
+hyperintensity on T2-weighted images.
+Spinal cord injury is neurologically categorized by whether there is incomplete or complete
+sensory and/or motor function loss below a particular level. There are several classic
+incomplete cord syndromes:
+Central cord syndrome, due to injury around the central canal, is the most common incomplete cord
+syndrome and usually results from hyperextension trauma in patients with degenerative cervical spinal
+canal stenosis.
+Brown-Séquard syndrome, due to a hemicord injury, usually results from penetrating trauma affecting
+half the cord.
+Ventral/anterior cord syndrome, involving the anterior 2/3 of the cord but sparing dorsal columns,
+is most commonly caused by anterior spinal artery ischemia/infarction, but can also be post-traumatic
+due to vertebral fracture, disc herniation, or spondylolisthesis.
+Conus medullaris and cauda equina syndromes, due to a lesion at the end of the spinal cord or nerve
+roots at T12 and below, have various causes including trauma, disc herniation, tumor, and epidural
+abscess.
+Spine: 870

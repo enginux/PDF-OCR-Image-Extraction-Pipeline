@@ -1,0 +1,38 @@
+AUTOIMMUNE DISORDERS
+Autoimmune encephalitis
+Autoimmune encephalitis, also known as autoimmune limbic encephalitis, is an antibody-
+mediated inflammatory disorder which typically affects the limbic system.
+This class of disorders is classified into two broad categories, paraneoplastic or non-
+paraneoplastic, based on the presence of an underlying malignancy. In addition, they can
+be characterized as either group I or group II, based on the location of neuronal antigens.
+Group - antibodies target intracellular antigens and group II antibodies target antigens on
+the cell surface.
+Paraneoplastic syndromes are most often seen in small-cell lung cancer, but can be seen
+in the setting of many malignancies, including neuroblastoma, testicular germ cell tumor,
+breast cancer, thymoma, Hodgkin lymphoma, and ovarian teratoma.
+Group I antibodies are more closely associated with paraneoplastic syndromes and are
+associated with worse clinical outcomes due to decreased response to mmunomodulatory
+therapy and increased irreversible neuronal damage.
+Anti-Hu encephalitis is the most common paraneoplastic form of autoimmune encephalitis. It is associated
+with small-cell lung cancer in most cases and has a relatively poor prognosis. MR imaging findings include
+hyperintense lesions on FLAIR sequence in the medial temporal lobes with variable involvement of the
+cerebellum and brainstem.
+Other group I antibodies include Anti-Ma/Ta and Anti-CV2, which are commonly associated with testicular
+cancer and malignant thymoma, respectively. Additional areas of involvement on imaging include the
+thalamus and striatum.
+Anti-GAD (glutamic acid decarboxylase) is a group I antibody but is not typically associated with
+malignancy.
+Anti-GAD autoimmune encephalitis: Axial FLAIR (right and middle images) show hyperintensity in the right
+temporal operculum and mesial left temporal lobe, with associated gyriform restricted diffusion (right image,
+arrow). Patient was found to have high level of GAD-65 antibodies in the serum and CSF.
+Group II antibodies are more closely associated with non-paraneoplastic syndromes and are
+associated with better clinical outcomes.
+Patients with non-paraneoplastic encephalitis associated with group II antibodies frequently have an
+underlying autoimmune disorder or develop symptoms following a viral infection or vaccination.
+The most common form is NMDAr (N-methyl D-aspartate receptor) encephalitis. Iti is classically seen
+in young women and children and is non-paraneoplastic. The clinical presentation is unique in that
+the majority of patients have no abnormality on imaging on initial presentation. When MR imaging
+abnormalities are present, they typically show a wide distribution and degree of hyperintense lesions on
+FLAIR sequence with mild cortical enhancement and without restricted diffusion involving areas such as
+the inferior temporal lobe, insular cortex, and cingulate gyrus cortex.
+Neuro Brain: 744

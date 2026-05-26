@@ -1,0 +1,37 @@
+PRINCIPLES OF EMBOLIZATION
+Embolic materials
+The two main categories of embolic materials are permanent (coils, plugs, particles, glue,
+and sclerosing agent) and temporary (absorbable gelatin sponge and autologous clot).
+Coils create thrombosis by inducing vascular stasis. The main advantage of coils is the ability
+for precise and quick placement, without distal embolization. The primary disadvantage is
+sacrifice of distal access: Once a vessel is coiled, it cannot be re-accessed for retreatment.
+When using coils for embolization of a specific lesion, the general technique is to first coil distal to the
+lesion, then proximal to it. This prevents recurrent bleeding from retrograde collaterals.
+Plugs are cylinder-shaped baskets that act similarly to coils but are used for larger vessels
+with high flow rates. These are commonly used in splenic trauma or plug-assisted gastric
+variceal embolization (PARTO).
+Particles are microscopic (diameter measured in microns) entities that flow distally to
+occlude small capillaries. Particles can be made of trisacyl gelatin or polyvinyl alcohol.
+Common uses include for tumors and various organs. Careful consideration must be used to
+avoid nontarget embolization.
+Liquid embolic agents (e.g., glue) can be injected to quickly embolize a structure.
+Cyanoacrylate and ethylene vinyl alcohol are examples of glue that rapidly polymerizes
+when it comes in contact with blood.
+Sclerosant agents damage the endothelial cells of the vessel wall, causing the vessel
+to shrink and dissolve over a period of weeks. Sodium tetradecyl sulfate, polidocanol,
+and ethanol are examples of sclerosants and can be used to treat lymphovascular
+malformations, varices or smaller varicose veins.
+Absorbable gelatin sponge/slurry is the most commonly used temporary embolic agent,
+lasting 2-6 weeks. Common use is for emergent traumatic bleeding. Of important note,
+post-procedural CT imaging can show numerous gas locules in the embolized organ, and can
+mimic an abscess.
+Complications of embolization
+Post-embolization syndrome usually occurs within the first day after embolization and
+clinically presents with pain, cramping, fever, and nausea/vomiting, thought to be due to
+release of endovascular inflammatory modulators by infarcted tissue. Treatment is NSAIDS,
+opioids when appropriate, and IV fluids.
+Non-target embolization is unintentional embolization of structures other than the target.
+For instance, during uterine fibroid embolization there is a risk of non-target embolization of
+the ovaries. During bronchial artery embolization, there is a risk of non-target embolization
+to the brain causing stroke and to the spinal arteries causing paralysis.
+IR: 595

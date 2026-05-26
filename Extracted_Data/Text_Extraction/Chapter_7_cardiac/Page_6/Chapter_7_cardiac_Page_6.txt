@@ -1,0 +1,46 @@
+Thallium rest-redistribution (rest) SPECT
+For evaluation of myocardial viability prior to revascularization therapy, a rest-rest or rest-
+redistribution thallium study can be helpful. Following thallium injection at rest, images are
+obtained at 15 minutes and 3-4 hours later. Uptake on the delayed (redistribution) images
+indicates viable myocardium.
+PET perfusion
+PET rest-stress myocardial perfusion has greater sensitivity, specificity, and accuracy for
+diagnosis of coronary artery disease compared to SPECT imaging.
+Rubidium-82 and N-13 ammonia are perfusion agents and are imaged on a PET system using
+coincidence detection. The shorter half-life of these tracers allows higher activities to be
+administered with lower overall radiation exposure. For quantification of myocardial blood
+flow, both rubidium-82 and N-13 ammonia have been validated.
+PET myocardial viability (glucose metabolism)
+F-18 FDG PET is preferred over thallium for evaluation of myocardial viability.
+To induce metabolism of glucose over fatty acids by the myocardium, patient is loaded with
+oral or IV glucose after a 6-hour fast, which triggers endogenous insulin production that in
+turn encourages glucose uptake and decreases fatty acid levels.
+FDG uptake is seen in both normal myocardium and ischemic but viable myocardium.
+SPECT/CT and PET/CT
+Attenuaton-correction CT improves diagnostic accuracy by eliminating attenuation artifact
+and can be used for coronary artery calcium scoring.
+IMAGE INTERPRETATION
+Key to successful perfusion imaging interpretation is a systematic approach:
+Quality control: Is it a good study?
+Fori instance, in a single-day rest-stress study, the stress images should have higher signal to noise
+compared to the rest images since 3x more radiotracer was administered. If not, consider dose infiltration.
+Is there misregistration between the stress and rest images, or between the SPECT and
+CT images? The attenuation-corrected and uncorrected images should be compared for
+potential artifacts.
+The coronal/rotating raw SPECT images can show important ancillary findings:
+Is there motion artifact?
+Gated stress supine
+Sinogram
+Stress Tc-99m sestamibi rotating
+projection (representative image
+shown on left) and sinogram with
+patient in the supine position
+(top row) demonstrate motion, as
+Gated stress prone
+Sinogram
+indicated by horizontal breaks in the
+sinogram (arrows).
+Prone position stress sinogram
+(bottom row) shows no motion
+artifact.
+Cardiac: 491

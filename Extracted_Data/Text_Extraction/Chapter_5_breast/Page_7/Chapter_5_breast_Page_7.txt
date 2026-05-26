@@ -1,0 +1,32 @@
+Category 3: Probably benign
+A finding placed in BI-RADS 3 should have <2% risk of malignancy.
+It is necessary to conduct a complete diagnostic imaging evaluation using diagnostic views
+(e.g., spot compression magnification, etc.) and/or ultrasound before assigning a probably
+benign (BI-RADS 3) assessment. BI-RADS 3 is never appropriate for screening mammography.
+Three specific mammographic findings that may be appropriate for a BI-RADS 3 designation
+after complete diagnostic assessment include a circumscribed solid mass, focal asymmetry,
+and a single group of punctate calcifications.
+BI-RADS 3 should generally be reserved for baseline exams. If a comparison is available and
+a finding is new or increased but otherwise meets criteria for a probably benign assessment,
+then biopsy is usually appropriate. BI-RADS 3 is generally not supported for palpable lesions,
+although there are single institution studies suggesting that it is acceptable to assign
+appropriate palpable lesions as BI-RADS 3 after a full imaging workup.
+Action required: Short interval follow-up, typically 6 months. After 12 months of stability it
+is acceptable to lengthen the follow-up interval to one year. In general, if a benign-appearing
+lesion demonstrates two to three years of stability it can be considered benign (BI-RADS 2).
+Any interval change is suspicious and may warrant biopsy.
+Category 4: Suspicious
+Findings are suspicious of malignancy, with a probability of being malignant >2% and <95%.
+Category 4 can be subdivided into Category 4A, 4B, and 4C, with 4A being least suspicious,
+and 4C being most suspicious.
+Action required: Biopsy.
+Category 5: Highly suggestive of malignancy
+These lesions have a high probability (>95%) of being cancer. A lesion that a radiologist
+describes as "I'II eat my hat if that's not cancer!" should be classified as BI-RADS 5. The
+prototypical BI-RADS 5 cancer would be an irregular mass with spiculated margins and
+associated fine pleomorphic/fine linear-branching calcifications.
+Action required: Biopsy. Any pathologic result other than cancer would be discordant.
+Category 6: Known biopsy-proven malignancy
+This category is reserved for lesions identified on the imaging study with prior biopsy proof
+of malignancy. Typically, a plan of action is already in place.
+Breast: 374

@@ -1,0 +1,30 @@
+Vasculitis
+Vasculitis affecting the CNS may be primary or secondary to systemic vasculitides.
+The most common presentation of vasculitis is cerebral ischemia. Less commonly, vasculitis
+may present with frank hemorrhage.
+Standard MRI imaging shows multiple foci of T2 prolongation in the basal ganglia and
+subcortical white matter.
+Noninvasive vascular imaging (CTA or MRA) is relatively insensitive to small vessel
+involvement, but may show irregularity of involved large or medium vessels.
+Angiography is the most sensitive test and shows multifocal areas of stenosis and dilation.
+Hemorrhagic neoplasm
+Occasionally, the initial presentation of a brain tumor may be acute hemorrhage.
+The most common primary brain tumor to cause hemorrhage is glioblastoma.
+There are a relatively limited number of extracranial primary tumors known to cause
+hemorrhagic metastases, including:
+Melanoma.
+Renal cell carcinoma.
+Choriocarcinoma.
+Thyroid carcinoma.
+Although breast and lung cancer rarely cause hemorrhage on a per-case basis, they are such common
+cancers overall that they can always be considered when al hemorrhagic neoplasm is suspected.
+Patients treated with bevacizumab (trade name Avastine, Genentech) may be at increased
+risk for hemorrhagic metastasis.
+Clues to the diagnosis of an underlying tumor causing hemorrhage include more-than-
+expected edema surrounding a hyperacute hematoma and heterogeneous blood product
+signal, suggesting varying breakdown stages of hemoglobin.
+The presence of multiple enhancing masses strongly suggests metastatic disease.
+In cases where the diagnosis is unclear, a follow-up MRI should be performed once the
+initial hemorrhage improves. If tumor is present, the MRI may show a delay in the expected
+evolution of blood products, persistent edema, and enhancement of the underlying tumor.
+Neuro Brain: 698

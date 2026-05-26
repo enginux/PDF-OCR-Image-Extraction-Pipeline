@@ -1,0 +1,27 @@
+DIAGNOSIS OF PULMONARY EMBOLISM WITH PIOPED II
+High probability: Specificity for pulmonary embolism 97%, positive predictive value 88%
+High probability for pulmonary embolism: RPO perfusion images (same image, without and with annotations)
+after 4.7 mCi Tc-99m MAA: administered show two large segmental defects in the posterior basal (red) and
+anterior basal (brown) segments of the right lower lobe. The ventilation scan (not shown) was normal.
+Two or more large mismatched segmental defects without associated radiographic
+abnormality denote high probability for pulmonary embolism.
+Intermediate probability: Not clinically helpful, further imaging is required
+One large segmental mismatched perfusion defect denotes intermediate probability.
+A triple matched defect in the lower lung is considered an intermediate probability. A triple
+matched defect describes a defect on perfusion, a matched defect on ventilation, and a
+corresponding abnormality on the chest radiograph.
+Low probability: Negative predictive value 84%
+A: single large or moderate matched V/Q defect is low probability of pulmonary embolism.
+Other low probability results are absent perfusion of an entire lung, or more than three
+small segmental lesions.
+Very low probability
+Nonsegmental defects denote very low probability.
+The stripe sign peripheral to a perfusion defect denotes very low probability for pulmonary
+embolism. The stripe sign represents a thin line of MAA uptake between a perfusion defect
+and the adjacent pleural surface, representing intervening perfused lung.
+A solitary triple-matched defect in the mid-to-upper lung denotes very low probability. In
+contrast, the previously mentioned triple-matched defect in the lower lung is more likely to
+represent PE and is considered an intermediate probability finding.
+Normal
+If the perfusion scan is normal, the exam is normal and the ventilation study is not required.
+Nucs: 470

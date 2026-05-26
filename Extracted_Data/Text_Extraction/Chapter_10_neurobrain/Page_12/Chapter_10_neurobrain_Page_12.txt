@@ -1,0 +1,41 @@
+PATTERNS OF ENHANCEMENT IN THE BRAIN
+Blood-brain barrier (BBB) and enhancement
+Micro or macro disruption of the blood-brain barrier (BBB) produces parenchymal
+enhancement after contrast administration, which may be secondary to infection,
+inflammation, neoplasm, trauma, and vascular etiologies.
+The BBB is formed by astrocytic foot processes of brain capillary endothelial cells and
+prevents direct communication between the systemic capillaries and the protected
+extracellular fluid of the brain.
+Several CNS regions do not have a BBB, and therefore normally enhance:
+Choroid plexus.
+Pituitary and pineal glands.
+Tuber cinereum (controls circadian rhythm, located in the inferior hypothalamus).
+Area postrema (controls vomiting, located at inferior aspect of fourth ventricle).
+The dura also lacks a BBB, but does not normally enhance. This phenomenon is subsequently explained in
+the section on pachymeningeal (dural) enhancement.
+Vascular enhancement is due to a localized increase in blood flow, which may be secondary
+to vasodilation, hyperemia, neovascularity, or arteriovenous shunting.
+On CT, the arterial phase of contrast enhancement (i.e., CT angiogram) mostly shows intravascular
+enhancement. Parenchymal enhancement, including the dural folds of the falx and tentorium, is best seen
+several minutes after the initial contrast bolus.
+On MRI, routine contrast-enhanced sequences are obtained in the parenchymal phase, several minutes
+after injection. Most intracranial vascular MRI imaging is performed with a noncontrast time-of-flight
+technique.
+Intracranial enhancement may be intra- or extra-axial. Extra-axial structures that may
+enhance in pathologic conditions include the dura pachymeninges) and arachnoid
+leptomeninges).
+Periventricular enhancement (intra-axial)
+Axial post-contrast T1-weighted MRI
+demonstrates smooth periventricular
+enhancement (arrows) thought to represent
+ventricuits/nfectious ependymitis. This
+was proven to be an uncommon case of
+metastatic melanoma based on CSF sampling.
+Enhancement of the subependymal cortical surface can be either neoplastic, infectious,
+demyelination, and treatment-induced (e.g., radiation).
+Nodular subcortical enhancement intra-axial)
+Nodular intra-axial enhancement is most commonly due to metastatic disease.
+Hematogenously disseminated metastatic disease is commonly found at the subcortical
+gray-white junctions. Tumor emboli become "stuck" at the junction between the simple
+vasculature of the white matter and the highly branching vasculature of the gray matter.
+Neuro Brain: 661

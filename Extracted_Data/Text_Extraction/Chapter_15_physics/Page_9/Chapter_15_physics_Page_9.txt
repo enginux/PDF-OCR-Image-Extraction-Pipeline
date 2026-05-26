@@ -1,0 +1,41 @@
+GENERAL RADIOGRAPHY
+X-ray generator
+X-ray photons are generated when high-energy electrons hit a target at the
+anode side of the circuit. For general radiography and CT, the target is made of
+tungsten (atomic symbol W).
+99% of the electrons' kinetic energy is converted to heat, and 1% is converted to X-rays.
+90% of X-rays are produced from bremsstrahlung (nuclear field interaction).
+The maximum keV (energy) of the X-ray spectrum is the kV of the generator. The average
+kev -1/3 max.
+10% of X-rays are produced from characteristic radiation. A characteristic X-ray
+is produced when a high energy electron knocks a K-shell electron out of orbit.
+energetic electron needs to have
+keV > k-shell binding energy
+high-energy electron comes in
+high-energy photon comes out
+outer shell
+Kshell
+nucleus
+2) outer shell electroni fills vacancy
+3) characteristic: x-ray produced
+E= E(k-shell) E(transition shell)
+1) K-shell
+electron
+ejected
+Discrete energies just below k-shell binding energy.
+No characteristic: X-rays are generated when when kV < K-edge
+Tungsten: Atomic weight = 74; K-edge = 70 keV; characteristic X-rays < 70 keV
+Effect of kV on tube output
+X-ray production is proportional to (kV)2.
+In practice, changing kV is complicated as a change in kV causes a change in
+characteristic X-ray, shifts spectrum to the right, and adds photons.
+T kV by 15% - T photons by 100%
+In general, increasing kV will decrease dose and decrease contrast when
+automatic exposure control is used.
+Heel effect
+The heel effect is due to attenuation . The main contributor to the heel
+at the anode, causing fewer X-rays
+effect is the anode angle
+at the anode side.
+(typical anode angle -15°).- anode angle - T heel effect
+Physics: 1203

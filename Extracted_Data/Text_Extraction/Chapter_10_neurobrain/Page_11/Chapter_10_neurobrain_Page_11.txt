@@ -1,0 +1,37 @@
+Magnetic resonance spectroscopy (MRS; continued)
+0.
+50 pixel
+Cr2 53.4
+ppm
+Right panel: Abnormal spectrum due to oligoastrocytoma, with elevated choline and decreased NAA.
+A line connecting the tallest peaks (Hunter's angle, yellow line) would point down, which is a clue that the
+spectrum is abnormal.
+Left panel: Normal spectrum. Hunter's angle is pointing up like a plane at takeoff.
+MRS can help detect inborn errors of metabolism and mitochondrial disorders.
+Elevated NAA is characteristic of the leukodystrophy Canavan disease.
+Elevated lactate: suggests mitochondrial encephalopathies such as Leigh syndrome.
+MR Perfusion
+MR perfusion (sometimes called perfusion-weighted imaging") refers to a family of
+advanced techniques to detect changes in signal in the brain dependent on inflowing blood.
+In dynamic susceptibility contrast (DSC) MR perfusion, injection of a bolus of gadolinium-
+based contrast media causes a magnetic field disturbance, which transiently decreases the
+signal intensity on T2*-weighted images.
+In dynamic contrast enhanced (DCE) MR perfusion, injection of a bolus of gadolinium-based
+contrast media causes T1 shortening, which increases the signal intensity on T1-weighted
+images.
+In arterial spin labeling (ASL) MR perfusion, a noncontrast technique, radiofrequency pulses
+at the neck magnetically label blood protons, which then travel to the brain where they are
+imaged.
+Three calculated parameters reflect microvascular effects (capillary perfusion): cerebral
+blood flow (CBF), cerebral blood volume (CBV), and mean transit time (MTT = CBV/CBF).
+Additional parameters like time to maximum (Tmax) and time to peak concentration (TTP)
+also capture macrovascular effects such as contrast bolus arrival delay.
+MR perfusion is most commonly employed for evaluation of brain tumors. High-grade
+gliomas and metastases have higher relative CBV compared to low-grade gliomas or
+lymphoma. In the post-treatment setting for high-grade gliomas, elevated CBV favors tumor
+recurrence over pseudoprogression.
+In acute stroke, perfusion imaging identifies ischemic penumbra (area at risk of infarction)
+characterized by delayed contrast arrival (elevated Tmax) but compensated microvascular
+autoregulation (at most moderate decrease in CBF, mismatched by elevated CBV).
+The above parameters and perfusion imaging are further discussed in the stroke section.
+Neuro Brain: 660

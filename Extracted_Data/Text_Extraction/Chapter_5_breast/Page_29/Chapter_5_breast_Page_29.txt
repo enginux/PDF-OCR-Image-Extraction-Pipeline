@@ -1,0 +1,29 @@
+MAMMOGRAPHIC USE OF BI-RADS 3
+There is data to support the assignment of BI-RADS 3 in the following three situations, which
+are not definitively benign but have been shown to have less than 2% risk of cancer.
+Circumscribed, benign-appearing solid mass
+A probably benign solid mass must meet certain mammographic criteria. Its shape must be
+round or oval, and its margins must be circumscribed. The mass cannot have any associated
+suspicious microcalcifications.
+Typically, any visible mammographic mass should also be evaluated with ultrasound. For
+a mass to be considered probably benign by ultrasound it must be oval (may have two or
+three smooth lobulations) with a visible echogenic capsule AND lack any malignant features,
+or must be uniformly hyperechoic AND lack any malignant features (see later section on
+ultrasound differentiation of benign and malignant solid masses). If both mammographic
+and sonographic criteria are met, a mass may be assigned BI-RADS 3.
+A probably benign solid mass that has demonstrated at least two years of stability can
+usually be considered benign (BI-RADS 2).
+Any interval growth or suspicious change in morphology should be recommended for biopsy.
+Grouped punctate round calcifications
+Punctate calcifications are a subset of round calcifications that are <0.5 mm in size. It is
+usually necessary to use spot-compression magnification views to accurately characterize
+calcifications.
+Grouped punctate calcifications (25 calcifications/cm) on a baseline exam can be diagnosed
+as probably benign (BI-RADS 3). Note that the morphology must be clearly punctate
+or round, and the distribution must be in a group. For instance, a group of amorphous
+calcifications is indeterminate and usually warrants biopsy. Similarly, although rare, punctate
+or round calcifications in a linear or segmental distribution would be suspicious.
+Focal asymmetry
+Assuming no ultrasound correlate is seen, a focal asymmetry seen on a baseline exam can
+be assessed as probably benign (BI-RADS 3) after a thorough imaging workup.
+Breast: 396

@@ -1,0 +1,32 @@
+Acute hematoma (6-72 hours): Intracellular deoxyhemoglobin
+After the red cells desaturate (lose oxygen), the entire hematoma becomes hypointense on
+T2-weighted images and iso- to mildly hypointense on T1-weighted images.
+Early subacute hematoma (3 days to 1 week): Intracellular methemoglobin
+The subacute phase is characterized by methemoglobin, which is paramagnetic and
+undergoes proton-electron dipole-dipole interactions (PEDDI) with water. PEDDI shortens
+T1 to cause hyperintensity on T1-weighted images. Intracellular and extracellular
+methemoglobin are both hyperintense on T1-weighted images.
+In the early subacute phase, blood remains hypointense on T2-weighted images due to the
+paramagnetic effects of methemoglobin, which remains trapped in the red cells.
+Late subacute hematoma (1 week to months): Extracellular methemoglobin (after RBC lysis)
+The methemoglobin PEDDI effect persists after cell lysis, causing continued hyperintensity
+on T1-weighted images.
+Paramagnetic effects of methemoglobin lessens. Signal intensity on T2-weighted images
+increases to that of CSF, due to RBC lysis and decrease in protein concentration.
+There may be peripheral enhancement of a subacute to chronic infarct.
+Chronic sequelae of hemorrhage: Hemosiderin and ferritin
+Salvaged iron atoms are deposited into hemosiderin and ferritin, which become
+permanently trapped in the brain parenchyma after the blood-brain barrier is restored.
+Susceptibility effects of the stored iron produce characteristic hypointensity on T2-weighted
+and GRE images.
+Chronic hemorrhage may have peripheral enhancement.
+NON-TRAUMATIC CAUSES OF INTRAPARENCHYMAL HEMORRHAGE
+Hypertensive hemorrhage
+Hypertensive hemorrhage: Two contiguous noncontrast CT images show a left thalamic hemorrhage (yellow
+arrow) with extension into the left ventricle occipital horn (red arrows).
+Chronic hypertension is the most common cause of spontaneous adult intraparenchyma
+hemorrhage and is due to the secondary microangiopathic effects of chronic hypertension.
+Chronic hypertension causes arteriolar smooth muscle hyperplasia, which eventually leads
+to smooth muscle death and replacement with collagen. The resultant vascular ectasia
+predisposes to hemorrhage.
+Neuro Brain: 695

@@ -1,0 +1,59 @@
+An elevated ratio of internal carotid artery to common carotid artery (ICA/CCA) PSV is a
+useful secondary sign of ICA stenosis.
+<2 is normal.
+>2 suggests >50% ICA stenosis.
+>4 suggests >70% ICA: stenosis.
+In high and low flow states, the ICA/CCA ratio is more useful than the absolute PSV.
+Waveform analysis
+Stenosis downstream (distal) to transducer (outflow lesion): Spectral waveform is high
+resistance and high velocity in morphology, characterized by decreased diastolic flow. The
+systolic upstroke is normal and rapid. Spectral broadening and aliasing may be present.
+Spectral broadening describes the widened distribution of RBC velocities due to disruption of laminar flow.
+Aliasing is an artifact where the highest velocities are shown to have a reversed flow.
+Stenosis upstream (proximal) to transducer (inflow lesion): Spectral waveform is low
+resistance and low velocity in morphology, with relatively increased diastolic flow. Systolic
+upstroke is slowed, producing the tardus et parvus waveform.
+Carotid stenosis
+2 40dB 2.141/1/5
+15 40dB 2 /+1/1/5
+PWI
+18mm
+PW Depth: 30mm
+PW1.5mm
+PW Gufer 1.5mm
+PW Gain= -6dB
+PW Gains 3dB
+V1 = 6.34m/s
+V2 = 2.26m/s
+12 RI = 0.64
+.15
+V = 0.569m/s
+S/D = 2.81
+tMean = 0.230m/s
+PW:4.0MH2 e=570 Inverted
+PW:4.0MHz e=60° Inverted
+6.0
+LT ICA PR
+80
+LT ICA D
+/ AA
+m/s
+n/s
+Severe internal carotid artery stenosis: Spectral waveform of the proximal internal carotid artery (left image)
+shows spectral broadening and markedly elevated peak systolic velocity of 634 cm/sec, consistent with severe
+stenosis. The grayscale images also show hypoechoic plaque. Evaluation distal to the stenosis (right image)
+shows a parvus et tardus waveform and decreased peak systolic velocity.
+RENAL ARTERY STENOSIS
+Renal artery stenosis: Criteria and protocol
+A peak systolic velocity of 2180 cm/sec is consistent with renal artery stenosis.
+Normal aortic and renal artery velocity is 60-100 cm/sec.
+A renal artery to aortic velocity ratio of >3.5 is also consistent with renal artery stenosis.
+Reduced or absent diastolic flow is suggestive of a stenosis distal to the area of interest.
+As with the carotid artery, a tardus et parvus waveform on spectral Doppler is suggestive of
+a stenosis proximal (upstream) to the transducer, known as an inflow lesion.
+An elevated renal resistive index (>0.7) is nonspecific, but may indicate renal artery stenosis,
+acute urinary obstruction, or medical renal disease. The resistive index (RI) is calculated as:
+RI = (PSV - EDV)/PSV
+PSV is peak systolic velocity and EDV is end-diastolic velocity.
+RI is measured in the segmental arteries of the upper, mid, and lower poles.
+Vascular: 586

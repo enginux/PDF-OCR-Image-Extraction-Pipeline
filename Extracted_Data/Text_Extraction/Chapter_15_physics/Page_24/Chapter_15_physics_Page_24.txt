@@ -1,0 +1,43 @@
+Axial resolution
+Axial resolution quantifies the ability to separate objects lying along axis of the
+beam and is determined by spatial pulse length. Short pulses are achieved by
+damping of the transducer. The spatial pulse length (SPL) is approximately 2h.
+spatial pulse length
+axial resolution =
+2
+For example, at 2 MHz, the SPL is "2 mm and the axial resolution is -1 mm.
+at 4 MHz, the SPL is -1 mm and the axial resolution -0.5 mm
+at 8 Mhz, the axial resolution is -0.25 mm
+Axial resolution does not vary with depth.
+Lateral resolution
+The lateral resolution is the ability to resolve two adjacent objects.
+Lateral resolution improves with beam focusing and T number lines per frame.
+Lateral resolution is approximately 4x worse than axial resolution.
+Lateral resolution becomes worse with increasing depth.
+Elevational resolution
+Elevational resolution is the resolution in the plane perpendicular to the plane
+of imaging. Elevational resolution is equivalent to slice thickness on cross-
+sectional imaging.
+Elevational resolution is approximately equivalent to lateral resolution and also
+varies with depth.
+Near field and far field
+The near field determines the maximum depth that can be imaged. It is not
+related to image quality at increasing depths.
+r2
+near field =
+A
+r= radius of transducer: If r doubles, near field T by 4
+A= wavelength: Ifh doubles (T freq), neari field J by 2
+The near field (where imaging is possible) is called the Fresnel zone.
+The far field (where the ultrasound beam diverges and imaging is impossible) is
+called the Frauenhofer zone.
+Pulse repetition frequency
+Pulse repetition frequency (PRF) is the number of times the transducer outputs
+(PRF)
+a pulse of sound waves per second. An increase in PRF causes an inversely
+proportional decrease in echo listening time. A high PRF therefore limits the
+maximum depth of tissue that can be imaged.
+PRF = Frame rate X lines per frame.
+A typical PRF is "4 kHz 4 0.25 ms (250 usec) between pulses, which allows
+imaging of approximately 19.3 cm depth.
+Physics: 1218

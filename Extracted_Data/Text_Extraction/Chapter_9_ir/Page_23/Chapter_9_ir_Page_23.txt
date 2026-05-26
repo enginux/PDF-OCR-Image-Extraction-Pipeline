@@ -1,0 +1,31 @@
+GASTROINTESTINAL (GI) BLEEDING
+Upper GI bleeding
+Endoscopy is the best initial procedure for acute upper GI bleeding, defined as above the
+ligament of Treitz. Endoscopy can be both diagnostic and therapeutic.
+If the patient failed endoscopic attempts at hemostasis or is too unstable for evaluation
+by endoscopy, IR embolization can be considered as long as a clear bleed is seen on pre-
+procedure CTA or on endoscopy.
+In some cases, empiric embolization of a gastric artery or the gastroduodenal artery may be
+considered if the angiogram is negative due to the copious collaterals between the celiac
+axis and the SMA. However, lower GI collaterals are much less well developed and there is a
+significant risk of bowel infarct with indiscriminate lower GI embolization.
+Lower GI bleeding
+For lower GI bleeding, a hemodynamically stable patient should first be evaluated by
+mesenteric CT angiogram or nuclear medicine tagged red blood cell scan to localize the
+bleed, as these tests are thought to be more sensitive than angiography. A bleeding rate of
+0.5-1.0 mL/min is generally required to be angiographically positive.
+A tagged red blood cell scan can detect bleeding rate as low as 0.2-0.4 mL/min.
+Many institutions now favor mesenteric CT angiography as the first test for evaluation of acute lower GI
+bleeding because CT is rapid, easy to perform, and readily available. On CTA, acute bleeding is seen as
+contrast extravasation. CTA may be able to detect bleeding rates as low as 0.35 mL/min.
+A hemodynamically unstable patient with clinical evidence of current GI bleeding may go
+straight to angiography.
+Intra-arterial infusion of vasopressin (antidiuretic hormone) can often control active lower GI
+bleeding, but there is a very high rebleeding rate once the infusion is stopped. Vasopressin
+is most useful in cases of bleeding from antimesenteric vessels, which are more difficult
+to reach directly by catheter. Major complications of vasopressin are seen in up to 20%
+including arrhythmia, pulmonary edema, and hypertension.
+Vasopressin is directly infused into the SMA or IMA. The dose of vasopressin is 0.2-0.4 units per minute
+(100 units mixed in 500 mL saline given at 1 mL/minute), given as a continuous infusion for up to 24 hours.
+Vasopressin can only be used for 24 hours before tachyphylaxis (lack of further response) develops.
+IR: 610

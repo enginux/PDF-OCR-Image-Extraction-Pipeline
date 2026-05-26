@@ -1,0 +1,45 @@
+MUCOSAL SPACES: ORAL CAVITY, PHARYNX, LARYNX
+The oral cavity is a space defined by the anterior 2/3 of tongue, bounded superiorly by the
+palate and inferiorly by the floor of mouth.
+The pharynx is a muscular tube extending from skull base to the thoracic inlet. It is the
+anatomic center of the head and neck, around which the other suprahyoid spaces wrap. It is
+divided into the following distinct anatomic regions:
+Nasopharynx: Top of pharynx behind the nasal cavity.
+Oropharynx: From the level of the palate to the hyoid bone, behind the oral cavity. The posterior 1/3 of
+tongue is part of the oropharynx.
+Hypopharynx: From the hyoid bone to the esophagus, including the piriform sinuses and soft tissue
+lateral to the larynx.
+Mucosal squamous cell carcinoma (SCC) arises from the squamous lining of the pharynx,
+larynx, and sinonasal cavity.
+The TNM staging system is used to classify SCC. "T" refers to the primary tumor extent, "N"
+to regional lymph nodes, and "M" for distant metastases. The criterion for T and N stage
+is individualized to each site (nasopharynx, oropharynx, and hypopharynx) and in the case
+of the larynx to each subsite (supraglottic, glottic, and subglottic). Regardless of subtype,
+tumor size and lymph nodes are reported using the longest diameter, which is in contrast
+with lymph node measurements in other parts of the body. An exhaustive discussion of
+TNM staging is beyond the scope of this book, however some key points and differentiating
+factors are discussed below.
+NASOPHARYNX
+Overview and anatomy
+The nasopharynx is located posterior to the nasal cavity and extends from the most cranial
+aspect of the pharynx (at the skull base) to the level of the soft palate.
+In the midline of the nasopharynx is the nasopharyngeal tonsillar tissue, also known as the
+adenoid. This is where nasopharyngeal lymphoma can arise.
+Nasopharyngeal SCC
+Most nasopharyngeal carcinomas arise from the fossa of Rossenmuller, which is adjacent
+to the opening of the Eustachian tube. The proximity explains why nasopharyngeal tumors
+result in middle ear effusion at the time of presentation.
+Nasopharyngeal SCC frequently demonstrates minimal mucosal disease and may have
+significant extra-mucosal extension, most frequently to the parapharyngeal space and then
+the retropharyngeal space.
+T staging of nasopharyngeal carcinoma is primarily defined by tumor extent/ invasion, and
+less on the size of the lesion as in other sites. T1 tumor is confined to the nasopharynx while
+extension to the parapharyngeal spaces, infiltration into surrounding muscles, the bony skull
+base, or intracranial extension results in a higher T stage. Given the importance of detection
+of skull base infiltration and intracranial extension of disease, MR is the preferred staging
+tool.
+Lymph node metastases are common, and most frequently initially preferentially involve the
+retropharyngeal and high jugular (level II) nodes.
+Treatment is most frequently non-surgical and a combination of chemotherapy or radiation,
+depending on the TNM stage.
+Neuro Head & Neck: 834

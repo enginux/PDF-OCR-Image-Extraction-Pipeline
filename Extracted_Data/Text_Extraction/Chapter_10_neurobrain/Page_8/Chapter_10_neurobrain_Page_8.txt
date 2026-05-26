@@ -1,0 +1,48 @@
+Paradoxical herniation
+Paradoxical brain herniation, also known as sunken/sinking skin flap syndrome, is a
+complication of large craniectomy where intracranial pressure falls below atmospheric
+pressure, resulting in concave deformity and progressive shift of the brain away from the
+calvarial defect.
+MRI IN NEURORADIOLOGY
+As discussed in the physics chapter, inherent tissue signal characteristics depend on the
+longitudinal recovery/relaxation (T1) and transverse relaxation (T2) times of the protons in
+that tissue.
+T1 shortening is hyperintense (bright) on T1-weighted images and T1 prolongation is hypointense (dark).
+Conversely, T2 shortening is hypointense on T2-weighted images and T2 prolongation is hyperintense.
+Spin-echo Tl-weighted imaging
+Most brain lesions are hypointense on T1-weighted images due to pathologic prolongation
+of the longitudinal recovery.
+The presence of hyperintensity on T1-weighted images (caused by T1 shortening) can be an
+important clue to specific substances:
+Fat.
+Melanin.
+Proteinaceous material.
+Minerals: gadolinium, copper, manganese, iron,
+Methemoglobin.
+and calcium (rarely; when dispersed, not in
+bone).
+Slow-flowing blood also appears hyperintense on T1-weighted spin-echo sequences, which
+have a short TR. This time-of-flight effect is called "flow-related enhancement."
+Spin-echo T2-weighted imaging
+Most brain lesions are hyperintense on T2-weighted images due to water content or edema
+causing T2 prolongation.
+The presence of hypointensity on T2-weighted images (caused by T2 shortening) can be an
+important clue to specific substances:
+Most stages of blood deoxynemoglobin, intracellular methemoglobin, hemosiderin).
+Calcification.
+Fibrous tissue.
+Highly cellular tumors with a high nucleus:cytoplasm ratio producing low lesional water content (for
+instance, lymphoma and medulloblastoma).
+Desiccated secretions in the paranasal sinuses.
+Fast-moving blood also appears nypointense on T2-weighted spin-echo sequences, which
+have a long TE. This time-of-flight effect is called a "flow-void."
+Fluid-attenuated inversion recovery (FLAIR)
+FLAIR refers to the addition of an inversion pulse that nulls fluid signal (based on water's T1
+characteristics).
+The T2-FLAIR sequence is the workhorse of neuroradiology. It is usually referred to simply as
+"FLAIR" even though the technique can apply to T1-weighted images as well.
+While CSF is dark on both T2-FLAIR and T1-weighted images, they can be distinguished by
+looking at the relative signal intensities of the gray and white matter.
+T1: Normal white matter is hyperintense duei to fatty myelinated white matter, with a short T1 time.
+T2-FLAIR: White matter is darker than gray matter. T2-FLAIR will be referred to as FLAIR in this chapter.
+Neuro Brain: 657

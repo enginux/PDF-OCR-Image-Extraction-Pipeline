@@ -1,0 +1,38 @@
+The AO Spine system describes 4 different classifications depending on fracture location:
+the upper cervical spine, subaxial cervical spine, thoracolumbar spine, and the sacral spine
+(including coccyx).
+Essentially, fracture morphology is categorized hierarchically with increasing severity and/or
+instability based on radiologic appearance. While the detailed classifications are beyond the
+scope of this text, some of the key morphological features in the cervical and thoracolumbar
+spine are listed below.
+Upper cervical spine injuries (occiput to C2-3 joint):
+Type A: Bony injuries only (stable)
+Type B: Tension band or ligamentous disruption +/- bony injuries (stable or unstable)
+Type C: Translation injuries with displacement relative to adjacent vertebrae (unstable)
+Anterior tension band includes the anterior longitudinal ligament.
+Posterior tension band includes the posterior ligamentous complex.
+Subaxial cervical spine injuries (C3-C7):
+Type A: Compression fractures without ligamentous injury
+Type B: Tension band disruption
+Type C: Translation injuries
+Type F: Facet joint injuries
+Thoracolumbar spine injuries:
+Type A: Compression fractures, including wedge compressions and burst fractures
+Type B: Distraction injuries with tension band disruption, including Chance fractures and hyperextension
+injuries
+Type C: Translation injuries resulting in displacement and dislocation
+POSTOPERATIVE SPINE IMAGING
+Overview of postoperative spine imaging
+Spine procedures can generally be thought of as falling into one of three categories:
+stabilization and fusion (for trauma or scoliosis), decompression (typically caused by
+discovertebral degeneration), and lesion excision. Some surgeries may span two or more of
+these categories.
+If instrumented fusion is performed, imaging is critical to determine if there is hardware
+failure (hardware fracture), assess screw position, evaluate for lucency surrounding the
+screws, and to assess healing of the fusion mass.
+For decompressive surgeries, imaging should also assess if there is a cause for persistent or
+new pain, such as recurrent disc herniation, scar formation, arachnoiditis, adjacent segment
+degeneration, or infectious process.
+For lesion excision procedures, signs of lesion recurrence should be carefully evaluated.
+Patients with fusion are at increased risk for fracture due to altered biomechanics.
+Spine: 905

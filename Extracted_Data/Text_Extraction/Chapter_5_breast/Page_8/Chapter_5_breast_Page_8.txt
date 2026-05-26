@@ -1,0 +1,46 @@
+MAMMOGRAPHY
+SCREENING MAMMOGRAPHY
+The goal of screening mammography is to detect pre-clinical breast cancer in asymptomatic
+women. Screening mammography detects 2 to 8 cancers per 1,000 women screened.
+Mammography has decreased sensitivity in women with dense breasts.
+Since 1990, the mortality from breast cancer has been steadily declining at a rate of
+approximately 2.2% per year, thought to be due to improvements in adjuvant therapy and
+screening mammography.
+The current standard recommendation in the United States is annual screening
+mammography beginning at age 40 for women at average risk for breast cancer, based
+on guidelines issued by multiple national organizations including the American College of
+Radiology (ACR) and Society of Breast Imaging (SBI).
+In contrast, while the American Cancer Society (ASC) and the US Preventative Services Task
+Force (USPSTF) agree that screening from age 40 reduces breast cancer mortality, both
+organizations recommend beginning to screen at a later age due to uncertain benefits versus
+risks in younger women.
+The ACS (2015) recommends annual screening mammography between ages 45-54 and
+biennial screening for age 55 or older. Women have the option to start annual screening at
+ages 40-44.
+The USPSTF (2009) recommends biennial mammography between ages 50-74. Decision to
+start screening at ages 40-49 should be made on an individual basis.
+The potential concerns for mammographic screening include a very small risk of inducing
+breast cancer from radiation exposure, and risks of over diagnosis including anxiety from
+false positives and unnecessary biopsies.
+Randomized control trials have shown that screening mammography can significantly
+reduce breast cancer mortality for women aged 40-74 by at least 20%.
+Computer modeling of breast cancer screening also showed that the greatest reduction in
+breast cancer specific mortality is achieved with screening mammography starting at age 40.
+There are varying recommendations on the age to stop screening, as listed below.
+Current guidelines for screening mammography
+Starting Age Frequency Age to Stop
+Comment
+ACR
+40 or older annual
+continue as long as good health
+ACS
+45-54
+annual
+continue as long as good health option to start annual
+55 or older biennial
+and life expectancy 10+ years left screening at age 40
+USPSTF 50-74
+biennial
+75
+option to start at age 40
+Breast: 375

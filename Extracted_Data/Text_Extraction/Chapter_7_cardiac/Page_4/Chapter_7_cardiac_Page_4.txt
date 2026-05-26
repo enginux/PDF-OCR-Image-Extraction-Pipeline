@@ -1,0 +1,46 @@
+Nitrogen-13 ammonia (continued)
+N-13 has excellent imaging characteristics. N-13 positrons have a low kinetic energy and do
+not travel very far in the tissue before annihilating, which allows relatively high resolution.
+The short half-life also allows large doses to be given for high counts.
+Like rubidium-82, N-13 perfusion is almost always coupled with a pharmacologic stress.
+Exercise stress is possible with N-13 ammonia but can be logistically challenging due to the
+10-minute half-life, as it has to be coordinated with the cyclotron delivery of the radiotracer.
+Fluorine-18 FDG
+MOmRe1BANOCAwAucA (F-18 FDG), the same radiotracer used for oncologic
+imaging, is a positron emitting PET viability agent with a half-life of 110 minutes. Unlike
+rubidium-82 and N-13 ammonia, FDG cannot be used for perfusion.
+Viable myocardium uptakes FDG; scar does not.
+TYPES OF STRESS = EXERCISE AND PHARMACOLOGIC
+The stress component of a cardiac perfusion study can be physical or pharmacologic.
+General exercise protocol
+Prior to undergoing a myocardial perfusion study with exercise stress, the patient should
+be NPO for 6 hours. In patients without known coronary artery disease, calcium channel
+blockers and B-blockers should be held to allow patient to reach target heart rate. Long-
+acting nitrates may mask ischemia and should also be held when possible.
+Exercise is performed with a multistage treadmill (Bruce or modified Bruce) protocol. The
+target heart rate, which is calculated as 85% of maximal heart rate must be achieved for the
+study to be diagnostic. The maximal calculated heart rate is 220 bpm minus age.
+Other parameters used to assess the adequacy of exercise stress include the product of
+peak heart rate and peak systolic blood pressure, metabolic equivalents (METS), and exercise
+time.
+Contraindications for exercise stress include acute myocardial infarction (within 48
+hours), high risk unstable angina, sustained or nemodynamically significant ventricular
+tachyarrhythmia, acute aortic dissection, acute pulmonary embolism, acute pericarditis,
+severe symptomatic aortic stenosis, decompensated heart failure, or inability to exercise.
+Pharmacologic stress is an alternative in patients who cannot exercise physically or in those
+with left bundle branch block, which can cause false positive reversible septal perfusion
+defects with exercise.
+Dipyridamole stress - pharmacologic vasodilator
+Dipyridamole is an adenosine deaminase inhibitor that allows endogenous adenosine to
+accumulate. Adenosine is a potent vasodilator, increasing coronary blood flow by 3-5 times.
+The microcirculation fed by a critical coronary artery stenosis cannot further dilate in
+response to adenosine. That coronary artery territory will appear as a relative perfusion
+defect on stress imaging.
+Unlike a physical stress, a dipyridamole stress does not increase cardiac work or O2 demand.
+Caffeine and theophylline competitively inhibit vasodilation from dipyridamole and must be
+held for at least 12 hours.
+Side effects of dipyridamole include nausea, dizziness, headache, flushing, and chest pain,
+wheezing, and rarely heart block. The antidote is aminophylline (100-200 mg), which
+has a shorter half-life than dipyridamole, SO patients with wheezing or heart block from
+dipyridamole must be warned that symptoms may rarely reappear after several hours.
+Cardiac: 489

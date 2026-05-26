@@ -1,0 +1,25 @@
+SOFT TISSUE TUMORS
+LIPOMATOUS NEOPLASMS
+Lipoma
+Coronal T1-weighted MRI
+Axial PD-weighted MRI
+Axial STIR MRI
+Axial post-contrast T1-weighted MRI with fat
+suppression
+Lipoma: There is a lobulated mass (yellow arrows) in the posterior/dorsal aspect of the forearm, which follows
+fat signal intensity on T1-weighted and PD-weighted images (note that the PD sequence alone cannot be
+used to determine if something is fat signal intensity as both fat and fluid are hyperintense on PD-weighted
+images). The mass saturates out on the T1-weighted image with fat saturation. There is minimal septational
+enhancement (red arrow), and slightly increased signal intensity on the STIR: sequence (blue arrows), but no
+thickened septations or nodular enhancement.
+Lipoma, a benign proliferation of adipocytes, is the most common soft-tissue tumor, and
+the most common explanation for a palpable mass. However, it is important to note that
+not all palpable masses are lipomas and imaging should be performed before presuming a
+diagnosis of lipoma and certainly before resection.
+A: substantial minority of lipomas may contain some nonadipose tissue. Minimal nonadipose
+tissue, such as wispy septations, is commonly seen in lipomas. However, thickened or
+irregular septations, or nodular enhancing foci would not be consistent with a simple
+lipoma, and would suggest a well-differentiated liposarcoma/atypical lipomatous tumor.
+Lipomas confirmed by imaging are usually not resected or biopsied unless there are atypical
+elements on imaging, or patients are symptomatic due to mass effect.
+MSK: 961

@@ -1,0 +1,82 @@
+T1
+longitudinal relaxation (T1)
+transverse relaxation (T2)
+Short TR
+1.0
+1.0
+Short TE
+fat
+0.8
+0.8
+fat
+I
+0.6
+0.6
+6
+a
+0.4
+0.4
+-
+water
+:
+0.2
+0:2 water
+1000 2000 3000 4000 5000
+100 200 300 400 500
+TR
+time (ms)
+TE
+time (ms)
+T2
+longitudinal relaxation (T1)
+transverse relaxation (T2)
+Long TR
+1.0
+1.0
+Long TE
+fat
+0.8
+0.8
+water
+0.6
+0.6
+fat
+5
+0.4
+0.4
+e
+water
+I
+0.2
+0.2
+1000 2000 3000 I 4000 5000
+100 200 300 400 500
+time (ms) TR
+TE time (ms)
+PD
+longitudinal relaxation (T1)
+transverse relaxation (T2)
+Long TR
+1.0
+Short TE
+fat
+.8
+08 Li water
+Highest SNR
+1 contrast
+fat
+0.6
+0.6
+5
+0.4
+0.4
+water
+I
+0.2
+0.2
+1000 2000 3000 4000 5000
+100 200 300 400 500
+time (ms) TR
+TE
+time (ms)
+Physics: 1216

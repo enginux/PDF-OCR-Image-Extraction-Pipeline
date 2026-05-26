@@ -1,0 +1,37 @@
+LIVER TRAUMA
+Overview of liver trauma
+The liver is the second most commonly injured solid organ due to blunt trauma, second to
+the spleen.
+The 2018 revised organ injury scale (OIS) for liver published by the American Association for
+the Surgery of Trauma (AAST) includes imaging, operative, and pathologic criteria for grading
+injury. The final AAST grade assigned is based on the highest of the three criteria.
+The imaging criteria is based on CT findings and is more commonly used by radiologists. It is
+similar to the organ injury scale for splenic trauma.
+American Association for the Surgery of Trauma liver injury scale (imaging criteria)
+Grade :
+Subcapsular hematoma <10% liver surface.
+Superficial laceration <1 cm deep.
+Grade I:
+Subcapsular hematoma 10-50% liver surface.
+Intraparenchymal hematoma <10 cm in size.
+Laceration 1-3 cm deep.
+Grade II:
+Subcapsular hematoma >50% liver surface.
+Ruptured vtapaularmaparendyma hematoma.
+Laceration >3 cm deep.
+Any intraparenchymal vascular injury (i.e., pseudoaneurysm or AV fistula) or contained active bleeding.
+Grade IV:
+Laceration involving 25-75% of one hepatic lobe.
+Extraparenchyma extension of active bleeding into the peritoneum.
+Grade V:
+Laceration or destruction >75% of one hepatic lobe.
+Injury to retrohepatic IVC or central hepatic veins.
+When multiple injuries are present, advance one grade up to a grade III.
+AAST grading system is limited for assessment of biliary injury. If injury to the biliary system
+is suspected, nuclear medicine HIDA scan is often needed to demonstrate an active bile leak.
+MRI with hepatobiliary agent such as Eovist may also be helpful.
+Left image: CT angiogram axial image demonstrates a large subcapsular hematoma (yellow arrows) along the
+right hepatic lobe with no evidence of active extravasation.
+Right image: Portal venous phase CT axial image shows hypodense geographic/linear regions (yellow arrow) in
+the right hepatic lobe, indicating hepatic lacerations. Note the large right chest wall hematoma (red arrow).
+GI: 120

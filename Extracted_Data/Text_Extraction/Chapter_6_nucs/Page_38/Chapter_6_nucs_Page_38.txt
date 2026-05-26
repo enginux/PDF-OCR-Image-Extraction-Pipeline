@@ -1,0 +1,43 @@
+WHOLE-BODY IMAGING OF NEOPLASM, INFECTION, AND INFLAMMATION
+RADIOTRACERS
+1-123 MIBG
+I-123 MIBG is a norepinephrine analog that is taken up by
+chromaffin cells of sympathetic adrenergic tissue. It is used
+to image pheochromocytoma in adults and neuroblastoma
+in children. To a lesser extent, MIBG is taken up by other
+neuroendocrine tumors including carcinoid, medullary thyroid
+carcinoma, and paraganglioma.
+I-131 MIBG can be used to treat neuroblastoma in children.
+Normal distribution is areas of sympathetic innervation,
+including salivary glands, heart, thyroid (although this is typically
+intentionally blocked with Lugol's solution to reduce thyroid
+dosimetry), liver, kidney, and bladder.
+Indium-111 pentetreotide (Octreoscan)
+Indium-111 is yclotron-produced and decays by electron
+capture, emitting two gamma photons at 173 and 247 keV. Its
+half-life is 67 hours. Pentetreotide is octreotide conjugated to
+DTPA which allows binding to In-111.
+In-111 pentetreotide is used to detect tumors with somatostatin
+receptors, including amine precursor uptake and decarboxylation Planar image shows normal
+(APUD) tumors. Most common applications are evaluation of
+distribution of I-123 MIBG.
+carcinoid or islet cell tumors such as gastrinoma. However,
+pentetreotide has low sensitivity for insulinoma.
+Paragangliomas (extra-adrenal pheochromocytomas) are seen better with In-111
+pentetreotide compared to MIBG, although In-111 pentetreotide is uncommonly used for
+detection of paragangliomas.
+Normal distribution is intense renal and splenic uptake, with slightly less hepatic uptake.
+Indium-111 oxine leukocytes (WBCs)
+The normal distribution of Indium-111 labeled WBCs is spleen > liver >> bone marrow.
+Infection imaging with an In-111 WBC scan is performed at 24 hours.
+The key advantage of In-111 oxine WBCs compared to gallium is the lack of physiologic
+bowel accumulation, which allows evaluation of abdominal or bowel infection/
+inflammation.
+Disadvantages compared to gallium include a tedious labeling procedure, higher radiation
+dose, and less accuracy in diagnosing spinal osteomyelitis.
+Advantages of In-111 WBC scan compared to Tc-99m HMPAO include absence of interfering
+bowel and renal activity, ability to perform delayed imaging, and ability to perform
+simultaneous Tc-99m sulfur colloid or Tc-99m MDP bone scan. These combined approaches
+are very helpful for evaluation of osteomyelitis in the setting of a baseline abnormal bone
+scan (e.g., prosthesis evaluation), discussed below.
+Nucs: 481

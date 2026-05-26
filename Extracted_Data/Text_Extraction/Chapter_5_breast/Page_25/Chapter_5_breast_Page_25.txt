@@ -1,0 +1,20 @@
+Developing asymmetry
+CC (top left) and MLO (top right) mammograms demonstrate a subtle new focal asymmetry (circles) in the
+lower inner breast that is best appreciated when compared to the prior year's study (below). Ultrasound (not
+shown) demonstrated an irregular shadowing mass.- A developing asymmetry is a focal asymmetry that is either new or increased in size.
+A developing asymmetry is a suspicious finding, shown to represent breast cancer in 12.8%
+of cases at screening mammography and in 26.7% of cases at diagnostic mammography.
+The initial step in the workup of a developing asymmetry is to determine if it is a true lesion
+or summation artifact. A typical mammographic workup includes spot compression views
+and/or repeating the standard views to confirm that the questioned asymmetry persists.
+After diagnostic evaluation confirms that the developing asymmetry is a true lesion
+that can be localized in three-dimensional space, then ultrasound is performed. A mass
+demonstrated sonographically can be targeted for biopsy, and if a benign correlate is seen
+(e.g., a simple cyst) then the developing asymmetry can be assessed as BI-RADS 2 (benign).
+If no sonographic correlate is seen for a true developing asymmetry then stereotactic biopsy
+is required, as the risk of cancer is greater than 2% despite the absence of a sonographic
+abnormality.
+MRI generally does not play a role in the standard evaluation of a developing asymmetry.
+Since a developing asymmetry is a suspicious mammographic finding, then the absence of
+an MRI correlate would not obviate the need for biopsy.
+Breast: 392

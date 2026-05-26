@@ -1,0 +1,56 @@
+Procedural consent risks (not a comprehensive list; continued)
+GI embolization procedures: Bowel infarction.
+Pelvic embolization: Buttock claudication, rectal/bladder ischemia, impotence.
+Biliary procedures: Biliary sepsis, bile leak.
+GU procedures: Urosepsis.
+IVC filter: Migration, perforation, IVC thrombosis.
+Thrombolysis: Severe bleeding including cerebral hemorrhage, reperfusion syndrome, distal
+embolization.
+Gastrostomy tube: Tube malposition (in peritoneum or colon), bowel damage.
+TIPS: Hepatic failure, encephalopathy, death.
+Transjugular liver biopsy: Capsular perforation (severe bleeding).
+Uterine fibroid embolization: Premature menopause, reduced fertility, fibroid expulsion
+submucosal).
+Ablation: Collateral damage to adjacent organs (especially bowel), biliary stricture, abscess.
+Bleeding risk
+Society of Interventional Radiology (SIR) Consensus Guidelines in 2019 assess bleeding risk
+according to two general categories of procedures.
+Screening group
+Procedures
+Catheter exchanges
+Low bleeding risk
+Arterial and venous interventions (<6 French sheath)
+Screening PT/INR, platelet count,
+Dialysis access interventions
+hemoglobin not routinely recommended. IVC filter placement and removal
+Lumbar puncture
+Thresholds:
+Venous access placement and removal (including ports)
+INR >2.0-3.0
+TmoracentessParacentess
+Platelets >20 x: 10%L
+Superficial abscess drainage or biopsy
+Transjugular liver biopsy
+Ablations
+High bleeding risk
+Arterial interventions (>7 French sheath)
+Screening PT/INR, platelet count,
+hemoglobin is routinely recommended.
+Catheter directed thrombolysis
+Procedures involving new tract traversing solid organs
+Thresholds:
+(e.g., deep abscess drainage/biopsies, cholecystostomy,
+gastrostomy, nephrostomy tube placement)
+INR >1.5-1.8
+IVC filter removal (complex)
+Platelets >50 x: 10%L
+Transjugular intrahepatic portosystemic shunt
+For patients on anticoagulation or antiplatelet agents, cessation for several half-lives or use
+of reversal agents may be necessary for high bleeding risk procedures.
+Protamine sulfate is the reversal agent for heparin/enoxaparin.
+For reversal of vitamin K antagonists such as warfarin, options are IV vitamin K (minimum 6-12 hours) plus
+fresh-frozen plasma or prothrombin complex concentrates (e.g., Kcentra).
+The new factor Xa reversal agent andexanet alfa (AndexXa) can be used for apixaban and rivaroxaban.
+Occasionally, bridging to shorter-acting therapy is needed in high thrombosis risk patients
+(e.g., heparin for anticoagulants, and cangrelor for antiplatelet agents).
+IR: 590

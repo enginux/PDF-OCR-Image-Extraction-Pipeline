@@ -1,0 +1,31 @@
+Oncocytoma
+SAG RK
+Oncocytoma: Sagittal ultrasound through the right kidney (left image) demonstrates an exophytic solid renal
+mass (arrows) that is isoechoic to cortex. Color Doppler suggests a spoke-wheel pattern of vascularity.
+Case courtesy. Julie Ritner, MD, Brigham and Women's Hospital.
+Oncocytoma is a benign renal tumor arising from tubular cells. Due to significant imaging
+overlap with RCC, oncocytomas are usually biopsied or surgically resected.
+On ultrasound, oncocytoma is indistinguishable from RCC. It has variable echogenicity. A
+spoke-wheel vascular pattern is sometimes seen on color Doppler.
+On CT/MRI, certain features can suggest oncocytoma, but cannot reliably differentiate it
+from RCC. Features suggestive of oncocytoma include homogeneous enhancement and
+a central scar. The segmental enhancement inversion sign can be a more specific feature,
+referring to a "flip-flop" of enhancement of the tumor and central scar on early and late
+phases.
+Oncocytoma: Noncontrast CT (left image) shows an isodense renal mass (yellow arrows) containing a central
+punctate focus of hyperattenuation (red arrow). The contrast-enhanced excretory phase CT (right image)
+demonstrates that the mass enhances. There is a faint suggestion of a central focus of non-enhancement (red
+arrows), corresponding to a central scar.
+Diagnosis can be confirmed with percutaneous biopsy. Of note, oncocytic cells can be
+found in the rare chromophobe RCC subtype. However, pathologists can usually distinguish
+oncocytoma from the more common clear cell and papillary RCC subtypes.
+Non-neoplastic solid renal masses
+When evaluating a potential renal mass, it's critical to exclude non-neoplastic etiologies with
+mass-like appearance.
+Infection, especially focal pyelonephritis, can mimic a solid renal mass. Renal abscess may
+be difficult to differentiate on imaging from a cystic renal cell carcinoma. Follow-up imaging
+is usually performed to confirm resolution following treatment with antibiotics.
+Renal arteriovenous malformation (AVM) will avidly enhance and can mimic a
+hypervascular renal mass. One clue to the presence of an AVM would be asymmetric
+enhancement of the renal vein on the affected side, due to early shunting of venous blood.
+GU: 265

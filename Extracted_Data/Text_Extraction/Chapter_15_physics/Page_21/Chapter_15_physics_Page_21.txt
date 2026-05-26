@@ -1,0 +1,44 @@
+Focal heating and
+Conductive loops can cause local heating. Examples of conductive loops include
+thermal injuries
+crossed arms, ECG leads, and unconnected surface coil leads in contact with patient's
+skin.
+Metallic objects can absorb radiofrequency energy and become hot.
+Time-varying magnetic fields can result in peripheral nerve stimulation, muscle
+movement, and discomfort.
+Signal to noise
+ratio (SNR)
+Signal to noise ratio (SNR) is proportional to: I * voxel * VNEX * B
+xy,Z
+VBW
+I=i intrinsic signal intensity of voxel, dependent on tissue composition and pulse sequence
+voxel z = voxel volume, affected by image matrix and slice thickness; a smaller voxel volume will
+proportionally decrease signal to noise
+NEX = number of excitations; linearly related to time of acquisition
+BW = receiver bandwidth (range of frequencies collected by the MRI system; wide BW enables
+faster data acquisition and reduces chemical shift artifacts but also adds noise - reduces SNR)
+B =i intrinsic function of magnetic field strength
+T1 and T2
+Inherent tissue T1 and T2 characteristics depend on the longitudinal relaxation (T1)
+and transverse relaxation (T2) times of the protons in that tissue.
+Tissue signal abnormality is produced by alterations (prolongation or shortening)
+of the transverse or longitudinal relaxation of the tissue, which may be affected by
+various pathologic processes.
+MR image weighting (e.g., T1- or T2-weighted images) depends on the repetition time
+(TR) and echo time (TE) used to obtain images.
+T1 image contrast is dependent on TR, which is the interval between sequential
+radiofrequency pulses. The imaging appearance of specific tissues on T1-weighted
+images depends on how much longitudinal relaxation occurs between each TR. Images
+obtained with a short TR and a short TE are T1-weighted.
+Short T1 relaxation times - higher signal on T1-weighted images.
+Fat and subacute blood have short T1 relaxation times and therefore appear hyperintense on T1-
+weighted images.
+T2 image contrast is dependent on TE, which is the interval between the application
+of the radiofrequency pulse and the collection of the signal. The imaging appearance
+of tissues on T2-weighted images depends on how much transverse relaxation (loss of
+proton phase coherence) occurs during each TE. Images obtained with a long TR and a
+long TE are T2-weighted.
+Slow loss of phase coherence - prolonged T2 relaxation times - hyperintense on T2-weighted
+images.
+Water has a long T2 relaxation time and therefore is hyperintense on T2-weighted images.
+Physics: 1215

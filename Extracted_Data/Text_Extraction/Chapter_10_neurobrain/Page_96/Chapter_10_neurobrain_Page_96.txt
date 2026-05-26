@@ -1,0 +1,25 @@
+BRAIN INFECTION
+BACTERIAL INFECTION
+Pyogenic abscess
+Axial contrast-enhanced T1-weighted MRI
+Axial T2-weighted MRI
+DWI
+ADC map
+Pyogenic abscess: A ring-enhancing lesion (arrow) in the right anterior temporal lobe features a thin, smoothly
+enhancing, hypointense rim on the T2-weighted image, with moderate surrounding vasogenic edema. The
+contents of the lesion are hyperintense on DWI and dark on ADC, consistent with restricted diffusion.
+A cerebral pyogenic abscess may be due to hematogenous dissemination, direct spread from
+paranasal sinusitis or mastoiditis, or as a complication of bacterial meningitis.
+An abscess evolves over 4 stages (early cerebritis - late cerebritis - early abscess - late
+abscess) and takes about two weeks to fully develop. In the early stage of infection, there is
+nonspecific T2 prolongation in the affected region, with heterogeneous enhancement.
+After the abscess becomes discrete, the classic imaging appearance is a ring-enhancing
+mass. The rim is hypointense on T2-weighted images. Unlike the rim of a glioma or
+metastasis, an abscess rim is thin and smooth.
+When periventricular in location, an abscess classically tends to feature a thinner capsule
+oriented towards the ventricles. Disruption of the ventricular margin may herald impending
+rupture. Rupture may result in ventriculitis, with very high mortality.
+A brain abscess almost always demonstrates restricted diffusion, appearing very bright on
+DWI due to restricted diffusion superimposed on inherent hyperintensity on T2-weighted
+images.
+Neuro Brain: 745

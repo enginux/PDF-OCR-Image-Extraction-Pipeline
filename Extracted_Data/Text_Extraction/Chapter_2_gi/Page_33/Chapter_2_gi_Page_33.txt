@@ -1,0 +1,47 @@
+Transjugular intrahepatic portosystemic shunt (TIPS)
+Portal hypertension (and reversal of portal flow) can be treated with a transjugular
+intrahepatic portosystemic shunt (TIPS), which connects a branch of the portal vein to a
+systemic hepatic vein.
+Ultrasound is used for surveillance of TIPS patency, starting with a post-procedure baseline.
+Routine follow-up is performed according to the following schedule: in 1 month, every 3
+months for the first year, and then every 6 to 12 months.
+Flow in a patent TIPS will be towards the hepatic veins, and flow in the portal veins will be
+towards the TIPS. Therefore, flow in the main portal vein will be hepatopetal and flow in the
+right and left portal veins will be hepatofugal (highlighted below with yellow circles).
+LPV
+Patent TIPS:
+TIPS
+blood flows through TIPS to hepatic veins
+RHA
+LHA
+RPV and LPVI have reversed flow (toward TIPS)
+MPV has hepatopetal flow (toward TIPS)
+RPV
+CHA
+MPV
+Genera
+S1/-2/
+1/2
+CD Gair
+Patent TIPS: Color Doppler of the porta hepatis
+Storei In including the proximal TIPS shows flow within the
+TIPS (yellow arrow).
+Case courtesy. Julie Ritner, MD, Brigham and
+Women's Hospital, Boston.
+US can evaluate for stenosis of the TIPS.
+TIPS HEPATICI
+TIPS stenosis: Spectral Doppler of a TIPS shows a
+velocity of 45 cm/sec, indicative of stenosis due
+to slow flow.
+V = -0.45m/s
++Mean = -0.26m/s
+Case courtesy. Julie Ritner, MD, Brigham and
+PW:3.5MHz e=52°
+Women's Hospital, Boston
+50
+m/s
+1.0
+High intra-TIPS velocity >190 cm/sec or low intra-TIPS velocity of <90 cm/sec suggests stenosis.
+Intra-TIPS velocity change of + >50 cm/sec since the baseline study is also concerning for stenosis.
+Low main portal vein velocity (<30 cm/sec) suggests TIPS stenosis.
+GI: 127

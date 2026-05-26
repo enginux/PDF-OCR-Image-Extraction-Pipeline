@@ -1,0 +1,33 @@
+COMMON SURGERIES FOR CONGENITAL HEART DISEASE
+Hypoplastic left heart surgery
+The surgical treatment of hypoplastic left heart is performed in three sequential stages. The
+goal is to create an effective single ventricle heart (using the right ventricle) to pump blood
+to the entire body.
+A staged repair is necessary since the high pulmonary vascular resistance in the neonatal period precludes
+immediate definitive repair.
+hypoplastic left heart syndrome
+Norwood procedure
+modified Blalock-Taussig shunt
+(subclavian artery to PA)
+PDA closure
+reconstructed neoaorta
+using native pulmonary artery
+atrial septectomy
+Stage 1: The first stage is the Norwood procedure, performed within the first few days of life
+and has three main components. First, the right ventricle is redirected to supply the systemic
+circulation by reconstructing the aorta using the main pulmonary artery (PA). Second, the
+atrial septum is excised, and the PDA is ligated, to redirect pulmonary venous return to the
+right heart via the atrial septal defect. Third, pulmonary arterial circulation is provided via a
+modified Blalock-Taussig shunt (BT shunt), which connects the right subclavian artery to the
+right pulmonary artery via a prosthetic graft.
+BT shunt is associated with a coronary steal phenomenon. This occurs when diastolic blood flow is
+diverted from the aorta to the low-pressure pulmonary vasculature via the shunt, resulting in reduced
+flow to the coronary arteries.
+An alternative to BT: shunt is the Sano shunt, which is an extracardiac conduit that connects the right
+ventricle to the pulmonary artery. It does not cause coronary steal.
+-
+Sano shunt
+(RV to RA conduit)
+BT shunt and Sano shunt are also used as palliative treatment for pulmonary arterial flow obstruction,
+such as in TOF, pulmonary atresia, and tricuspid atresia.
+Peds: 1118

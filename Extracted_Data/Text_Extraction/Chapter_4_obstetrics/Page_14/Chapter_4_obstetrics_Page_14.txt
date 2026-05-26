@@ -1,0 +1,29 @@
+Acardiac twin
+twin 1 Vdluson E10
+twin 2
+18cm/s
+V
+Acardiac twin:
+Grayscale ultrasound with Doppler overlay of monochonone/damtotc twins:
+Color Doppler and waveform (left image) demonstrates reversed flow in the umbilical vessels of the acardiac
+(recipient) twin, with arterial flow into the fetus (yellow arrows) and venous flow towards the placenta (not
+shown). Also note diffuse body wall edema (red arrows).
+Color Doppler of the donor twin (right image) shows normal umbilical arterial flow out of the fetus.
+Acardiac twinning, also called twin reversed arterial perfusion (TRAP) sequence, is a severe
+variant that occurs when there is arterial-arterial communication in the shared placenta,
+causing reversed umbilical arterial flow in the recipient, acardiac twin. Similar to TTTS,
+acardiac twinning is a complication of monochorionic twins (either mono- or diamniotic).
+In acardiac twins, the donor fetus supplies circulation to itself and an acardiac twin, which
+has rudimentary or no development of structures above the thorax.
+Doppler of the umbilical arteries and vein shows reversed direction of flow in the acardiac
+twin.
+Normally, the umbilical arteries carry deoxygenated blood out of the fetus, pumped by the fetal heart. In
+the acardiac twin, the umbilical arteries carry nutrient-depleted, poorly-oxygenated blood into the fetus,
+pumped by the donor twin's heart. Doppler of the acardiac twin's umbilical arteries show an arterial
+waveform going into the fetus.
+Normally, the umbilical vein carries oxygenated blood into the fetus, from the placenta. In the acardiac
+twin, the umbilical vein carries deoxygenated blood out of the fetus, still pumped by the donor heart.
+Doppler of the acardiac twin's umbilical vein shows a venous waveform going out of the fetus.
+The entire circulation of both twins is maintained by the single donor fetus.
+Treatment is coagulation of the acardiac twin's umbilical cord.
+Obstetrics: 337

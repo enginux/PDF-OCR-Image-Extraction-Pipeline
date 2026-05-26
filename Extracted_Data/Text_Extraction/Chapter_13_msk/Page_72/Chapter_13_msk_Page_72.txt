@@ -1,0 +1,43 @@
+Combining WBC and sulfur colloid scintigraphy adds specificity in the evaluation of
+osteomyelitis because bone marrow is replaced by infection and white cells. Actively
+infected bone marrow will show discordantly increased uptake on the WBC scan and
+reduced activity on sulfur colloid.
+Note that WBC scan imaging is not sensitive for spinal osteomyelitis, thought to be due to the inability of
+leukocytes to migrate into an encapsulated infection.
+WBC scan can be performed with either Indium-111-WBC or TC-99m-HMPAO-WBC. Indium WBC: scan has
+higher radiation dose, takes 24 hours to perform, and the image has more noise. The disadvantage of Tc-
+99m-HMPAO is its tendency to dissociate, leading to genitourinary excretion of radiotracer.
+MRI is highly sensitive to detect early osteomyelitis within 3-5 days. MRI has similar
+sensitivity to radionuclide studies, but greater specificity. MRI can better delineate the
+extent of infection, any fluid collections that must be treated surgically, sinus tracts, and skin
+ulcers.
+The hallmark of MRI imaging of osteomyelitis is replacement of the normal fatty marrow
+signal. Edema and exudates cause high marrow signal on T2-weighted images and low
+signal on T1-weighted images. MRI has very high negative predictive value: A negative MRI
+essentially excludes osteomyelitis.
+Abnormal signal intensity in the bone on fluid-sensitive sequences does not necessarily signify that
+osteomyelitis is present. To confidently diagnose osteomyelitis on MR, the T1-weighted images should
+be carefully scrutinized. Three patterns of signal alteration on T1-weighted images have been described,
+which are confluent intramedullary, hazy reticular, and subcortical. Of these, only the confluent
+intramedullary pattern is highly associated with osteomyelitis.
+Confluent intramedullary
+Hazy reticular
+Subcortical
+Geographica area involving medullary canal Interspersed: areas ofr normal marrow
+Thin linear signal change
+subiacentt to cortex
+Strongly associatedy with osteomyelitis,
+Cannotr reliably diagnose osteomyelitis
+Cannot reliably diagnose osteomyelitis
+especially with adjacentu ulcer
+Rarely associatedv with
+hematogenous osteomyelitis.
+Confluent intramedullary:
+Hazy reticular: Not osteomyelitis Subcortical: Not osteomyelitis
+Osteomyelitis
+Three sagittal T1-weighted MRI images demonstrating confluent intramedullary (red arrows), hazy
+reticular (blue arrow), and subcortical (double blue arrow) signal changes. Of these, only confluent
+intramedullary signal change is strongly associated with osteomyelitis.
+Gadolinium is helpful to delineate any fluid collections and to evaluate for the presence of nonenhancing
+necrotic bone (sequestrum), although gadolinium is not necessary to confidently diagnose osteomyelitis.
+MSK: 979

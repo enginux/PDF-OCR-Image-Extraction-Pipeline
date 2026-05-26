@@ -1,0 +1,33 @@
+INTRAPARENCHYMAL HEMORRHAGE
+IMAGING OF HEMORRHAGE
+CT imaging of hemorrhage
+Noncontrast CT is usually the first imaging study performed in the emergency setting
+for a patient with a sudden neurologic deficit, headache, seizure, or altered level of
+consciousness.
+CT is highly sensitive for detection of hyperacute/acute intracranial hemorrhage, which
+appears nyperattenuating relative to brain parenchyma and CSF.
+Acute hemorrhage may be nearly isoattenuating to water in severe anemia (hemoglobin <8 mg/dL).
+The CT angiographic (CTA) spot sign describes the presence of small enhancing focus or foci
+within an acute intracerebral hemorrhage on CTA, which is separate from adjacent vessels
+and is not seen on noncontrast CT. This is thought to represent active hemorrhage and is a
+predictor of hematoma expansion and poor clinical outcome.
+Angiographic spot sign: Axial noncontrast CT (left image) demonstrates a left frontal acute intraparenchymal
+hemorrhage (yellow arrow). Axial CTA (right image) shows a hyperdense focus at the periphery of the
+intraparenchymal hematoma that does not communicate with any vessels and is not present on the
+noncontrast images, compatible with active hemorrhage (red arrow).
+MR imaging of hemorrhage
+MR imaging of hemorrhage is complex. The characteristics of blood products change on T1-
+and T2-weighted sequences as the iron in hemoglobin evolves through physiologic stages:
+Intracellular oxyhemoglobin - deoxygenation -
+Intracellular deoxyhemoglobin - oxidation -
+Intracellular methemoglobin - cell lysis -
+Extracellular methemoglobin - chelation -
+Hemosiderin and ferritin
+Each stage of this evolution adheres to a reasonably constant time course in the intra-axial
+space and allows the radiologist to "date" the hemorrhage based on the unique signal
+characteristics on T1- and T2-weighted images for each stage.
+In general, all stages of hemorrhage are isointense or slightly dark on T1-weighted images,
+except for the methemoglobin stages, which are bright.
+Methemoglobin is bright on both T1- and T2-weighted images, except for intracellular
+methemoglobin, which is dark on T2-weighted images.
+Neuro Brain: 693

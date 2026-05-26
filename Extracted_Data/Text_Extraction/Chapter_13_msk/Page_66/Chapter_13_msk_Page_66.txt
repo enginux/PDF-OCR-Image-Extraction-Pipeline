@@ -1,0 +1,51 @@
+MUSCULOSKELETAL INFECTION
+SEPTIC ARTHRITIS
+Overview of septic arthritis
+Septic arthritis, which is bacterial infection of a joint, is a medical emergency. Rapid
+diagnosis and treatment are essential to preserve the joint, as permanent cartilage damage
+can occur within three days.
+Septic arthritis is not typically an imaging diagnosis, and radiographs are commonly normal.
+However, radiographs should be performed to evaluate for changes of advanced infection
+(such as effusion, soft tissue swelling, or bony erosive changes) and also to exclude an
+alternative explanation for the patient's pain (such as fracture, calcific tendinitis, severe
+degenerative changes, etc.).
+In a patient with an acute mono-articular (involving only one joint) arthritis, septic arthritis
+should be a primary diagnostic consideration, even in the absence of fever or other systemic
+signs of infection.
+Diagnosis is confirmed with joint aspiration (arthrocentesis). Although it can take days for
+complete microbiology results to become available, the aspirated fluid white blood cell
+(WBC) count and percentage of polymorphonuclear neutrophils (PMN) can be used to
+predict the probability of septic arthritis:
+Parameter
+Sensitivity
+Specificity
+WBC >100,000/ pL
+29%
+99%
+WBC >50,000/ pL
+62%
+92%
+WBC: >25,000/ pL
+77%
+73%
+PMN 290%
+73%
+79%
+Based on the table above, for instance, a fluid WBC count of >50,000 is 92% specific for septic arthritis;
+however, this is only seen in 62% of cases of septic arthritis.
+Empiric treatment for septic arthritis is reasonable for a WBC count of >50,000.
+A common alternative etiology for elevated WBC count includes crystal arthropathy.
+OSTEOMYELITIS
+Overview of osteomyelitis
+Literally meaning "inflammation (-itis) of the bone (osteo-) marrow (-myelo-),"
+osteomyelitis is inflammation of the bone caused by an infectious organism. Osteomyelitis
+has protean clinical and imaging manifestations, with an end pathway of chronic progressive
+bony destruction if untreated.
+Osteomyelitis can be classified by route of spread (hematogenous, contiguous spread, or
+direct inoculation) or by chronicity (acute or chronic), although any route of spread can lead
+to either acute or chronic disease.
+The differentiation of acute, subacute, and chronic osteomyelitis is variably described in the literature.
+In general, acute osteomyelitis is less than two weeks duration. Subacute osteomyelitis is the phase of
+disease lasting less than three months but without acute symptoms.
+The pathologic hallmark of chronic osteomyelitis is bone necrosis.
+MSK: 973

@@ -1,0 +1,47 @@
+Gradient recalled echo (GRE) and susseptibility-weighted imaging (SWI)
+T2*-weighted GRE sequences are susceptible to signal loss from field inhomogeneities
+because there is no 180° rephasing pulse as there is in spin-echo sequences.
+SWI is a more sensitive version of GRE involving higher spatial resolution and other features
+to reduce artifacts. SWI generates both magnitude and phase images, which can help
+distinguish between paramagnetic (blood/iron) and diamagnetic (calcification) substances.
+Due to the susceptibility effect, materials like hemosiderin and calcification create blooming
+artifacts of signal dropout, which makes even small lesions conspicuous.
+The differential diagnosis of multiple dark spots on GRE/SWI reflects causes of
+microhemorrhage:
+Hypertensive microangiopathy (primarily in the basal ganglia, thalami, cerebellum, and pons).
+Cerebral amyloid angiopathy (primarily lobar in cortico-subcortical sites, sparing deep structures).
+Familial cerebral cavernous malformation syndrome (inherited multiple cavernous malformations).
+Radiation-induced cerebral vasculopathy.
+Diffuse axonal injury (primarily at gray-white matterj junction and corpus callosum).
+Hemorrhagic metastases.
+Fat embolism.
+Complication of cardiac surgery (presumed to be rapidly developed microbleeds).
+Magnetic resonance spectroscopy (MRS)
+Proton MR spectroscopy describes the chemical composition of a brain region. The changes
+in brain metabolites can be used for diagnostic, prognostic, and treatment assessment of a
+variety of CNS disorders.
+There are various methods of performing MR spectroscopy. Single-voxel spectroscopy
+(SVS) provides a high signal-to-noise ratio with a short scan time but only provides single-
+voxel coverage. Multi-voxel chemical shift imaging (CSI) is advantageous for larger or
+more heterogeneous lesions because it provides a larger coverage area and higher spatial
+resolution due to smaller size of individual voxels, with the tradeoff of longer scan time and
+lower signal-to-noise ratio.
+The peaks of the main compounds analyzed occur in alphabetical order, displayed left to
+right on a reversed axis of resonance frequencies expressed in parts per million (ppm).
+Choline (3.2 ppm) is a marker of cell membrane turnover that increases in most abnormalities.
+Creatine (3.0 ppm) reflects cellular energy stores and is relatively constant between most disease states.
+N-acetylaspartate (NAA) (2.0 ppm) is a marker of neuronal viability that decreases in most abnormalities.
+Lipids and lactate (1.3 ppm) reflect abnormal tissue damage and anaerobic glycolysis, respectively. Lipids
+have a broad peak and lactate has a doublet peak (due to. J-coupling)- These may be difficult to distinguish,
+but the lactate doublet is inverted at intermediate TE (e.g., 144 ms).
+Hunter's angle is a quick way to see if a spectrum is normal: a line connecting the tallest
+normal peaks (choline, creatine, and NAA) should point up like a plane taking off. Most
+diseases feature decreased NAA and/or increased choline, disrupting Hunter's angle.
+MRS can help in the evaluation of brain tumors. Prominent lipid/lactate peaks are associated
+with high-grade gliomas (when nonenhancing) or lymphoma (when enhancing). Elevated
+choline suggests tumor rather than edema (in an area of nonenhancing FLAIR abnormality)
+or radiation-induced necrosis (in a contrast-ennancing area; i.e., progression rather than
+pseudoprogression), Isocitrate dehydrogenase (IDH)-mutant status in gliomas, which carries
+favorable prognosis, may be predicted by the presence of 2-hydroxyglutarate (2-HG), but
+advanced MRS techniques are required to detect this metabolite.
+Neuro Brain: 659

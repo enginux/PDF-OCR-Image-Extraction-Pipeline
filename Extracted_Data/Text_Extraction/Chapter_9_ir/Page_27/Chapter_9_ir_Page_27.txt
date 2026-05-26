@@ -1,0 +1,32 @@
+ANEURYSMAL DISEASE
+Aneurysms are considered when an artery is 1.5 times the size of the normal vessel.
+A true aneurysm involves all three layers of the arterial wall: Intima, media and adventitia.
+A pseudoaneurysm contains only one to two layers of the vessel wall and occurs in the
+setting of trauma, malignancy or infection.
+Aneurysms can vary with respect to size and growth, and management decisions should be
+based on the risk of rupture.
+Aortic aneurysmal disease
+Minimally invasive endovascular aneurysm repair (EVAR) is a widely accepted alternative to
+surgical repair, with decreased perioperative morbidity and mortality.
+A comprehensive review of aortic aneurysmal disease and the 5 types of endoleaks is listed
+in the "Vascular" chapter. Interventional radiology is best suited for treating the following
+types of endoleaks:
+Type I endoleaks result from failure of the stent graft to form an adequate seal at the
+proximal (type IA) or distal (type IB) attachment sites.
+Prompt intervention is indicated and management consists of balloon angioplasty at the attachment sites
+to attempt to approximate the stent graft with the vessel wall, deploying another expandable bare metal
+stent over the attachment sites, or embolization.
+Type II endoleaks are the most common type and result from retrograde filling of the
+excluded aneurysm sac by branch vessels, typically the inferior mesenteric artery (IMA) and
+lumbar arteries.
+Many have slow flow and tend to spontaneously thrombose, resulting in no change or even decrease in
+size of the aneurysm sac.
+While there is risk for retrograde flow to increase sac size, the majority of aneurysms will decrease or stay
+the same, thus management is controversial and is considered when there is persistent endoleak or the
+sac enlarges by greater than 5 mm.
+Management consists of accessing the sac either by transarterial approach or direct sac puncture, and
+subsequent embolization of the feeding vessel.
+Type III endoleaks are uncommon and result from loss of device integrity.
+Prompt management is indicated and consists of deploying a new stent graft over the defect, with
+subsequent angioplasty to obtain a good seal.
+IR: 614

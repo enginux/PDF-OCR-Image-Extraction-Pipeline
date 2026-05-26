@@ -1,0 +1,34 @@
+Dementia imaging (continued)
+Lewy body dementia appears similar to Alzheimer but also involves the occipital lobes.
+Multi-infarct dementia shows multiple asymmetric foci of decreased metabolism/perfusion.
+Pick disease frontotemporal dementia) is characterized by decreased uptake in the frontal
+lobes and anterior portion of the temporal lobes.
+Huntington disease shows decreased uptake in the basal ganglia.
+Parkinson disease is characterized by decreased dopamine transporter density in the
+striatum on SPECT and PET, demonstrated with use of agents such as I-123 ioflupane
+(DaTscan) or F-18-DOPA.
+Normal versus abnormal I-123 ioflupane uptake on SPECT and SPECT/CT overlay: The left two images show
+normal symmetric comma-shaped activity in the caudate nucleus and putamen. The right two images show
+asymmetric and reduced activity in both striata, greater on the left, resulting in loss of the comma shape.
+Seizure imaging
+In general, blood perfusion and metabolism of seizure foci are increased during seizure (ictal
+imaging), and decreased between seizures (interictal imaging).
+Ictal perfusion SPECT with Tc-99m HMPAO or ECD is the most sensitive, but technically
+challenging to perform because the radiotracer must be injected during the seizure or within
+30 seconds after the end of the seizure.
+Interictal PET with F-18 FDG is very sensitive in localizing partial complex seizures, which
+usually originate in the temporal lobe. Ictal PET is not possible due to slow FDG uptake.
+Extratemporal seizure focus is more difficult to localize. Ictal SPECT is the most sensitive.
+Crossed cerebellar diaschisis
+Crossed cerebellar diaschisis is a commonly encountered phenomenon in the presence of a
+supratentorial lesion (seen in tumors, stroke, and trauma), where the cerebellar hemisphere
+contralateral to the lesion shows decreased radiotracer uptake. This phenomenon is thought
+to be due to interruption of cortcopontine-cerebelar pathways.
+Axial F-18 FDG PET (right image) shows
+near absent glucose metabolism in the
+left cerebral hemisphere due to known
+encephalomalacia. Relatively decreased
+FDG uptake in the right cerebellum
+(left image) is consistent with crossed
+cerebellar diaschisis.
+Nucs: 454

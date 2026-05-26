@@ -1,0 +1,48 @@
+Radiotracer: Tc-99m DTPA
+Due to its short half-life (6 hours), Tc-99m DTPA is used for CSF studies that do not require
+prolonged imaging, including the evaluation of CSF leak and shunt patency.
+09
+by
+Normal cisternogram:
+Planar images at different projections
+were obtained at 4 hours following
+0
+intrathecal
+of
+ANTSKULDunsonscDass Phc1.9mm
+.D--ANE
+injection 0.54 mCi
+In-111 DTPA. There is normal trident
+appearance of tracer activity in the
+sylvian and anterior interhemispheric
+69
+69
+cisterns. Activity is also present in
+the basilar cisterns and spinal canal.
+0
+RTLATDuration 600sec Pix1. 9mm
+LTLATDuration.s 600sec Pbc1 9mm
+Normal pressure hydrocephalus
+Radionuclide cisternography can be used to confirm suspected communicating
+hydrocephalus in patients with the classic clinical triad of normal pressure hydrocephalus
+(ataxia, incontinence, dementia), who would benefit from CSF shunting.
+Communicating hydrocephalus is characterized by early entry of radioactivity into the lateral
+ventricles within 6 hours, persistent intraventricular activity, and lack of activity over the
+cerebral convexities after 24-48 hours.
+CSF leak
+Common locations for CSF leak are the ear, paranasal sinuses, and nose.
+CSF leak can be identified by asymmetric activity in the region of the ears on frontal imaging,
+or activity in the nose on lateral imaging. Subtle leaks can only be detected by placing cotton
+pledgets in the area of concern, removing after several hours and counting the pledgets'
+activity relative to plasma activity.
+For spinal CSF leak, radioisotope cisternography shows diffusion of the tracer into the
+paraspinal extra-arachnoidal space. Correlation with MR or CT myelography may show
+triangular CSF space expansion at nerve root sleeves. A common pitfall is perineural cysts
+which are discrete round lesions.
+Evaluation of CSF shunt patency
+Tc-99m DTPA or less commonly In-111 DTPA are injected into the shunt reservoir.
+If the distal limb of the shunt is patent, radiotracer activity should rapidly pass through the
+shunt catheter and into the peritoneal cavity or right atrium.
+Manual occlusion of the distal limb should normally show reflux of radiotracer into the
+ventricular system. This is not seen in the presence of proximal limb occlusion.
+Nucs: 456

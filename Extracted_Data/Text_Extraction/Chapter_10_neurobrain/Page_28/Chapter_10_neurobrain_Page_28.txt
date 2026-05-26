@@ -1,0 +1,83 @@
+EVOLUTION OF INFARCTION
+hyperacute infarct
+acute infarct
+early subacute infarct late subacutei infarct
+chronici infarct
+0-6 hours
+6-721 hours
+1.5 days-5 days
+5 days-2 weeks
+primary MR: abnormality reduced diffusion
+less restricted diffusion
+diffusivity normalizes
+.increased diffusivity
+is reduced diffusivity
+corticall T21 hyperintensity .T2 hyperintensity extends gyral enhancement
+cystic encephalomalacia
+to white matter
+increasing mass effect
+resolution of mass effect noi mass effect
+mass effect peaks
+T2/FLAIR
+T2/FLAIR
+T2/FLAIR
+T2/FLAIR
+T2/FLAIR
+normal or subtly
+gray-matter
+diffusely
+diffusely
+diffusely
+hyperintense
+hyperintense
+hyperintense
+hyperintense
+hyperintense
+DWI
+DWI
+DWI
+DWI
+DWI
+hyperintense
+hyperintense
+hyperintense
+mildly! bright
+isointense
+DWI becomes lessi intense and ultimately normalizes
+ADC
+ADC
+ADC
+ADC
+ADC
+hypointense
+hypointense
+resolving
+isointense
+hyperintense
+ADCE becomes less dark over time and ultimately showsi increased diffusivity
+restrictedo diffusion
+increased diffusivity
+in acutep phases
+in chronic phases
+masse effect
+enhancement
+peaks 3-5 days
+lasts 6 days-6 weeks
+The peak time for mass effect does not overlap withe enhancement:
+Consider an alternative etiology ifthere is significant mass effect withe enhancement!
+Hyperacute infarct (0-6 hours)
+Within minutes of critical ischemia, the sodium-potasslum ATPase pump that maintains the
+normal low intracellular sodium concentration fails. Sodium and water diffuse into cells,
+leading to cell swelling and cytotoxic edema.
+Calcium also diffuses into cells, which triggers cascades that contribute to cell lysis.
+By far the most sensitive imaging modality for detection of hyperacute infarct is MRI
+diffusion-weighted imaging (DWI). DWI hyperintensity and ADC map hypointensity reflect
+reduced diffusivity, which can be seen within minutes of the ictus.
+Diffusion is reduced in an acute infarct by two factors:
+1) Shift from extracellular to intracellular water due to Na/K ATPase pump failure.
+2) Increased viscosity of infarcted brain due to cell lysis and increased extracellular protein.
+FLAIR may be normal. Subtle hyperintensity may be seen on FLAIR images in the hyperacute
+stage. These changes are seen less than 2/3 of the time within the first 6 hours.
+Perfusion shows decreased cerebral blood volume of the infarct core, with or without a
+surrounding region of decreased cerebral blood flow, which represents the penumbra.
+Neuro Brain: 677

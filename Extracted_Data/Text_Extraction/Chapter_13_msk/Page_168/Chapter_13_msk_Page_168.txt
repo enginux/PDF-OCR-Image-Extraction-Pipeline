@@ -1,0 +1,49 @@
+WRIST MR
+Anatomy - extensor tendons
+Wrist extensor compartments:
+2
+Compartment 1:
+5
+APL (abductor pollicis longus)
+6
+EPB (extensor pollicis brevis)
+Compartment 2:
+1 ECRL (extensor carpi radialis longus)
+ECRB (extensor carpi radialis brevis)
+Compartment 3:
+EPL (extensor pollicis longus)
+Compartment 4:
+ED (extensor digitorum tendons)
+EI (extensor indicis)
+Compartment 5:
+EDM (extensor digitorum minimi)
+Compartment 6:
+Illustration by Luis Beltran, MD
+ECU (extensor carpi ulnaris)
+De Quervain's tenosynovitis
+De Quervain's tenosynovitis:
+Axial T2-weighted MRI with fat
+suppression demonstrates edema
+surrounding extensor compartment 1
+(arrows), consistent with de Quervain's
+tenosynovitis.
+Triangular fibrocartilage (TFC) anatomy
+TFC disc proper
+Meniscal homolog
+Ulnar styloid and foveal
+attachments (not well
+seen on this slice)
+Ligamentum subcruentum
+Radial articular cartilage
+Coronal GRE MR
+Annotated magnified image (FOV yellow box)
+Normal TFC anatomy: The triangular fibrocartilage complex (TFCC) is a complex structure comprised of
+multiple confluent ligamentous structures: supporting a fibrocartilaginous disc (the TFC proper). On the radial
+aspect, the TFC disc attaches to the radial articular cartilage, and on the ulnar aspect the TFC is attached to
+both the ulnar styloid and ulnar fovea (depression at the radial base of the ulnar styloid). Dorsal and ulnar
+attachments are from the dorsal and volar radioulnar ligaments (not shown above).
+The ligamentum subcruentum is normal high signal intensity connective tissue at the ulnar aspect of the TFC
+disc, which is important not to confuse for a tear.
+A confusingly named structure, the meniscus homolog is loose fibrovascular tissue that is not typically
+individually evaluated on MR. It is not related to the knee meniscus.
+MSK: 1075

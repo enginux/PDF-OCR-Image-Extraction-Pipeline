@@ -1,0 +1,39 @@
+X-ray interactions with
+Coherent scatter: No exchange of energy, no change in frequency, and no
+matter
+contribution to patient dose. Contributes less than 5% of X-ray interactions.
+All of these interactions
+VVVVV
+deal with incoming
+-
+photons.
+E = energy of incoming e Compton scatter: Proportional to (electron density)/E. Scattered photons go in
+photon (keV)
+all directions.
+Compton scatter dominates at >25 kevi in soft tissue and >40 kev in bone.
+K shell
+nucleus
+outer shell
+1) outer shell electron is ejected
+2) photon is scattered with:
+longer wavelength
+lower frequency
+lower energy
+Z= Electron number- Photoelectric effect: Proportional to Z3/E3.
+Photoelectric effect dominates at <25 keV in soft tissue and <40 keV in bone.
+outer shell
+(intermediate shells not shown)
+K shell
+nucleus
+1) incident
+photon
+absorbed
+2) inner shell electron ejected
+3) outer shell electron fills vacancy
+4) characteristic X-ray or
+Auger electron produced
+(not diagrammed)
+Energy from the ejected inner shell electron is absorbed locally (energetic electrons
+don't travel very far); however, a 30 keV electron can cause significant damage via 1,000
+ionizations (approximately 30 ev/ionization).
+Physics: 1204

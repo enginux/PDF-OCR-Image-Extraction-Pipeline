@@ -1,0 +1,51 @@
+Dose to general public
+1 mSv/year, which is actually lower than the maximum dose of 5 mSv allowed
+allowed by medical
+to the fetus of a radiation worker.
+radiation
+Dose limits by body part
+Eyes: 150 mSv/year
+Everything else: 500 mSv/year
+Occupational exposure
+Max permissible effective dose = 50 mSv/year
+(not pregnant)
+Background radiation
+Background radiation varies by location, but averages about 3 mSv/year
+excluding medical radiation.
+1 Gy (Sv) is required to double the mutation rate, SO 3 mSv = 0.003 Sv = 0.3% increased risk
+of mutation above the baseline rate.
+Radon exposure represents approximately 55% of background radiation. Radon
+is an alpha emitter with a half-life of three days. Its parent radionuclide is
+radium, with a half-life of 1600 years.
+Effective dose = Absorbed dose * WR * W,
+WR = 20 (T LET), and W, = 0.1 (only lung tissue irradiated)
+Radon exposure is thought to cause -20,000 deaths/year.
+MAGNETIC RESONANCE IMAGING (MRI) PHYSICS
+MRI and
+Although no controlled studies have been performed, MRI can be performed at any
+pregnancy
+stage of pregnancy. Gadolinium is contraindicated throughout pregnancy.
+MRI quenching
+Quenching causes loss of superconductivity of the MRI scanner magnet coils, which
+releases helium. Helium displaces 0, - must evacuate emergently.
+Fringe field
+The fringe field surrounds the controlled access area and cannot exceed 5 Gauss
+FDA regulates the
+Static magnetic field strength >4T.
+following MRI
+Time-varying magnetic fields sufficient to produce severe discomfort or painful
+parameters
+stimulation.
+Radiofrequency power deposition to produce core temperature increase of 1°C.
+Acoustic noise levels >140 dB.
+SAR
+The specific absorption ration (SAR) characterizes the radiofrequency (RF) power
+Specific absorption
+absorbed per unit mass.
+ratio
+SAR is proportional to # images acquired per unit time and depends on patient
+dimensions, RF waveform, tip angle, and coil type.
+MRI noise
+The acoustic noise produced by the MRI scanner is caused by vibrating gradient coils,
+due to rapidly applied gradient magnetic fields.
+Physics: 1214

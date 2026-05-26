@@ -1,0 +1,24 @@
+Lissencephaly
+Lissencephaly is characterized by absent or decreased cortical convolutions causing a
+smooth, thickened cortical surface. In classic lissencephaly, instead of the normal 6-layered
+cortex, the cortex is arranged into 4 primitive layers. Lissencephaly is thought to result
+due to an arrested band of neurons, which have not completed outward migration to the
+superficial cortex.
+Most lissencephalies are the result of genetic mutations encoding tubulins, actins, and
+microtubule-assoclated proteins like doublecortin DCX, LIS1, dyneins and kinesins.
+Clinically, patients with lissencephaly almost universally have seizures.
+Classic lissencephaly is genetically and embryologically distinct from cobblestone
+malformations (sometimes called lissencephaly type II). Cobblestone lissencephaly results
+from neuronal overmigration through gaps in the pial limiting membrane and is associated
+with cerebellar and ocular malformations and muscular dystrophy Walker-Warburg
+syndrome).
+Type I (classical) lissencephaly is characterized by a smooth cortex and a configuration of
+the cerebral hemispheres that has been likened to an hour-glass or a figure-of-8.
+T1-weighted (left image) and T2-weighted (right image) MR images demonstrate classical
+(type I) lissencephaly with a completely smooth cortex and an hour-glass or figure-of-8
+configuration to the cerebral hemispheres.
+Type II (cobblestone) lissencephaly is characterized by a finely undulating cortex.
+T1-weighted (left image) and T2-weighted (right image) MR images demonstrate
+cobblestone malformation (type II) lissencephaly with a gently lobulated external cortex
+and a finely undulating or serrated interface at the gray-white junction.
+Peds: 1185

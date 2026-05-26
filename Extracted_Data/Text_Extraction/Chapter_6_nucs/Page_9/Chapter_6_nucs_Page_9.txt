@@ -1,0 +1,43 @@
+CEREBROVASCULAR
+RADIOTRACERS
+Tc-99m DTPA / Te-99m pertechnetate
+Technetium-99m has a half-life of 6 hours and is used in the majority of nuclear imaging.
+Tc-99m DTPA and pertechnetate are transient perfusion agents. There is no uptake within
+the brain parenchyma as they do not cross intact blood-brain barrier. Activity is seen in the
+scalp, calvarium, subarachnoid spaces, major cerebral arteries and venous sinuses.
+Transient perfusion agents are reserved for planar imaging only and are now uncommonly
+used.
+Tc-99m HMPAO / Tc-99m ECD
+Both HMPAO and ECD are lipophilic perfusion agents that cross the blood-brain barrier. To
+be retained in the cell, ECD is enzymatically modified. In contrast, HMPAO simply needs to
+be protonated to be trapped. Thus, ECD is only taken up by living cells while HMPAO uptake
+is a marker of perfusion. In the evaluation of subacute infarct, the phenomenon of luxury
+perfusion can cause HMPAO uptake to increase (due to increased perfusion), while ECD will
+show the true defect representing the infarct core.
+HMPAO and ECD show activity in the brain parenchyma, mainly gray matter.
+Oft these two agents, ECD is generally preferred for brain imaging, because it has more rapid
+blood pool clearance, better shelf life, more accurate characterization of perfusion, and is
+only taken up by living cells.
+Both tracers are used for SPECT imaging.
+lodine-123 ioflupane (I-123 FP-CIT or DaTscan)
+lodine-123 has a half-life of 13 hours. I-123 ioflupane is a cocaine analog that binds to the
+presynaptic dopamine transporter (DaT). It is used in SPECT imaging for the differentiation
+of essential tremor from parkinsonism.
+Thallium-201
+Thallium-201 has a half-life of 73 hours and is used for SPECT imaging in the differentiation
+of tumor recurrence versus radiation necrosis. Thallium accumulates in viable tumor but not
+normal brain tissue.
+PET agents
+F-18 FDG is the most common FDA-approved PET agent used for brain imaging.
+F-18 florbetapir, F-18 florbetaben and F-18 flutemetamol are FDA-approved PET agents for
+imaging of beta-amyloid.
+In 2020, F-18 flortaucipir was approved by FDA for tau imaging.
+Other PET radiotracers are emerging that target specific neuroreceptors (such as F-18-DOPA
+targeting the dopamine transporter).
+RADIONUCLIDE IMAGING OF THE BRAIN
+Evaluation of cerebral perfusion
+Cerebral perfusion reserve can be assessed with an açetazolamide (Diamox) challenge.
+Normally, cerebral blood flow increases after administration of 1 g Diamox, a carbonic
+anhydrase inhibitor that causes increased cerebral CO2 concentration and thereby
+cerebrovascular vasodilation.
+Nucs: 452

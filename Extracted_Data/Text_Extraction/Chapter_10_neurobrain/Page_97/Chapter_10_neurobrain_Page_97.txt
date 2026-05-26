@@ -1,0 +1,36 @@
+Tuberculoma
+A tuberculoma is a localized tuberculosis granuloma. It is not always possible to differentiate
+a tuberculoma from a pyogenic abscess.
+A tuberculoma tends to have central nypointensity on T2-weighted image (in contrast to
+a pyogenic abscess, which is hyperintense). A cystic tuberculoma, however, may mimic
+a pyogenic abscess. Similar to pyogenic abscess, tuberculomas tend to show restricted
+diffusion.
+Lyme disease
+Lyme disease, caused by the spirochete Borrelia burgdorferi, can cause white matter disease
+with a nonspecific imaging appearance of T2 prolongation predominantly in the frontal
+subcortical white matter. Associated enhancement of multiple cranial nerves or meningeal
+enhancement may suggest the diagnosis.
+VIRAL INFECTION
+Herpes encephalitis
+Axial FLAIR
+DWI
+SWI
+Herpes encephalitis: MRI images show abnormal FLAIR hyperintensity and restricted diffusion in the anterior
+right temporal lobe with regional mass effect and associated foci of susceptibility representing petechial
+hemorrhagic conversion (arrow).
+Herpes encephalitis is a devastating (if untreated), necrotizing encephalitis caused by
+reactivation of latent HSV-1 within the trigeminal ganglion.
+Clinical symptoms are nonspecific, with fever and headache often being prominent
+complaints. Mental status may be altered.
+Herpes should be the first consideration in any patient with fever, mesial temporal lobe
+signal abnormality, and acute altered mental status.
+Although lumbar puncture should be obtained before MRI and treatment should never be
+delayed for MRI, it is important to note that herpes encephalitis may be present when not
+clinically suspected and PCR of HSV in cerebrospinal fluid is not 100% sensitive.
+Herpes encephalitis causes edema, hemorrhage, and necrosis, typically in the medial
+temporal lobes and the inferior frontal lobes.
+CT is often normal but can show ill-defined hypoattenuation in the affected regions.
+MRI is much more sensitive and typically shows bilateral (but usually asymmetric) T2
+prolongation in the medial temporal lobe, insular cortex, cingulate gyrus, and inferior frontal
+lobe.
+Neuro Brain: 746

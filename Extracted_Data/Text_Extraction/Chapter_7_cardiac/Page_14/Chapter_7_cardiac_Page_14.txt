@@ -1,0 +1,27 @@
+Amyloidosis
+Amyloidosis is a systemic disease characterized by extracellular deposition of insoluble
+proteins; any organ can be affected. Cardiac involvement pertains a poor prognosis and can
+lead to angina, arrhythmias, restrictive cardiomyopathy, and heart failure. Transthyretin
+cardiac amyloidosis formed from misfolded transthyretin protein is now recognized as a
+common cause of heart failure with preserved ejection fraction in elderly (senile amyloidosis
+subtype).
+While the gold standard for diagnosis of cardiac amyloidosis is tissue biopsy, cardiac
+imaging such as MRI (discussed later in the chapter) and nuclear imaging offer noninvasive
+alternatives.
+Radiotracers most commonly used to image cardiac amyloidosis are Tc-99m-labeled
+bisphosphonates traditionally developed for bone scintigraphy. These agents are helpful
+in distinguishing between subtypes of amyloidosis, where transthyretin amyloid (senile
+and hereditary subtypes) takes up more radiotracer than light-chain (AL) amyloid. The
+mechanism of uptake is not clearly understood.
+Grade 2 (myocardial uptake = rib uptake) or grade 3 (myocardial uptake > rib uptake) myocardial uptake of
+Tc-99m bisphosphonate tracers on SPECT is nearly 100% specific for the diagnosis of transthyretin cardiac
+amyloidosis if light-chain amyloidosis is excluded.
+Patient with heart failure with preserved ejection fraction and increasing left ventricular wall thickening
+on echocardiogram despite well controlled hypertension: Coronal and sagittal planar images obtained
+three hours afteri injection of 20 mCi of Tc-99m pyrophosphate demonstrated grade 3 myocardial uptake
+of radiotracer (myocardial uptake > rib uptake) which was confirmed on SPECT (not shown). If serum and
+urine immunofixation electrophoresis and serum free light chain assay are negative (which exclude light
+chain amyloidosis), these findings would be consistent with transthyretin cardiac amyloidosis.
+Amyloid-specific PET agents (such as F-18 florbetapir and C-11 PiB) are currently undergoing
+investigation for imaging of cardiac amyloidosis.
+Cardiac: 499

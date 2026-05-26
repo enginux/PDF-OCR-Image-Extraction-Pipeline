@@ -1,0 +1,31 @@
+PORTAL HYPERTENSION
+Measuring portal pressure
+Direct portal vein (PV) pressure measurement requires traversing the hepatic parenchyma
+and is thus invasive and impractical. Wedged hepatic vein pressure is routinely measured via
+an internal jugular vein catheter and is thought to equal PV pressure in most patients.
+The corrected sinusoidal gradient is an estimate of the portosystemic gradient and
+represents the actual sinusoidal resistance to portal flow. It is calculated as:
+(Wedged hepatic vein pressure) - (free hepatic vein pressure)
+Portal hypertension is defined as a portosystemic gradient >5 mm Hg.
+Collateral pathways seen in portal hypertension
+coronary
+paraesophageal
+and esophageal
+retrogastric
+gastrorenal shunt
+perisplenic
+paraumbilical
+splenorenal shunt
+mesenteric
+caput medusa
+retroperitoneal
+/p paravertebral
+hemorrhoidal
+Light blue represents portal veins - dark blue represents systemic veins
+Esophageal varices: Coronary vein * azygos/hemiazygos veins
+Gastric fundal varices: Splenic vein - azygos veins
+Splenorenal shunt: Splenic or short gastric * left adrenal/inferior phrenic * left renal vein
+Mesenteric varices: SMV or IMV * iliac veins
+Caput medusa: Umbilical veinepigastric veins
+Hemorrhoids: IMV - inferior hemorrhoidal veins
+IR: 633

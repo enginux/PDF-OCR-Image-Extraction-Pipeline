@@ -1,0 +1,22 @@
+Ellen X. Sun, Junzi Shi, Sharmila Dorbala,
+Ayaz Aghayev, Michael L. Steigner
+Cardiac Imaging
+Nuclear cardiology.
+487
+Plain film imaging of heart disease
+.501
+Coronary CT angiography.
+505
+Cardiac MRI
+514
+Ischemic heart disease
+521
+Non-ischemic myocardial disease
+.524
+Valvular disease
+528
+Pericardial disease.
+530
+Adult cardiac masses -
+534
+Cardiac: 486

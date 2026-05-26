@@ -1,0 +1,25 @@
+BASICS OF MRI
+TENDONS
+A normal tendon is dark on all MRI sequences.
+Magic angle artifact
+Sagittal STIR MRI
+Sagittal STIR MRI
+Agparens gray signal
+Intensity /ofperoneals
+due to magic angle
+Axial PD-weighted MRI
+Axial PD-weighted MRI (slightly more caudal)
+Magic angle artifact: Note the normal low signal intensity of the peroneus longus (yellow arrows) and
+peroneus brevis (red arrows) tendons on the left-most axial PD image, corresponding to the level indicated by
+the dashed orange line in the sagittal STIR image directly above. Ani image slightly lower (right images) shows
+apparent "gray" or intermediate signal intensity due to magic angle artifact.
+A normal tendon may have artifactually increased signal due to the magic angle
+phenomenon. Because tendons have fibers coursing along a single direction (demonstrating
+anisotropy), tendons may demonstrate artifactually increased signal on short TE sequences
+when oriented 55 degrees relative to the bore of the magnet. This phenomenon is called the
+magic angle artifact.
+Short TE sequences include T1-weighted and proton density images.
+T2-weighted: sequences are less susceptible to the magic angle artifact.
+Unlike true tendon pathology, the magic angle artifact disappears with a long TE and the tendon will
+otherwise have a normal morphology.
+MSK: 993

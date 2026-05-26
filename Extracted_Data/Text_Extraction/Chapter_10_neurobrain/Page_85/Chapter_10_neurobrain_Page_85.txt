@@ -1,0 +1,35 @@
+VASCULAR WHITE MATTER DISEASE
+Posterior reversible encephalopathy syndrome (PRES)
+PRES: Axial FLAIR images show abnormal hyperintense signal in the subcortical white matter of the bilateral
+posterior frontal, parietal, and temporal lobes, as well as bilateral cerebellar hemispheres.
+Posterior reversible encephalopathy syndrome (PRES) is a disorder of vasogenic edema
+with a posterior circulation predominance triggered by failed autoregulation and resultant
+hyperperfusion, most commonly caused by acute hypertension. In addition to hypertension,
+PRES is also associated with eclampsia, sepsis, autoimmune disorders, multi-drug
+chemotherapy, and solid or stem cell transplantation.
+In contrast to infarction, the edema is vasogenic in etiology, not cytotoxic. Diffusion may be
+normal, increased, or restricted.
+Imaging shows symmetric regions of subcortical white matter abnormality hypoattenuation
+on CT and T2 prolongation on MR), especially in the posterior circulation (occipital and
+parietal lobes and posterior fossa). Mild mass effect and enhancement can be seen.
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and eukoentephalopathy (CADASIL)
+CADASIL is an inherited disease (notch3 mutation) characterized by recurrent stroke,
+migraine, subcortical dementia, and pseudobulbar palsy, due to small vessel arteriopathy.
+The clinical hallmark of CADASIL is recurrent episodes of stroke or transient ischemic attacks,
+which are nearly always found to be subcortical in the white matter or basal ganglia on
+imaging. There is often associated migraine. It may eventually lead to dementia.
+MRI shows symmetric foci of T2 prolongation in the subcortical white matter, which may
+become confluent as the disease progresses. Anterior temporal lobe or paramedian frontal
+lobe foci of T2 prolongation are highly sensitive and specific for CADASIL, especially with
+clinical history of migraine. Although the symmetric subcortical pattern is similar to PRES,
+the distribution in CADASIL is anterior circulation.
+Vasculitis
+CNS vasculitis is a group of vascular inflammatory disorders that primarily affect the small
+vessels, in particular the leptomeningeal and small parenchymal vessels.
+Etiologies include lupus, polyarteritis nodosa, giant cell arteritis, and Sjogren syndrome.
+MRI shows numerous small focal areas of T2 prolongation in subcortical and deep white
+matter. Although the appearance may be similar to MS, foci of hemorrhage (best seen on
+GRE or SWI) may be present in vasculitis, which would not be seen in MS.
+Vascular imaging (CT angiography and catheter angiography are more sensitive than MRI
+angiography) shows a beaded, irregular appearance to the cerebral vessels.
+Neuro Brain: 734

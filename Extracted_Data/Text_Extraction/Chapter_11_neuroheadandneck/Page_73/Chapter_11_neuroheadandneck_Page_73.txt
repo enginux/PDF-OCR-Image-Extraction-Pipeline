@@ -1,0 +1,23 @@
+Infectious and inflammatory conditions of the inner ear
+Labyrinthitis
+Acute labyrinthitis: Axial post-contrast T1-weighted MRI demonstrates increased enhancement within the
+inner ear (arrow).
+Labyrinthitis is inflammation of the inner ear, which may be infectious or autoimmune.
+Labyrinthitis has been divided into three stages of chronicity based on the imaging (primarily
+MR) characteristics.
+Acute labyrinthitis is the earliest stage, presenting as pus in the inner ear. The only MRI
+signal abnormality of acute labyrinthitis is enhancement of the affected inner ear structures.
+The main differential consideration is a cochlear or intra-labyrinthine schwannoma. A schwannoma tends
+to be focal and discrete, while labyrinthitis may produce more diffuse enhancement.
+Fibrous labyrinthitis represents the replacement of endolymph and perilymph with fibrous
+strands that cause decreased signal intensity on T2-weighted images. There may be mild
+(but decreased) residual post-contrast enhancement of the affected structures.
+Labyrinthitis ossificans is the final stage of the disease. Calcified debris replaces the
+normal endolymph and perilymph. CT is the best way to image labyrinthitis ossificans,
+as the calcification causes decreased signal intensity on T2-weighted MRI and lack of
+enhancement.
+Labyrinthitis ossificans: Coronal noncontrast CT
+through the right temporal bone demonstrates
+partial mineralization of the anterior limb of the
+superior semicircular canal (arrow).
+Neuro Head & Neck: 825

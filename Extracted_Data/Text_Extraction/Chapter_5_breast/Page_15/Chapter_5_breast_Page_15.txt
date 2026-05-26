@@ -1,0 +1,20 @@
+BI-RADS: Mammographic mass lexicon
+Size
+Size is measured in centimeters
+Oval
+Round
+Shape
+IrregularCircumscribed
+Obscured
+(lesst than 75% oft the
+margins are visualized)
+Microlobulated
+Indistinct
+Margins
+Spiculated
+Fat-containing
+Low density
+Density
+Equal density
+High density
+Breast: 382

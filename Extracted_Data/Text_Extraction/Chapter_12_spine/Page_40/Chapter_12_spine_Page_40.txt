@@ -1,0 +1,44 @@
+Overview of named cervical spine fractures
+3
+C1:Jefferson fracture
+axial force causes symmetrical fractures
+of anterior and posterior arches
+C2: odontoid fracture
+type 1:distal dens (usually stable)
+type 2: base ofthe dens (usually unstable)
+type. 3: dens extending into C2 vertebral body
+(variable, may be stable or unstable)
+C2: hangman's fracture
+hyperextension injury causes fracture ofthe arches ofC2
+variable: flexion teardrop fracture
+variable: clay-shoveler's fracture
+most unstable cervical spine fracture
+hyperflexion injury causes spinous process fracture
+associated with disruption of
+posterior vertebral and spinolaminar lines
+Imaging in cervical spine trauma
+Per the ACR appropriateness criteria for suspected spine trauma (last revised 2018), if the
+patient (age 16 or greater) does not meet clinical criteria for imaging by NEXUS or CCR
+(Canadian C-Spine Rules), then imaging of any modality is usually not appropriate. Of note,
+there is no role for x-rays in "low energy" trauma if imaging is not indicated on clinical
+grounds.
+Ifi imaging is indicated by clinical criteria, then CT is the preferred initial imaging modality, as
+CT is more sensitive and has largely supplanted radiographs for assessment of trauma.
+MRI should be performed in patients with concern for spinal cord injury, cord compression,
+or ligamentous injury. However, MRI is inferior to CT in identifying fractures and should
+generally not be the initial imaging modality in trauma.
+Subaxial injury classification and severity scale (SLICS)
+The subaxial injury classification and severity scale (SLICS) provides points for three
+categories of injury severity, including injury morphology, disruption of the discoligamentous
+complex, and neurological status. Injuries with greater than 4 points are usually treated
+surgically. It is not necessary to memorize this classification, but it is well established and
+helpful to guide management.
+Occipital condyle fractures
+Occipital condyle fractures are uncommon and typically classified into three patterns.
+Type I (stable) is a nondisplaced comminuted impaction fracture from axial loading.
+Type II (stable) is a linear skull fracture extending into the occipital condyle.
+Type III (unstable) is distraction injury resulting in an avulsion fracture at attachment of the
+alar ligament, which is disrupted or incompetent. This is the most common fracture type.
+MRI is an important adjunct to determine stability and ligament integrity, and can help
+differentiate between a type I fracture and a minimally displaced type III avulsion fracture.
+Spine: 899

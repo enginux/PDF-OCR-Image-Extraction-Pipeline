@@ -1,0 +1,40 @@
+ATRAUMATIC FRACTURES
+Atraumatic fractures are bone injury caused by a mechanism other than a single traumatic
+episode. Atraumatic fractures may be due to underlying abnormal bone (as in insufficiency
+fracture, atypical fracture, or pathologic fracture), or the bone may be normal (as seen in
+fatigue fracture).
+Fragility fractures are traumatic fractures in an elderly patient with osteoporosis (and often
+sarcopenia), caused by a ow-velocity mechanism that would not normally be expected to
+cause fracture in a patient with normal bone mineral density or muscle mass.
+TERMINOLOGY OF ATRAUMATIC FRACTURES
+Stress fracture: Terminology
+Atraumatic fractures
+Stress fracture
+Fatigue fracture
+Insufficiency fracture
+Atypical fracture
+Pathologic fracture
+By strict definition, the term stress fracture encompasses both fatigue fractures and
+insufficiency fractures. These are fractures due to summation of repetitive forces, which
+overwhelm the bone remodeling pathway.
+A fatigue fracture is injury of a normal bone caused by repetitive submaximal force, often described with
+the maxim "abnormal stress on normal bone."
+An insufficiency fracture is injury of an abnormal bone, weakened through a metabolic process (most
+commonly but not necessary osteoporosis). In other words, "normal stress on abnormal bone."
+The above terminology is often confusing. Clinically, the term stress fracture is usually
+considered synonymous with fatigue fracture. Also, there is substantial clinical and imaging
+overlap between fatigue and insufficiency fractures, and there is no clear cutoff between
+"normal" and "abnormal" stress or "normal" and "abnormal" bones. For these reasons, the
+term fatigue fracture is not commonly used. This text will use stress fracture and fatigue
+fracture synonymously to be consistent with the majority of the literature. However, the
+term insufficiency, fracture is usually reserved for older individuals.
+The term bone stress injury refers to the spectrum of injury seen in stress fractures. This
+is subsequently discussed and may range from periosteal reaction in early stages, bone
+marrow edema in mid-grade injuries, to cortical fracture in more advanced stages.
+An atypical fracture is a special type of insufficiency fracture, only occurring in the lateral
+cortex of the proximal-to-mid femur, subsequently discussed.
+Pathologic fracture: Definition
+A pathologic fracture is a fracture through a focal lesion. The lesion is most commonly
+a neoplasm (may be benign or malignant), or less commonly through a region of
+osteomyelitis.
+MSK: 992

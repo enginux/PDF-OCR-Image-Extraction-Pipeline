@@ -1,0 +1,44 @@
+INTRODUCTION TO INTERVENTIONAL RADIOLOGY
+PRE-PROCEDURE PREPARATION
+General
+Pre-procedure patient evaluation and planning is imperative for all interventional radiology
+(IR) procedures.
+Consultations should include a directed history and physical examination, discussion of the
+procedure including risks and benefits, formal signed consent, and address any safety concerns.
+Anesthesia type
+There are three main categories of anesthesia for procedures. Patient factors and preference
+as well as invasiveness of the procedure determine which type is used.
+Local anesthetic: Topical lidocaine injection, or topical lidocaine cream/gel.
+Moderate procedural sedation: Midazolam and fentanyl IV, administered by non-
+anesthesiologist procedural staff under continuous monitoring. Specific antagonist agents
+are available for opioids (e.g., naloxone, peak effect 1-2 minutes) and benzodiazepines (e.g.,
+flumazenil, peak effect 6-10 minutes).
+Anesthesiology consultation: Monitored Anesthesia Care (MAC) for deep procedural
+sedation or general endotracheal intubation.
+Pre-procedural fasting
+NPO is not needed for local anesthesia. Practice guidelines from the American Society of
+Anesthesiologists (ASA) aim to reduce the risk of pulmonary aspiration when undergoing
+sedation/analgesia by fasting for 8+ hours for full meals (meats, fried or fatty foods), 6 hours
+for light meals (toast and clear liquids), 2 hours for clear liquids (water, juice without pulp,
+black coffee).
+Allergies
+As most IR procedures use iodinated CT contrast, it is important to screen patients as
+part of the pre-procedure evaluation and consider prophylactic premedication treatment
+as indicated. Alternatively, other contrast agents such as gadolinium or barium can be
+considered.
+Prophylactic antibiotics
+Variable levels of evidence exist for prophylactic antibiotics, which are generally not needed
+for "clean procedures" (e.g., line/port placement, angiography/angopasy, IVC filter or stent
+placement), but can be considered for clean-contaminated" (e.g., causing solid organ cell
+death/necrosis, TIPS), and are recommended for "dirty procedures" (e.g., those that traverse
+the gastrointestinal (GI), biliary or urinary tract, or known infection such as abscess).
+Procedural consent risks (not a comprehensive list)
+All procedures: Infection, bleeding, target organ damage.
+Sedation: Respiratory and cardiac depression, allergy.
+Angiography procedures: Contrast risks, vessel damage (hematoma, pseudoaneurysm,
+thrombosis, dissection).
+Lung procedures: Pneumothorax, systemic air embolism.
+Embolization procedures: Nontarget embolization, post-embolization syndrome.
+Biopsies: Nondiagnostic sample.
+TACE: Hepatic failure, biloma/abscess.
+IR: 589

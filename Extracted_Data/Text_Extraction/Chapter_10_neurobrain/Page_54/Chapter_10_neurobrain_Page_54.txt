@@ -1,0 +1,29 @@
+Diffuse axonal injury (DAI) / Traumatic axonal injury (TAI)
+Diffuse axonal injury (DAI) is the result
+of a shear-strain deformation of the
+brain.
+The term traumatic axonal injury
+(TAI) has recently been introduced
+as this injury pattern is thought to be
+multifocal rather than diffuse; however,
+this text will use the term DAI, as that is
+the more common term.
+DAI is caused by rotational deceleration
+and subsequent reacceleration force
+Diffuse axonal injury: Axial GRE image shows several
+that exceeds the limited elastic capacity foci of susceptibility effect along the left high convexity
+of the axons.
+representing punctate hemorrhagic foci of DAI (arrows).
+DAI occurs at several characteristic sites, depending on the severity. The higher the grade,
+the worse the prognosis.
+Grade I DAI involves only the gray-white matter junctions of the cerebral hemispheres.
+Grade II DAI additionally involves the corpus callosum.
+Grade III DAI additionally involves the dorsolateral, rostral midbrain.
+CT is relatively insensitive for detection of DAI, although hemorrhagic DAI may show tiny foci
+of high attenuation in the affected regions.
+MRI is much more sensitive to detect DAI, although detection relies on multiple sequences,
+including FLAIR, SWI/GRE, and DWI.
+SWI is extremely sensitive for hemorrhagic axonal injury; however, not all DAI is hemorrhagic.
+FLAIR is most sensitive for nonhemorrhagic DAI.
+Diffusion sequences show restricted diffusion in acute DAI due to cytotoxic edema and cell swelling.
+Neuro Brain: 703

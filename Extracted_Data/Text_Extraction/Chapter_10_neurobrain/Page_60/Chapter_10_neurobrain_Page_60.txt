@@ -1,0 +1,30 @@
+IDH-wildtype diffuse gliomas (continued)
+On MRI, IDH-wildtype glioblastomas typically have heterogeneous enhancement,
+corresponding histologically to microvascular proliferation and necrosis. Surrounding
+nonenhancing T2 prolongation consists of both vasogenic edema and infiltrative tumor.
+The enhancing component and sometimes the non-enhancing infiltrative component can
+exhibit low diffusivity (dark ADC) on diffusion-weighted imaging due to hypercellularity, and
+elevated blood volume (rCBV) on perfusion-weighted imaging, indicating hypervascularity.
+Tumor can spread through white matter tracts, through the CSF, and along leptomeningeal,
+ependymal, and subependymal routes. There are several specific terms reflecting aggressive
+growth patterns:
+When glioblastoma crosses the midline via the corpus callosum, it is called butterfly glioblastoma.
+The differential diagnosis of a transcallosal mass includes glioblastoma, lymphoma, and demyelinating
+disease.
+When diffuse glioma, usually IDH-wildtype, involves at least three lobes of the brain, it is called
+gliomatosis cerebri. The differential diagnosis for diffuse signal abnormality includes progressive
+multifocal eukoencephalopathy and HIV encephalopathy, but these entities do not infiltrate the cortex.
+When there are multiple enhancing glioblastoma lesions, the tumors are multifocal if they are connected
+by FLAIR abnormality or, more rarely, multicentric if no connection is present.
+When intracranial tumors disseminate to the intradural extramedullary compartment of the spine, they
+are called drop metastases.
+Transependymal and transcallosal spread of Gliomatosis: Axial FLAIR shows infiltrative FLAIR hyperintensity
+GBM: Post-contrast T1-weighted MRI shows in the left cerebral hemisphere involving the left parietal lobe,
+extensive abnormal enhancement primarily in posterior frontal lobe, insula, left temporal lobe, and corpus
+the left occipital lobe but extending into the callosum. There is regional mass effect with effacement of the
+bilateral periventricular frontal lobes via the left lateral ventricle, sulcal effacement, and rightward midline
+subependymal surface (yellow arrows) and shift. No associated contrast enhancement or restricted
+crossing the midline via the corpus callosum diffusion is seen.
+(red arrow).
+Left case courtesy Amir. Zamani, MD, Brigham and Women's Hospital.
+Neuro Brain: 709

@@ -1,0 +1,40 @@
+KIDNEYS
+RADIOTRACERS
+Tc-99m DTPA
+DTPA can measure glomerular filtration rate (GFR) and evaluate renal perfusion.
+DTPA is excreted by glomerular filtration. Approximately 20% is extracted by the glomerulus
+into the tubules with each pass. This is the identical extraction fraction as inulin, which is
+used to exactly measure GFR.
+Tc-99m MAG3
+MAG3 can estimate renal plasma flow and evaluate renal perfusion, however MAG3 cannot
+measure GFR.
+MAG3 is filtered and excreted by the tubules. Greater than 50% is extracted by the
+glomerulus into the tubules with each pass. MAG3 is cleared predominantly by the proximal
+tubules with minimal filtration. It has a higher extraction fraction than DTPA, which provides
+better images in patients with renal insufficiency or obstruction.
+Tc-99m DMSA
+DMSA scanning is performed in children to evaluate for the presence of renal scarring
+associated with pyelonephritis. The collecting system is not imaged.
+DMSA is a specialized cortical agent. It is bound in the renal tubules, which allows anatomic
+imaging of the cortex. It is the only renal tracer where SPECT imaging is performed.
+CLINICAL APPLICATIONS OF RENAL IMAGING
+Renogram
+A nuclear renogram is a time-activity curve that provides a graphical representation of renal
+uptake and excretion. Approximately 10 mCi Tc-99m MAG3 (most commonly) or DTPA is
+administered. A normal renogram has three phases:
+1) Flow or perfusion phase has a sharp upslope and lasts -1 minute after injection. Normal kidneys are
+visualized within 2-5 seconds following visualization of the aorta. A slow upslope suggests decreased
+perfusion.
+2) Cortical function phase usually occurs in the first 1-3 minutes, peaks at 3-5 minutes (= time to peak
+activity). Decreased renal function produces delayed cortical uptake.
+3) Clearance phase is characterized by rapid urine excretion into the collecting system, which usually
+begins after 3 minutes. Normally half of the renal activity should be cleared in 8-12 minutes (= half-time
+excretion). Lack of pelvicalyceal clearance suggests obstruction.
+I
+#
+U
+e 5
+clearance phase
+2 4 6 8 10 12 14 16 18 20 22 24 26 28
+time (minutes)
+Nucs: 477

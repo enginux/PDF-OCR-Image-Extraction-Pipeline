@@ -1,0 +1,29 @@
+TOXIC/METABOLIC DISORDERS
+METABOLIC DISORDERS
+Wernicke encephalopathy
+Wernicke encephalopathy: FLAIR images show T2 prolongation involving the thalami, caudate nuclei, inferior
+hypothalamus, mammillary bodies, and periaqueductal gray matter (arrows).
+Wernicke encephalopathy is an acute syndrome of ataxia, confusion, and oculomotor
+dysfunction, caused by thiamine (vitamin B1) deficiency. This is most frequently seen in
+patients with alcoholism or other causes of secondary malnutrition, such as hyperemesis,
+eating disorders, and bariatric surgery.
+On imaging, the affected areas demonstrate symmetric bilateral nyperintensity on FLAIR,
+restricted diffusion, and contrast enhancement in up to 50% of cases. The most frequently
+affected areas are the medial thalami, the mammillary bodies, hypothalamus, tectal plate
+and periaqueductal gray matter.
+Parathyroid dysfunction disorders
+Parathyroid hypofunction disorders include nypoparatyroidism,
+eucohypoparathyoldsm, and pseudopseudohypoparathyroidism, which can be
+distinguished based on clinical and laboratory findings.
+yperparathyroldism can be caused by a parathyroid adenoma or parathyroid hyperplasia.
+The main imaging findings are the same for all conditions and characterized by coarse
+calcium deposition in the basal ganglia.
+CT shows coarse, bilateral and symmetric calcifications in the globi pallidi, putamina, and caudate nuclei.
+MR images depict expected findings associated with calcifications in all sequences - hyperintensity on T1-
+weighted images, hypointensity on T2-weighted images, and blooming artifacts on T2*- or susceptibility-
+weighted images
+The thalami, subcortical white matter, and dentate nuclei may also be affected.
+Important differential to consider is Fahr disease, which is a genetic condition characterized
+by idiopathic, bilateral basal ganglia calcifications. Fahr disease is not associated with
+laboratory abnormalities, unlike the parathyroid dysfunction disorders.
+Neuro Brain: 738

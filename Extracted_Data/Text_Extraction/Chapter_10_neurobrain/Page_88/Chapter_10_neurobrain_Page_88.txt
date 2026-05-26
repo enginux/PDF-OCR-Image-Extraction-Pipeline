@@ -1,0 +1,39 @@
+Pseudoprogression
+A treatment-related phenomenon that mimics tumor progression after targeted radiation
+and chemotherapy is termed pseudoprogression.
+In patients who are receiving standard concomitant radiation with temozolomide followed
+by adjuvant temozolomide, pseudoprogression peaks after 3-6 months of therapy and rarely
+occurs after 6 months.
+Pseudoprogression presents as transient contrast enhancement and edema on imaging
+which subsequently resolves on follow-up scans without treatment. Appropriate
+recognition of pseudoprogression is important to prevent early discontinuation of adjuvant
+chemotherapy.
+The incidence of pseudoprogression is an active area of research, however some reports
+suggest that pseudoprogression may occur more frequently in patients who harbor a MGMT
+promoter methylation status.
+Currently, no imaging techniques can reliably differentiate between pseudoprogression
+and early progressive disease. Techniques that have been investigated include diffusion-
+weighted MRI (lower mean ADC values and ADC ratios associated with progressive disease)
+and MR perfusion (higher relative cerebral blood volume associated with progressive
+disease) are limited due to confounding by necrosis and vascular leakage which may
+underestimate rCBV. FDG-PET is widely available however has an unacceptably low
+sensitivity and specificity. Novel tracers such as FET-PET, FDOPA-PET, 13N-NH3 PET are under
+investigation.
+Stereotactic radiosurgery
+Stereotactic radiation therapy is the delivery of highly focused radiation to a target, and
+when completed in a single fraction is called radiosurgery.
+Transient increase in size of the lesion can occur 3-12 months after radiosurgery, and usually
+subsides without treatment.
+Radiation necrosis occurs later after completion of treatment, typically 9-12 months after
+therapy, rarely occurs before 6 months and does not subside without treatment.
+Perfusion MRI has been proven to be useful in distinguishing recurrent metastasis
+from radiation necrosis. The percentage of signal recovery computed from comparing
+enhancement at one hour from peak enhancement of a region of interest has been shown
+to have a sensitivity of 96% and specificity of 100% for radiation necrosis. However, this
+technique requires perfusion imaging times of up to an hour which can be logistically
+difficult.
+Chemotherapy-related white matter disease
+Chemotherapy may cause focal, multifocal, or diffuse white matter disease, especially in
+combination with radiation treatment.
+Methotrexate toxicity is discussed in the toxic/metabolic section later in the chapter.
+Neuro Brain: 737

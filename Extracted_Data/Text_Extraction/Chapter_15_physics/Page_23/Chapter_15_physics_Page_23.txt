@@ -1,0 +1,56 @@
+ULTRASOUND PHYSICS
+Decibel (dB)
+The decibel is a measure of relative intensity between two sound intensities.
+dB = 10 log(I/lre)
+For example, -3 dB is 50% of sound intensity: 10log(0.5) =-3
+Thermal index and
+The thermal index (TI) is the
+The mechanical index (MI) describes
+mechanical index
+maximum temperature rise in
+the likelihood of cavitation based
+tissue caused by ultrasound energy
+on peak rarefactional pressure and
+absorption.
+frequency.
+IfTI >1.0, risk benefit analysis should e If MI >0.5, risk benefit analysis
+be performed.
+should be performed.
+Factors that affect acoustic
+Frame rate
+Transmit power
+Frequency
+output index
+Factors that don't affect
+Time-gain compensation
+These are both processing techniques
+acoustic output index
+Grayscale mapping
+Cavitation is the formation of bodies of gas and/or vapor by ultrasound energy.
+Cavitation is more likely to occur at high pressures and low frequencies.
+Cavitation
+Stable cavitation is regular pulsation of persistent microbubbles.
+Transient cavitation is a more violent form of microbubble dynamics
+characterized by large size changes in bubbles before collapse.
+Safe ultrasound energy
+No biologic effects have been observed with spatial peak temporal average
+intensities below 1 W/cm?.
+Tissue attenuation
+Tissue attenuation is approximately 0.5 dB per cm per MHZ.
+For instance, a 4 MHZ wave travelling 10 cm is attenuated 20 dB.
+Refraction
+Refraction is due to different
+Described by Snell's law
+velocities of sound in different tissues,
+resulting in apparent bending of the
+ultrasound wave.
+Wavelength and
+The transducer thickness = N/2, where A is wavelength.
+transducer design
+For a long wavelength (low frequency), the transducer must be made thicker.
+Sound waves
+v=i f
+V= velocity
+f= frequency
+A= wavelength
+Physics: 1217

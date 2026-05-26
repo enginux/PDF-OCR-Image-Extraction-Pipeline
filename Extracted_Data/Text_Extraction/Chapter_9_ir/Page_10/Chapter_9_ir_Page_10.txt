@@ -1,0 +1,45 @@
+COMPLICATIONS OF VASCULAR ACCESS
+Hematoma
+Al hematoma may be superficial or retroperitoneal. A superficial subcutaneous hematoma
+has a generally benign clinical course, while a retroperitoneal hematoma carries a risk of
+fatal hemorrhage.
+There is increased risk of retroperitoneal hematoma with a high (more cranial) arterial
+puncture above the pelvic brim.
+Pseudoaneurysm
+Pseudoaneurysm formation occurs in approximately 1% of arterial punctures. On color
+Doppler, a pseudoaneurysm appears as a swirling yin-yang with high-velocity flow at the site
+of communication with the femoral artery.
+Watchful waiting can be performed for a small pseudoaneurysm <1 cm in size. Ultrasound-
+guided thrombin injection is the treatment of choice for a pseudoaneurysm >1 cm. Less
+commonly, ultrasound-guided compression of the neck of the pseudoaneurysm can be
+performed to thrombose the pseudoaneurysm.
+Arteriovenous fistula (AVF)
+An arteriovenous fistula (AVF) is an anomalous connection between an artery and a vein.
+AVFS are usually asymptomatic but may enlarge and ultimately cause high-output cardiac
+failure.
+There is increased risk of developing an iatrogenic AVF with a low (inferior/distal) femoral
+arterial puncture. The femoral vein often passes deep to (instead of medial to) the femoral
+artery distal to the standard puncture site.
+On Doppler ultrasound, an AVF demonstrates arterial flow within a vein and there is loss
+of the normal triphasic waveform in the artery. Increased diastolic flow is often seen in the
+artery proximal to the fistula.
+INJECTION RATES
+The terminology for injection rates for angiographic runs is "cc/sec for total cc." For instance,
+"25 for 50" means an injection rate of 25 cc/sec for a total of 50 CC.
+The diameter in mm of a vessel is a rough guide to the injection rate (in cc/sec), and the
+total volume of contrast injected depends on the intravascular volume of the vascular bed.
+Aortogram (aortic arch): 25 for 50
+Mesenteric artery: 51 for 25
+Abdominal aorta: 15 for 30
+Renal artery: 5 for 15
+Inferior vena cavogram: 20 for 30
+Distal artery: 3 for 12
+AIR EMBOLISM- Air embolism is a rare but potentially life-threatening complication of vascular procedures.
+The most dangerous portion of a venous access procedure is the insertion of the catheter
+into the peel-away sheath.
+If air embolism is suspected (e.g., if the patient becomes acutely hypoxic as the catheter is
+inserted into the peel-away sheath), the patient should be immediately placed in the left-
+lateral decubitus (left side down) position SO the air bubble remains antidependent in the
+right heart. 100% oxygen should be administered. If practical, fluoroscopy can be used to
+identify the air bubble. Catheter aspiration can be considered if the air bubble is large.
+IR: 597

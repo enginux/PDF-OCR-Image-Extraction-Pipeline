@@ -1,0 +1,26 @@
+Benign: Osteoid osteoma
+Osteoid osteoma is a benign osteoblastic lesion characterized by a nidus of osteoid tissue
+surrounded by reactive bone sclerosis. The etiology is controversial. Inflammatory, vascular,
+and viral causes have been proposed.
+The classic clinical presentation is night pain relieved by aspirin in a teenager or young adult.
+Osteoid osteoma tends to occur in the diaphyses of the leg long bones (femur and tibia)
+most commonly. About 20% occur in the posterior elements of the spine. Spinal osteoid
+osteoma is an important cause of painful scoliosis.
+On radiography and CT, a lucent nidus is surrounded by sclerosis. There is often central
+calcification within the nidus. Bone scan will be positive, with the double density sign
+representing intense uptake centrally in the region of the nidus and adjacent reactive uptake
+corresponding to sclerosis. Osteoid osteoma can be difficult to see on MRI alone. The nidus
+is usually low-signal on T1-weighted images and reactive marrow edema can obscure the
+lesion on T2-weighted images.
+Axial CT
+Sagittal CT
+T1-weighted MRI
+Tc-99m MDP bone scan (posterior projection)
+Osteoid osteoma: CT shows a radiolucent nidus in the left sacral ala (posterior element location) with a large
+central calcification (yellow arrows) with adjacent sclerosis (red arrows). The lesion is less conspicuous on MRI
+and has very low signal on the T1-weighted image (yellow arrow). The posterior bone scan shows increased
+radiotracer uptake (yellow arrow) of the nidus, with a double density sign (red arrow; corresponding to reactive
+sclerosis).
+Treatment of osteoid osteoma is interventional radiology radiofrequency ablation, surgical
+curettage, or resection.
+MSK: 938

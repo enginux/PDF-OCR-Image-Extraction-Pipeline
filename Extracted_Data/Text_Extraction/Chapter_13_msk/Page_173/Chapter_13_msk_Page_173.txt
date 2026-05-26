@@ -1,0 +1,46 @@
+MUSCULOSKELETAL INTERVENTIONS
+ARTHROGRAPHY
+General principals
+Arthrography can be performed for diagnostic or therapeutic purposes.
+In diagnostic arthrography, contrast is injected into the joint to assess the intra-articular
+structures, such as cartilage, menisci, labra, ligaments, and to evaluate for intra-articular
+bodies. Post-arthrogram MR or CT is almost always performed.
+For MR arthrography, a 1:100 or 1:200 dilution of Badolnium-containing contrast is made. For instance,
+0.1 mL of gadolinium contrast diluted in 10 mL of normal saline is a 1:100 dilution. This can be admixed
+with iodinated contrast (at our institution in a 1:1 ratio) to be visualized under fluoroscopy.. Alternatively,
+the gadolinium-saline mixture can be injected after a test injection of iodinated contrast to confirm intra-
+articular position.
+For therapeutic joint injections, steroid and anesthetic medications are injected into the
+joint under imaging guidance (fluoroscopy, ultrasound, or rarely CT). Steroids are thought
+to reduce pain by reducing intra-articular inflammation but do not change the course of
+osteoarthritis, and several recent studies have questioned their effectiveness. Therapeutic
+injections should be limited to once every six months or once every three months in cases of
+debilitating pain with prior effective steroid injection.
+Complications of any arthrogram could include infection, hematoma formation, allergic
+reaction, or mechanical injury from the needle to structures such as tendons, menisci/labra,
+ligaments, and cartilage.
+Additional steroid-specific complications could include progression of osteoarthritis/
+subchondral collapse from steroid administration, and systemic steroid side effects (e.g.,
+elevated blood glucose, increased appetite, insomnia).
+Local anesthetic is toxic to chondrocytes ex-vivo. Ropivacaine is thought to be the least
+chondrotoxic, and bupivacaine the most chondrotoxic.
+There are many variations on safe procedures to perform arthrography, but a few steps
+should always be performed:
+Patient consent.
+Procedural time-out: confirming identification, procedure, laterality, and allergies.
+Skin marking.
+Sterile preparation and maintenance of sterile field throughout procedure.
+At least one image showing intra-articular contrast should be saved.
+In patients allergic to iodinated contrast, air or gadolinium can be used.
+Dose reduction in fluoroscopic procedures
+One should always maintain the ALARA (as low as reasonably achievable) principle for
+radiation exposure in fluoroscopic procedures.
+Decrease the imaging parameters, by reducing the mA and kVp as low as possible. Many
+fluoroscopic machines have a "low-dose" mode that should be utilized routinely unless
+there is a specific reason to turn it off (such as tricky anatomy or unclear pattern of contrast
+opacification).
+Decrease the number of images taken. This can be done in three ways: by taking fewer
+images, by pressing the pedal only briefly, and by reducing the frames obtained per second.
+This last method is often called "pulse" mode, which should always be used unless there is a
+specific problem-solving need.
+MSK: 1080

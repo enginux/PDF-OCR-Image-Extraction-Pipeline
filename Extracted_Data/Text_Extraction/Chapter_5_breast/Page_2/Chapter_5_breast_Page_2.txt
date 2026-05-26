@@ -1,0 +1,52 @@
+INTRODUCTION TO BREAST CANCER
+Key facts and imaging modalities
+Breast cancer is the most common female cancer in the United States. The average woman
+has a one in eight chance of being diagnosed with breast cancer during her lifetime.
+Mammography is the first-line tool for detection of breast cancer. The sensitivity of
+screening mammography for detecting cancer has been estimated at between 68% and
+90%. Diagnostic mammography has a higher sensitivity, up to 93%.
+Digital breast tomosynthesis (DBT) is becoming the standard of care for breast cancer: screening and
+diagnostic imaging. Compared to digital mammography, DBT decreases recall rate and increases cancer
+detection rate.
+Ultrasound is a critical adjunct to diagnostic mammography, and an important tool in
+further evaluation of symptomatic patients when mammography is negative. Use of whole
+breast ultrasound as a supplemental screening tool (in addition to mammography) is more
+controversial; it can detect an additional 2-4 cancers per 1,000 women over mammography
+alone, but at the cost of increased intervention.
+Indications for breast ultrasound are characterization of palpable abnormalities, further characterization
+of mammographic findings, first-line evaluation of al breast abnormality in a young (under age 30),
+pregnant, or lactating woman, guidance for interventional procedures, and evaluation of breast implants.
+As mentioned above, it is also used in some settings as supplemental screening in women with dense
+breasts or those at high risk unable to undergo MRI surveillance.
+MRI is the most sensitive imaging modality for breast cancer detection and is the most
+definitive imaging modality in evaluation of implant integrity.
+Indications for breast MRI include screening in high-risk patients (greater than 20% lifetime risk of
+developing breast cancer), evaluation of extent of disease in a patient newly diagnosed with breast cancer,
+evaluation of neoadjuvant chemotherapy response, assessment for residual disease after positive surgical
+margins or for tumor recurrence after breast conserving treatment, evaluation for occult breast cancer in a
+patient with axillary metastases and for assessment of breast implants.
+Pathway of invasive ductal breast cancer progression
+The current understanding of progression of ductal breast cancer is a multi-step
+transformation from normal cells to flat epithelial atypia (FEA), to atypical ductal hyperplasia
+(ADH), to ductal carcinoma in situ (DCIS), to invasive ductal carcinoma (IDC).
+Normal
+FEA
+*
+ADH
+*
+DCIS
+*
+IDC
+Although controversial, it has been suggested that some steps in this pathway may be reversible.
+FEA is a low-grade form of atypia involving the breast acini; it is seen in 3-5% of core needle
+biopsies and usually presents as grouped amorphous or punctate calcifications.
+ADH is a proliferation of intraductal luminal cells and represents a greater degree of atypia,
+differing from DCIS only in extent or lack of certain architectural features. It is seen in 4-14%
+of core biopsies and also typically presents as calcifications.
+FEA and ADH are considered non-obligatory precursor lesions, meaning they sometimes,
+but not always, progress to ductal carcinoma in situ or invasive ductal cancer. Both increase
+a woman's risk for subsequent breast cancer, FEA, likely 3 times the general population and
+ADH 4-5 times the general population
+Upstaging (or upgrading) refers to the diagnosis of a higher grade malignant lesion (such as
+DCIS or IDC) following surgical excision than initially diagnosed by core needle biopsy.
+Breast: 369

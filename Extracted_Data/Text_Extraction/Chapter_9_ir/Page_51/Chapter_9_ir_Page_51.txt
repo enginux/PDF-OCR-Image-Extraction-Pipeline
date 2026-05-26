@@ -1,0 +1,35 @@
+Microwave ablation (continued)
+Disadvantages: MWA uses larger diameter probes. There is a higher risk when ablating
+central tumors and any region with critical structures due to the inability to monitor the
+ablation zone in real time and relative unpredictability of the size and shape of the ablation
+zone. Similarly, due to the inability to precisely control the ablation zone, MWA is less
+precise with smaller tumors.
+A
+B
+C
+Microwave ablation in a 58-year-old female with epithelioid hemangioendothelioma of the liver. A) Axial T1
+post-contrast image shows peripherally enhancing lesion (arrow). B) Intra-procedural noncontrast CT shows
+the ablation probe in the liver; the ablation zone is not well seen during the procedure. Note that artificial
+ascites was used to protect the adjacent diaphragm and body wall from injury, given peripheral location of the
+lesion. C) Axial T1 post-contrast subtraction image at two months shows complete ablation coverage of the
+tumor. Subtraction images are helpful to exclude residual tumoral enhancement.
+Case courtesy of Sharath Bhagavatula, MD, Brigham and Women's Hospital.
+Cryoablation (CA)
+Mechanism: Rapid expansion of gas within the cryoablation (CA) probe cools the probe
+to -190°C, resulting in an "iceball" of the surrounding tissue. At least two cycles of rapid
+freezing and slow thawing are done, each lasting 5-20 minutes. Cell death occurs secondary
+to immediate cellular toxicity or delayed apoptosis and ischemia.
+Technique: Probes are usually placed under CT or MRI guidance and should be spaced 1-2
+cm apart. The iceball should extend at least 0.5 cm beyond the tumor to decrease likelihood
+of recurrence.
+Advantages: The iceball is well visualized in real time on CT, MRI, and ultrasound. There
+is comparatively less risk with cryoablation of central tumors. Multiple probes can be
+used simultaneously in cryoablation rather than sequentially. Cryoablation has a lower
+complication rate with typically less post-procedural pain.
+Disadvantages: Cryoablation has a slightly increased bleeding risk due to the lack of
+concurrent cautery. Multiple probes and several freeze-thaw cycles result in longer
+procedural time. Cryoablation creates a robust inflammatory response that may result
+in "cryoshock,* typically seen with large volume liver cryoablation, which is mediated by
+cytokine production and consists of hypotension, multi-organ failure, and disseminated
+intravascular coagulation. Cryoablation may be associated with higher cost.
+IR: 638

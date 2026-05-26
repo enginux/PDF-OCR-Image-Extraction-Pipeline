@@ -1,0 +1,58 @@
+RADIATION DOSIMETRY
+CT dosimetry
+The computed tomography dose index (CTDI) is the average phantom dose
+for a single axial slice (one complete rotation without table motion), including
+scatter, measured in Gy.
+CTDI is measured with 16 cm and 32 cm phantoms. 16 cm will always have higher dose.
+CTDIW (weighted) = 2/3 CTDI, + 1/3 CTDI
+CTDI, = peripheral
+CTDI = central
+CTDlal = CTDI/pitch
+The pitch is related to the table speed. A pitch <1 will overscan and result in increased
+radiation exposure; conversely, a pitch >1 will skip areas but will decrease exposure.
+CTDial is the same for all scans, independent of scan length.
+CTDI vol should be less than reference values:
+Adult head: 75 mGy (16 cm phantom)
+Adult abdomen: 25 mGy (32 cm phantom)
+Pediatric abdomen: 20 mGy (16 cm phantom)
+Dose length product (DLP)
+The dose length product (DLP) is the best way to estimate radiation risk from
+and effective doses
+CT.
+DLP = CTDI vol * scan length = mGy*cm
+One can obtain an effective dose in mSv from the DLP by using body-part
+specific conversion factors:
+Head 0.0023 mSv/mGy cm
+Neck 0.0054
+Chest 0.019
+Abd 0.017
+Pelvis 0.017
+Legs 0.0008
+Example conversion: If DLP is 900 mGy*cm for an abdominal CT, the radiation
+exposure equals (900 mGy*cm) * (0.017 mSv/mGy cm) = 15.4 mSv.
+Typical effective doses
+Radiography:
+Interventional radiology:
+(mSv) of common
+PA and lateral chest radiograph: 0.1 mSv
+Cerebral angiography: 1-10 mSv
+diagnostic exams
+Cervical spine radiograph: 0.2 mSv
+Peripheral angiography: 5 mSv
+Lumbar spine radiograph: 1.5 mSv
+Cardiac cath (diagnostic): 7 mSv
+Abdomen radiograph: 0.7 mSv
+TIPS: 100 mSv
+Pelvic radiograph: 0.6 mSv
+CT:
+Mammography: 0.4 mSv
+Head CT: 2 mSv
+Knee radiograph: 0.005 mSv
+Neck CT: 3 mSv
+Fluoroscopy:
+Chest CT: 7 mSv
+Upper GI series: 6 mSv
+Abdomen CT: 8 mSv
+Barium enema: 8 mSv
+Pelvis: 6 mSv
+Physics: 1210

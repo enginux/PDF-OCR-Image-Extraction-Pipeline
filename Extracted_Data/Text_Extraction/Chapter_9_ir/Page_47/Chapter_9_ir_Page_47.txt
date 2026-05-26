@@ -1,0 +1,31 @@
+Transjugular intrahepatic portosystemic shunt (TIPS)
+Transjugular intrahepatic portosystemic shunt (TIPS) lowers elevated portal pressures by the
+creation of a direct connection between the portal vein and the hepatic vein.
+The most common indication for TIPS is treatment of variceal hemorrhage that cannot be
+controlled endoscopically and refractory ascites. Other indications for TIPS include Budd-
+Chiari (hepatic vein thrombosis), and hepatic hydrothorax.
+Assessment of hepatic dysfunction is performed pre-procedure with either the Child-Pugh
+classification or Model for End-Stage Liver Disease (MELD) score.
+The Child-Pugh classification of hepatic dysfunction combines lab values (INR, bilirubin, and albumin) with
+clinical assessment (ascites and hepatic encephalopathy.
+The MELD score of hepatic dysfunction combines INR, bilirubin, and creatinine in a complex logarithmic
+formula. The higher the MELD score, the higher the post-TIPS mortality.
+Absolute contraindications to TIPS include:
+Right-sided heart failure, which will be worsened by TIPS, as right-sided venous return increases.
+Severe active hepatic failure, as the post-TIPS shunting of blood beyond the hepatic sinusoids can cause
+liver function to worsen further.
+Severe hepatic encephalopathy, which TIPS can worsen.
+Portal vein patency should be established pre-procedure with cross-sectional or ultrasound
+imaging.
+Usually the right hepatic vein is connected with the right portal vein via a covered stent. The
+right hepatic vein has relatively constant anatomy and tends to be larger than the left.
+After the right hepatic vein is cannulated, wedged balloon CO,occlusion venography is
+performed and the portal vein is retrogradely opacified. CO,i is the preferred contrast agent
+as it is 400 times less viscous than iodinated contrast and is therefore easily able to pass
+through the hepatic sinusoids.
+The most demanding portion of the procedure is establishing access into a portal vein. Once
+a tract between the hepatic and portal circulation is secured, the tract is sequentially dilated
+and stented, aiming for a reduction of the portosystemic gradient to <12 mm Hg.
+TIPS patency is followed by Doppler ultrasound, discussed in the gastrointestinal imaging
+chapter.
+IR: 634

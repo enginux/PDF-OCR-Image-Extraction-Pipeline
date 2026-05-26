@@ -1,0 +1,17 @@
+Example staging: Stage IIIA
+Stage IIIA lung cancer: Axial CT in lung windows (left image) shows a right upper lobe peripheral mass (arrow)
+that abuts the pleura. There is diffuse centrilobular emphysema. Soft-tissue window CT shows ipsilateral right
+paratracheal adenopathy (arrow). The T staging is T2 (for size >3 cm) and the N staging is N2 fori ipsilateral
+mediastinal nodes. The overall stage is therefore IIIA and this tumor is resectable.
+Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women's Hospital.
+Example staging: Stage IV
+Stage IV lung cancer: Axial CT (left image) shows a dominant, spiculated right upper lobe T2 mass. More
+inferiorly (right image), a small contralateral nodule (arrow) is present. This nodule was determined to be
+malignant on follow-up, for an M staging of M1a and stage IVA disease.
+Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women's Hospital.
+Example staging: Stage IV
+Stage IV lung cancer: Axial CT (left image) shows a left upper lobe mass with ipsilateral hilar adenopathy
+(arrows). Coronal CT through the upper abdomen shows bilateral adrenal masses (arrows), which were
+confirmed to be metastases (M1c), representing stage IVB disease.
+Case courtesy Ritu R. Gill, MD, MPH, Brigham and Women's Hospital.
+Chest: 45

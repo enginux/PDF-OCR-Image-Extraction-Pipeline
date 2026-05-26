@@ -1,0 +1,43 @@
+ACUTE AORTIC SYNDROME
+OVERVIEW OF ACUTE AORTIC SYNDROME
+Acute aortic syndrome represents a clinical spectrum of related diseases that are
+characterized by damage to at least one component of the aortic wall, and present as severe
+chest pain.
+Aortic dissection: A defect in the intima where the blood enters and extends to media.
+Aortic intramural hematoma (IMH): Media defect with vasa-vasorum hemorrhage into the wall.
+Penetrating atherosclerotic ulcer (PAU): Intimal defect as a result of atherosclerotic lesion.
+The treatment of acute aortic syndrome depends primarily on the location (ascending
+versus non-ascending aorta) and is often the same regardless of the underlying etiology.
+Ascending aorta: Treatment is most commonly surgical.
+Descending aorta: Treatment is most commonly medical (blood pressure control).
+Imaging of the full aorta is generally required in any acute aortic pathology.
+First-line imaging modality is CT and includes a) noncontrast chest CT and b) ECG-gated CT angiogram
+(CTA) of the chest, abdomen, and pelvis.
+If patient is stable and cannot get CTA, MR angiogram (MRA) can be considered including fast noncontrast
+techniques (e.g., SSFP), and post-contrast MRA of the chest, abdomen and pelvis.
+AORTIC DISSECTION
+adventitia
+media
+false lumen
+intima
+true lumen
+Intima is disrupted, typically by an ulcerative plaque, trauma, or aneurysm.
+Ani intimomedial flap is created.
+Ther media is"dissected". and expanded by either thet false lumen (if blood ist flowing) or intramural hematoma (ifi filled with clot).
+Blood flowi is slower in the false lumen, leading to thrombosis.
+Blood exits thef false lumen via a re-entry tear. Typically, the re-entry tear obstructs the outflow leading to higher pressures in the
+false lumen. This pressure differential contributes to compression oft the true lumen and differences in contrast
+opacification between thet true and falsel lumens.
+The key feature of dissection is a disruption in the intima, which allows high-pressure blood
+to infiltrate and expand the media.
+The most common risk factor for aortic dissection is hypertension, but other risk factors include
+connective tissue disorders (especially Marfan syndrome), cocaine use, aortopathy associated with
+al bicuspid aortic valve, weight lifting, and sudden deceleration injury. Aortic dissection secondary to
+atherosclerosis is more commonly type B (descending aorta).
+The true lumen is often smaller with outer wall calcifications.
+The false lumen is often the larger lumen and has lower contrast density on arterial phase.
+The false lumen can become thrombosed, with beak sign and cobweb sign.
+The classification of aortic dissection is the Stanford classification, which divides dissection
+into types A (ascending aorta) and B (non-ascending aorta). Type A is typically treated
+surgically, and type B is typically treated medically.
+Vascular: 543

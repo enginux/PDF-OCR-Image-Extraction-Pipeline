@@ -1,0 +1,56 @@
+SPINE LESION LOCALIZATION OVERVIEW
+sagittal schematic
+axial schematic
+dura/arachnoid
+subarachnoid space -
+pia -
+cord a
+intramedullary
+intradural
+extradural
+extramedullary
+astrocytoma
+meningioma
+extradural metastasis
+ependymoma
+schwannoma
+vertebral neoplasm
+emangioblastoma
+neurofibroma
+hemangioma
+metastasis
+myxopapillary
+epidural lipomatosis
+demyelinating lesion
+ependymoma
+degenerative disease
+inflammatory process
+paraganglioma
+nondegenerative
+infection
+spinal dysraphism
+hypertrophic disease
+vascular lesion
+epidermoid/dermoid
+discits/osteomyelitis
+syrinx
+neurenteric cyst
+epidural abscess
+traumatic cord injury
+arachnoid cyst/web
+crystal deposition disease
+cord herniation
+spondyloarthropathies
+arachnoiditis
+Paget disease
+Guillain-Barré
+spinal fracture
+CIDP
+epidural hematoma
+epidural extension of
+tumor
+The first step in evaluation of any spinal mass is to determine its compartment of origin:
+intramedullary (within the substance of the spinal cord), intradural extramedullary (within
+the thecal sac but outside the cord), or extradural (outside the thecal sac).
+Note that epidural is extradural in location.
+Spine: 861

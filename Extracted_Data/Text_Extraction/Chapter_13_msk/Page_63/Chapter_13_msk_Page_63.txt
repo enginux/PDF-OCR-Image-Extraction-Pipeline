@@ -1,0 +1,33 @@
+ADDITIONAL TUMORS
+Myxoma
+Axial STIR MRI
+Post-contrast axial T1-weighted MRI with fat
+suppression
+Myxoma: There is al homogeneously hyperintense, near fluid signal intensity intra-muscular mass (yellow
+arrows) located vastus medialis. The mass demonstrates faint wispy enhancement (red arrow).
+A myxoma is a benign soft tissue tumor. The myxoid extracellular matrix creates a near fluid-
+signal intensity appearance, with minimal enhancement. They tend to occur in muscles.
+Mazabraud syndrome is fibrous dysplasia with intramuscular myxomas.
+Synovial sarcoma
+FDP
+FCU
+Axial T2-weighted MRI with fat suppression
+Post-contrast T1-weighted MRI with fat
+suppression
+Synovial sarcoma: There is a T2 hyperintense, enhancing mass (yellow arrows) at the volar/ulnar aspect of
+the wrist, interposed between the flexor carpi ulnaris (FCU) and flexor digitorum profundus (FDP). Note that
+although the mass is near fluid signal intensity on the fluid sensitive sequence, there is still some internal
+complexity with whorl-like regions of low signal (red arrow).
+The differential of a small, T2 hyperintense, enhancing, circumscribed mass would also include nerve sheath
+tumor.
+Synovial sarcoma is a high-grade mesenchymal tumor typically occurring in adolescents and
+young adults.
+The term synovial in its name is highly misleading, as this tumor has nothing to do with
+synovial tissue or joints. However, it does have a propensity to occur in the vicinity of joints,
+and the term likely arrived from pathologic confusion in the early twentieth century.
+Synovial sarcoma is relatively homogeneously hyperintense on T2-weighted images, usually
+isointense to fluid. The classic teaching is that a fluid signal intensity mass in a younger patient
+that does not communicate with a joint could be synovial sarcoma and contrast should be
+administered. In practice, however, these lesions are usually somewhat more complex than
+simple fluid and windowing of the images can make the internal complexity more conspicuous.
+MSK: 970

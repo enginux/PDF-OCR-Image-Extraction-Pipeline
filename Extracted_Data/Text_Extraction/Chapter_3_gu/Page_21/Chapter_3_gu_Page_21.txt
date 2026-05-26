@@ -1,0 +1,39 @@
+RENAL TRAUMA
+Organ Injury Scale (0IS) - American Association for the Surgery of Trauma (AAST)
+The OIS scale from the AAST is the most commonly used system for classifying renal trauma.
+It was initially a surgical classification, but now encompasses findings from CT imaging,
+operative report, and pathology. The highest injury among the three is assigned the final
+AAST grade. The OIS was updated in 2018 to include vascular injuries.
+Grade :: by far the most common type of renal injury (95%) and describes a renal contusion
+or subcapsular hematoma. Treatment is conservative.
+Grade I: superficial laceration (s1 cm) or perinephric hematoma confined to Gerota's fascia,
+without urinary extravasation. Treatment is conservative.
+Grade II: deeper laceration (>1 cm), without urinary extravasation; any injury in the
+presence of renal vascular injury or active bleeding contained within Gerota's fascia.
+Treatment is typically conservative.
+A potential pitfall of a grade III injury is that a clot at the collecting system may prevent urinary
+extravasation initially, but urinary extravasation may occur later as the clot lyses from urinary urokinase.
+Grade IV: deep laceration which extends into the collecting system (causing urinary
+extravasation), renal pelvis laceration or complete disruption of the ureteropelvic junction,
+segmental renal artery/vein injury, vascular thrombosis resulting in segmental or complete
+kidney infarction, or active bleeding beyond Gerota's fascia. Vascular grade IV injury can be
+treated with endovascular embolization or stenting.
+Grade V: most severe injury and includes main renal artery/vein laceration or avulsion of
+the renal hilum, devascularized kidney with active bleeding, or shattered kidney. Treatment
+is variable but typically surgical.
+CT description of renal trauma
+Renal vascular injury described in the 2018 OIS update is defined as renal artery
+pseudoaneurysm or arteriovenous (AV) fistula. Both appear on imaging as a
+hyperattenuating focus with density similar to the aorta, that decreases in attenuation on
+delayed phase.
+In contrast, active bleeding appears as focal or diffuse vascular contrast that increases in
+attenuation and/or size with delayed phase imaging.
+Traumatic renal artery thrombosis occurs with tearing of the intima, initiating thrombosis.
+There is permanent loss of renal function after approximately two hours of ischemia.
+Axial unenhanced CT demonstrates a hyperdense
+Axial contrast-enhanced CT shows AAST grade III renal
+subcapsular renal hematoma on the right. This is
+injury with deep laceration, subcapsular and perirenal
+considered AAST grade li injury.
+hematoma. There is no injury to the collecting system.
+GU: 249

@@ -1,0 +1,38 @@
+BI-RADS LEXICON FOR MRI MASSES
+Overview of BI-RADS lexicon for MRI masses
+The mammographic and MRI lexicons have several terms in common to describe mass
+shape and margin. However, since MRI incorporates dynamic contrast enhancement, new
+terminology was developed to describe a mass's internal pattern of enhancement.
+A mass is defined as a space-occupying lesion that displaces normal breast parenchyma.
+Mass shape
+The MRI lexicon for mass shape is identical to that of mammography and ultrasound.
+Round: Spherical in shape.
+Oval: Elliptical or oblong in shape. May include two to three undulations in contour.
+Irregular: Uneven shape. An irregular shape is suspicious for malignancy.
+Mass margin
+Evaluation of the margin of an enhancing mass is the MRI imaging feature most predictive
+of malignancy. The BI-RADS MRI lexicon for mass margin includes circumscribed, irregular,
+and spiculated. Unlike the mammography lexicon which uses the word irregular only to
+describe mass shape, irregular is used in the MRI lexicon as a description of both mass
+shape and mass margin. Circumscribed margins are more suggestive of benignity, while not
+circumscribed (irregular or spiculated) margins are more suspicious for malignancy. A mass
+with spiculated margins is thought to represent cancer 84-91% of the time.
+The shape and margin of a mass are best evaluated in the early postcontrast sequences.
+Progressive enhancement of the normal surrounding breast parenchyma on the subsequent
+postcontrast sequences may obscure the true margins of a mass.
+Internal enhancement
+Several descriptive terms unique to breast MRI are used to describe the internal
+enhancement pattern within a mass.
+Homogeneous internal enhancement is uniform and can be seen in both benign and
+malignant lesions.
+Heterogeneous internal enhancement describes non-uniform enhancement within the
+lesion and is suspicious, especially in the presence of rim enhancement.
+Rim enhancement is a highly suspicious finding for cancer, representing malignancy in up
+to 84% of cases, although this finding is only seen in 16% of cancers. Potential pitfalls are a
+peripherally enhancing inflammatory cyst or fat necrosis, both of which can demonstrate
+rim enhancement and are discussed later in the chapter.
+Dark internal septations are highly specific for a benign fibroadenoma (>95% positive
+predictive value). A fibroadenoma will also typically be circumscribed and hyperintense
+on T2-weighted images. A hyalinizing fibroadenoma, typically seen in older women, rarely
+enhances.
+Breast: 406

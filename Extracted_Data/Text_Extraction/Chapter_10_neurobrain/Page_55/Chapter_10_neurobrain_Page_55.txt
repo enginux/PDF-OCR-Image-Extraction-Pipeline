@@ -1,0 +1,40 @@
+BRAIN TUMORS
+APPROACH TO EVALUATION OF A FOCAL BRAIN MASS LESION
+Are there any tumor-related complications?
+CT is a good screening modality to identify potential surgical emergencies complicating a
+brain tumor, most commonly the 3 H's: hemorrhage, hydrocephalus, and herniation.
+Hemorrhage: Tumor neovascularity can be prone to nemorrhage.
+The most common primary brain tumor to hemorrhage is glioblastoma.
+The most common hemorrhagic metastases include melanoma, renal cell carcinoma, thyroid carcinoma,
+and choriocarcinoma. Although breast and lung cancer metastases are less frequently hemorrhagic on
+a case-by-case basis, these two malignancies are SO common that they should also be considered in the
+differential of a hemorrhagic metastasis.
+Hydrocephalus: Tumors can block the flow of CSF.
+Tumors within or around the ventricular system, particularly in the posterior cranial fossa, cause
+noncommunicating hydrocephalus.
+Leptomeningeal metastases cause communicating hydrocephalus.
+Herniation: A combination of the tumor and associated vasogenic edema can shift brain
+tissue across dural reflections.
+Supratentorial tumors cause subfalcine, downward transtentorial (uncal/central), and tonsillar herniation.
+Infratentorial tumors cause upward transtentorial and tonsillar herniation.
+Could this be a tumor mimic?
+In the evaluation of any suspected intracranial tumor, non-neoplastic mass-like lesions
+should also be considered, such as brain abscesses, subacute infarcts, tumefactive
+demyelination, aneurysms, and developmental or degenerative mass/cystic lesions. These
+conditions variably show mass effect and/or enhancement, mimicking a brain tumor.
+How many lesions are there?
+Most primary brain tumors and many brain metastases are solitary. Without a history of
+cancer, solitary brain tumors in adults over 50 years old have about the same chance to be
+metastasis or glioblastoma.
+If there is more than one lesion, the diagnosis is most likely to be metastases, but
+mutfoca/mutncentne glioblastoma or primary central nervous system lymphoma
+are in the differential. Some genetic conditions result in multiple brain tumors (e.g.,
+neurofibromatosis, tuberous sclerosis).
+Where is the lesion located?
+First, determine if the lesion is intra-axial or extra-axial. Although metastases may be
+either, the differential diagnosis for tumors in each intracranial compartment is otherwise
+completely different.
+The most common primary extra-axial tumor is meningioma.
+The most common primary intra-axial tumor is glioma, especially glioblastoma in older
+patients.
+Neuro Brain: 704

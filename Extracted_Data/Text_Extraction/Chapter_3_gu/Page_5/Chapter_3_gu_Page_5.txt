@@ -1,0 +1,43 @@
+ADRENAL GLANDS
+ANATOMY
+The adrenal glands are inverted Y-shaped endocrine glands that mediate the stress response
+by releasing cortisol and catecholamines. The adrenal glands are also a site of secondary sex
+hormone synthesis and blood pressure regulation (with aldosterone).
+The adrenal glands have two distinct components, the cortex and medulla, with different
+embryological origins (the cortex is derived from mesothelium; the medulla is derived from
+neural crest). The cortex and medulla are susceptible to different diseases.
+The adrenal glands are often asymmetric with the left gland thicker than the right.
+Adrenal cortex
+The adrenal cortex is the peripheral portion of the gland and is composed of three layers
+that synthesize distinct hormones derived from cholesterol.
+Zona glomerulosa (most superficial): Produces aldosterone.
+Zona fasciculata: Produces glucocorticoids in response to pituitary adrenocorticotropic hormone (ACTH).
+Zone reticularis (deepest; closest to the adrenal medulla): Produces androgens.
+Adrenal hyperplasia, adenoma, and cortical carcinoma are lesions that can be diagnosed on
+imaging.
+Adrenal medulla
+The medulla is the central inner portion of the adrenal gland and it is associated with
+catecholamine production norepinephrine and epinephrine, derived from tyrosine).
+Masses that arise in the medulla include pheochromocytomas and neuroblastic tumors
+ganglioneuroma, angioneuroblastoma, and neuroblastoma). Neuroblastoma is the most
+common extracranial solid tumor of childhood and is discussed in the pediatric imaging
+section.
+BIOCHEMICAL APPROACH TO ADRENAL LESIONS
+A patient may be suspected of having a hyperfunctioning adrenal lesion, based on clinical
+signs/symptoms or lab abnormalities. However, most incidental adrenal lesions are NOT
+hyperfunctioning.
+Adrenal hyperfunction
+Cushing syndrome is caused by excess circulating cortisol by exogenous administration
+or endogenous production, as the result of pituitary (Cushing disease) or from non-
+pituitary disease, including idiopathic adrenal hyperplasia, adrenal adenoma, or ectopic/
+paraneoplastic ACTH (e.g., from small cell lung cancer).
+Conn syndrome is the result of excess aldosterone production, usually from an adrenal
+adenoma, resulting in hypertension and hypokalemia. Adenomas implicated in Conn
+syndrome are typically small and may be difficult to detect on CT. Localizing the side of
+excess hormone production with venous sampling may be a helpful diagnostic adjunct.
+Adrenal cortical carcinoma is a very rare adrenal malignancy that arises from the cortex and
+typically causes an increase in levels of all cortical adrenal hormones and their precursors.
+Pheochromocytomas usually arise from the adrenal medulla and can be associated with
+excess catecholamine production. This can result in episodic headaches, tachycardia,
+diaphoresis, and uncontrolled hypertension.
+GU: 233

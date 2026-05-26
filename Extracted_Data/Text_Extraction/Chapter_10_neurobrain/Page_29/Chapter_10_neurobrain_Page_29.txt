@@ -1,0 +1,46 @@
+Acute infarct (6 hours-72 hours)
+The acute infarct phase is characterized by increase in vasogenic edema and mass effect.
+Damaged vascular endothelial cells cause leakage of extracellular fluid and increase the risk
+of hemorrhage.
+On imaging, there is increased sulcal effacement and mass effect. The mass effect peaks at
+3-4 days, which is an overlap time between the acute and early subacute phases.
+MRI shows hyperintensity of the infarct core on T2-weighted images, best seen on FLAIR.
+The FLAIR abnormality is usually confined to the gray matter. DWI continues to show
+restricted diffusion.
+There may be some arterial enhancement, due to increased collateral flow.
+Perfusion images most commonly show increase in size of the infarct core with resultant
+decrease in size of the penumbra.
+Early subacute infarct (1.5 days-5 days)
+In the early subacute phase, blood flow to the affected brain is re-established by
+leptomeningeal collaterals and ingrowth of new vessels into the region of infarction.
+The new vessels have an incomplete blood-brain barrier, causing a continued increase in
+vasogenic edema and mass effect, which peaks at 3-4 days.
+MR imaging shows marked hyperintensity on T2-weighted images involving both gray and
+white matter (in contrast to the acute stage which usually involves just the gray matter).
+The ADC map becomes less dark or even resolves if there is extensive edema; however, the
+DWI images typically remain bright due to underlying T2 shine-through.
+Perfusion imaging shows continued expansion of the infarct core and further reduction in
+the ischemic penumbra.
+Late subacute infarct (5 days-2 weeks)
+The late subacute phase is characterized by resolution of vasogenic edema and reduction in
+mass effect.
+Al key imaging finding is gyriform enhancement, which may occasionally be confused for
+a neoplasm. Unlike a tumor, however, a subacute infarction will not have mass effect.
+Enhancement can be seen from approximately 6 days to 6 weeks after the initial infarct.
+The enhancement of a subacute infarct has also been described by the "2-2-2" rule, which states that
+enhancement begins at 2 days, peaks at 2 weeks, and disappears by 2 months.
+DWI may remain bright due to T2 shine-through, although the ADC map will either return to
+normal or show increased diffusivity.
+Chronic infarct
+In the chronic stage of infarction, cellular debris and dead brain tissue are removed by
+macrophages and replaced by cystic encephalomalacia and gliosis.
+Infarct involvement of the corticospinal tract may cause mass effect, mild hyperintensity on
+T2-weighted images, and eventual atrophy of the ipsilateral cerebral peduncle and ventral
+pons due to Wallerian degeneration. These changes can first be seen in the subacute phase,
+with atrophy being the predominant feature in the chronic stage.
+DWI has usually returned to normal in the chronic stage.
+Occasionally, cortical laminar necrosis can develop instead of encephalomalacia.
+Cortical laminar necrosis is a histologic finding characterized by deposition of lipid-laden
+macrophages after ischemia that manifests on imaging as hyperintensity on both T1- and
+T2-weighted images.
+Neuro Brain: 678

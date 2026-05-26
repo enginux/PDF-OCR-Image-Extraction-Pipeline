@@ -1,0 +1,34 @@
+Diabetic striatopathy
+Diabetic striatopathy, also known as yperglycemia-induced hemichorea-hemiballismus, is
+a condition clinically manifest by involuntary, non-patterned movements.
+It is most frequently seen in type 2 diabetic patients and is a complication of nonketotic
+hyperglycemia.
+Imaging findings are pathognomonic, characterized by unilateral hyperintensity of the
+striatum on T1-weighted imaging and corresponding hyperdensity on CT.
+The clinical and imaging findings are reversible in most patients.
+Hypoxic ischemic encephalopathy (HIE)
+caudate
+putamen
+globus pallidus
+Hypoxic ischemic encephalopathy: Axial FLAIR (left image) shows symmetrical T2 prolongation in the bilateral
+putamina, heads of the caudate nuclei, and to a lesser extent in the globi pallidi. There is subtle FLAIR
+hyperintensity of the entire cortical ribbon. DWI (right image) shows marked DWI hyperintensity within the
+globi pallidi (arrows).
+Hypoxic ischemic encephalopathy (HIE) in adults is caused by circulatory or respiratory
+failure, leading to global hypoxia/anoxia.
+Severe HIE typically affects the gray matter, including the cerebral cortex, hippocampi, and
+basal ganglia. This distribution is similar to that of severe hypoglycemia. Involvement of the
+basal ganglia portends a worse prognosis.
+MR imaging shows FLAIR and/or DWI hyperintensity of the affected regions.
+On CT, there is loss of gray-white differentiation, diffuse cerebral hypoattenuation, and sulcal
+effacement. The white cerebellum sign describes the typical sparing of the cerebellum,
+which appears relatively hyperattenuating compared to the affected supratentorial brain.
+Methanol poisoning
+Methanol poisoning causes severe metabolic acidosis. Patients present with visual and
+gastrointestinal symptoms with rapid progression to a comatose state.
+Selective hemorrhagic necrosis of the putamina with relative sparing of the globi pallidi
+is the most characteristic imaging feature. Variable degrees of subcortical white matter,
+cerebellum, optic nerve necrosis may also be seen.
+Restricted diffusion can be seen in the acute phase. MR spectroscopy shows reduced NAA
+and elevated lactate peaks.
+Neuro Brain: 740

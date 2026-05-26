@@ -1,0 +1,36 @@
+Dose reduction in fluoroscopic procedures (continued)
+Decrease the source-to-image distance. The image intensifier (II) should always be as close
+to the patient as feasible. It is ok to "ride" the II up and down during the procedure, in order
+to best reduce source-to-image distance while maintaining sufficient space to work.
+Cone-in the image as much as possible. Once the basic anatomy is seen on the initial images,
+there is no need to image the full field of view every time. This is especially important for
+hip arthrography, where the pelvic sidewalls may be repeatedly radiated.
+Make it fun! It's a friendly competition to play to see who can get the lowest dose, as long as
+the procedure is done safely, accurately, and with minimal discomfort to the patient.
+Shoulder
+Normal shoulder arthrogram: Initial image (left image) demonstrates ideal BB marker placement (arrow) for a
+"rotator interval" approach, at the upper inner quadrant of the humeral head. A fluoroscopic image should be
+obtained after initial injection of contrast (middle image). Post-procedure image demonstrates normal contrast
+filling the joint, without contrast extravasation into the subacromial-subdetoid bursa.
+Similar to hip arthrography, diagnostic and therapeutic shoulder injections are very
+common. For diagnostic arthrography, a total intra-articular volume of 10-12 mL is typically
+injected.
+Communication of the glenohumeral joint with the ubatroma/subdetod bursa indicates a
+full-thickness rotator cuff tear (presuming that there is no history of prior surgery).
+Hip
+Diagnostic hip MR arthrography is commonly performed to assess for labral tears and
+chondral injury. A total intra-articular volume of 10-12 mL is typically administered.
+Therapeutic hip injections are commonly performed to reduce osteoarthritis-related pain
+and inflammation.
+Wrist
+For diagnostic wrist injections, approximately 3 mL of injectate is administered. Injecting
+more contrast can increase the chance of contrast extravasating out of the joint, which can
+complicate image interpretation.
+It is important to inject the contrast under real-time fluoroscopy to visualize any abnormal
+communication between the radiocarpal compartment (where contrast is injected) and
+either the distal radioulnar joint or the mid-carpal space.
+Communication between radiocarpal compartment and distal radioulnar joint indicates a
+tear of the TFC (with an example provided in the "Wrist" section of this chapter).
+Communication between the radiocarpal compartment and the midcarpal space
+demonstrates tears of either the scapholunate or lunotriquetral ligaments.
+MSK: 1081

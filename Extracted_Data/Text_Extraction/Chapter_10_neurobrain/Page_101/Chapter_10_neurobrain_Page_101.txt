@@ -1,0 +1,30 @@
+PARASITIC INFECTION
+Neurocysticercosis
+Neurocysticercosis:
+Axial post-contrast T1-weighted MRI (top left image)
+and axial FLAIR (top right image) show a ring-
+enhancing lesion (yellow arrow) in the left frontal lobe
+with surrounding edema (red arrow), representing the
+colloidal stage of neurocysticercosis.
+Axial noncontrast CT (bottom left image) shows
+scattered parenchymal and juxtacortical foci of
+calcification, in keeping with calcified stage of
+neurocysticercosis.
+Neurocysticercosis is the most common parasitic CNS infection of immunocompetent
+patients. It is caused by the tapeworm Taenia solium and clinically presents with seizures.
+Four stages of neurocysticercosis have been described:
+1) Viable/vesicular: Imaging shows several CSF-intensity cysts, without enhancement. Many of these
+cystic lesions may demonstrate an eccentric "dot" representing the scolex.
+2) Colloidal: The colloidal stage has the least specific imaging findings, presenting as ring-enhancing
+lesions. In contrast to a pyogenic abscess, the lesions feature increased diffusivity.
+3) Nodular/granular: Edema decreases as the cyst involutes and the cyst wall thickens.
+4) Calcified: Imaging shows small parenchymal calcifications (on CT) and small foci of susceptibility (GRE).
+Intraventricular neurocysticercosis can occur in up to 20% of cases, typically in the aqueduct
+of Sylvius or the fourth ventricle. Hydrocephalus may be the initial presentation, with the
+obstructing cyst most apparent on FLAIR images because the protein-rich intracystic fluid
+will not be nulled on FLAIR.
+The racemose form of neurocysticercosis is an older term describing a variant without a
+visible scolex, now thought to represent degeneration of the scolex.
+Treatment is with antiparasitic medications including albendazole, supplemented with
+steroids for edema and anti-seizure medications as needed.
+Neuro Brain: 750

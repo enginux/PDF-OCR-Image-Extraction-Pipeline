@@ -1,0 +1,58 @@
+PI-RADS (continued)
+Assignment of a PI-RADS score (last updated 2019 v2.1) is based on MRI findings only. PSA
+or clinical findings are not included. The likelihood of clinically significant cancer is reported
+on a scale of 1-5, with a progressively increased likelihood with increasing score:
+PI-RADS 1: Clinically significant canceri is highly unlikely (0%).
+PI-RADS 2: Clinically significant cancer is unlikely (10%).
+PI-RADS 3: Equivocal (16-20%).
+PI-RADS 4: Clinically significant cancer is likely (21-86%).
+PI-RADS 5: Clinically significant cancer is highly likely (93%).
+PI-RADS assessment is based on T2-weighted images (T2WI), diffusion weighted images
+(ADC/DWI), and dynamic contrast imaging (DCE). PI-RADS category assignment is weighted
+to a specific sequence according to zonal anatomy.
+Peripheral Zone (PZ)
+Transitional Zone (TZ)
+ADC
+High b-value DWI
+T2WI
+Normal or
+Normal
+PI-RADS 1
+completely
+encapsulated
+Linear or
+PI-RADS2
+Partially or non-
+wedge-shaped
+encapsulated
+bMild to
+Obscured margins,
+moderate
+PI-RADS 3
+heterogeneous- 3Non-circumscribed,
+Marked,
+PI-RADS 4
+homogeneous,
+<1.5 cm
+hypointense,
+<1.5 cm
+Marked,
+PI-RADS 5
+Same above but
+21.5 cm
+21.5 cm
+> Any extraprostatic extension is PI-RADS 5
+For transitional zone (TZ) lesions, T2WI should be used to assign a PI-RADS category, but it
+is correlated to ADC/DWI. Transitional zone lesions are measured on T2WI.
+For peripheral zone (PZ) lesions, ADC/DWI should be used to assign a PI-RADS category, but
+it is correlated to T2WI. Peripheral zone lesions are measured on ADC images.
+DCE can act as a "tie-breaker" for peripheral zone lesions when ADC/DWI characteristics
+are equivocal for malignancy (a score of 3). An equivocal peripheral zone lesion should be
+upgraded to PI-RADS 4 if DCE is positive.
+If a transitional zone lesion has a T2WI score of 2 or 3, correlation with DWI imaging
+characteristics is required. A high DWI score (see chart below) would upgrade the lesion.
+For both PZ and TZI lesions, any extraprostatic extension makes the lesion PI-RADS 5. Evaluation
+of the tumor margin should be performed in three planes. If the tumor is contiguous with the
+prostatic capsule, it has a higher risk of extracapsular invasion. The neurovascular bundles
+should be carefully examined where they abut the peripheral zone posterolaterally.
+GU: 282

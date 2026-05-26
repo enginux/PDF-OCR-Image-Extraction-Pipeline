@@ -1,0 +1,44 @@
+Primary CNS lymphoma: Immunocompetent patient (continued)
+In an immunocompetent patient, PCNSL typically presents as an homogeneously enhancing
+mass.
+Involvement of the frontal lobes and basal ganglia is most common, but it can be centered
+also in the brainstem and cerebellum. Transcallosal infiltration can occur, which is called a
+butterfly lesion.
+The differential diagnosis for a mass involving the corpus callosum includes lymphoma, glioblastoma, and
+demyelinating lesion.
+Primary CNS lymphoma: mmunocompromised patient
+munodeiduen/related CNS lymphoma is associated with EBV infection.
+In an immunocompromised patient, PCNSL typically presents as an irregular, ring-enhancing
+lesion. The ring enhancement is caused by central necrosis.
+The most common causes of ring-enhancing brain masses in patients with HIV/AIDS are
+lymphoma and toxoplasmosis. These lesions are usually multiple, although a single large
+lesion is more likely to represent lymphoma. Several clinical and imaging options are
+available to differentiate between lymphoma and toxoplasmosis:
+Empirical anti-toxoplasmosis therapy and short-interval follow-up imaging.
+MR DWI: Lymphoma tends to restrict diffusion more than toxoplasmosis does.
+MR perfusion: Lymphoma has higher rCBV than toxoplasmosis.
+MR spectroscopy: Lymphoma shows elevated choline compared to toxoplasmosis.
+FDG PET: Lymphoma has higher glucose metabolism than toxoplasmosis does.
+Thallium SPECT: Lymphoma more avidly takes up thallium than toxoplasmosis does.
+Secondary CNS lymphoma
+Secondary CNS lymphoma represents involvement of the CNS in a patient with known
+systemic lymphoma.
+Secondary CNS lymphoma is more commonly extra-axial, involving eptomeninges, dura,
+and/or skull. Less commonly, it may present as a parenchymal mass.
+METASTATIC DISEASE
+Overview
+The most common primary tumors to cause intracranial metastases are lung cancer, breast
+cancer, and melanoma.
+Brain parenchymal metastases are more common than meningeal metastases.
+Brain metastases are more common than primary brain malignancies in adults.
+Intra-axial metastasis
+Most parenchymal metastases are hematogenous and arise at the gray-white matter
+junction, where there is a caliber change in the small arterioles.
+Enhancement is universal, as capillaries produced by an extra-CNS primary tumor do not
+have a functioning blood-brain barrier.
+Larger metastases often feature marked edema, while small metastases may present as tiny
+enhancing foci that are apparent only on the post-contrast images.
+Factors that increase lesion conspicuity on contrast-enhanced imaging include higher contrast dose,
+gadolinium-based contrast agent with greater relaxivity, delayed imaging after contrast injection, and
+higher magnetic field strength.
+Neuro Brain: 725

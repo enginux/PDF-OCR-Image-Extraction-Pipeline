@@ -1,0 +1,39 @@
+Leptomeningeal pia-arachnoid) enhancement (extra-axial)
+Axial post-contrast T1-weighted MRI demonstrates
+Axial post-contrast T1-weighted MRI shows
+enhancement: along the cerebellar folia. This was
+enhancement along the right cranial nerve VII
+leptomeningeal spread of systemic lymphoma.
+and' VIII complex (arrow). This was metastatic lung
+adenocarcinoma.
+The eptomeninges (lepto means thin or narrow) include the pia and arachnoid.
+Leptomeningeal enhancement follows the undulating contours of the sulci as it includes
+enhancement of both the subarachnoid space and the pial surface of the brain.
+Meningitis (either bacterial, viral, or fungal) is the primary consideration when
+leptomeningeal enhancement is seen.
+Leptomeningeal enhancement in meningitis is caused by BBB breakdown due to inflammation or
+infection.
+Fine, linear enhancement suggests bacterial or viral meningitis.
+Thicker, nodular enhancement suggests fungal meningitis.
+Viral encephalitis may produce cranial nerve enhancement within the subarachnoid space.
+Leptomeningeal metastases, also called neoplastic meningitis, is spread of tumor cells into
+the subarachnoid space, which may be due to primary brain tumor or metastatic disease
+from an extra-CNS malignancy.
+CNS neoplasms that more commonly have leptomeningeal. spread include medulloblastoma, choroid
+plexus tumor, lymphoma, ependymoma, glioblastoma, and germinoma.
+Metastatic tumors known to cause leptomeningeal disease include lymphoma and breast cancer.
+Inflammatory amyloidosis often shows leptomeningeal enhancement with cortical edema
+and susceptibility.
+The differential diagnosis of FLAIR hyperintensity in the subarachnoid space overlaps with the
+differential for leptomeningeal enhancement. Subarachnoid FLAIR hyperintensity may be due to:
+Meningitis and eptomeningeal metastases both have increased subarachnoid FLAIR signal and leptomeningeal
+enhancement.
+Subarachnoid hemorrhage manifests as increased subarachnoid FLAIR signal, without leptomeningeal
+enhancement. Blooming artifact on GRE or SWI from blood products will help differentiate subarachnoid
+hemorrhage from leptomeningeal metastases.
+Slow vascular flow appears as an intravascular distribution of FLAIR hyperintensity due to "unmasking" of the
+inherent high signal of blood, which remains in the plane of imaging as the entire pulse sequence is obtained. Slow
+flow of peripheral vessels in moyamoya disease causes the ivy sign.
+Subarachnoid FLAIR: signal is artifactually increased when the patient is on oxygen or propofol therapy, without
+abnormal enhancement.
+Neuro Brain: 665

@@ -1,0 +1,45 @@
+Differential diagnosis of cystic renal masses
+Simple renal cyst (Bosniak category I)
+Simple renal cysts are very common, found in approximately 50% of patients over age50. A simple renal cyst is an incidental lesion that requires no follow-up, even when
+large.
+A simple renal cyst should have the sonographic hallmarks of a simple cyst, featuring an
+imperceptible thin wall, anechoic internal contents, and posterior through transmission.
+Harmonic imaging can be helpful in confirming the diagnosis of simple renal cyst by
+eliminating artifactual low-level internal echoes.
+On CT, a simple cyst should attenuate close to 0 HU (and must be < 20 HU), not contain
+any enhancing components, and have a thin imperceptible wall.
+On MRI, a simple cyst must be hypointense on T1-weighted images, nyperintense on
+T2-weighted images, and not contain any enhancing component.
+Renal sinus cyst (category I)
+Cysts in the renal sinus may be classified as parapelvic and peripelvic cysts.
+A parapelvic cyst is a renal cortical cyst that herniates into the renal sinus and is usually
+solitary. These cysts are usually large but solitary.
+Peripelvic cysts are secondary to ymphatic obstruction and are often small and
+multiple.
+When multiple renal sinus cysts are present (usually peripelvic cysts), the appearance
+may mimic hydronephrosis. In contrast to hydronephrosis, renal sinus cysts are not
+contiguous with each other and will not contain excreted contrast on delayed imaging.
+Hyperdense cyst (category II)
+On ultrasound, a hemorrhagic cyst may contain low-level echoes or layers of echoes.
+On noncontrast CT, hemorrhagic cysts are homogeneous and nyperattenuating (>70
+HU). The main differential includes a proteinaceous cyst (debris).
+Note that a hyperdense cyst cannot be diagnosed on postcontrast imaging alone
+because it cannot be distinguished from an enhancing renal mass (unless dual energy
+CT is used).
+Renal abscess (category II and above)
+A renal abscess is a contained purulent collection within the kidney. It is described in
+the renal infection section.
+Neoplasm (category IIF and above)
+Cystic renal cell carcinoma: Although renal cell carcinoma most commonly presents as
+a solid renal mass, it can also manifest as a complex cystic mass. Worrisome ultrasound
+findings include thick septa, irregular wall thickening, and a mural nodule.
+Multilocular cystic nephroma is a benign cystic neoplasm with enhancing septa
+that occurs in a bimodal age distribution in baby boys and middle-aged women. A
+characteristic but nonspecific feature is the propensity to herniate into the renal pelvis,
+causing hydronephrosis.
+In adults, multilocular cystic nephroma can be indistinguishable from cystic RCC.
+In children, multilocular cystic nephroma can be indistinguishable from cystic Wilms tumor.
+Mixed epithelial and stromal tumor (MEST) is a benign neoplasm composed of
+epithelial and mesenchymal elements, typically found in middle-aged women. MEST
+may appear as either a solid or cystic mass.
+GU: 259

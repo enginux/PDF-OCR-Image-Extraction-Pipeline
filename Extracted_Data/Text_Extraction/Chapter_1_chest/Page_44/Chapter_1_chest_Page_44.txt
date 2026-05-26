@@ -1,0 +1,51 @@
+clavicle
+2L aorta
+AP window
+4L
+(between aorta and
+carina
+pulmonary artery)
+pulmonary
+10
+0
+artery
+11-14
+11-14
+8
+9
+left-sided mass
+-
+esophagus
+N1: ipsilateral hilar nodes and intrapulmonary nodes N2: ipsilateral mediastinal nodes
+10 - hilar
+2 - upper paratracheal
+11 - interlobar (adjacent to interlobar bronchi)
+3 - prevascular (anterior to aorta, not shown)
+12-lobar (adjacent to lobar bronchi)
+4 - paratracheal
+13 - segmental
+5 subaortic (AP window)
+14 - subsegmental
+6 - paraaortic
+7 - subcarinal
+8 - paraesophageal
+9- pulmonary ligament
+N3: 1- supraclavicular nodes (any side)
+any contralateral node
+-the boundary between right and left for level 2a and 4 lymph nodesi is set
+as the left lateral border oft thei trachea due to flow ofl lymphatic drainage.
+int this example of al left-sided primary, ther right-sided nodes are drawn
+in oranget to demonstratel N3 due to contralaterality
+NO: No lymph node metastases.
+N1: psilateral hilar or intrapulmonary lymph nodes (green in diagram above).
+N2: psilateral mediastinal nodes (yellow in diagram above).
+N3: Contralateral mediastinal or hilar lymph nodes, or supraclavicular nodes on either side
+(orange in diagram above).
+M (metastasis)
+MO: No metastatic disease.
+M1a: Local thoracic metastatic disease.
+Separate tumor nodule in contralateral lung
+Malignant pleural or pericardial effusion
+M1b: Single extrathoracic metastasis, including single non-regional lymph node.
+M1c: Multiple extrathoracic metastases in one or more organs.
+Chest: 44

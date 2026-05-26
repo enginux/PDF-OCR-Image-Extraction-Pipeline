@@ -1,0 +1,46 @@
+MUSCULOSKELETAL
+RADIOTRACERS
+Tc-99m MDP or HDP
+Tc-99m MDP and HDP are technetium-
+labeled diphosphonates which deposit
+via chemisorption in the mineral phase of
+bone. 20 mCi is typically administered, with
+imaging performed 2-4 hours later.
+Rapid renal excretion is normal; bladder
+is the critical organ. Patients should void
+before imaging to prevent the bladder from
+obscuring a pelvic lesion.
+A three-phase study incudes:
+1) Radionuclide angiogram (flow) evaluates
+blood flow, with images taken every few
+seconds. Increased flow suggests hyperemia.
+2) Blood pool evaluates the extracellular
+distribution immediately following the blood
+flow phase.
+Normal Tc-99m MDP bone scan in anterior and
+3) Standard delayed (skeletal) images are
+posterior projections, with 20 mCi administered.
+performed approximately 3 hours after injection. Note the normal renal and bladder uptake.
+COMMON PATTERNS AND CLINICAL APPLICATIONS
+Patterns with low probability of metastatic disease (in a patient with a known malignancy)
+A single focus of uptake in a rib is thought to represent malignancy only -10% of the time.
+Uptake in similar locations in two or more adjacent ribs is almost always due to trauma.
+Multiple adjacent photopenic bony lesions are unlikely to be metastases, but may represent
+infarction, avascular necrosis, or sequela of radiation therapy.
+Patterns with high probability of metastatic disease
+A: single sternal lesion in a patient with breast cancer is due to metastasis -80% of the time.
+Multifocal areas of increased activity in nonadjacent ribs are suspicious for metastases.
+A: single photopenic lesion in patients with a known malignancy (especially neuroblastoma,
+renal cell carcinoma, and thyroid cancer) is due to metastasis 80% of the time.
+Beware of the flare phenomenon within three months of starting chemotherapy, where
+treated bone metastases demonstrate increased uptake due to healing. Tracer uptake
+should regress by 6 months following treatment.
+Cancers likely to produce a false-negative bone scan
+While bone scan is highly sensitive for osseous metastases that induce bone turnover or are
+predominantly osteoblastic, such as prostate cancer, it has low sensitivity for predominantly
+osteoclastic or lytic metastases. These tumors include multiple myeloma, renal cell
+carcinoma, thyroid carcinoma, aggressive anaplastic tumors, and neuroblastoma.
+Marrow-replacing tumors such as lymphoma can also produce negative bone scans.
+Aggressive and lytic bony lesions or those confined to the marrow are better seen on F-18
+FDG PET/CT.
+Nucs: 471

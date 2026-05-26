@@ -1,0 +1,35 @@
+Architectural distortion
+Patient A: Architectural distortion is caused by a scar Patient B: Single slice from a mammographic
+from prior excisional biopsy (circle).
+tomogram shows architectural distortion (circle),
+which was invasive ductal carcinoma on biopsy.
+Architectural distortion describes lines radiating from a central point with no central mass
+visible, producing tethering and indentation of the breast tissue.
+Architectural distortion is suspicious for malignancy. The differential for architectural
+distortion includes invasive malignancy, complex sclerosing esion/radial scar, post-biopsy
+scar, and some forms of fibrocystic change such as sclerosing adenosis.
+MAMMOGRAPHIC WORKUP AND PROBLEM SOLVING
+Spot compression (with or without magnification)
+Spot compression is compression of a focal region of the breast, which allows for better
+compression and therefore better resolution. Spot compression is almost always the next
+step in evaluating a focal suspicious mammographic abnormality.
+Typically, for evaluation of calcifications, spot compression magnification is used. For
+evaluation of a mass or asymmetry, magnification is usually not needed. Note that areas of
+architectural distortion may actually appear less apparent on magnification views.
+If an apparent asymmetry "presses out" with focal compression, then the apparent
+abnormality more likely represents superimposition of normal pliable fibroglandular tissue.
+Often ultrasound will also be performed to further assure absence of any corresponding
+suspicious finding.
+If the abnormality does not significantly change shape when compressed, then it is
+suspicious and its margins could be further assessed on spot magnification views. Evaluation
+with ultrasound would also be warranted.
+A smaller compression device will allow more precise compression, with the downside of
+potentially losing landmarks in the surrounding parenchyma.
+Compared to full-field digital mammography, tomosynthesis has the advantage of improved
+lesion detection and characterization by reducing the effect of overlapping breast tissue.
+Tomosynthesis may decrease the need for additional diagnostic imaging such as spot
+compression.
+XCC (exaggerated cranio-caudal)
+The lateral XCC (XCCL) pulls lateral breast tissue into the detector.
+The medial XCC (XCCM) pulls medial breast tissue into the detector.
+Breast: 393

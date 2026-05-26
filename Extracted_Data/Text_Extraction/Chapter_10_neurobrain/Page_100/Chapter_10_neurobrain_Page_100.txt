@@ -1,0 +1,30 @@
+Mucormycosis
+Axial FLAIR
+ADC
+GRE
+Cerebral mucormycosis: MRI images show a FLAIR hyperintense lesion in the right caudate head with
+surrounding vasogenic edema, associated peripheral restricted diffusion (yellow arrow), and susceptibility
+representing intralesional hemorrhage (red arrow). In this patient with a history of autologous stem cell
+transplant for T-cell leukemia and clinical concern for systemic infection, these findings are suspicious for a
+fungal infarct. Subsequent biopsy showed mucor.
+Mucormycosis infects a similar patient population to Aspergillus and can be distinguished
+from aspergillosis by its more aggressive course, higher mortality, and poor response
+to voriconazole. Intracranial extension from invasive sinusitis is the primary etiology,
+particularly in patients with poorly controlled diabetes mellitus.
+Like aspergillosis, mucormycosis has a propensity for angioinvasion, leading to infarction and
+necrosis, often with hemorrhagic component.
+CT shows sinusitis with bony destruction. MRI may show frontal lobe lesions with reduced
+diffusivity, perineural intradural spread, or cavernous sinus thrombosis.
+Treatment includes aggressive surgical debridement, high-dose amphotericin B, and
+adjuvant supportive therapies.
+Other fungal infections
+CNS candidiasis most commonly presents as multiple brain microabscesses. Meningitis or
+vascular involvement are less common.
+Disseminated coccidioidomycosis often causes meningitis, or chronic basilar meningitis
+similar to cryptococcosis that can be complicated by nydrocephalus or ischemic vasculitis.
+Parenchymal abscesses or granulomas are uncommon.
+Histoplasmosis has a tendency to cause isolated meningitis but can also present as
+granuloma or abscess.
+Blastomycosis can manifest as meningitis, cerebral abscesses preferentially involving basal
+ganglia or cerebellum, or vertebral osteomyelitis.
+Neuro Brain: 749

@@ -1,0 +1,31 @@
+NON-MASS ENHANCEMENT (NME)
+Overview of non-mass enhancement
+Non-mass enhancement (NME) is an enhancing region that is not a mass or a focus.
+Similar to mammographic calcifications, NME is described both in terms of distribution and
+morphology. The purpose of the lexicon for NME is to distinguish between malignancy and
+benign parenchymal enhancement or fibrocystic changes.
+NME distribution
+Focal: Distribution is <25% of a quadrant and contains interspersed fat/glandular tissue.
+Linear: The distribution is arranged in a line or branching pattern. Linear distribution is up to
+26% malignant and can suggest enhancement associated with a duct.
+Segmental: Triangular-shaped distribution of enhancement pointing towards the nipple.
+Segmental distribution also suggests a ductal etiology. Segmental distribution is the most
+common distribution of DCIS (42% of DCIS cases).
+Regional: Geographic distribution involving at least a quadrant, implying involvement of
+multiple ductal systems.
+Multiple regions: At least two regions of NME are present, with interspersed normal tissue.
+Diffuse: Uniform NME is present throughout the breast. A diffuse distribution of NME may
+represent prominent background parenchymal enhancement, but can also be seen with
+extensive malignancy.
+NME internal enhancement patterns
+Homogeneous: Enhancement intensity is uniform throughout the NME. This pattern is
+more suggestive of a benign lesion than heterogeneous, but small cancers may enhance
+homogeneously.
+Heterogeneous: Enhancement is confluent and non-uniform in morphology. Heterogeneous
+NME is seen in 21% of cases of DCIS.
+Clumped: Resembling a cobblestone pattern, or a "bunch of grapes." Clumped
+enhancement is most suggestive of DCIS, especially in a linear or segmental distribution.
+Clumped NME is seen in 51% of cases of DCIS and necessitates biopsy.
+Clustered ring: Thin rings of enhancing tissue surrounding the ducts. This is a suspicious
+pattern.
+Breast: 408

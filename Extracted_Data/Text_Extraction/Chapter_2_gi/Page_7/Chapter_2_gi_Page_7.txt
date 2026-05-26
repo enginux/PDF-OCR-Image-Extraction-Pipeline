@@ -1,0 +1,37 @@
+Hepatic iron overload
+Regardless of the etiology, the iron-overloaded liver is hypointense on all MRI sequences
+relative to the paraspinal muscles as an internal control, and there is signal dropout on in-
+phase images.
+There are two pathways to excess hepatic iron accumulation, as described below.
+Primary hemochromatosis is the most common cause of iron overload, due to a genetic
+defect causing increased iron absorption through the GI tract.
+Excess iron is deposited in hepatocytes (not the Kupffer cells that make up the intrahepatic
+reticuloendothelial system or RES), pancreas, myocardium, skin, and joints. Excess ironi in hepatocytes can
+cause cirrhosis.
+Liver and pancreas are markedly T2 hypointense and show signal dropout on in-phase images. The spleen
+and bone marrow are normal since the RES is not involved.
+Treatment of primary hemochromatosis is phlebotomy.
+Primary hemochromatosis: Axial T2-weighted MRI
+demonstrates diffuse low T2 signal in the liver and
+pancreas with associated signal loss on in-phase
+imaging (not shown).
+Secondary hemochromatosis is usually seen in diseases that cause hemosiderosis, where
+excess iron accumulates within the RES. This may be due to frequent blood transfusions or
+defective erythrocytosis. Treatment of hemosiderosis is with iron chelators, not phlebotomy.
+The RES has a large capacity for iron. Therefore, iron stored in the RES is generally not harmful and the
+liver is normal in morphology without cirrhosis. However, when the RES becomes overwhelmed with iron,
+the hepatocytes begin to store the excess.. Just as in primary hemochromatosis, hepatocyte iron uptake
+may lead to cirrhosis.
+MRI imaging of hemosiderosis demonstrates hypointense liver on conventional MRI sequences and signal
+drop on in-phase images, as in hemochromatosis. Additionally, the spleen and bone marrow will also
+appear hypointense due to increased iron stores throughout the entire reticuloendothelial system. The
+pancreas is spared.
+Primary = Pancreas
+Secondary = Spleen
+In-phase MRI
+Out-of-phase MRI
+T2-weighted MRI
+Secondary hemochromatosis: Multisequence MRI shows diffuse low T2 signal in the liver and spleen with
+associated signal loss on in-phase imaging compared to out-of-phase imaging, consistent with iron deposition
+from hemosiderosis in this patient with transftuson-dependent anemia.
+GI: 101

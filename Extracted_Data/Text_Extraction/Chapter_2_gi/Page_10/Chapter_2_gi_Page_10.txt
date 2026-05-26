@@ -1,0 +1,23 @@
+Secondary manifestations of cirrhosis (continued)
+Macronodular cirrhosis features larger nodules (>3 mm) separated by wide scars and
+fibrous septae. Macronodular cirrhosis is caused by fulminant viral hepatitis which does not
+uniformly affect the liver.
+Patient 1 (left image): Axial contrast-enhanced CT shows cirrhotic morphology of the liver with large volume
+ascites and large esophageal varices (arrow).
+Patient 2 (right image): Coronal contrast-enhanced CT shows splenomegaly and small gastric varices (arrows),
+consistent with sequelae of portal hypertension.
+Imaging of cirrhosis
+The typical appearance of cirrhosis is segmental atrophy and hypertrophy with nodular
+contour and parenchyma.
+Axial T2-weighted MR images show nodular contour of the liver with hypertrophy of the left lobe, atrophy of
+the right lobe, widened periportal space (yellow arrow), and right posterior hepatic notch sign (red arrow) in
+keeping with cirrhosis. This patient had a history of hepatitis C.
+Ultrasound appearance is a coarse, heterogeneous liver echotexture with a nodular contour.
+MR elastography is a non-invasive technique in which the patient wears a device resting
+over their right hepatic lobe which transmits mechanical waves at a fixed frequency,
+typically 60 Hertz. A phase-contrast. pulse sequence with motion-encoding gradients is
+obtained to measure micron-level tissue deformation in response to the stimulus. Liver
+stiffness in kPa is measured by drawing ROI on the elastogram images.
+Sonoelastography is also a non-invasive way to grade the degree of fibrosis in chronic liver
+disease. Subtypes include shear-wave elastography and strain elastography.
+GI: 104

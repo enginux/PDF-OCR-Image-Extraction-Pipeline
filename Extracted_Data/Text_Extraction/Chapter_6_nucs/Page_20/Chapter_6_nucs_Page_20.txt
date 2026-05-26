@@ -1,0 +1,46 @@
+Focal nodular hyperplasia (FNH)
+Focal nodular hyperplasia (FNH) is a benign liver mass that can have a variable appearance
+on a sulfur colloid scan. Most commonly, FNH will be indistinguishable from background
+liver due to Kupffer cells within the FNH. FNH may also have increased uptake due to a
+combination of hypervascularity and Kupffer sulfur colloid uptake. In approximately 1/3 of
+cases there is insufficient colloid concentration and FNH may appear as a photopenic defect.
+In contrast to FNH, a hepatic adenoma does not contain Kupffer cells and will be consistently
+photopenic.
+An adjunct or alternative to sulfur colloid scan is a HIDA scan. FNH contains biliary ductules
+SO it should demonstrate radiotracer uptake on a HIDA scan.
+Intrapancreatic splenic tissue
+The presence of an intrapancreatic splenule can be confirmed by sulfur colloid scan in
+indeterminate cases, where the suspected tissue will show uptake. A Tc-99m damaged red
+cell study can also be performed.
+Splenosis: Liver-spleen scan (5.5 mCi
+Tc-99m sulfur colloid administered) of
+a patient with history of splenectomy
+following trauma.
+Anterior and posterior images show
+scattered focal uptake in the abdomen
+correlating to intraperitoneal soft
+20
+tissue masses on SPECT/CT (not
+shown), consistent with splenosis.
+ESOPHAGEAL AND GASTRIC MOTILITY
+Radiotracer: Tc-99m sulfur colloid or DTPA
+Sulfur colloid or DTPA are mixed with food and ingested to assess gastroesophageal motility.
+Esophageal transit
+After a 6-hour or overnight fast, patient is positioned supine and instructed to swallow
+10 mL water containing Tc-99m sulfur colloid or DTPA, then attempt dry swallows to clear
+normal residual activity in the esophagus. This process may be repeated several times.
+Normal esophageal transit time for water is 5-11 seconds, with more than 90% of peak
+activity clearing the esophagus after 15 seconds. Reduced transit time is seen in patients
+with scleroderma and achalasia.
+Gastroesophagea! reflux
+Scintigraphy for gastroesophageal reflux is most commonly performed in neonates. After an
+overnight fast, the infant is fed formula or milk mixed with Tc-99m sulfur colloid. Sequential
+images are acquired to assess for reflux of gastric content into the esophagus. Delayed
+images of the lungs can be obtained to evaluate for aspiration.
+A similar protocol is used for older children and adults, but using orange juice.
+Salivagram for aspiration
+Salivagram is more sensitive in detecting aspiration in pediatric patients compared to
+reflux scintigraphy. A drop of Tc-99m sulfur colloid is placed on the patient's tongue base or
+sublingual region to allow mixture with saliva. Rapid images are then obtained to assess for
+activity in the bronchi and lungs.
+Nucs: 463

@@ -1,0 +1,49 @@
+PHYSICS QUICK REVIEW
+MEASURING RADIATION
+Exposure,
+Exposure is the charge of electrons liberated per unit mass of air. Exposure is measured in
+air kerma,
+Coulombs/Kg.
+absorbed
+Air kerma (kinetic energy released per mass) describes the incident X-ray beam intensity
+dose,
+as the kinetic energy transferred from uncharged particles (photons) to charged particles
+equivalent
+dose, and
+(electrons). Air kerma is measured in Gray (J/Kg).
+effective dose
+Air kerma (Gy) can be converted to absorbed dose (also quantified in Gy) by the R factor,
+which depends on kV and the atomic number (Z) of the absorbing tissue.
+Bone (Z: = 12) absorbs much more energy than soft tissue (Z -7.6).
+At 10 mGy air kerma, bone absorbs 40 Gy, tissue absorbs 11 Gy.
+The equivalent dose (expressed in Sievert; Sv) is the absorbed dose in Gy multiplied by a
+radiation weighting factor (WA)-
+WA depends on the linear energy transfer (LET) of the type of radiation. For diagnostic radiology using
+X-rays, WR = 1. An alpha particle has al high LET.
+The effective dose (also expressed in Sv) is an estimation of radiation exposure that takes
+into account the equivalent dose to all organs exposed and each organ's radiosensitivity.
+Effective dose = the sum of the absorbed dose (Gy) * WA * W for all organs exposed.
+W, is the tissue weighting factor, which varies from 0.12 for radiosensitive organs (e.g., bone marrow,
+colon, lung, breast), to 0.01 for less sensitive organs, (e.g., bone, brain, and skin).
+Radiation
+SI (système international) units including Gray and Sievert are almost universally used
+units
+rather than the older non-SI units. One notable exception is the Curie, which is still
+commonly used in nuclear medicine (typical dosing ranges are in millicuries).
+SI units
+Non-SI units
+Gray (Gy) quantifies both absorbed
+1 Rad (radiation absorbed dose) = 10 mGy
+dose and air kerma (exposure) as
+energy absorbed per unit mass.
+1 Gy = 1 J/Kg
+1 Gy = 100 Rad
+Sievert (Sv) is used to quantify
+1 Rem = 10 mSv
+equivalent dose and effective dose.
+1 Sv = 100 Rem
+A Becquerel (Bq) is only used in nuclear e 1 Curie = 37 billion Becquerels =
+medicine for radioactive materials.
+3.7e10 disintegrations per second
+1 Bq = 1 disintegration per second
+Physics: 1202

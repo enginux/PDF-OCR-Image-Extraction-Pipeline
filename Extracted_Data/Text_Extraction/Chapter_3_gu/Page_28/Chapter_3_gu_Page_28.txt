@@ -1,0 +1,48 @@
+DIAGNOSTIC APPROACH TO A RENAL MASS
+Ultrasound of a renal mass
+Ultrasound is particularly useful for the initial evaluation ofa cystic renal mass.
+Color Doppler should be utilized to evaluate for internal blood flow. Color Doppler is also
+useful to distinguish a cystic mass from a renal artery aneurysm since they appear similar in
+grayscale.
+CT of a renal mass
+CT is useful for the evaluation of both cystic and solid renal masses.
+A renal mass protocol CT consists of at least three CT phases, each providing different types
+of information to aid in evaluation.
+Unenhanced phase: quantify baseline attenuation and evaluate for intralesional fat and
+calcifications.
+Nephrographic phase (100 second delay): evaluate for enhancement by comparing to the
+unenhanced images.
+Excretory phase (8 minute delay): helpful to show the relationship of a renal mass to the
+collection system for surgical planning, and to diagnose mimics of cystic renal masses.
+The delayed excretory phase can distinguish between hydronephrosis (will show dense opacification in the
+pyelographic phase) versus renal sinus cysts (will not opacify).
+Reflux nephropathy may cause a dilated calyx that can simulate a cystic renal mass on the nephrographic
+phase. The excretory phase would show opacification of the dilated calyx.
+The excretory phase is also useful to demonstrate a calyceal diverticulum.
+Although not done routinely, an arterial phase can be performed for presurgical planning.
+MRI of a renal mass
+MRI is particularly useful for the evaluation of solid renal masses. MRI can provide
+information about internal fat and fluid content, as well as enhancement. Further details are
+provided in the solid renal mass section.
+MRI plays a limited role in the evaluation of a cystic renal mass. However, given the
+increased general use of MRI, the new 2019 Bosniak Classification formally incorporates MRI
+into its classification. This is discussed further below.
+Calcifications are harder to detect with MRI.
+Evaluating enhancement of a renal mass (CT and MRI)
+The presence of enhancement is the most important characteristic to diagnose a solid renal
+mass, but intralesional fat is almost always diagnostic of benign angiomyolipoma. A non-
+fat-containing renal mass can still be benign, particularly when small (<1 cm), but the risk of
+malignancy increases with increasing mass size (>3 cm).
+On CT, enhancement is quantified as the absolute increase in Hounsfield units on
+postcontrast images, compared to pre-contrast:
+<10 HU: No enhancement.
+10-19 HU: Equivocal enhancement. 220 HU: Definite enhancement.
+On MRI, enhancement is quantified as the percent increase in signal intensity as measured
+on postcontrast images:
+<15%: No enhancement.
+15-19%: Equivocal enhancement.
+220%: Definite enhancement.
+Lesions are considered "too small to characterize" if the lesion diameter is smaller than
+twice the slice thickness. For instance, using 3 mm slices, a lesion less than 6 mm cannot be
+accurately characterized based on attenuation or enhancement.
+GU: 256

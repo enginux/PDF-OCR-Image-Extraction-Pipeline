@@ -1,0 +1,28 @@
+CYSTIC BREAST LESIONS
+Note that it is not possible to reliably differentiate cystic versus solid lesions on
+mammography. However, a cyst may become less dense on spot compression owing to its
+compressibility.
+Simple cyst
+Simple cyst: Mammogram shows a circumscribed, round, isodense mass underlying a radiodense cutaneous
+marker. Ultrasound shows an anechoic, oval, circumscribed structure with an imperceptibly thin wall and
+posterior enhancement.
+A: simple cyst is a benign, fluid-filled structure that is round or oval in shape, with
+circumscribed margins and anechoic internal echo pattern. Two to three gentle lobulations
+may be present. A cyst features an imperceptibly thin wall and posterior through-
+transmission (posterior enhancement).
+A cyst that meets all the above criteria is benign and can be classified as BI-RADS 2.
+A: simple cyst causing pain or discomfort may be aspirated.
+Complicated cyst
+Complicated cysts in two different patients: The complicated cyst on the left features low-level internal echoes
+(yellow arrow), while the complicated cyst on the right demonstrates layering debris with a fluid level (red
+arrows).
+A complicated cyst is a cyst that contains low-level internal echoes or layering debris, but
+otherwise meets criteria similar to a simple cyst.
+A complicated cyst is highly likely to be benign, with risk of malignancy below 2%. If solitary,
+a complicated cyst may be classified as probably benign (BI-RADS 3). If multiple and bilateral,
+it is reasonable to classify them as benign (BI-RADS 2).
+Occasionally, a complicated cyst may be difficult to differentiate from a solid mass with
+homogeneous internal echoes or may not meet all the required criteria. In such a case,
+aspiration or core biopsy is typically performed. If aspirated fluid is white, clear, or yellow,
+the fluid is presumed benign and discarded. Bloody fluid is sent for cytology.
+Breast: 415

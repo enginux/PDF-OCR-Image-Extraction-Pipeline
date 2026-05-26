@@ -1,0 +1,52 @@
+Activity
+The activity of a radionuclide is the number of decays per unit time.
+The activity at time (t) = N, =
+t
+N(e-At)
+N, = initial activity
+Decay constant A = 0.693/TY, where TY = half-life
+t= time elapsed
+Cumulative activity
+The cumulative activity is the total number of nuclear decays that occur over
+time. It represents the area under the decay curve plotted over time.
+The cumulative activity = 1.44 xfxA,XT
+f= fractional uptake (assumed to be 1 if not explicitly stated otherwise)
+Ao =i initial activity
+T = effective half-life
+Effective half-life
+The effective half-life is the half-life of a radionuclide within an organ, taking
+into account the intrinsic physical half-life of the radionuclide and the biological
+clearance.
+1
+1
+1
+The effective half-life = TE -
+T
+T.
+1/2
+T = biologic half-life
+Tin = physical half-life
+System resolution
+System resolution is the resolution of the imaging system accounting for
+the intrinsic resolution of the scintillation camera (without a collimator) and
+resolution of the collimator.
+System resolution = R=
+R2
+C
+V R2+
+Ri = intrinsic resolution
+R. = collimator resolution
+Quality control:
+Constancy: Tested every day ("constantly") with
+These are tests of
+Dose calibrator
+137Cs (30-year half-life)
+the dose calibrator,
+Linearity: Tested quarterly with 99mTc decay
+not the imaging
+Accuracy: Tested annually with a calibrated source
+system!
+Quality control:
+Uniformity: Tested daily with Co-57
+Imaging system
+Physics: 1221

@@ -1,0 +1,21 @@
+Teratoma
+Teratoma is the second most common cardiac tumor in fetuses and neonates.
+The majority of cardiac teratomas arise in the pericardium. A common location is attached
+to the root of the pulmonary artery and aorta. Intramyocardial teratoma is rare.
+Teratoma may cause pleural effusion when arising from the pericardium. Pericardial
+teratoma is one of the primary causes of massive perinatal pericardial effusion, with
+potential for tamponade.
+Classic imaging appearance is a multilocular cystic and solid mass abutting the pulmonary
+artery and aorta.
+On MRI, teratomas are T1 hypointense to isointense relative to myocardium, T2
+hyperintense, and hypoenhancing on first-pass myocardial perfusion imaging (which
+differentiates teratomas from hemangiomas).
+Treatment is surgical excision.
+Hemangioma
+Hemangioma is a benign vascular tumor that can occur in any cardiac chamber.
+Similar to teratoma, neonatal cardiac hemangioma is also associated with massive
+pericardial effusion.
+On MRI, cardiac hemangiomas are T2 hyperintense and enhance avidly on first-pass
+myocardial perfusion.
+Treatment is surgical excision.
+Peds: 1123

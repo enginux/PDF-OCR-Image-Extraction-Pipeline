@@ -1,0 +1,92 @@
+MR imaging of hemorrhage (continued)
+In general, non-hyperacute hemorrhage is dark on T2-weighted images, with the exception
+of extracellular methemoglobin, which is hyperintense on T2-weighted images. A
+hyperacute hematoma, containing primarily oxyhemoglobin, is slightly hyperintense on T2-
+weighted images but features a characteristic dark rim representing deoxygenation at the
+periphery of the clot.
+The inherent slight hyperintensity of oxygenated blood on T2-weighted images becomes
+apparent in slow flow states, as seen in venous hypertension and moyamoya disease.
+Slowly flowing blood is not susceptible to the flow-void artifact and the resultant apparently
+"enhancing" vasculature really represents unmasking of the normal blood signal.
+The expected evolution of blood products is highly dependent on macrophage elimination
+of blood breakdown products. These rules of thumb are not applicable to extra-axial blood
+and timing is generally not given for extra-axial blood, such as a subdural hematoma.
+Treatment of hemorrhage
+In most cases, imaging is performed to evaluate for a treatable cause of hemorrhage,
+such as AVM or aneurysm. The mainstay of treatment of intraparenchymal hemorrhage is
+supportive, including blood pressure control and normalization of any coagulopathy.
+Larger hemorrhages can be evacuated surgically if there is significant mass effect or risk
+of herniation. In particular, a hemorrhage >3 cm in the posterior fossa would generally be
+treated surgically as there is increased risk of brainstem compression or hydrocephalus from
+fourth ventricular obstruction.
+SPECIFIC STAGES OF PARENCHYMAL HEMATOMA ON MR
+hyperacute hematoma
+acutel hematoma
+early subacute
+late subacute
+chronic hematoma
+0-6 hours
+6-72 hours
+3 days 1 week
+1 week- months
+intracellular
+intracellular
+intracellular
+extracellular
+extracellular
+oxyhemoglobin
+deoxyhemoglobin
+methemoglobin
+methemoglobin
+iron
+deoxygenation
+oxidation
+celllysis
+chelation
+ferritin
+oxy-Hb
+deoxy-Hb
+A
+met-Hb
+met-Hb
+hemosiderin
+Inum
+nEuTuE
+diamagnetic
+paramagnetic
+paramagnetic
+paramagnetic
+paramagnetic
+(no unpaired electrons)
+T1
+T1
+T1
+T1
+T1
+isointense
+iso or
+hyperintense
+hyperintense
+iso or
+hypointense
+hypointense
+T2
+T2
+T2
+T2
+T2
+isot tol hyper;
+hypointense
+hypointense
+hyperintense
+hypointense
+darkr rim
+Hyperacute hematoma (K6 hours): Intracellular oxyhemoglobin
+A few hours after red cell extravasation, a hyperacute hematoma is primarily composed of
+intact red cells containing oxygenated hemoglobin, which is diamagnetic.
+The center of the hematoma will be isointense on T1-weighted images and iso- to slightly
+hyperintense on T2-weighted images.
+The key imaging finding of a hyperacute hematoma is a peripheral rim of hypointensity on
+T2-weighted images due to deoxygenation of the most peripheral red cells. This peripheral
+dark rim is most conspicuous on GRE sequences.
+Neuro Brain: 694

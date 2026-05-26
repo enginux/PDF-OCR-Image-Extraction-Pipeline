@@ -1,0 +1,57 @@
+OTHER TYPES OF PET/CT
+Gallium-68 DOTATATE (GaTate)
+Gallium-68 is a generator-produced positron emitter
+with a half-life of 68 minutes.
+Ga-68 DOTATATE is a somatostatin analog that is used in
+the imaging of tumors with high somatostatin receptor
+(SSTR) expression, including neuroendocrine tumors,
+pheochromocytoma, paraganglioma, neuroblastoma,
+and meningioma.
+DOTATATE PET/CT is the new first-line diagnostic imaging
+modality for neuroendocrine tumors, replacing the
+older Octreoscan and MIBG scintigraphy (discussed later
+in this chapter).
+DOTATATE and FDG PET/CT are complementary exams,
+helping to identify both well-differentiated (high
+DOTATATE uptake) and poorly differentiated (high FDG
+uptake) tumors.
+PET agents for prostate cancer imaging
+Because of the limitation of FDG PET/CT in prostate
+Coronal PET MIP shows physiologic
+cancer imaging, a number of alternative PET
+distribution of Ga-68 DOTATATE. Note
+radiotracers have been developed in the past decade.
+intense uptake in the spleen, followed
+by the adrenals, kidneys/bladder,
+Carbon-11/F-18 choline are biomarkers of cell
+pituitary, salivary glands, thyroid, liver,
+membrane metabolism and are FDA-approved for
+and bowel.
+imaging biochemically recurrent prostate cancer with
+high PSA levels, but are not in widespread use.
+PSMA ligands such as ProstaScint and Ga-68 PSMA
+target the prostate membrane specific antigen (PSMA)
+which is highly expressed in prostate cancer. PSMA
+PET/CT is highly sensitive for biochemically recurrent
+prostate cancer with low PSA levels, but is not yet FDA-
+approved.
+F-18 fluciclovine (Axumin) is an amino acid analog
+which targets amino acid transporters that are
+overexpressed in prostate cancer. maging is performed
+only minutes after injection of the tracer, which limits
+-
+any significant urinary excretion. It is FDA-approved for
+detection of biochemically recurrent prostate cancer.
+F-18 sodium fluoride (F-18 NaF) is an analog of the
+hydroxyl group in hydroxyapatite bone crystals and a
+biomarker of osteoblastic activity. It is highly sensitive
+for the detection of prostate cancer bone metastases,
+but is not routinely used due to low specificity, high
+cost, and limited availability.
+Coronal PET MIP shows normal
+distribution of F-18 fluciclovine. Note
+intense uptake in liver and pancreas,
+and variable uptake in muscles. Foci of
+uptake at the right arm represent the
+injection site.
+Nucs: 451

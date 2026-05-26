@@ -1,0 +1,35 @@
+Epidermoid cyst
+Epidermoid cyst:
+Axial T2-weighted MRI (top left image) shows a
+lobulated mass (arrows) in the left cerebellopontine
+angle. The mass is isointense to CSF.
+ADC map (top right image) and DWI (left image)
+show that the mass (arrows) is dark on ADC and
+bright on DWI, consistent with reduced diffusivity.
+Case courtesy Gregory Wrubel, MD, Brigham and
+Women's Hospital.
+An epidermoid cyst is a congenital lesion arising from ectopic ectodermal epithelial tissue.
+Epidermoid cysts progressively enlarge from desquamation of keratinized epithelium lining
+the cyst. The mass characteristically insinuates in between structures, encasing cranial
+nerves and vessels. Gross pathology features a characteristic cauliflower-like" surface.
+On CT, epidermoid cyst may mimic arachnoid cyst and appear as a CSF-attenuation cystic
+structure. On MRI, an epidermoid cyst has similar signal characteristics as CSF on T1- and T2-
+weighted images. Unlike arachnoid cyst, an epidermoid does not usually suppress on FLAIR
+sequences.
+An epidermoid cyst is hyperintense on diffusion-weighted images, believed to be a
+combination of reduced diffusivity and T2 shine through, in contrast to arachnoid cysts.
+Post-surgical DWI follow-up is critical to detect any residual focus, which will be DWI bright.
+Rarely, epidermoids may exhibit signal hyperintensity on unenhanced T1-weighted imaging,
+also known as "white epidermoids."
+Intra-axial neoplasm
+Less frequent benign lesions that can be seen in the IAC/CPA include lipomas and dermoids.
+A posterior fossa intra-axial neoplasm, such as a nemangioplastoma or glioma, may invade
+laterally into the CPA. Other malignancies such as lymphoma, melanoma, and metastases
+can also be rarely seen.
+Medulloblastoma tends to occur in the midline in children, though lateral involvement of
+the cerebellar hemispheres can be seen in older children or young adults.
+Ependymoma may extend into the CPA by squeezing through the lateral fourth ventricular
+foramina (of Luschka).
+Tumors related to the petrous bone (e.g., chondrosarcoma or endolymphatic sac tumors)
+may extend to the CPA.
+Neuro Head & Neck: 828

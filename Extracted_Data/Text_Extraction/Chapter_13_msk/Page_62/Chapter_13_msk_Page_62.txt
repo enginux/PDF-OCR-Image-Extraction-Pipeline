@@ -1,0 +1,21 @@
+Malignant peripheral nerve sheath tumor
+Post-contrast axial T1-weighted MRI with fat suppression Axial STIR MRI
+Coronal T1-weighted MRI
+Sagittal STIR
+Malignant peripheral nerve sheath tumor (MPNST), arising from a neurofibroma in a patient with
+neurofibromatosis type :
+There is a large, enhancing, T2-hyperintense mass in the posterior calf (yellow arrows). The mass arises from
+the tibial nerve, which courses through the center of the mass (red arrows).
+A central region of low signal intensity on the axial STIR image represents the target sign (blue arrow).
+A triangle of preserved fat seen on the coronal T1-weighted image represents the split fat sign (green arrow).
+In this case, the relatively large size of the mass and the patient's history of neurofibromatosis type I should
+raise concern for MPNST.
+Malignant peripheral nerve sheath tumor (MPNST) is highly associated with
+neurofibromatosis type I (in 50% of cases).
+MPNSTS cannot be reliably differentiated from benign PNSTS on imaging. The previously
+discussed imaging signs suggesting a neurogenic tumor, including the target sign and the
+split fat sign, may be present. However, imaging features favoring malignancy include larger
+size, ill-defined margins, central necrosis, and rapid growth.
+Any new or enlarging mass in a patient with neurofibromatosis type I should raise concern
+for development of MPNST. PET-CT is an excellent modality to determine need for biopsy.
+MSK: 969

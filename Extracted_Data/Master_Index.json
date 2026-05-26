@@ -1,0 +1,879 @@
+{
+    "Metadata": {
+        "DOCUMENT_TITLE": "Core Radiology, Second Edition",
+        "AUTHORS": [
+            "Ellen X. Sun",
+            "Junzi Shi",
+            "Jacob C. Mandell"
+        ],
+        "EDITION": "Second, Volume 1 and 2",
+        "PUBLISHER": "Cambridge University Press",
+        "PUBLICATION_DATE": [
+            "2021",
+            "2013"
+        ],
+        "ISBN": {
+            "Set": "9781108965910",
+            "Volume 1": "9781108984447",
+            "Volume 2": "9781108984454"
+        }
+    },
+    "Chapters": [
+        {
+            "number": "1",
+            "title": "Thoracic Imaging",
+            "chapter": "Chest",
+            "sections": [
+                {
+                    "section": "Introductory concepts",
+                    "section_page_number": "2"
+                },
+                {
+                    "section": "Patterns of lung disease",
+                    "section_page_number": "8"
+                },
+                {
+                    "section": "Pulmonary infection",
+                    "section_page_number": "21"
+                },
+                {
+                    "section": "Pulmonary edema and ICU imaging",
+                    "section_page_number": "32"
+                },
+                {
+                    "section": "Lung cancer",
+                    "section_page_number": "34"
+                },
+                {
+                    "section": "Pulmonary vascular disease",
+                    "section_page_number": "46"
+                },
+                {
+                    "section": "Diffuse lung disease",
+                    "section_page_number": "54"
+                },
+                {
+                    "section": "Mediastinum",
+                    "section_page_number": "70"
+                },
+                {
+                    "section": "Airways",
+                    "section_page_number": "83"
+                },
+                {
+                    "section": "Pleura",
+                    "section_page_number": "92"
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "title": "Gastrointestinal Imaging",
+            "chapter": "Gi",
+            "sections": [
+                {
+                    "section": "Liver",
+                    "section_page_number": "96"
+                },
+                {
+                    "section": "Hepatic Doppler",
+                    "section_page_number": "123"
+                },
+                {
+                    "section": "Biliary imaging",
+                    "section_page_number": "130"
+                },
+                {
+                    "section": "Pancreas",
+                    "section_page_number": "148"
+                },
+                {
+                    "section": "Spleen",
+                    "section_page_number": "163"
+                },
+                {
+                    "section": "Esophagus",
+                    "section_page_number": "173"
+                },
+                {
+                    "section": "Stomach",
+                    "section_page_number": "185"
+                },
+                {
+                    "section": "Small bowel",
+                    "section_page_number": "197"
+                },
+                {
+                    "section": "Large bowel",
+                    "section_page_number": "213"
+                },
+                {
+                    "section": "Mesentery, peritoneum, and omentum",
+                    "section_page_number": "222"
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "title": "Genitourinary Imaging",
+            "chapter": "Gu",
+            "sections": [
+                {
+                    "section": "Retroperitoneum",
+                    "section_page_number": "230"
+                },
+                {
+                    "section": "Adrenal glands",
+                    "section_page_number": "233"
+                },
+                {
+                    "section": "Kidneys",
+                    "section_page_number": "241"
+                },
+                {
+                    "section": "Ureter",
+                    "section_page_number": "269"
+                },
+                {
+                    "section": "Bladder",
+                    "section_page_number": "273"
+                },
+                {
+                    "section": "Male genitourinary system",
+                    "section_page_number": "276"
+                },
+                {
+                    "section": "MRI of the prostate",
+                    "section_page_number": "279"
+                },
+                {
+                    "section": "Scrotum and testicle",
+                    "section_page_number": "285"
+                },
+                {
+                    "section": "Female genitourinary system",
+                    "section_page_number": "293"
+                },
+                {
+                    "section": "Female pelvis",
+                    "section_page_number": "298"
+                },
+                {
+                    "section": "Uterus",
+                    "section_page_number": "301"
+                },
+                {
+                    "section": "Ovaries and adnexa",
+                    "section_page_number": "314"
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "title": "Obstetrical Imaging",
+            "chapter": "Obstetrics",
+            "sections": [
+                {
+                    "section": "First trimester pregnancy",
+                    "section_page_number": "325"
+                },
+                {
+                    "section": "Imaging of the early pregnancy",
+                    "section_page_number": "325"
+                },
+                {
+                    "section": "Pregnancy dating",
+                    "section_page_number": "326"
+                },
+                {
+                    "section": "Early pregnancy prognosis",
+                    "section_page_number": "327"
+                },
+                {
+                    "section": "Ectopic pregnancy",
+                    "section_page_number": "328"
+                },
+                {
+                    "section": "Miscellaneous first trimester disorders",
+                    "section_page_number": "331"
+                },
+                {
+                    "section": "Multiple gestations and placentation",
+                    "section_page_number": "333"
+                },
+                {
+                    "section": "Complications of monochorionic twins",
+                    "section_page_number": "336"
+                },
+                {
+                    "section": "Evaluation of the first trimester embryo",
+                    "section_page_number": "338"
+                },
+                {
+                    "section": "Second and third trimesters",
+                    "section_page_number": "339"
+                },
+                {
+                    "section": "Second and third trimester measurements",
+                    "section_page_number": "339"
+                },
+                {
+                    "section": "Evaluation of the cervix in second and third trimesters",
+                    "section_page_number": "341"
+                },
+                {
+                    "section": "Umbilical cord",
+                    "section_page_number": "342"
+                },
+                {
+                    "section": "Amniotic fluid",
+                    "section_page_number": "343"
+                },
+                {
+                    "section": "Placenta",
+                    "section_page_number": "344"
+                },
+                {
+                    "section": "Fetal hydrops",
+                    "section_page_number": "347"
+                },
+                {
+                    "section": "Fetal brain",
+                    "section_page_number": "348"
+                },
+                {
+                    "section": "Fetal spine",
+                    "section_page_number": "352"
+                },
+                {
+                    "section": "Fetal face",
+                    "section_page_number": "353"
+                },
+                {
+                    "section": "Fetal thorax",
+                    "section_page_number": "354"
+                },
+                {
+                    "section": "Fetal heart",
+                    "section_page_number": "356"
+                },
+                {
+                    "section": "Fetal abdomen",
+                    "section_page_number": "359"
+                },
+                {
+                    "section": "Fetal genitourinary",
+                    "section_page_number": "361"
+                },
+                {
+                    "section": "Fetal musculoskeletal imaging",
+                    "section_page_number": "364"
+                },
+                {
+                    "section": "Trisomies and syndromes",
+                    "section_page_number": "365"
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "title": "Breast Imaging",
+            "chapter": "Breast",
+            "sections": [
+                {
+                    "section": "Introduction to breast cancer",
+                    "section_page_number": "369"
+                },
+                {
+                    "section": "Introduction to BI-RADS",
+                    "section_page_number": "373"
+                },
+                {
+                    "section": "Mammography",
+                    "section_page_number": "375"
+                },
+                {
+                    "section": "Breast ultrasound",
+                    "section_page_number": "397"
+                },
+                {
+                    "section": "Breast MRI",
+                    "section_page_number": "403"
+                },
+                {
+                    "section": "Breast masses",
+                    "section_page_number": "412"
+                },
+                {
+                    "section": "Benign breast disease",
+                    "section_page_number": "428"
+                },
+                {
+                    "section": "Normal variants",
+                    "section_page_number": "431"
+                },
+                {
+                    "section": "Postsurgical imaging",
+                    "section_page_number": "432"
+                },
+                {
+                    "section": "Male breast disease",
+                    "section_page_number": "436"
+                },
+                {
+                    "section": "Approach to the symptomatic breast",
+                    "section_page_number": "438"
+                },
+                {
+                    "section": "Breast interventions",
+                    "section_page_number": "439"
+                }
+            ]
+        },
+        {
+            "number": "6",
+            "title": "Nuclear and Molecular Imaging",
+            "chapter": "Nucs",
+            "sections": [
+                {
+                    "section": "PET/CT",
+                    "section_page_number": "445"
+                },
+                {
+                    "section": "Cerebrovascular",
+                    "section_page_number": "452"
+                },
+                {
+                    "section": "Thyroid",
+                    "section_page_number": "457"
+                },
+                {
+                    "section": "Parathyroid",
+                    "section_page_number": "461"
+                },
+                {
+                    "section": "Gastrointestinal",
+                    "section_page_number": "462"
+                },
+                {
+                    "section": "Pulmonary",
+                    "section_page_number": "468"
+                },
+                {
+                    "section": "Musculoskeletal",
+                    "section_page_number": "471"
+                },
+                {
+                    "section": "Kidneys",
+                    "section_page_number": "477"
+                },
+                {
+                    "section": "Whole-body imaging of neoplasm, infecti on, and inflammation",
+                    "section_page_number": "481"
+                },
+                {
+                    "section": "Other non-PET imaging",
+                    "section_page_number": "485"
+                }
+            ]
+        },
+        {
+            "number": "7",
+            "title": "Cardiac Imaging",
+            "chapter": "Cardiac",
+            "sections": [
+                {
+                    "section": "Nuclear cardiology",
+                    "section_page_number": "487"
+                },
+                {
+                    "section": "Plain film imaging of heart disease",
+                    "section_page_number": "501"
+                },
+                {
+                    "section": "Coronary CT angiography",
+                    "section_page_number": "505"
+                },
+                {
+                    "section": "Cardiac MRI",
+                    "section_page_number": "514"
+                },
+                {
+                    "section": "Ischemic heart disease",
+                    "section_page_number": "521"
+                },
+                {
+                    "section": "Non-ischemic myocardial disease",
+                    "section_page_number": "524"
+                },
+                {
+                    "section": "Valvular disease",
+                    "section_page_number": "528"
+                },
+                {
+                    "section": "Pericardial disease",
+                    "section_page_number": "530"
+                },
+                {
+                    "section": "Adult cardiac masses",
+                    "section_page_number": "534"
+                }
+            ]
+        },
+        {
+            "number": "8",
+            "title": "Vascular Imaging",
+            "chapter": "Vascular",
+            "sections": [
+                {
+                    "section": "Aortic anatomy and variants",
+                    "section_page_number": "540"
+                },
+                {
+                    "section": "Acute aortic syndrome",
+                    "section_page_number": "543"
+                },
+                {
+                    "section": "Traumatic aortic injury",
+                    "section_page_number": "547"
+                },
+                {
+                    "section": "Thoracic aorta",
+                    "section_page_number": "549"
+                },
+                {
+                    "section": "Abdominal aorta",
+                    "section_page_number": "555"
+                },
+                {
+                    "section": "Mesenteric and pelvic vessels",
+                    "section_page_number": "561"
+                },
+                {
+                    "section": "Upper extremity vessels",
+                    "section_page_number": "574"
+                },
+                {
+                    "section": "Lower extremity vessels",
+                    "section_page_number": "579"
+                },
+                {
+                    "section": "Vascular ultrasound",
+                    "section_page_number": "584"
+                }
+            ]
+        },
+        {
+            "number": "9",
+            "title": "Interventional Radiology",
+            "chapter": "Ir",
+            "sections": [
+                {
+                    "section": "Introduction to interventional radiology",
+                    "section_page_number": "589"
+                },
+                {
+                    "section": "Procedural tools",
+                    "section_page_number": "592"
+                },
+                {
+                    "section": "General considerations for angiography",
+                    "section_page_number": "596"
+                },
+                {
+                    "section": "Arterial interventions",
+                    "section_page_number": "604"
+                },
+                {
+                    "section": "Venous interventions",
+                    "section_page_number": "620"
+                },
+                {
+                    "section": "Lymphatic interventions",
+                    "section_page_number": "627"
+                },
+                {
+                    "section": "Hepatobiliary interventions",
+                    "section_page_number": "629"
+                },
+                {
+                    "section": "Oncologic interventions",
+                    "section_page_number": "636"
+                },
+                {
+                    "section": "Genitourinary interventions",
+                    "section_page_number": "643"
+                },
+                {
+                    "section": "Lines, tubes and drains",
+                    "section_page_number": "646"
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "title": "Neuroimaging: Brain",
+            "chapter": "Neurobrain",
+            "sections": [
+                {
+                    "section": "Neuroimaging fundamentals",
+                    "section_page_number": "651"
+                },
+                {
+                    "section": "Neurovascular anatomy",
+                    "section_page_number": "666"
+                },
+                {
+                    "section": "Stroke",
+                    "section_page_number": "673"
+                },
+                {
+                    "section": "Subarachnoid hemorrhage and aneurysms",
+                    "section_page_number": "679"
+                },
+                {
+                    "section": "Vascular malformations",
+                    "section_page_number": "686"
+                },
+                {
+                    "section": "Cerebral venous disease",
+                    "section_page_number": "691"
+                },
+                {
+                    "section": "Intraparenchymal hemorrhage",
+                    "section_page_number": "693"
+                },
+                {
+                    "section": "Cerebral trauma",
+                    "section_page_number": "701"
+                },
+                {
+                    "section": "Brain tumors",
+                    "section_page_number": "704"
+                },
+                {
+                    "section": "White matter disease",
+                    "section_page_number": "731"
+                },
+                {
+                    "section": "Toxic/metabolic disorders",
+                    "section_page_number": "738"
+                },
+                {
+                    "section": "Autoimmune disorders",
+                    "section_page_number": "744"
+                },
+                {
+                    "section": "Brain infection",
+                    "section_page_number": "745"
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "title": "Neuroimaging: Head & Neck",
+            "chapter": "Neuroheadandneck",
+            "sections": [
+                {
+                    "section": "Paranasal sinuses, nasal cavity, & anterior skull base",
+                    "section_page_number": "754"
+                },
+                {
+                    "section": "Orbits",
+                    "section_page_number": "767"
+                },
+                {
+                    "section": "Face",
+                    "section_page_number": "785"
+                },
+                {
+                    "section": "Salivary glands",
+                    "section_page_number": "789"
+                },
+                {
+                    "section": "Central skull base and sella",
+                    "section_page_number": "795"
+                },
+                {
+                    "section": "Temporal bone/lateral skull base & posterior skull base",
+                    "section_page_number": "809"
+                },
+                {
+                    "section": "Mucosal spaces: oral cavity, pharynx, larynx",
+                    "section_page_number": "834"
+                },
+                {
+                    "section": "Extra-mucosal neck spaces",
+                    "section_page_number": "845"
+                },
+                {
+                    "section": "Cervical lymph nodes",
+                    "section_page_number": "853"
+                },
+                {
+                    "section": "Neck infections and inflammation",
+                    "section_page_number": "855"
+                },
+                {
+                    "section": "Thyroid and parathyroid",
+                    "section_page_number": "856"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "title": "Spine Imaging",
+            "chapter": "Spine",
+            "sections": [
+                {
+                    "section": "Intramedullary lesions",
+                    "section_page_number": "862"
+                },
+                {
+                    "section": "Intradural extramedullary lesions",
+                    "section_page_number": "871"
+                },
+                {
+                    "section": "Extradural lesions",
+                    "section_page_number": "879"
+                },
+                {
+                    "section": "Degenerative spine",
+                    "section_page_number": "881"
+                },
+                {
+                    "section": "Spine infection",
+                    "section_page_number": "890"
+                },
+                {
+                    "section": "Miscellaneous spinal disorders",
+                    "section_page_number": "893"
+                },
+                {
+                    "section": "Spine trauma",
+                    "section_page_number": "897"
+                },
+                {
+                    "section": "Postoperative spine imaging",
+                    "section_page_number": "905"
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "title": "Musculoskeletal Imaging",
+            "chapter": "Msk",
+            "sections": [
+                {
+                    "section": "Basics of bones and joints",
+                    "section_page_number": "909"
+                },
+                {
+                    "section": "Arthritis",
+                    "section_page_number": "910"
+                },
+                {
+                    "section": "Bone tumors",
+                    "section_page_number": "934"
+                },
+                {
+                    "section": "Bone lesions organized by cell of origin",
+                    "section_page_number": "937"
+                },
+                {
+                    "section": "Soft  tissue tumors",
+                    "section_page_number": "961"
+                },
+                {
+                    "section": "Musculoskeletal infection",
+                    "section_page_number": "973"
+                },
+                {
+                    "section": "Metabolic bone disease",
+                    "section_page_number": "981"
+                },
+                {
+                    "section": "Differential diagnosis of common bone lesions",
+                    "section_page_number": "990"
+                },
+                {
+                    "section": "Basics of trauma",
+                    "section_page_number": "991"
+                },
+                {
+                    "section": "Atraumatic fractures",
+                    "section_page_number": "992"
+                },
+                {
+                    "section": "Basics of MRI",
+                    "section_page_number": "993"
+                },
+                {
+                    "section": "Foot and ankle",
+                    "section_page_number": "995"
+                },
+                {
+                    "section": "Knee",
+                    "section_page_number": "1013"
+                },
+                {
+                    "section": "Hip",
+                    "section_page_number": "1031"
+                },
+                {
+                    "section": "Shoulder",
+                    "section_page_number": "1045"
+                },
+                {
+                    "section": "Elbow and forearm",
+                    "section_page_number": "1065"
+                },
+                {
+                    "section": "Wrist and hand",
+                    "section_page_number": "1070"
+                },
+                {
+                    "section": "Musculoskeletal interventions",
+                    "section_page_number": "1080"
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "title": "Pediatric Imaging",
+            "chapter": "Peds",
+            "sections": [
+                {
+                    "section": "Pediatric airway",
+                    "section_page_number": "1085"
+                },
+                {
+                    "section": "Pediatric chest",
+                    "section_page_number": "1094"
+                },
+                {
+                    "section": "Pediatric cardiac",
+                    "section_page_number": "1107"
+                },
+                {
+                    "section": "Pediatric gastrointestinal",
+                    "section_page_number": "1124"
+                },
+                {
+                    "section": "Pediatric genitourinary",
+                    "section_page_number": "1145"
+                },
+                {
+                    "section": "Pediatric musculoskeletal",
+                    "section_page_number": "1159"
+                },
+                {
+                    "section": "Pediatric neuroimaging",
+                    "section_page_number": "1183"
+                }
+            ]
+        },
+        {
+            "number": "15",
+            "title": "Imaging Physics",
+            "chapter": "Physics",
+            "sections": [
+                {
+                    "section": "Acute reaction to contrast media",
+                    "section_page_number": "1196"
+                },
+                {
+                    "section": "Classification of contrast reactions",
+                    "section_page_number": "1197"
+                },
+                {
+                    "section": "Treatment of contrast reactions",
+                    "section_page_number": "1198"
+                },
+                {
+                    "section": "Iodinated contrast media",
+                    "section_page_number": "1199"
+                },
+                {
+                    "section": "Contrast-relative kidney injury",
+                    "section_page_number": "1199"
+                },
+                {
+                    "section": "Iodinated intravenous contrast: General considerati ons",
+                    "section_page_number": "1199"
+                },
+                {
+                    "section": "Gadolinium-based contrast media",
+                    "section_page_number": "1201"
+                },
+                {
+                    "section": "Immediate adverse reactions to gadolinium-based contrast",
+                    "section_page_number": "1201"
+                },
+                {
+                    "section": "Nephrogenic systemic fibrosis (NSF)",
+                    "section_page_number": "1201"
+                },
+                {
+                    "section": "Gadolinium-based contrast in pregnancy and breast feeding",
+                    "section_page_number": "1201"
+                },
+                {
+                    "section": "Physics quick review",
+                    "section_page_number": "1202"
+                },
+                {
+                    "section": "Measuring radiation",
+                    "section_page_number": "1202"
+                },
+                {
+                    "section": "General radiography",
+                    "section_page_number": "1203"
+                },
+                {
+                    "section": "Mammography physics",
+                    "section_page_number": "1207"
+                },
+                {
+                    "section": "Fluoroscopy physics",
+                    "section_page_number": "1209"
+                },
+                {
+                    "section": "CT physics",
+                    "section_page_number": "1209"
+                },
+                {
+                    "section": "Radiation dosimetry",
+                    "section_page_number": "1210"
+                },
+                {
+                    "section": "Image quality",
+                    "section_page_number": "1211"
+                },
+                {
+                    "section": "Statistics",
+                    "section_page_number": "1211"
+                },
+                {
+                    "section": "Radiation biology",
+                    "section_page_number": "1212"
+                },
+                {
+                    "section": "Magnetic resonance imaging (MRI) physics",
+                    "section_page_number": "1214"
+                },
+                {
+                    "section": "Ultrasound physics",
+                    "section_page_number": "1217"
+                },
+                {
+                    "section": "Nuclear medicine physics",
+                    "section_page_number": "1219"
+                }
+            ]
+        }
+    ],
+    "Index_References_And_Contributors": "Index_References_And_Contributors/",
+    "Text_Extraction": "Text_Extraction/",
+    "Images": "Images/"
+}

@@ -1,0 +1,42 @@
+METABOLIC BONE DISEASE
+MULTIFACTORIAL BONE DISEASE
+Osteoporosis
+Osteoporosis (low bone mass) is the most common metabolic bone disease, contributing
+to millions of fractures per year. Osteoporosis may be secondary to numerous nutritional,
+endocrine, and other etiologies.
+Vitamin or nutritional deficiencies can cause osteoporosis, including:
+Osteomalacia (Looser zone).
+Alcoholism.
+Hypophosphatemia.
+Scurvy (Wimberger sign).
+Endocrine disturbances can impact calcium metabolism, causing osteoporosis, including:
+yperparathyroidism (subperiosteal resorption).
+Cushing disease or any increase in endogenous/exogenous steroids.
+Diffuse malignancy, such as myelomatosis, can cause diffuse bony demineralization.
+Genetic causes of osteoporosis include:
+Osteogenesis imperfecta.
+Gaucher disease.
+Anemia, including sickle cell and thalassemia.
+Focal osteopenia has a more limited list of causes, including:
+Immobility/disuse.
+Reflex sympathetic dystrophy.
+Transient regional osteoporosis of the hip.
+DUAL ENERGY X-RAY ABSORPTIOMETRY (DEXA)
+Overview of dual energy x-ray absorptiometry (DEXA)
+Dual energy x-ray absorptiometry, universally called DEXA, is a method to quantify bone
+mineral density. A DEXA scan images the lumbar spine (L1-L4), and the hip. The forearm can
+also be imaged if either the hip or spine is not suitable (e.g., severe degenerative changes or
+prior surgery), or if a third point of reference is desired.
+The DEXA machine provides an absolute value of bone mineral density (most useful to track
+changes over time), as well as a T-score and a Z-score.
+The T-score is the number of standard deviations from healthy young sex-matched patients.
+The Z-score is the number of standard deviations from age-matched and sex-matched patients.
+In menopausal and post-menopausal females and males >50 years of age, there are
+standard definitions for normal, osteoporosis, and osteopenia, based on the T-score.
+Normal: T-score at or greater than -1.0.
+Osteopenia (low bone mass): T-score between -1.0 and --2.5.
+Osteoporosis: T-score at or less than -2.5.
+For pre-menopausal females and males <age 50, the Z-score is used. A Z-score of -2.0 or
+lower is "below expected range for age" and a Z-score above -2.0 is "within the expected
+range for age."
+MSK: 981

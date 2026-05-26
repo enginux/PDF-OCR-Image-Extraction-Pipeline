@@ -1,0 +1,34 @@
+Describe the location by naming the quadrant and (optionally) the depth
+The four quadrants of each breast are: Upper outer quadrant, upper inner quadrant, lower
+outer quadrant, and lower inner quadrant.
+When referring to the opposite breast, the mirror opposite quadrant is the contralateral
+quadrant with the same name. For instance, the upper outer quadrant of the left breast is
+the mirror opposite quadrant of the upper outer quadrant of the right breast.
+If subareolar or axillary tail are used to localize a lesion, then it is not necessary to specify a
+quadrant.
+Although clockface is used for ultrasound location, quadrant is preferred for mammography.
+Depth is commonly described as anterior (or shallow), middle, or posterior depth,
+separating the breast into thirds.
+Measure the size
+Size is a poor predictor of malignancy, but changes in size determine if a lesion is growing.
+Look for associated features
+Architectural distortion represents radiating linear densities emanating from a central point,
+without a definite mass visible. Architectural distortion is caused by tethering of the normal
+fibroglandular tissue and is highly concerning for a cancer, although there are some benign
+causes. If there is no history of surgery or trauma, biopsy is appropriate.
+Microcalcifications may be associated with malignant ductal calcification.
+Skin retraction is most commonly postsurgical but may be due to a desmoplastic tumor.
+Nipple retraction is tethering or angulation of the nipple. Retraction should not be
+confused with inversion (where the whole nipple points inwards). Nipple inversion may be
+developmental, bilateral, and is not necessarily a sign of malignancy if stable.
+Skin thickening may represent edema or may be secondary to prior radiation therapy.
+Trabecular thickening represents thickening of the fibrous septa of the breast, which can be
+seen in edema or in patients who have received radiation therapy.
+Axillary adenopathy may be hyperplastic or malignant. Although it is normal for a few nodes
+to be present in the axilla, nodes with replacement of the normal fatty hilum may warrant
+evaluation, especially if new.
+Example of BI-RADS terminology
+CC view mammogram (left image) shows an oval mass (yellow arrow) with partially obscured margins in the
+inner anterior breast. The mass is better evaluated on spot compression view (right image) and demonstrates
+microlobulated margins (red arrows). Biopsy of this mass revealed papilloma with carcinoma in situ.
+Breast: 381

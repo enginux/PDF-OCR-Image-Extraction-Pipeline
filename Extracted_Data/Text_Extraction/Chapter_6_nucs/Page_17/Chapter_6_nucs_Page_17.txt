@@ -1,0 +1,55 @@
+THERAPEUTIC INDICATIONS (I-131)
+Thyroid carcinoma, post-thyroidectomy
+LEFT EAR MARKER LEFT EAR MARKER
+Approximately one to two months after
+thyroidectomy, I-131 is administered
+to treat and simultaneously image
+residual and potential metastatic
+SSN MARKERE
+disease.
+Following thyroidectomy, thyroid
+XYPHOID MARKER
+replacement therapy is withheld to
+allow endogenous TSH to increase. This
+increases uptake of therapeutic I-131
+by any residual or metastatic thyroid
+tissue. The goal TSH is 30-50 mIU/mL.
+The dosing of I-131 is dependent on the
+oncologic risk:
+I-131 ablative therapy: 99 mCi 1-131 administered orally 4
+Low-risk patient (tumor <1.5 cm, no
+days prior to scanning. The gray arrows point to markers.
+invasion of thyroid capsule): <30 mCi I-131 Anterior and posterior planar imaging shows a large focus
+administered.
+of residual uptake in the thyroid bed (arrow) and mild
+High-risk patient: 100-200 mCi I-131
+symmetric salivary gland uptake. There is physiologic uptake
+administered.
+in the stomach, bladder, and bowel.
+A new approach is a standard dose of 30 mCi for treatment of all T1, T2, and N1 cancers.
+Functioning lung or skeletal metastases require high doses of I-131, usually >200 mCi.
+To avoid or minimize the complication of irreversible pulmonary fibrosis, care is taken to
+limit the whole-body retention to 80 mCi at 48 hours after administration. To avoid bone
+marrow suppression, the absorbed dose to the blood is limited to 2 Gy.
+Thyroid carcinoma, post radioiodine therapy
+After ablation with I-131, patients with thyroid carcinoma are monitored by following
+thyroglobulin levels. If thyroglobulin levels rise, an I-123 scan is performed to evaluate for
+disease recurrence or metastasis. If the I-123 scan is positive, repeat I-131 radioiodine is
+administered for ablation. Note that the presence of anti-thyroglobulin antibodies precludes
+the ability to monitor the thyroglobulin levels.
+Treatment of Graves disease
+I-131 is administered in a single oral dose to treat Graves disease. Contraindications to I-131
+include pregnancy, lactation, and inability to comply with radiation safety guidelines.
+The dosing of I-131 for treatment of Graves varies by institution. Many endocrinologists
+advocate a calculated dose based on the estimated thyroid weight and 24-hour uptake,
+while another study has shown one of three fixed doses (up to 15 mCi) to be equally
+effective.
+Adequate dosing of I-131 can treat greater than 90% of patients with Graves disease.
+Treatment of multinodular goiter
+I-131 can be used to reduce goiter size, especially in patients who choose not to undergo
+surgery. Compared to Graves disease, toxic multinodular goiter is more resistant to iodine
+radiotherapy, therefore requires a higher I-131 dose (20-30 mCi) and often multiple
+treatments.
+Treatment of toxic/autonomous nodule
+Solitary toxic thyroid nodules can be successfully treated with 20-25 mCi of I-131.
+Nucs: 460

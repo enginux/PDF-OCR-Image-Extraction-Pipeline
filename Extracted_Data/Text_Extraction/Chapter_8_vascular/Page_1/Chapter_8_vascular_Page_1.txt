@@ -1,0 +1,21 @@
+Junzi Shi, Ellen X. Sun, Ayaz Aghayev
+Vascular/maging
+Aortic anatomy and variants.
+.540
+Acute aortic syndrome
+.543
+Traumatic aortic injury
+.547
+Thoracic aorta
+549
+Abdominal aorta
+555
+Mesenteric and pelvic vessels.
+.561
+Upper extremity vessels
+574
+Lower extremity vessels
+579
+Vascular ultrasound.
+584
+Vascular: 539

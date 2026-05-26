@@ -1,0 +1,25 @@
+Circle of Willis normal anatomic variants
+hypoplastic (10%) or
+duplicated or
+azygous ACA (3%)
+absent (rare) A1
+absent A-comm (5%)
+fenestrated A-Comm associated w/ holoprosencephaly
+hypoplastic (34%) or
+fetal PCA (-20%)
+absent (rare) P-comm
+PCA: supplied by ICA
+hypoplastic P1
+Normal circle of Willis anatomy is only seen approximately 25% of the time.
+Fenestration is when an artery divides into two separate channels and then recombines into
+a single vessel. The two channels each have its own endothelial and muscularis layers, but
+may share an adventitial layer. Fenestration is more commonly seen in the vertebrobasilar
+system than other intracranial arteries. It is associated with aneurysm formation.
+Duplication is when an artery splits into two distinct vessels with no distal convergence.
+Azygos ACA is associated with holoprosencephaly, neuronal migration anomalies, and
+aneurysm formation. Occlusion of the azygos ACA will lead to ischemia in both hemispheres.
+Other ACA anomalies include trifurcation (2-13%) with three A2 segments, and
+bihemispheric ACA (2-7%) where a dominant A2 supplies bilateral ACA territories, while the
+contralateral A2 segment is hypoplastic. Similar to azygos ACA, occlusion of the dominant A2
+segment will affect both hemispheres.
+Neuro Brain: 668

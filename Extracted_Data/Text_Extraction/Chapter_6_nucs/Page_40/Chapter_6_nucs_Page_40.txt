@@ -1,0 +1,35 @@
+CLINICAL APPLICATIONS
+Hepatocellular carcinoma (HCC)
+Historically, increased focal gallium uptake in the liver suggests hepatocellular carcinoma
+(HCC). Conversely, HCC is extremely unlikely if gallium uptake is diminished.
+Combined gallium and thallium imaging
+Kaposi sarcoma is thallium-avid, but does not take up gallium. Mnemonic: KaT (Kaposi is
+Thallium-avid).
+Tuberculosis and atypical mycobacteria take up gallium but not thallium. This is the opposite
+of Kaposi sarcoma. Mnemonic: TuG (Tuberculosis is Gallium-avid).
+Lymphoma takes up both gallium and thallium. Mnemonic: Lymphoma likes both.
+Osteomyelitis
+A positive triple-phase Tc-99m MDP bone scan is only specific for osteomyelitis if the
+radiograph is normal. If there is an underlying abnormality, SPECT/CT, gallium or WBC scan
+can increase specificity.
+Gallium imaging can increase specificity of a positive bone scan, especially for vertebral
+osteomyelitis and discitis.
+A WBC scan (typically with Indium-111) can increase specificity in evaluation of an infected
+orthopedic prosthesis, where scanning is typically performed in conjunction with Tc-99m
+sulfur colloid. When comparing the two scans (WBC and sulfur colloid), a discordant region
+with increased WBC tracer uptake and decreased sulfur colloid uptake is suggestive of
+marrow replacement by WBCS, consistent with osteomyelitis. Conversely, a region of normal
+marrow would be expected to demonstrate uptake both by WBCs and sulfur colloid.
+Adrenal pheochromocytoma
+I-123 MIBG is generally considered the first-line agent for evaluation of adrenal
+pneochromocytoma. Indium-111 pentetreotide can be considered as a second-line agent if
+the MIBG scan is negative, though the normal renal uptake of pentetreotide may obscure an
+adrenal lesion.
+Extra-adrenal pheochromorytoma
+The sensitivity of I-123 MIBG for detection of extra-adrenal pheochromocytoma (i.e.,
+paraganglioma or glomus tumor) ranges from 63-100%, with potential loss of MIBG uptake
+seen in tumor cell dedifferentiation, altered membrane transport proteins, or interference
+by medications. Indium-111 pentetreotide is also an option.
+The role of F-18 FDG PET in the evaluation of metastatic extra-adrenal pheochromocytoma
+is evolving. Most tumors are FDG-avid.
+Nucs: 483

@@ -1,0 +1,26 @@
+Imaging of hip fracture
+The initial evaluation of hip trauma should begin with radiographs, including a frontal view
+of the pelvis and a cross-table lateral radiograph of the affected hip.
+Frog-leg lateral radiographs (commonly performed for arthritis assessment) should generally not be
+performed for trauma, as there is a potential to cause fracture displacement.
+If a hip fracture is clearly identified on radiography and able to be classified (as subsequently
+discussed), then there is generally no need for additional cross-sectional imaging.
+An "occult" hip fracture is a fracture that is not evident on radiographs. Occult fractures
+may be present in up to 10% of apparently negative radiographs performed for trauma.
+Therefore, further imaging with CT or MRI should be performed if there is persistent
+concern for fracture with negative radiographs.
+Frontal radiograph
+Coronal CT
+Occult fracture, evident on CT. Radiograph is negative. Coronal CT demonstrates a nondisplaced (stable)
+intertrochanteric fracture (arrow).
+Frontal radiograph
+Coronal T1-weighted MRI
+Occult fracture, evident on MRI (different patient from above). Radiograph is negative. MRI demonstrates
+a nondisplaced femoral neck fracture (arrows).
+MRI is the gold standard to diagnose occult hip fracture, with a sensitivity of essentially 100%.
+However, CT is cheaper, faster, more readily available, less susceptible to motion, and without known
+contra-indications. Two meta-analyses showed that CT has a sensitivity of 79-94% for detecting occult
+hip fracture. Therefore, CT may be reasonable if MRI is not readily available but MRI remains the gold
+standard.
+Dual energy CT shows promise as an emerging modality to improve the sensitivity of CT.
+MSK: 1035

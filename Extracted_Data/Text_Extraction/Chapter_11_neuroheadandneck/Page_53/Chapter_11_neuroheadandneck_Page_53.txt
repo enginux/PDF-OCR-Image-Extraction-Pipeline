@@ -1,0 +1,29 @@
+CLIVUS
+Anatomy and anatomic variants
+The clivus is the sloping midline aspect of the central skull base formed by the sphenoid
+body and basiocciput.
+These bones join at the spheno-occipital synchondrosis, which fuses during adolescence.
+A normal variant canal located superiorly, in the midline sphenoid body, is the persistent
+hypophyseal canal (if <1.5 mm) or craniopharyngeal canal (if >1.5 mm), which connects the
+nasopharynx and sella.
+Two notochord-derived clival variants located inferiorly are the canalis basilaris medianus
+(a long channel in the midline basiocciput) and the fossa navicularis magna (a notch in the
+anterior surface of the basiocciput).
+The clivus transitions during normal aging from hematopoietic marrow with low signal on
+T1-weighted MRI to fatty marrow with high T1 signal. Low T1 marrow signal in an older adult
+is abnormal, which may be due to a neoplasm or diffuse systemic process.
+Ecchordosis physaliphora
+Ecchordosis physaliphora: Axial T2-weighted MRI (left image) and sagittal FIESTA (right image) shows a T2
+hyperintense lesion (arrows) centered within the central clivus which extends intradurally into the prepontine
+cistern. There is no significant enhancement (not shown).
+Ecchordosis physaliphora is a benign, ectopic notochordal remnant that projects from the
+dorsum of the clivus into the posterior cranial fossa.
+On imaging, ecchordosis physaliphora appears as a small T2 hyperintense retroclival lesion,
+without contrast enhancement and often with a stalk and/or small bony defect in the
+adjacent clivus. Stability over time supports the diagnosis as opposed to chordoma.
+Benign notochordal cell tumor
+Intraosseous benign notochordal cell tumor is a notochord-derived neoplasm that, unlike
+chordoma, is limited to the bone, associated with mild osteosclerosis rather than bone
+destruction, and shows minimal to no contrast enhancement.
+They are usually asymptomatic. Long-term stability supports the radiologic diagnosis.
+Neuro Head & Neck: 805

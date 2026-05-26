@@ -1,0 +1,39 @@
+Imaging modalities
+Imaging options include ultrasound, four-dimensional (4D) CT, or PET.
+Ultrasound is usually the first-line modality. Parathyroid adenomas appear round, well-
+circumscribed, homogeneous, and hypoechoic relative to thyroid tissue. Pros of using
+ultrasound are the low-cost and lack of radiation. Limitations include operator dependence,
+insensitivity for detection of multigland parathyroid disease, and the inability to localize
+parathyroid tissue in sonographically inaccessible locations, such as the mediastinum,
+tracheoesopnagea. groove, retroesopnageal or retroclavicular locations.
+4DCT consists of performing noncontrast, arterial, and delayed phases to capitalize on the
+perfusion kinetics of adenomas.
+Parathyroid adenomas classically are hypodense in comparison to normal thyroid tissue on noncontrast,
+demonstrate enhancement, greater than thyroid on early (35 sec) arterial phase, and washout more than
+thyroid in the delayed phase. However, less than half of parathyroid adenomas follow this pattern.
+Large adenomas may show heterogeneous enhancement and atypical enhancement patterns.
+Classic parathyroid adenoma:
+Axial 4DCT shows a mass (arrows)
+posterior to the left thyroid lobe
+in the left paraesophageal region
+which is hypodense to thyroid
+on noncontrast phase, hyper-
+enhancing compared to thyroid on
+arterial phase.
+Noncontrast CT
+Arterial phase CT
+Noncontrast CT
+Arterial phase CT
+Delayed phase CT
+Atypical parathyroid adenoma: Axial 4DCT shows an oval nodule (arrows) posterior to the right thyroid lobe
+which is hypodense to thyroid on noncontrast phase as well as arterial phase, and isodense to thyroid on delay
+phase. This biopsy-proven parathyroid adenoma does not follow the classical enhancement pattern but is
+otherwise typical in appearance with regards to morphology and location.
+Greatest advantage of 4DCT is for localization of small, multinodular, and/or ectopic
+adenomas including those located far-posterior to thyroid paraesophageal). However, the
+greatest limitation is the high radiation exposure.
+Tc-99m sestamibi is the PET tracer that is taken up by parathyroids, and is discussed in
+greater detail within the "Nuclear Imaging" chapter.
+MRI is occasionally used as second-line modality to identify lesions that have been
+otherwise poorly localized by prior studies.
+Neuro Head & Neck: 859

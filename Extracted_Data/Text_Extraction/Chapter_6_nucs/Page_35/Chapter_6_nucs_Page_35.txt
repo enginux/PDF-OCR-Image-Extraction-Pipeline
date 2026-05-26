@@ -1,0 +1,51 @@
+Renogram (continued)
+Differential (or split) renal function is determined during the cortical phase by counting the
+% activity in each kidney, which should be equal. Normal range is 45-55% for each kidney.
+Cortical transit of radiotracer can be quantified by the 20 minute-to-peak ratio, which
+describes the percentage of maximal cortical activity remaining in each kidney at 20 minutes
+after injection. A ratio <0.3 is normal. Delayed transit reflects renal dysfunction.
+Lasix renogram (diuretic renography)
+If hydronephrosis is present, a diuretic renogram can distinguish between obstruction and a
+nonobstructive cause of collecting system dilation. Both renal function and urodynamics are
+evaluated. The radiotracer is Tc-99m MAG3, much less commonly Tc-99m DTPA.
+After approximately 20 minutes of imaging, 40 mg IVi furosemide (Lasix) is administered.
+A higher dose may be needed in patients with renal insufficiency. After infection, a fixed
+mechanical obstruction will show no change in the renogram curve. However, in a non-
+obstructive case, the additional pressure from diuretic effect will open up the collecting
+system and allow drainage of radiotracer from the kidney.
+Lasix injection
+mechanical
+obstruction
+After administration of Lasix, a
+clearance half-time <10 minutes
+-
+is normal.
+#
+10-20 minutes is indeterminant.
+non-obstructive
+>20 minutes suggests obstruction.
+hydronephrosis
+Normal
+time (minutes)
+False positives (Lasix renogram is positive for obstruction in the absence of a true
+obstruction) can be seen within dehydration, distended bladder, or renal failure (decreased
+response to diuretics).
+Ethacrynic acid is an alternative diuretic to Lasix in patients with sulfa allergies, though in
+practice Lasix is only associated with negligible risk of adverse reactions in these patients.
+Angiotensin-onverting enzyme (ACE) inhibitor renogram
+A positive ACE renogram is relatively specific for renal artery stenosis, which may be a cause
+of hypertension. The radiotracer is Tc-99m MAG3, much less commonly Tc-99m DTPA.
+In compensated renal artery stenosis, decreased blood to the glomerulus stimulates renin 1
+angiotensin I 1 angiotensin II. Angiotensin II constricts the efferent (outgoing) arterioles to
+restore GFR. Angiotensin I is converted to angiotensin II by angiotensin converting enzyme.
+decreasedi inflow in
+renin-angiotensin: system compensates by
+renal artery stenosis
+constricting efferent arteriole to maintain GFR
+afferent arteriole
+efferent arteriole
+glomerulus
+Bowman's: space
+proximal
+tubule
+Nucs: 478

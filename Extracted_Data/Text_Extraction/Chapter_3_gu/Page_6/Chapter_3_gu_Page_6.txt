@@ -1,0 +1,39 @@
+Adrenal hypofunction
+Substantial destruction of adrenal tissue is required to produce adrenal insufficiency.
+Though usually not an imaging diagnosis, Addison disease represents chronic adrenocortical
+insufficiency. It can be caused by autoimmune destruction of the adrenal glands or by prior
+infection.
+Waterhouse-Friderichsen syndrome is post-hemorrhagic adrenal failure secondary to
+Neisseria meningitidis bacteremia.
+Idiopathic adrenal hemorrhage is usually unilateral and rarely causes adrenal hypofunction.
+IMAGING OF ADRENAL ADENOMA AND THE INDETERMINATE ADRENAL MASS
+Adrenal adenoma
+Adrenal adenoma is a benign tumor of the adrenal cortex. Adenomas are usually incidental,
+but occasionally produce excess aldosterone that results in secondary hypertension (Conn
+syndrome). The majority of adrenal adenomas have two properties that allow for diagnosis
+by imaging: microscopic fat and/or rapid washout characteristics on contrast-enhanced CT.
+An adrenal protocol CT (described below) is the best imaging study to evaluate for the
+presence of an adrenal adenoma.
+An adrenal nodule with attenuation <10 Hounsfield units (HU) on noncontrast CT can be reliably diagnosed
+as adenoma; 70-80% of adenomas measure <10 HU on noncontrast CT.
+If a nodule measures >10 HU on noncontrast CT, IV contrast is administered to assess washout
+characteristics; 20-30% of adenomas measure >10 HU on noncontrast CT (lipid-poor adenoma).
+An adrenal adenoma has an absolute washout >60% or a relative washout >40%.
+If a nodule does not meet CT density or washout criteria for an adenoma, it is considered
+indeterminate. In practice, an indeterminate adrenal nodule in a patient without known
+malignancy most likely represents a lipid-poor adenoma and advanced imaging is usually not
+required.
+If diagnosis is required for further management (e.g., in a lung cancer patient without
+known metastatic disease), further workup is based on lesion size, history of malignancy,
+and availability of prior imaging. In some cases, FDG PET/CT and adrenal mass biopsy can be
+helpful.
+A collision tumor represents co-existence of two tumors within an adrenal mass, such as
+metastasis within an adrenal adenoma or myelolipoma.
+Collision tumor: There is a left adrenal mass. Opposed phase MRI (left image) shows a crescentic lesion
+posterolaterally with signal drop-out (yellow arrows), in keeping with an adrenal adenoma. There is an
+additional lesion located anteromedially (red arrows), which does not demonstrate: signal drop-out on opposed
+phase imaging, and which shows central necrosis with enhancement on post-contrast imaging (right image).
+If an "adenoma" appears heterogeneous or shows an interval increase in size, then a collision tumor
+should be considered in patients with a known primary malignancy, even if a portion of the lesion
+attenuates <10 HU.
+GU: 234

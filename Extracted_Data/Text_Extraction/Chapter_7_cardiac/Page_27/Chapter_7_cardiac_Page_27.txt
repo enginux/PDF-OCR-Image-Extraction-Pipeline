@@ -1,0 +1,48 @@
+CORONARY ARTERY DISEASE
+Coronary artery calcium score
+A gated noncontrast cardiac CT can be obtained independently or prior to contrast-
+enhanced CCTA for calcium scoring. Coronary artery calcification is a marker for CAD.
+Any area > 3 pixels in a coronary artery with density greater than 130 HU is considered to
+contain calcium. The Agatston score represents the total calcium in the coronary tree. It can
+predict the risk of future major adverse cardiovascular events and guide preventive therapy.
+Coronary calcium scoring is appropriate for risk stratification in asymptomatic patients
+without known CAD and with:
+(1). An intermediate 10-year ASCVD (arteriosclerotic cardiovascular disease) risk estimate;
+Or (2) a family history of premature CAD and a low 10-year ASCVD risk estimate.
+Coronary artery stenosis
+The Coronary Artery Disease Reporting and Data System (CAD-RADS) was introduced in
+2016 to provide standard classification of CAD, reduce reader variability, and facilitate
+communication between interpreting and referring clinicians.
+CAD-RADS categories 0, 1, and 2 (stenosis <50%) represent nonobstructive CAD and do
+not require further workup. Non-atherosclerotic causes of patient's chest pain should be
+considered.
+Stenosis >50% is considered obstructive and potentially hemodynamically significant, which
+requires further workup. CAD-RADS 3 is moderate stenosis 50-69%). CAD-RADS 4 is severe
+stenosis (70-99%) or significant stenosis (>50%) in the left main coronary artery (LMCA).
+CAD-RADS 5 is total occlusion of at least one coronary artery.
+When one or more coronary artery segment is not evaluable and the rest show <50%
+stenosis, the study is considered nondiagnostic (CAD-RADS category N). Coronary segments
+smaller than 1.5 mm in diameter are not classifiable by CAD-RADS.
+CAD-
+RADS Interpretation
+Stenosis
+Workup and management
+0 No CAD
+0%
+Reassurance.
+1 Minimal CAD
+1-24%
+Preventative therapy.
+2 Mild CAD
+25-49%
+Preventative therapy.
+3 Moderate stenosis 50-69%
+Consider functional testing and preventative
+therapy.
+4 Severe stenosis
+70-99%, or Functional testing or invasive coronary angiography.
+>50% LMCA Consider revascularization.
+5 Occlusion
+100%
+Same as for CAD-RADS 4.
+Cardiac: 512

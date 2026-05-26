@@ -1,0 +1,28 @@
+Holoprosencephaly
+Holoprosencephaly is a complex congenital malformation where the forebrain does not
+divide into two hemispheres.
+Holoprosencephaly is associated with midline maxillofacial anomalies including a single
+large central incisor (megaincisor) and hypotelorism. It is commonly said that "the brain
+predicts the face." Holoprosencephaly may be associated with an azygous configuration of
+the anterior cerebral artery (single ACA).
+The three subtypes (from most severe to least severe) are alobar, semilobar, and lobar.
+However, these divisions are far from distinct and holoprosencephalies represent a
+continuum of forebrain malformations, such that there is clear demarcation between the
+various subtypes.
+Alobar holoprosencephaly is the most severe form, characterized by complete lack of separation of the
+cerebral hemispheres. A: single large monoventricle almost always communicates with a large dorsal cyst.
+-
+-
+Sagittal T1-weighted (left image) and axial T2-weighted MRI (right image) demonstrate severe
+alobar holoprosencephaly, There is continual frontal lobe cortex across midline. A midline
+monoventricle communicates with a dominant dorsal cyst.
+Semilobar holoprosencephaly features at least some degree of separation of the posterior cerebral
+hemispheres. Similar to alobar holoprosencephaly, the anterior hemispheres also fail to separate.
+Axial and coronal T2-weighted MRI (left and middle images) and sagittal T1-weighted MRI
+(right image) show semilobar holoprosencephaly. There is partial separation of the posterior
+cerebral cortex, with complete fusion of the frontal lobes. There is a large midline posterior
+interhemispheric cyst.
+Lobar holoprosencephaly is the mildest form, where only the most rostral aspects of the frontal neocortex
+are not separated. The corpus callosum is absent in the affected region anteriorly, but the posterior corpus
+callosum (splenium and posterior body) is present.
+Peds: 1188

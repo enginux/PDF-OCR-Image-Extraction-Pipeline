@@ -1,0 +1,46 @@
+HYDROCEPHALUS
+Communicating nydrocephalus is ventricular enlargement due to an increase in CSF volume
+without an obstructing lesion within the ventricular system.
+Processes that obstruct arachnoid granulation reabsorption of CSF can cause communicating
+hydrocephalus, such as subarachnoid hemorrhage, meningitis, or leptomeningeal metastases.
+Normal pressure hydrocephalus (NPH) is a form of communicating hydrocephalus characterized by
+normal CSF pressure and the clinical triad of ataxia, incontinence, and dementia. Imaging typically shows
+ventriculomegaly, acute callosal angle (measured between the lateral ventricles on a coronal image at the
+posterior commissure), widened Sylvian fissures, and tight high convexity (crowding of gyri at the vertex).
+Noncommunicating hydrocephalus is hydrocephalus due to an obstructing lesion within
+the ventricular system, such as a third ventricular colloid cyst, aqueductal stenosis, or a
+posterior fossa mass.
+Obstructive hydrocephalus usually refers to noncommunicating hydrocephalus but can
+also include communicating hydrocephalus attributed to obstruction at the level of the
+subarachnoid spaces or arachnoid granulations.
+Hydrocephalus ex vacuo refers to ventricular enlargement due to brain parenchymal
+volume loss.
+CEREBRAL EDEMA
+Brain swelling, due to various etiologies, within a closed skull reduces the volume of blood
+and/or CSF compartments (Monro-Kellie doctrine).
+Edema within the brain can be caused by cell death, altered capillary permeability, or
+hemodynamic forces.
+Compared to normal brain parenchyma, edematous brain appears hypoattenuating on CT
+and FLAIR hyperintense on MRI.
+Cytotoxic edema
+Cytotoxic edema is cell swelling caused by damaged molecular sodium-potassium ATPase
+ion pumps, most commonly due to acute ischemia. Failure to maintain ion gradients results
+in cellular (true cytotoxic) edema, wherein fluid moves from the extracellular space into the
+intracellular space, followed by ionic edema, wherein fluid moves from the intravascular
+space into the extracellular space across an intact blood-brain barrier.
+Both gray and white matter are affected. Cellular edema appears as abnormally restricted
+diffusion on MRI. lonic edema appears as loss of gray-white differentiation on CT.
+Vasogenic edema
+Blood-brain barrier breakdown results in vasogenic edema, wherein plasma protein-rich
+fluid moves from the intravascular space into the extracellular space due to increased
+capillary permeability.
+The causes are diverse, including neoplasm, infection, inflammation, hemorrhage, subacute
+arterial infarct, and venous infarct.
+White matter is primarily affected. MRI shows facilitated diffusion (increased diffusivity). CT
+shows accentuated gray-white differentiation.
+Interstitial edema
+Increased ventricular pressure results in transependymal flow, wherein CSF moves from the
+intraventricular space into the brain extracellular space.
+The most common cause is acute obstructive nydrocephalus.
+Periventricular white matter is primarily affected.
+Neuro Brain: 654

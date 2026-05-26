@@ -1,0 +1,27 @@
+BENIGN LIVER MASSES
+Hemangioma
+Early arterial post-contrast T1-weighted MRI
+Portal venous post-contrast T1-weighted MRI
+Delayed post-contrast T1-weighted MRI
+T2-weighted MRI
+Hemangioma: Dynamic contrast-enhanced T1-weighted MRI (early arterial top left image to delayed bottom
+left image) shows a segment 8 lesion (yellow arrows) demonstrating peripheral discontinuous nodular
+enhancement. There is progressively increasing centripetal enhancement towards the center of the lesion on
+delayed images. The signal intensity of the peripheral enhancement is similar to that of the aorta.
+The hemangioma is hyperintense on the T2-weighted image (bottom right image).
+Hepatic cavernous hemangioma is the most common benign hepatic neoplasm. It is
+composed of disorganized endothelial cell-lined pockets of blood vessels, supplied by a
+peripheral branch of the hepatic artery.
+Hemangioma is more common in females and uncommon in cirrhosis. When a known
+hemangioma is sequentially followed in a patient with early cirrhosis, the hemangioma
+involutes as the liver becomes more cirrhotic.
+Hemangioma may range in size from <1 cm to >10 cm. Giant hemangiomas tend to have a
+non-enhancing central area representing cystic degeneration.
+On CT and MRI, a virtually pathognomonic imaging feature is peripheral discontinuous
+progressive nodular enhancement. The degree of enhancement should match the blood
+pool on all images and demonstrate gradual centripetal fill-in on later phases.
+The noncontrast CT appearance is not helpful, as a hemangioma appears as a nonspecific
+hypoattenuating liver mass.
+On MRI, hemangiomas are typically T2 hyperintense and become even more hyperintense
+on T2-fat saturated images compared to conventional T2-weighted images.
+GI: 111

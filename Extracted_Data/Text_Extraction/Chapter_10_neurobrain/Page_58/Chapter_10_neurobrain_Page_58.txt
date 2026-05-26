@@ -1,0 +1,46 @@
+Hemorrhage, as noted before, is associated with a variety of primary and secondary brain
+tumors. Tumoral hemorrhage can be distinguished from primary intracerebral hemorrhage
+by detecting a contrast-enhancing mass within or around the hemorrhage.
+SWI is the most sensitive sequence for detecting intratumoral microhemorrhages.
+T1 shortening can be due to not only methemoglobin but also melanin. The presence of intrinsic
+hyperintensity on T1-weighted images, even without corresponding susceptibility effect, raises the
+possibility of metastatic melanoma.
+Most hemorrhagic brain tumors are malignant. A common exception is pituitary macroadenoma.
+Hypercellularity appears as hypointensity on T2-weighted images and greater restricted
+diffusion. Examples include lymphoma, medulloblastoma, germinoma, and some
+glioblastomas. Metastatic adenocarcinomas also frequently appear hypointense on T2-
+weighted images but the histologic correlate is unclear.
+Cysts are a feature of many low-grade tumors, typically at the periphery of the enhancing
+component. In contrast, although necrosis of a high-grade tumor may also follow CSF signal,
+necrosis tends to be central and surrounded by enhancing tumor.
+In the supratentorial brain, the most common cystic tumors with a mural nodule are, ganglioglioma and
+pleomorphic xanthoastrocytoma.
+In the infratentorial brain, the most common cystic tumors with a mural nodule are pilocytic astrocytoma
+and hemangioblastoma.
+In the sellar region, the most common cystic lesions are pituitary adenoma, craniopharyngioma, and
+Rathke cleft cyst.
+Common extra-axial tumors that occasionally show cystic change include meningioma and schwannoma.
+The differential for cysts without nodular/thick enhancement includes nonneoplastic entities, such as
+arachnoid, dermoid, epidermoid, neuroenteric, pineal, colloid, neuroglial, choroidal fissure, hippocampal
+sulcus remnant, porencephalic, and parasitic cysts.
+GLIAL CELLS
+Overview of glial cells
+A glioma is a primary CNS tumor that arises from a glial cell. Glial cells include astrocytes,
+oligodendrocytes, ependymal cells, and choroid plexus cells.
+Astrocyte
+The normal functions of an astrocyte are to provide biochemical support to the endothelial
+cells which maintain the blood-brain barrier, to maintain extracellular ion balance, and to aid
+in repair after a neuronal injury.
+Astrocytes are normally located throughout the entire brain (primarily in the white matter)
+and spinal cord.
+Oligodendrocyte
+The normal function of an Oligodendrocyte is to maintain myelin around CNS axons. A single
+oligodendrocyte can maintain the myelin of dozens of axons.
+The counterpart in the peripheral nervous system is the Schwann cell, which maintains myelin around a
+single peripheral nerve. Unlike the oligodendrocyte, each Schwann cell is in charge of only a single axon.- Oligodendrocytes are normally located throughout the entire brain and spinal cord.
+Ependymal cells
+The normal function of an ependymal cell is to circulate CSF with its multiple cilia.
+Ependymal cells line the ventricles and central canal of the spinal cord. Choroid plexus cells
+are modified ependymal cells that function in producing CSF; they are located in specific
+locations as described earlier in the chapter.
+Neuro Brain: 707

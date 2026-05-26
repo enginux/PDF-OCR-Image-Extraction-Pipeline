@@ -1,0 +1,23 @@
+Thyroid cancer
+a
+lodine-resistant thyroid cancer: Fused axial PET/CT (top left image), non-contrast CT (bottom left image), and
+coronal PET MIP show several moderately FDG-avid right cervical and paratracheal lymph nodes and a single
+intensely FDG-avid left paratracheal node (arrows). There is symmetric physiologic salivary gland uptake seen
+on the coronal MIP. I-131 scan (not shown) was negative.
+Undifferentiated or medullary thyroid cancers may not take up radioiodine but may be FDG
+avid. PET/CT is used in the clinical setting of a rising thyroglobulin level with negative whole-
+body radioiodine scans.
+Lymphoma
+PET/CT plays a key role in the staging and restaging of patients with lymphoma.
+Most histological types of lymphoma, including Hodgkin and non-Hodgkin lymphoma, are
+FDG-avid. Low-grade lymphomas, such as small lymphocytic and mantle cell lymphoma,
+however, tend to be less FDG-avid.
+Increased marrow uptake in lymphoma patients can be difficult to interpret. Diffuse marrow
+uptake may be due to granulocyte colony-stimulating factor (G-CSF) stimulation, rebound
+effect from chemotherapy, or malignant marrow infiltration. Focal increased uptake,
+however, is more likely to represent lymphoma.
+Breast cancer
+Although used in the staging and response to therapy of recurrent or stage IV breast cancer,
+standard PET/CT is not used to evaluate small nodal metastases.
+PET/CT is not routinely used for patients with stage I-III breast cancer.
+Nucs: 449

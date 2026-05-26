@@ -1,0 +1,48 @@
+POSTSURGICAL IMAGING
+IMAGING IMPLANTS
+Overview of implants
+Implants can be used either for cosmetic reasons or for breast reconstruction after
+mastectomy. The two types of implants in common use are filled with either silicone or
+saline, although double lumen (inner silicone lumen and outer saline compartment) and
+other varieties of implants exist.
+Silicone implants are comprised of a silicone gel and come in pre-manufactured sizes. Saline
+implants contain a valve that allows filling of the implant during surgery.
+Regardless of the type of implant, a fibrous capsule is gradually formed as a reaction to
+the foreign body. The capsule may become calcified. Over time, the implant may partially
+herniate through the capsule without rupturing, causing a palpable contour deformity.
+Implants can be placed either behind the pectoralis (retropectoral) or directly in front of the
+pectoralis/Dehind the hbroglandular tissue prepectoral/retroglandular),
+Mammographic imaging of implants
+When implants are imaged with mammography, standard views are difficult to interpret
+because the hign-attenuation implant can obscure breast tissue. mplant-displaced views
+(also called Eklund views) displace the implant posteriorly and pull the native breast tissue
+anteriorly to allow for improved compression and visualization of the breast tissue.
+A saline implant can be identified on mammography due to the presence of its valve.
+Additionally, the wall of the implant will be denser than the center because the wall is made
+of silicone elastomer that is denser than saline.
+In contrast, a silicone implant will be uniformly dense, and no valve will be present.
+Ultrasound imaging of implants
+While ultrasound probes designed specifically for breast imaging provide superior imaging
+of the breast tissue, they do not always allow sufficient penetration to fully evaluate a
+more posteriorly positioned implant. An ultrasound machine with multiple probe choices is
+therefore advantageous in the setting of implant evaluation.
+MR imaging of silicone implants
+Specific MRI protocols allow for the evaluation of implants, including silicone-only and
+ilicone-suppression sequences.
+MRI has a higher sensitivity and specificity for detecting silicone implant rupture than both
+mammogram and ultrasound.
+Overview of implant rupture
+intacti implant
+intracapsular rupture
+extracapsular rupture
+intact
+ruptured
+fibrous capsule
+fibrous capsule
+fibrous capsule
+implant wall
+ruptured
+ruptured
+implant wall
+implant wall
+Breast: 432

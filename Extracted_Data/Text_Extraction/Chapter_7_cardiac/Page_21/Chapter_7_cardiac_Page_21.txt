@@ -1,0 +1,28 @@
+Spatial resolution
+Coronary arteries have an average lumenal diameter of approximately 3 mm.
+The latest CT scanners have a spatial resolution up to 0.18 mm. Axial image reconstructions
+should have slice thickness <1.0 mm for optimal evaluation of coronary arteries. Thicker
+slices may be used in obese patients to reduce image noise.
+In contrast, catheter angiography has a spatial resolution of approximately 0.16 mm.
+Temporal resolution and "freezing" of cardiac motion
+A single source CT scanner requires slightly more than 180 degrees of gantry rotation for
+image acquisition. For a complete rotation time of 330 ms, the temporal resolution is "165
+ms, calculated as rotation time/2.
+Dual source CT has two X-ray sources oriented 90 degrees to each other and needs to rotate
+only 90 degrees to complete a reconstruction, which effectively cuts the temporal resolution
+to 1/4 of the gantry rotation time. For third-generation dual source CTS with a rotation time
+of 250 ms, the temporal resolution is -66 ms.
+Intravenous access
+Appropriate intravenous access is required for rapid bolus administration of contrast via
+a power injector. High infusion rates (4-7 mL/sec) are needed to adequately opacify the
+coronary arteries. A saline chaser bolus follows the contrast injection to wash out the veins
+and right atrium, in order to reduce streak artifact from the contrast bolus.
+Target heart rate and pre-scanning medications
+A low heart rate (<60 bpm) and regular rhythm are desired to maximize the R-R interval.
+Beta-blockade is usually necessary to achieve the target heart rate. Oral metoprolol is
+administered (between 5 and 25 mg, typically administered in 5 mg doses). Oral beta-
+blocker gives better heart rate control and decreased heart rate variability compared to IV.
+With dual source CT, it is possible to scan without heart rate control, even for patients with arrhythmias.
+Just prior to scanning, a sublingual nitroglycerin (0.4-0.8 mg) is administered to dilate the
+coronary arteries.
+Cardiac: 506

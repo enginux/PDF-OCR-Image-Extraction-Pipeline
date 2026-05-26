@@ -1,0 +1,32 @@
+SUBARACHNOID HEMORRHAGE AND ANEURYSMS
+SUBARACHNOID HEMORRHAGE (SAH)
+ACA
+MCA
+ICA
+Subarachnoid hemorrhage: Noncontrast CT (left image) shows diffuse subarachnoid hemorrhage (arrows)
+in the basal cisterns including the suprasellar cistern, the anterior interhemispheric fissure, and the Sylvian
+fissure, predominantly on the right. Frontal oblique digital subtraction cerebral angiogram (right image) of the
+right internal carotid artery shows a small saccular aneurysm at the MCA trifurcation (yellow arrow).
+Overall, the most common cause of subarachnoid hemorrhage (SAH) is trauma. Aneurysm
+rupture is by far the most common cause of non-traumatic SAH. No cause of the SAH is
+identified in up to 22% of cases.
+Clinically, non-traumatic SAH presents with thunderclap headache and meningismus.
+Noncontrast CT is the initial imaging modality in suspected SAH. On CT, subarachnoid blood
+appears as high attenuation within the subarachnoid space.
+High attenuation material in the subarachnoid space may be due to SAH (by far the most common
+cause), meningitis, leptomeningeal metastases, or prior intrathecal contrast administration.
+Noncontrast CT is >95% sensitive for detecting SAH within the first 6 hours, with sensitivity
+slowly decreasing to 50% by day 5. If clinical suspicion for SAH is high with a negative CT
+scan, the standard of care is to perform a lumbar puncture to look for xanthochromia.
+If SAH is present on imaging or lumbar puncture shows xanthochromia, catheter
+angiography is the gold standard to evaluate for the presence of an aneurysm. Several
+recent studies have shown, however, that CT angiography is equivalent to catheter
+angiography in the search for a culprit aneurysm in cases of SAH.
+On MRI, acute SAH appears hyperintense on FLAIR and demonstrates susceptibility artifact
+on gradient sequences.
+The differential diagnosis for increased FLAIR signal in the subarachnoid space is similar to the differential
+for high attenuation subarachnoid material seen on CT, including SAH, meningitis, leptomeningeal
+metastases, and residual contrast material. Note that meningitis and metastases will typically show
+leptomeningeal enhancement in addition to the abnormal FLAIR: signal.
+Recent oxygen or propofol administration will also cause increased subarachnoid FLAIR signal.
+Neuro Brain: 679

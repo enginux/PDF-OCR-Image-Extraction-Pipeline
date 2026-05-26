@@ -1,0 +1,42 @@
+Xenon-133 (ventilation)
+Xenon-133 is an inhaled gas with a physical half-life of 5.3 days, which emits 81 keV gamma
+photons and is also a beta-emitter. The critical organ is the trachea. The biologic half-
+life is very short because the vast majority of the gas is exhaled. Although 10-20 mCi is
+administered, there is very little radiation exposure.
+Xenon-133 is imaged posteriorly to avoid breast artifacts, as the relatively low keV is easily
+attenuated by soft tissue. Wash-in/washout imaging can be performed to evaluate for air
+trapping, which is seen in COPD.
+Xenon-133 requires good patient cooperation as the patient must breathe on a closed
+spirometer for several minutes. Exhaled xenon-133 must be carefully disposed of, either
+exhausted to the atmosphere or trapped in a charcoal trap until it decays. Xenon-133 must
+be administered in a negative pressure room to prevent accidental leakage.
+Because xenon-133 is soluble in fat, it can accumulate in the liver, particularly a fatty liver.
+Tc-99m DTPA (ventilation)
+Tc-99m DTPA is a technetium-labeled aerosol. Unlike Xenon-133, DTPA does not allow
+for dynamic wash-in/washout imaging. Once inhaled, the particles remain in place for
+approximately 45-60 minutes (20 minutes in smokers). 30 mCi is typically administered.
+Compared to xenon, Tc99m DTPA has greater ease of use. Specific advantages include the
+ability to image in multiple projections, little requirement for patient cooperation, no need
+for exhaust systems, ability to use portably and be delivered through mechanical ventilation.
+Swallowed activity can be seen in the esophagus and stomach.
+CLINICAL V/Q SCANNING IN THE ERA OF CT PULMONARY ANGIOGRAPHY
+Diagnosis of pulmonary embolism in pregnancy
+Pulmonary embolism is the leading cause of death in pregnancy in the developed world, and
+diagnosis must be weighed against radiation exposure to the mother and the fetus.
+CT pulmonary angiogram (CTPA): Maternal breast dose approximately 10-70 mGy (much greater than
+ACR mammography guidelines of 3 mGy/breast). Fetal dose 0.01-0.66 mGy.
+V/Q scan: Maternal breast dose <1.5 mGy. Fetal dose 0.5-1.1 mGy (higher than CTPA but still
+considerably lower than the 100 mSv threshold for potential teratogenic effects).
+Low-dose perfusion (Q) scan: Maternal breast dose 0.6 mGy. Fetal dose 0.1-0.2 mGy.
+In most cases, only perfusion scan is necessary and ventilation scan is not commonly
+performed. The administered dose of Tc-99m MAA is typically one-half of the standard dose,
+or approximately 100,000 particles.
+Diagnostic accuracy for PE has been shown to be equivalent between CTPA and Q scan.
+The primary advantage of CTPA is the demonstration of an alternative diagnosis not seen
+on plain radiographs approximately 5% of the time and a lower fetal dose, at the expense of
+increased breast radiation exposure.
+Nuclear medicine perfusion scan should be reserved for suspected pulmonary embolism
+in a pregnant patient with a normal chest radiograph, no history of asthma or COPD, and
+a negative duplex ultrasound of lower extremities. In clinical practice, CTPA is more readily
+available and often the prefered modality.
+Nucs: 469

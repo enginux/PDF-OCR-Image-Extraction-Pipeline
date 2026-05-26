@@ -1,0 +1,31 @@
+Chance fracture
+Sagittal CT
+Coronal MIP CT
+Volume-rendered CT
+Chance fracture: There is a minimally displaced transverse fracture through the L1 vertebral body and posterior
+elements (yellow arrows). Volumetric reconstruction shows the subtle anterior endplate deformity (yellow
+arrow), with reversal of the spinal curvature centered on the fracture. Interspinous widening (red arrows)
+indicates posterior ligamentous disruption.
+A Chance fracture, also known as a seat belt fracture, is a flexion distraction injury caused by
+acute forward flexion of the spine during sudden deceleration.
+There is horizontal splitting of the vertebra which begins posteriorly in the spinous process
+or lamina and extends anteriorly through the vertebral body.
+Chance fractures are unstable injuries, as they involve all three spinal columns.
+Intra-abdominal injuries are often associated with this fracture pattern, especially in
+pediatrics.
+AO SPINE CLASSIFIÇATION FOR SPINAL TRAUMA
+The historical three-column model by Denis classifies spinal fractures morphologically but
+does not consider the mechanism of injury or patient's neurological status.
+The cervical subaxial and thoracolumbar injury classification and severity scores (SLIC,
+TLICS) incorporate neurological status but do not consider patient-specific factors such as
+underlying medical conditions that may affect management.
+The more comprehensive AO Spine classification system for spinal trauma improved upon
+previous classification systems by incorporating:
+1) fracture morphology,
+2) neurological status,
+3) clinical modifiers specific to the patient which may influence treatment decisions.
+Examples of clinical modifiers include accompanying injuries that would change treatment
+(e.g., ligamentous injury resulting in potential instability, vascular injury), high-risk medical
+comorbidities, and underlying bone disease (e.g., ankylosing spondylitis or DISH resulting in
+a rigid spine).
+Spine: 904

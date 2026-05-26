@@ -1,0 +1,39 @@
+CORONARY CT ANGIOGRAPHY
+Evidence for using coronary CT to evaluate for ischemic cardiac disease
+Coronary CT angiography (CCTA) is an excellent test to rule out hemodynamically significant
+coronary artery disease (CAD). Meta-analyses of multiple trials have shown the negative
+predictive value for CCTA to be approaching 100%.
+In the emergency room setting, CCTA is an appropriate first-line test for evaluation of acute
+chest pain in low to intermediate risk patients without known CAD, who presented with
+normal cardiac enzymes and non-ischemic ECG.
+For patients with high pretest probability of acute coronary syndrome, the appropriate
+diagnostic approach is functional assessment such as stress testing or invasive coronary
+angiography.
+For patients with equivocal stress tests, a negative CCTA may suggest against admission or
+further invasive testing.
+CCTA is very sensitive for hemodynamically significant (>50% lumenal diameter) stenoses;
+however, a stenosis found on CT may be overcalled, especially if there is calcified plaque,
+which can cause a blooming artifact.
+Other indications of CCTA include coronary assessment prior to cardiac or other major
+surgery, evaluation of suspected coronary anomalies, cardiac valves, and coronary artery
+bypass grafts.
+ECG gating and radiation dose
+ECG gating is used to minimize cardiac motion. The choice of ECG gating has a large effect on
+patient radiation dose.
+To estimate the radiation dose, the dose-length product (DLP) should be multiplied by a conversion factor
+of 0.017 to arrive at the dose in millisieverts.
+In a retrospectively gated exam, continuous CT scanning is performed throughout the
+cardiac cycle and the images are correlated to the ECG cycle afterwards.
+The main advantage of retrospective gating is the ability to create cine reconstructions to evaluate cardiac
+and valvular function, typically with 10-20 frames per cardiac cycle.
+The main disadvantage of retrospective gating is a significant increase in radiation exposure compared to a
+prospectively gated study.
+For prospective gating, the ECG is used to time image acquisition at a specific phase of the
+cardiac cycle, exposing the patient to radiation only during this segment of the cardiac cycle.
+The main advantage of prospective gating is decreased radiation exposure.
+However, since only a fraction of the cardiac cycle is acquired, cine reconstructions are not possible.
+Retrospective ECG gating
+Prospective ECG gating
+= x-ray beam on
+NN
+Cardiac: 505

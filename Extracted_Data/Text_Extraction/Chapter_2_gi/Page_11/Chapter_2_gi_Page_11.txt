@@ -1,0 +1,36 @@
+MALIGNANT HEPATIC MASSES
+Pathway to hepatocellular carcinoma
+Regenerative nodule
+Dysplastic nodule with
+increased size, cellularity,
+and atypia (blue)
+Focus of HCC (red) in
+the dysplastic nodule
+Large HCC with poorly
+differentiated cells (purple)
+and increased neovascularity
+Small HCC with
+neovascularity
+In the setting of cirrhosis, hepatocellular carcinoma (HCC) is thought to develop in a
+sequence from regenerative nodule * dysplastic nodule * HCC. Regenerative and
+dysplastic nodules cannot be reliably differentiated on imaging. High-grade dysplastic
+nodules cannot be reliably differentiated from wel-differentiated HCC.
+Regenerative nodule: A regenerative nodule is completely supplied by the portal vein and is
+not premalignant. A regenerative nodule should not enhance in the arterial phase.
+Most regenerative nodules show low signal intensity on T2-weighted images, with variable signal intensity
+on T1-weighted images. Rarely, a regenerative nodule may be hyperintense on T1-weighted images due to
+glycogen deposition.
+On contrast-enhanced MRI, most regenerative nodules enhance to the same (or slightly less) degree as the
+adjacent hepatic parenchyma.
+Dysplastic nodule: Unlike a regenerative nodule, a dysplastic nodule is premalignant.
+However, most dysplastic nodules do not demonstrate arterial phase enhancement (unless
+high grade), since blood supply is still from the portal vein.
+Dysplastic nodules are variable in signal intensity on T1-weighted images. Most dysplastic nodules are
+hypointense on T2-weighted images, although high-grade dysplastic nodules may be T2 hyperintense.
+Contrast-enhanced MRI shows low-grade dysplastic nodules to be isoenhancing relative to liver and thus
+indistinguishable from regenerative nodules. High-grade dysplastic nodules can demonstrate arterial
+enhancement and may be indistinguishable from well-differentiated HCC.
+A: siderotic nodule is an iron-rich regenerative or dysplastic nodule. A siderotic nodule
+is hypointense on T1 and T2*-weighted images (including in-phase GRE images) and
+hyperattenuating on CT. A siderotic nodule is rarely, if ever, malignant.
+GI: 105

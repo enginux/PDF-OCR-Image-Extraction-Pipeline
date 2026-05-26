@@ -1,0 +1,35 @@
+Inversion recovery (IR; continued)
+Double IR is used with fast SE sequence as a dark-blood technique where blood appears
+dark compared to myocardium.
+Triple IR is a dark-blood technique with an additional IR pulse for fat suppression.
+Double IR T1
+Double IR T2
+Triple IR T2
+Lipomatous hypertrophy of thei interatrial septum (yellow arrows) on double and triple IR sequences: Note
+suppression of fat in the interatrial septum and lateral chest wall (red arrow) on triple IR compared to double
+IR. There is incomplete fat suppression anterior to the heart on the triple IR T2-weighted image.
+Phase-sensitive inversion recovery (PSIR) is a version of IR that acquires a reference phase
+image in the next heartbeat after the magnitude image is acquired. The phase information
+is used to calculate the absolute differences in recovery of signal redistributed as grayscale
+values. This allows for much greater separation between the normal myocardium and
+abnormal myocardium along a wider range of inversion times based on gadolinium content
+(i.e., pericardial effusion will be black on PSIR and bright on the magnitude image.)
+Magnitude IR
+Phase-sensitive IR
+Dynamic first-pass perfusion MRI
+First-pass contrast-enhanced perfusion MRI is performed pre- and post-vasodilator stress to
+evaluate myocardial perfusion. Normal myocardium enhances homogeneously, while areas of
+decreased perfusion will be relatively hypoenhancing. This technique allows for quantitative
+perfusion. In characterization of cardiac masses, malignant masses generally have more avid
+first pass perfusion while benign lesions have more mild or modest perfusion.
+Delayed contrast-enhanced MRI
+Delayed contrast-enhanced MRI (DE-MR) is performed using a T1W single inversion recovery
+gradient echo or SSFP (if there is not enough signal typically at 1.5T).
+Unlike in contrast-enhanced perfusion where first-pass enhancement is normal, any late
+gadolinium enhancement (LGE) in DE-MR is abnormal and represents a delay in washout
+of gadolinium-based contrast material from the extracellular space. Thus, any process that
+expands the extracellular space (decreasing the ratio of normal myocytes to extracellular
+space) will result in delayed enhancement.
+LGE is caused by interstitial fibrosis due to cell death. It can also occur due to nonischemic
+etiologies. Different patterns of enhancement suggest different etiologies.
+Cardiac: 515

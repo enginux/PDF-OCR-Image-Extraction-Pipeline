@@ -1,0 +1,37 @@
+OVARIAN NEOPLASMS
+Ovarian neoplasms include a large group of benign and malignant tumors that can be
+classified based on where they originate in the ovary. 80% of ovarian masses are benign.
+The three histologic types of primary ovarian neoplasm include epithelial neoplasm, germ
+cell tumor, and sex cord-stromal tumor.
+Surface epithelial tumors account for 70% of ovarian neoplasms overall and >90% of ovarian
+cancers.
+Germ cell tumors include mature cystic teratomas (dermoid) and dysgerminomas. Struma
+ovarii is a subtype of teratoma that is composed of mature, functioning thyroid tissue.
+Sex cord-stromal tumors include fibroma, thecoma, and fibrothecoma.
+Meigs syndrome is the triad of benign ovarian fibroma, ascites, and right pleural effusion.
+Tumors containing thecal cells produce estrogen and may cause endometrial carcinoma.
+The Ovarian-Adnexal Reporting and Data System (O-RADS) provides risk stratification for
+ovarian and adnexal lesions on ultrasound and MRI. It divides lesions into five categories
+from normal ovary (1) to high risk (>50% chance of malignancy based on ultrasound, or
+90% risk of malignancy based on MRI).
+Dermoid cyst (mature cystic teratoma)
+Dermoid cyst: Grayscale ultrasound image of the right ovary (left image) shows a complex ovarian cyst with
+a densely echogenic, shadowing focus centrally representing the Rokitansky nodule (arrow). Color Doppler
+shows the dot-dash sign, echogenic shadowing, and no significant internal Doppler flow.
+Dermoid cyst, also called a mature cystic teratoma, is the most common ovarian neoplasm.
+Technically, a teratoma contains all three primitive germ cell layers, while a dermoid cyst
+may contain only two. In general use, however, these terms are interchangeable.
+Malignant transformation is very rare and typically occurs in postmenopausal patients.
+Another rare complication is intraperitoneal rupture leading to acute peritonitis.
+A dermoid cyst can act as a lead point for adnexal torsion particularly when large (>4 cm).
+The classic ultrasound appearance of a dermoid cyst is a complex ovarian cyst with an
+echogenic Rokitansky nodule, which is a solid nodule projecting into the cyst cavity, from
+which hair or teeth may arise. The imaging appearance can be variable, however, and other
+common imaging features include:
+The dot-dash pattern describes interrupted echogenic lines thought to be produced by keratin fibers.
+The tip of the iceberg sign describes obscuration of the deeper contents due to high-attenuation material.
+CT and MRI typically show a heterogeneous unilocular cystic structure with coarse
+calcification, corresponding to sebaceous material, hair follicles, and fat. A Rokitansky
+nodule may or may not be seen.
+Less commonly, a dermoid cyst may appear as a solid hyperdense or fat-density mass.
+GU: 319

@@ -1,0 +1,27 @@
+CT/MR imaging appearance of kidneys
+On standard abdominopelvic CT, conducted in portal venous phase (70 seconds post-
+injection), the renal parenchyma is relatively homogeneous (similar to nephrographic phase
+as described below), but can show more corticomedullary differentiation depending on the
+exact timing of image acquisition post-injection.
+Phases of contrast in renal/ureteral imaging:
+Noncontrast: Unenhanced imaging is used to assess for intralesional fat, renal stones, parenchymal
+calcifications, and hemorrhage. It also provides baseline attenuation of renal lesions.
+Arterial phase (20-40 seconds post-injection) imaging can be performed to evaluate the renal
+vasculature, primarily for surgical planning. In this phase, there is significant corticomedullary
+differentiation.
+The nephrographic phase (100 seconds post-injection) is used to evaluate the renal parenchyma
+(neoplasm, scarring, inflammation). In this phase, the renal parenchyma appears homogeneous.
+The excretory phase (8-15 minutes post-injection, depending on protocol) is used to assess for urothelial
+abnormalities (calyceal diverticulum, papillary necrosis, tumors, stricture). Lasix can be used to maximize
+contrast excretion. This phase can obscure ureteral stones.
+CT artera/cortcomedulay phase.
+CT nephrographic phase.
+CT excretory phase.
+Absent nephrogram
+An absent nephrogram describes the absence of normal renal parenchymal enhancement in
+the renal fossa, historically seen on plain film urography but also can apply to CT urography.
+Differential for a unilateral absent nephrogram includes renal agenesis, ectopic kidney,
+surgically absent kidney, or an abnormal kidney that is present but does not enhance. The
+latter can be caused by acute renal artery/vein occlusion, chronic ureteral obstruction,
+congenital or acquired renal disease resulting in nonfunctioning nephrons.
+GU: 242

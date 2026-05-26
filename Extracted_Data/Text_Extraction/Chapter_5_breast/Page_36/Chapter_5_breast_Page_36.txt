@@ -1,0 +1,44 @@
+BREAST MRI
+INTRODUCTION
+Overview of clinical role of breast MRI
+Breast MRI plays a complementary role to mammography in the evaluation of breast cancer.
+Contrast-enhanced breast MRI features excellent soft tissue contrast and high sensitivity
+for the detection of cancer. Although the distinction between normal or benign structures
+and malignancy is often not apparent using standard T1- and T2-weighted sequences, the
+addition of dynamic contrast enhancement greatly increases the accuracy for detection of
+malignancy.
+One of the greatest challenges facing the evolving field of breast MRI is the overlap in
+imaging findings between benign and malignant lesions. Both tumors and benign lesions
+may enhance and may exhibit similar morphologic characteristics. Strategies such as the
+characterization of enhancement kinetic curves and development of a stringent BI-RADS
+lexicon help to tackle this problem.
+One relative weakness of MRI compared to mammography is the lack of sensitivity to microcalcifications.
+While some larger calcifications can be detected as susceptibility artifact, mammography is superior to
+MRI for detection of small calcifications.
+In clinical use to evaluate for breast cancer, standard 1.5 or 3 Tesla breast MRI has been
+shown to have very high negative predictive values and relatively low false positive rates.
+Breast MRI technique
+The risk stratification of an enhancing lesion involves separate evaluation of the lesion
+morphology (including morphologic description of the enhancement pattern) and the
+kinetic pattern of enhancement.
+Breast MRI is performed with the patient prone using a dedicated breast coil. Imaging of
+both breasts should be performed simultaneously unless the patient has had a previous
+mastectomy. Bilateral imaging is very helpful to distinguish background parenchymal
+enhancement from pathological enhancement.
+Standard sequences include T1- and T2-weighted images, with and without fat saturation.
+Essential to the breast MRI exam are the pre- and post-contrast images, which are typically
+obtained using fat saturation. Dynamic enhanced images are obtained sequentially to
+evaluate for enhancement over time.
+Intraductal fluid may be hyperintense on T1-weighted images, complicating the evaluation
+of enhancement. Post-processing is required to evaluate for true enhancement.
+The simplest form of post-processing is subtraction, where the dynamic post-contrast
+images are subtracted from the initial T1-weighted fat-saturated images.
+The maximum-intensity projection (MIP) image is a useful post-processing tool based on
+the subtraction images. A MIP highlights the brightest pixel along each parallel ray to create
+a volumetric data set where the enhancement can easily be seen in three-dimensional
+space.
+Computer-aided detection (CAD) is a helpful adjunct for analysis of contrast-enhanced MRI
+sequences. CAD allows creation of a color angiomap, assigning colors to different temporal
+patterns of enhancement and allowing further characterization of a lesion to help determine
+the level of suspicion for malignancy.
+Breast: 403

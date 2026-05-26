@@ -1,0 +1,33 @@
+Acute mesenteric ischemia
+Acute mesenteric ischemia typically presents as catastrophic abdominal pain, often with
+lactic acidosis. Acute mesenteric ischemia is most commonly caused by an SMA embolus.
+An SMA embolism distal to the middle colic artery carries the highest high risk of intestinal
+ischemia, as there are few native distal collaterals. The middle colic artery anastomoses with
+the IMA via the marginal artery of Drummond and the arc of Riolan.
+In most patients with acute mesenteric ischemia, treatment is surgical revascularization
+(embolectomy or bypass), direct inspection of bowel, and resection of necrotic bowel.
+In select patients with acute embolic mesenteric ischemia (patients without peritoneal signs
+or clinical findings suggestive of bowel necrosis), endovascular therapy with thrombolysis or
+suction embolectomy may be performed.
+Nonocclusive mesenteric ischemia (NOMI) is a highly lethal (70-100% mortality) form of
+acute mesenteric ischemia. NOMI is also known as "intestinal necrosis with a patent arterial
+tree" and features spasm and narrowing of multiple branches of the mesenteric arteries.
+Direct arterial infusion of the vasodilator papaverine (60 mg bolus, then 30-60 mg/hr) is the
+primary treatment of NOMI.
+LT
+Acute mesenteric ischemia: 79-year-old female presented with altered mental status, found to have bowel
+wall thickening and multifocal thrombus of the superior mesenteric artery (SMA) on CT. Diagnostic angiogram
+shows extensive atherosclerotic calcifications and near total occlusion of the proximal SMA (left image,
+arrow). A catheter was positioned across the thrombus and left in place for overnight infusion of tPA. The next
+day, angiography of the superior mesenteric artery demonstrates substantially decreased clot burden with
+improved flow to thej jejunal branch vessels (right image, arrow).
+Chronic mesenteric ischemia
+Chronic mesenteric ischemia is usually caused by atherosclerosis. The classic clinical
+presentation is postprandial abdominal pain out of proportion to the physical exam.
+Mesenteric angiography shows ostial narrowing of the mesenteric vessels, often with post-
+stenotic dilation. The lateral aortogram is the most useful view to evaluate the origins of the
+celiac and superior mesenteric arteries.
+Because mesenteric collaterals are SO extensive, at least two of three mesenteric arteries
+(celiac, SMA, and IMA) must be diseased to produce symptoms in chronic disease.
+Chronic mesenteric ischemia can be treated with endovascular angioplasty and stenting.
+IR: 613

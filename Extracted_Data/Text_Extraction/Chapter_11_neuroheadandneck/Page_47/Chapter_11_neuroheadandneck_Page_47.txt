@@ -1,0 +1,35 @@
+Rathke cleft cyst
+Rathke's cleft cyst: Axial FLAIR (left image) and coronal post-contrast T1-weighted MRI shows a FLAIR
+hyperintense, T1 hypointense parasellar mass (yellow arrows). The mass demonstrates faint peripheral rim
+enhancement. The pituitary is displaced to the right and the optic chiasm is displaced superiorly (red arrow).
+Rathke cleft cyst is a remnant of the embryologic Rathke pouch lined with simple columnar
+or cuboidal epithelium. They are typically intrasellar with or without suprasellar extension.
+Rathke cleft cysts are typically seen in middle-aged adults, twice as commonly in females.
+Rathke cleft cyst is reportedly very common in autopsy studies (up to 22% incidence), but
+clinically is usually asymptomatic or discovered incidentally.
+On imaging, Rathke cleft cyst is a nonenhancing cyst without calcification. An enhancing rim
+may be seen related to the pituitary tissue wrapped around the cyst (claw sign). A small,
+nonenhancing intracystic nodule, likely a clump of mucin, is pathognomonic.
+The MR signal characteristics depend on the protein content of the cyst fluid. The intra-
+cystic fluid may be isointense to CSF if low protein and hyperintense on T1-weighted images
+if high protein. High protein content may cause incomplete nulling of the intracystic fluid on
+FLAIR.
+Empty sella
+The (partially) empty sella is mostly filled with CSF and possibly slightly enlarged, due to
+herniation of the subarachnoid space (sometimes known as intrasellar arachnoidocele). The
+small pituitary gland is flattened against the floor of the sella.
+The infundibulum sign, in which the pituitary stalk traverses this space, distinguishes empty
+sella from true cystic intrasellar lesions.
+Primary empty sella can be a normal variant, especially in older patients, related to
+insufficiency of the diaphragma sellae, or be caused by intracranial hypertension.
+Empty sella is one of a constellation of findings in idiopathic intracranial hypertension
+(pseudotumor cerebri), which is a syndrome attributed to elevated CSF pressure in the
+absence of intracranial mass or hydrocephalus.
+Patients with idiopathic intracranial hypertension, who are typically female and obese, present with
+headache, transient visual obscurations, and/or pulsatile tinnitus.
+The main imaging findings are empty sella, paPlledema/posterior scleral flattening, optic nerve sheath
+dilation, bilateral transverse sinus stenosis, cerebellar tonsillar ectopia, and meningoceles of Meckel's cave
+or petrous apex.
+Secondary empty sella is related to prior pituitary disease. Gland shrinkage may reflect
+sequela of treated pituitary tumors, pituitary apoplexy, Sheehan syndrome, or trauma.
+Neuro Head & Neck: 799

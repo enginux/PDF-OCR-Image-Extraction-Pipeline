@@ -1,0 +1,37 @@
+ACE inhibitor renogram (continued)
+After administration of an ACE inhibitor (typically captopril, 25-50 mg), the efferent
+arterioles will relax and GFR will decrease.
+If a patient is already on an ACE inhibitor, it should be stopped for 48 hours to 1 week prior to the exam.
+Intravenous access should be maintained in case fluid resuscitation is needed to treat hypotension.
+Known severe renal artery stenosis is a relative contraindication as ACE inhibitor-induced intrarenal
+hypotension can lead to acute renal failure.
+An ACE renogram can be performed in one or two days.
+A single-day, two-stage protocol comprises a baseline non-captopril study using a low dose of MAG3,
+followed by a captopril study several hours later when residual activity from the first study has cleared the
+kidneys and urinary tract.
+A two-day protocol is usually used for patients without pre-existing renal dysfunction. The captopril study
+is performed first, which if normal, excludes renovascular hypertension and thus eliminates the need for a
+baseline study. If the captopril study is abnormal, al baseline study is performed on the following day.
+A positive study depends on the radiotracer utilized (MAG3 or DTPA), but the hallmark is a
+post-ACE inhibitor renogram that becomes abnormal or more abnormal, usually unilaterally.
+MAG3 pre-captopril
+post-captopril
+DTPA
+pre-captopril
+post-captopril
+MAG3 (tubular agent): Uptake and secretion are generally preserved even with a reduced GFR, but further
+1 GFR results in 1 urine production and 1 washout of secreted agent from collecting system.
+Positive criteria for MAG3 study include: <40% uptake by one kidney at 2-3 minutes; difference in cortical
+activity by 20%; or delay in time to peak activity of more than 2 minutes (compared to pre-ACE inhibitor).
+DTPA (glomerular agent): Unlike MAG3, 1 GFR causes diminished uptake and excretion of DTPA.
+Bilateral worsening renograms can be caused by hypotension, dehydration (most common),
+urinary obstruction, medical renal disease, or bilateral renal artery stenosis.
+Renal cortical imaging
+Renal cortical imaging is limited to renal imaging in children to evaluate for pyelonephritis or
+scarring. The radiotracer is Tc-99m DMSA.
+A normal DMSA study excludes the diagnosis of acute pyelonephritis.
+A positive study for pyelonephritis can have three patterns:
+Focal cortical defect.
+Multifocal cortical defects.
+Diffusely decreased radiotracer.
+Nucs: 479

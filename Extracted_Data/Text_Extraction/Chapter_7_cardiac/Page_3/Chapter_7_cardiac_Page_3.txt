@@ -1,0 +1,45 @@
+Clinical applications of myocardial perfusion and viability imaging (continued)
+Preoperative risk assessment for intermediate to high risk noncardiac surgery.
+Evaluation of viability prior to coronary revascularization therapy.
+Evaluation of myocardial revascularization status post CABG in symptomatic patients or
+after 5 years.
+RADIONUCLIDES
+Thallium-201
+Thallium-201 is a cyclotron-produced radionuclide with a half-life of 73 hours. It decays by
+electron capture and emits characteristic X-rays of 69-81 kev.
+Relatively low energy characteristic X-rays increase attenuation artifact from chest wall: soft tissues.
+Iti is necessary to administer fairly low doses due to its long half-life, with resultant lower count densities
+which requires longer imaging acquisition times.
+Physiologically, thallium acts like a potassium analog, crossing into the cell via active
+transport through the ATP-dependent sodium-potassium transmembrane pump.
+Myocardial uptake is directly proportional to myocardial perfusion.
+A! 50% stenosis will generally produce a perfusion defect upon maximal exercise.
+Thallium undergoes redistribution with simultaneous cellular washout and re-extraction of
+blood-pool radiotracer. Only viable myocardium can extract thallium. Therefore, ischemic
+but viable myocardium will show perfusion defect during stress due to decreased blood
+flow, but normalization of defect on post-redistribution images. In contrast, an infarct or scar
+will show a persistent defect.
+Technetium-99m sestamibi and tetrofosmin
+Technetium-99m is generatorproduces, therefore more readily available. Its shorter half-
+life (6 hours) and higher photon energy (140 keV) allow for larger administered dose at
+lower radiation dose to the patient, superior image quality, shorter acquisition time, and
+less attenuation artifact from adjacent soft tissues. For these reasons, Tc-99m labeled
+radiotracers are more widely used than thallium in myocardial perfusion imaging.
+Unlike thallium, Tc-99m sestamibi (Cardiolite) does not undergo redistribution and remains
+fixed in the myocardium.
+Sestamibi enters myocardium via passive diffusion and binds to mitochondrial membrane
+proteins. Similar to thallium, myocardial uptake of sestamibi is proportional to myocardial
+perfusion.
+Tc-99m tetrofosmin (Myoview) is similar to sestamibi but has the advantage of faster
+hepatobiliary clearance, which allows earlier imaging (since adjacent liver activity may
+interfere with cardiac imaging).
+Rubidium-82
+Rubidium-82 is a positron-emitting PET perfusion agent that is generated from strontium-82.
+A very short half-life of 76 seconds allows high doses to be administered, however such a
+short half-life precludes the use of exercise stress. Pharmacologic stress is used instead.
+Rubidium-82 acts as a potassium analog, similar to thallium.
+Nitrogen-13 ammonia
+Nitrogen-13 ammonia is a positron-emitting PET perfusion agent (like rubidium-82) that has
+a half-life of 10 minutes. Unlike rubidium-82, N-13 is cyclotron-produced and the cyclotron
+must be on-site due to its short half-life.
+Cardiac: 488

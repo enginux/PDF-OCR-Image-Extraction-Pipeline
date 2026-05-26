@@ -1,0 +1,40 @@
+Summary of 2019 Bosniak classification of cystic renal masses
+Category I
+Cystic wateratenuaton/mterty, mass with a thin (s2 mm)
+smooth wall which may enhance. No septa or calcifications.
+Bosniakl I
+Practically, this classification is never used; this lesion is usually
+called a simple renal cyst.
+Category II
+Six proposed Bosniak subtypes can be distilled to these rules:
+Nonenhancing (excludes thin septa/wall, which may
+enhance).
+<4 septa with thickness <2 mm.
+Bosniak II
+rotenaceouyemortage cysts (nonenhancing,
+homogeneous, hyperattenuating 270 HU or intrinsically T1
+hyperintense) <3 cm in size.
+Homogeneous low-attenuation masses too small to
+characterize.
+Any violation gets upgraded.
+Category IIF
+31 mm
+Cystic mass violating any of the above rules but less than
+Category III falls here.
+Bosniak IIF
+Note that Ca++ is no longer included, as this isolated feature
+has little predictive value.
+miu
+Category III
+Any enhancing thick (24 mm) septation/wall.
+Bosniak III
+-
+Any enhancing irregular protrusion with obtuse margins, <3
+mm) septation/wall.
+Category IV
+-
+(
+Any enhancing nodule with acute margins irrespective of size.- A
+Bosniak IV
+Any enhancing nodule 24 mm with obtuse margins.
+:GU: 258

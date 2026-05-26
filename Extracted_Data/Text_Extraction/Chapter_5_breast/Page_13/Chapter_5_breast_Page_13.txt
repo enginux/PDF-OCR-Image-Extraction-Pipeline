@@ -1,0 +1,30 @@
+Circumscribed: At least 75% of the margin must be well-defined, while the remainder may
+be obscured with overlying tissue.
+In general, unless a mass is new, a circumscribed mass is benign, and a non-circumscribed mass is
+suspicious. Of course, there are exceptions to this: abscesses can present with non-circumscribed margins
+and certain types of cancers can present with predominantly circumscribed margins.
+Microlobulated: A microlobulated mass has a finely irregular or serrated edge.
+Obscured: A margin is obscured if it is greater than 25% hidden by superimposed or
+adjacent normal tissue. The term "obscured" implies that the radiologist believes that the
+mass may be circumscribed, but the margin is hidden by overlying tissue.
+Indistinct: A poorly defined margin (or portion of the margin) raises concern that the lesion
+may be infiltrating.
+Spiculated: Linear densities radiate from a mass. A spiculated mass is malignant until proven
+otherwise.
+Describe the density
+Fat-containing
+Low density
+Equal density
+High density
+Most breast cancers that form a visible mass are of equal or higher density than the
+surrounding fibroglandular tissue.
+The BI-RADS lexicon for density includes fat-containing, low density, equal density, and
+high density. A circumscribed fat-containing mass is benign.
+Describe the shape
+Round
+Oval
+Irregular
+The BI-RADS lexicon for shape includes round, oval, and irregular. Although malignancy may
+be any form, an irregular mass is most suspicious for malignancy. An oval-shaped mass may
+include up to two to three smooth lobulations.
+Breast: 380

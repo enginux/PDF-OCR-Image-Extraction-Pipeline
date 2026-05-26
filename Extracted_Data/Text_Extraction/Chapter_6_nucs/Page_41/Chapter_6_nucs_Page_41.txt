@@ -1,0 +1,30 @@
+Metastatic arimoia/meuroenderine tumor
+Metastatic carcinoid: Axial
+non-contrast CT shows a
+mesenteric mass containing
+coarse calcification (arrow) in
+the central lower abdomen,
+which has a typical appearance
+for carcinoid.
+E
+PawW IDel rior a
+pa4 mel ghe wa
+PA4 al eet
+Fused multiplanar SPECT (top row) from an indium-111 pentetreotide scan and CT (bottom row) correlate
+ai focus of increased uptake in the lower abdomen with the calcified mesenteric mass on CT, confirming the
+diagnosis of neuroendocrine tumor/carcinoid. All other foci of tracer uptake seen on SPECT localized to bowel,
+representing physiologic bowel uptake.
+Indium-111 pentetreotide (Octreoscan) was traditionally the tracer of choice for evaluation
+of carcinoid tumor (see below). SPECT/CT is almost always performed in conjuction with an
+Octreoscan.
+The sensitivity for detecting neuroendocrine tumors is 82-95%; however, specificity is only
+around 50%, especially when a "hot spot" is found near a region of physiologic uptake
+in the pituitary, thyroid, liver, spleen, urinary tract, or bowel. False positives can also
+occur in benign processes such as inflammation, Graves disease, and sarcoidosis. These
+inflammatory false-positives are thought to be due to somatostatin receptors expressed in
+activated lymphocytes.
+Octreoscan is being replaced by Gallium-68 DOTATATE PET/CT (discussed earlier in
+this chapter) for detection of neuroendocrine tumors with high somatostatin receptor
+expression, as PET/CT has higher spatial resolution than SPECT/CT and Gallum-68-DOTATATE
+has much higher affinity for somatostatin receptors than Indium-111 pentetreotide.
+Nucs: 484

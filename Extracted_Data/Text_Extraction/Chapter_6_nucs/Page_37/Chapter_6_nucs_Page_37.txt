@@ -1,0 +1,30 @@
+Radionuclide cystography (RNC)
+Radionuclide cystography is the most sensitive test for evaluation of reflux in pediatric
+population with less radiation exposure compared to voiding cystourethrography (VCUG).
+The radiotracer chosen is variable. Tc-99m pertechnetate, Tc-99m DTPA, and Tc-99m sulfur
+colloid can all work well. Regardless of the radiotracer chosen, it is injected retrograde into
+the catheterized bladder.
+Grading of reflux:
+Minimal (RNC grade I): Reflux is confined to the ureter.
+Moderate (RNC grade II): Reflux extends superiorly to the pelvicalyceal system.
+Severe (RNC grade III): Severe reflux causing a tortuous ureter and/or dilated intrarenal system.
+Renal transplant evaluation
+While transplanted kidneys are often initially evaluated by ultrasound and ultimately by
+biopsy, radionuclide renogram using Tc-99m MAG3 or DTPA is an important diagnostic tool.
+A normal renal transplant should be visualized on the flow phase within seconds after the
+iliac vessels. Its cortical and clearance phases are similar to those of a native kidney.
+Renogram findings of common transplant complications include:
+Acute tubular necrosis (ATN) occurs within 3-4 days after surgery and results from perioperative
+ischemia. Its renogram is characterized by normal perfusion, but poor renal function with increased
+cortical retention, delayed clearance and decreased urine excretion.
+Hyperacute rejection produces immediate vascular thrombosis in the transplanted kidney, resulting in
+absent perfusion, markedly reduced or absent function.
+Acute rejection occurs within weeks to three months after surgery. It presents as decreased perfusion
+and marked cortical retention.
+Chronic rejection occurs months to years after surgery. It is characterized by progressive worsening
+perfusion and function with cortical thinning, pelvicalyceal dilation.
+Cyclosporin nephrotoxicity appears similar to ATN, but occurs at a later time after ATN should have
+resolved.
+Urine leak presents as progressive accumulation of activity outside the urinary tract.
+Urinoma, hematoma and lymphocele may present as fixed perirenal photopenic areas.
+Nucs: 480

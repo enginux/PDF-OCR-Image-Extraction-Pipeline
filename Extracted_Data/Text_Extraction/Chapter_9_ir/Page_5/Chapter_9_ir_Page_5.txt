@@ -1,0 +1,34 @@
+PROCEDURAL TOOLS
+NEEDLES
+Needle sizing
+Needle sizes measured as gauge - bigger number means smaller needle.
+Smaller needles (e.g., 22 and 21 gauge) can be used for initial access into target structures,
+fine needle aspirations, small abscesses, and small vessels for vascular access.
+Larger needles (e.g., 18 gauge) can be used for large abscesses, larger vessels that are easily
+accessible, and core needle biopsies.
+WIRES
+Wire sizing
+Wires are measured by diameter and sized in inches, with a standard wire measuring 0.035"
+in diameter and a microwire measuring 0.018" in diameter.
+An 0.018" wire fits through a 22 gauge needle (or bigger), and a 0.035" wire fits through an
+18 gauge needle (or bigger).
+Standard floppy tip wires
+Standard wires have a floppy tip or J-tip which allows the wire to be safely inserted blindly
+(although once in the vessel the course should be followed on fluoroscopy).
+A Bentson wire has 20 cm flexible tip length that is available as a standard or stiff shaft.
+Rosen (Cook Medical) wire has a stiff shaft with short flexible tip and tight (1.5 mm) J-curve.
+Hydrophilic wires
+Hydrophilic wires are used to cross a stenosis or for initial cannulation of an indwelling
+device, as would be performed for a routine check and change.
+Roadrunner (Cook) and Glidewire (Terumo) wires are hydrophilic.
+Stiff wires
+Stiff wires are used when structural rigidity is required. For instance, a device that dilates the
+subcutaneous tissues (such as a sheath, biliary drain, nephrostomy tube, etc.) needs to be
+inserted over a stiff wire.
+Amplatz (Boston Scientific) and Lunderquist (Cook Medical) wires are stiff wires.
+Wires (left to right):
+Amplatz super stiff straight tip
+guidewire
+Glidewire hydrophilic wire
+Rosen curved guidewire
+IR: 592

@@ -1,0 +1,55 @@
+Stochastic effects
+Stochastic effects are random and carcinogenic. Stochastic effects arise after
+a latent period of several years. As the dose to an individual increases, there
+is an increased risk of developing cancer. Complicating the determination of a
+stochastic risk is the fact that cancer is a very common disease, there is a low
+level of background radiation present, and most people who receive medical
+radiation exposures do not have any ill effects.
+The risk of a stochastic effect depends on the dose, dose rate, and type of
+tissue exposed.
+The linear no threshold model is believed to provide the most accurate risk
+assessment for development of solid tumors, with a latency up to 25 years.
+The linear no threshold model assumes that there is no threshold required
+for a stochastic effect, and the risk of cancer increases linear with increasing
+exposure.
+The near-quadratic function of dose is thought to best characterize the risk of
+developing leukemia, with a latency of 5-7 years.
+Radiation-induced cancer
+Acute radiation exposure carries a risk of developing cancer of approximately
+8%/Gy, based on Japanese nuclear bomb survivors.
+Fori instance, a 24% increase in cancer risk would require 4 Gy acutely (8 *4 = 24%).
+The risk of leukemia is approximately 1%/Sv for an acute dose.
+Chronic exposure (e.g., radiation worker) carries a risk of cancer of 4%/Gy.
+Relative radiosensitivities
+The thyroid gland is the most radiosensitive tissue in the human body.
+cupational/latrogents
+Ankylosing spondylitis (treated with X-rays) - leukemia
+exposures and effects
+Fluoroscopy for tuberculosis - breast cancer
+Marshall island inhabitants (nuclear weapon testing) 4 thyroid tumors
+Miners (especially uranium) - lung cancer, due to breathing radon
+Dial painters * bone sarcomas and nasopharyngeal carcinoma (lick radium on
+brushes)
+Radiation effects on the
+Weeks 0-2 pre-implantation): 'all-or-nothing": abortion likely after significant
+fetus
+exposure
+These effects are for
+significant exposure (e.g.,
+Weeks 2-6: congenital abnormalities
+2 Gy)
+T Risk of neonatal death (death at or about the time of birth)
+Weeks 8-15: Risk of mental retardation 40%/Sv
+T Risk of childhood cancer
+T Risk of reduced head diameter
+Weeks 15-25: Risk of mental retardation 10%/Sv
+T Risk of childhood cancer
+Fetal dose
+Dose limit: 0.5 mSv/month allowed (-5 mSv/pregnancy)
+(Pregnant radiation
+Lead apron attenuates externally measured dose by a factor of 20
+dose
+workers)
+(fetal
+would be further reduced by factor of two due to mother's overlying tissues)
+Physics: 1213

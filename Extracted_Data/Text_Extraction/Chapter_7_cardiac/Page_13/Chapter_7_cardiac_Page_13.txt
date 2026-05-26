@@ -1,0 +1,41 @@
+NUCLEAR IMAGING FOR CARDIAC INFLAMMATION AND INFECTION
+Cardiac sarcoidosis
+Sarcoidosis a systemic disease of noncaseating granulomas with cardiac manifestations of
+arrhythmias, left ventricular dysfunction, and restrictive cardiomyopathy. Cardiac findings
+are usually seen in conjunction with other manifestations of sarcoidosis, including lung
+disease and adenopathy.
+F-18 FDG PET is a noninvasive method for diagnosis of cardiac sarcoidosis and monitoring
+treatment response.
+Prior to imaging, patient is first placed on a high-fat low-carbohydrate diet for 24 hours
+prior, then undergoes fasting for at least 12 hours, in order to suppress physiologic glucose
+metabolism by the myocardium, SO that FDG uptake by inflamed myocardium can be
+detected.
+Cardiac sarcoidosis typically presents as focal or patchy FDG uptake in the myocardium.
+Pitfalls in FDG PET include diffuse myocardial uptake due to incompletely suppressed
+physiologic uptake, and uptake in the lateral LV wall which can be a normal variant.
+Mismatch pattern of perfusion defect with focal FDG uptake can represent hibernating
+myocardium and coronary artery disease, therefore needs to be excluded by CT or invasive
+angiography or stress perfusion imaging prior to interpretation of the images as focal
+myocardial inflammation.
+F-18 FDG PET and perfusion imaging can be combined to identify sarcoid-induced tissue
+damage. Perfusion defect correlating to a focal FDG uptake suggests myocardial fibrosis/
+scarring due to advanced sarcoidosis. Perfusion imaging is normal in early stage of disease.
+Cardiac and systemic sarcoidosis:
+Coronal MIP image of F-18 FDG PET shows increased
+myocardial uptake in the left ventricle, and increased
+uptake associated with multiple mediastinal and
+bilateral hilar lymph nodes.
+FDG PET was obtained with a special diet preparation
+that included 24 hours of high-fat low-carbohydrate
+diet prior to injection of 10 mCi of F-18 FDG.
+SA (mid)
+SA (base)
+HLA
+VLA
+Rest
+FDG
+Tc-99m sestamibi myocardial perfusion images (top row) and F-18 FDG PET images (bottom row) of the
+same patient as above. Regions of hypoperfused myocardium (inferior wall and the basal septum, arrows)
+demonstrate mismatch on FDG PET consistent with active myocardial inflammation (since obstructive
+coronary artery disease was excluded by coronary angiography).
+Cardiac: 498

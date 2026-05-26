@@ -1,0 +1,30 @@
+OTHER NON-PET IMAGING
+lymphoscintigraphy
+For cancers that metastasize first to regional lymph nodes, such as melanoma and breast
+carcinoma, ymphoscintgrapny can be used to identify the sentinel lymph node required
+for tumor staging. Filtered Tc-99m sulfur colloid is injected in the peritumoral region,
+subsequent images allow mapping of ymphatic drainage from the tumor. The first node
+visualized is the sentinel node. A gamma probe can be used intraoperatively during the
+same-day surgery to localize the sentinel node for excision.
+ympnoscintgrapny is also utilized in the diagnosis of lymphedema. Lymphatic drainage in
+the involved extremity is visualized after interdigital injection of the radiotracer. Obstructive
+lymphedema presents as delayed migration of activity from the injection site, diffuse dermal
+backflow uptake, dilated and collateral ymphatic channels.
+Molecular breast imaging
+Technetium-99m sestamibi concentrates in breast cancers and can be used as a problem-
+solving adjunct to mammography and ultrasound, particularly in women with dense breast
+tissue.
+Normal breast has low, homogeneous or patchy uptake. Focal uptake in the breast or axilla is
+suspicious for malignancy.
+Molecular breast imaging with Tc-99m sestamibi has high sensitivity and specificity
+(80-90%). However, radiation dose to the breast remains a disadvantage.
+Radionuclide testicular imaging
+Historically, testicular imaging with technetium-99m pertechnetate has been used in the
+diagnosis of testicular torsion. The radiotracer is injected intravenously, immediate dynamic
+imaging of the anterior pelvis is then obtained, followed by delayed static images.
+Normal testes show symmetric homogeneous uptake. Decreased perfusion or focal
+photopenia on the symptomatic side is diagnostic of torsion. Increased perfusion suggests
+hyperemia, which is seen in epididymits/orchtis.
+Although radionuclide imaging is more sensitive for testicular torsion, it is slower and less
+readily available compared to scrotal ultrasound.
+Nucs: 485

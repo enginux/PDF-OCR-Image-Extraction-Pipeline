@@ -1,0 +1,40 @@
+Coronary artery aneurysm
+CLINICAL
+C
+W/L186H42
+Zme I3IKA Angle "oy
+ASGGRAZA
+VR:
+Oblique 3D reformatted image (left) and axial CT image (right) show an aneurysm (arrows) at the bifurcation of
+the LAD and first diagonal branch in this patient with a history of Kawasaki disease.
+Aneursymal dilatation of the coronary artery is rare and most commonly caused by
+atherosclerosis in the United States, and Kawasaki disease worldwide.
+Coronary artery aneurysms can be found incidentally on imaging in an asymptomatic
+patient, or can present with angina or acute coronary syndrome.
+Management of coronary artery aneurysm varies depending on patient's clinical
+presentation and risk assessment.
+CARDIAC MRI
+IMAGING TECHNIQUES
+Cardiac MRI provides high-resolution dynamic imaging of the heart using different pulse
+sequences.
+Spin echo (SE) has longer acquisition time but yields high spatial resolution and excellent
+contrast while generating little artifact from metal. Single slices are generated from a single
+breath hold. SE is used for anatomy.
+Spoiled gradient recalled echo (GRE) is faster but more susceptible to metal artifacts. GRE is
+used for quantitative measurements, perfusion, and angiography.
+Balanced steady-state free precession (SSFP) is a family of
+SSFP
+"bright blood" gradient echo sequences. This technique
+provides high temporal resolution and excellent contrast
+between myocardium and blood pool. ECG-triggered
+segmented SSFP is gathered over several heart beats to
+create a cine to evaluate wall motion, valve function,
+volume quantification, and can be performed before or
+after contrast administration.
+Inversion recovery (IR)
+IR pulse nulls the signal from the normal myocardium to accentuate pathology based on
+picking the appropriate inversion time (TI) on a series of scout images. Normal myocardium
+is nulled with TI of approximately 300-400 ms after the RF pulse and therefore appears
+black. The inversion time varies based on volume, contrast relaxivity, excretion rates, and
+field strength.
+Cardiac: 514

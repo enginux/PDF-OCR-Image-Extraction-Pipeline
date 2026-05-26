@@ -1,0 +1,43 @@
+FLUOROSCOPY PHYSICS
+Electronic magnification
+If field of view (FOV) is 1 by a factor of two (e.g., from 10 cm to 5 cm), the
+reduced field of view is projected onto the entire output phosphor of the image
+intensifier, which will be 4 times dimmer. Therefore, skin exposure will be
+increased by a factor of 4 by the automatic exposure control.
+Similarly, reducing the exposed area from 10 cm to 7 cm would increase patient
+entrance air kerma by a factor of two.
+Fluoro technique
+Continuous fluoro runs at current of 1 to 5 mA (typically 3 mA), resulting in a
+very low air kerma/frame of approximately 0.01 uGy. Compared to a standard
+chest X-ray exposure of 5 Gy, each fluoro frame has 500 times fewer incident
+photons.
+There is a federal regulatory limit of 100 mGy/min entrance air kerma.
+High-dose fluoro with audible/visual alarms allows 200 mGy/min for large patients.
+Effects of fluoroscopy
+Increasing source to skin distance decreases dose due to inverse-square law.
+techniques on dose
+Increasing filtration reduces dose by removing low-energy X-rays that would be
+absorbed.
+Removing grid reduces dose (used in peds), at the risk of increasing scatter.
+Dose spreading (moving the beam around) reduces the maximum skin dose.
+Skin dose rate is about 10-30 mGy/min for continuous fluoroscopy.
+Maximum exposure rate 100 mGy/min or 200 mGy/min in high-level mode.
+At maximum permissible rate in high-level mode, 2 Gy can be delivered in 10 min!
+Large patients are more susceptible to skin injury.
+Magnification increases dose, as discussed above.
+CT PHYSICS
+Overview of CT
+Computed tomography (CT) produces images by rotating a fan beam around
+the patient and determining the linear attenuation coefficients of each
+individual pixel using a reconstruction algorithm.
+Hounsfield units (HU)
+A Hounsfield unit is a measure of relative CT attenuation.
+Hx A water
+HU = 1000
+water
+Hx = attenuation coefficient of the material being measuring
+Hwater = attenuation coefficient of water
+10 HU = 1% difference in contrast.
+Gray matter and white matter differ in contrast by only 0.5%.
+A material with twice the attenuation of water attenuates 1000 HU.
+Physics: 1209

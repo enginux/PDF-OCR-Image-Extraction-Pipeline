@@ -1,0 +1,44 @@
+NUCLEAR CARDIOLOGY
+MYOCARDIAL PERFUSION AND VIABILITY IMAGING
+Perfusion imaging overview
+Radionuclide perfusion imaging evaluates the blood flow to the left ventricular myocardium.
+Decreased regional myocardial perfusion can result from reduced blood flow due to
+nemodynamicaly significant obstructive coronary artery disease (stress) or lack of viable
+cells due to myocardial infarction (rest).
+Each perfusion test has two components: An element of stress, and a method of imaging.
+The stress component can be physical (treadmill), pharmacologic-vasodilatory
+(dipyridamole, adenosine, or regadenoson) or nammacogcadrenerge (dobutamine).
+Radionuclide perfusion imaging can be performed with SPECT (Tc-99m sestamibi, Tc-99m
+tetrofosmin, thallium-201) or PET radiotracers rubidium-82, N-13 ammonia). ECG-gated
+imaging is standard for cardiac SPECT (GSPECT) and PET.
+Other types of stress tests performed by cardiologists (ECG stress tests and echocardiographic or MRI
+stress tests) can be performed in lieu of radionuclide imaging. These non-imaging tests can detect other
+signs of perfusion abnormalities, such as ischemic ECG changes or wall motion abnormalities.
+Viability imaging overview
+Prior to a revascularization procedure (e.g., coronary artery bypass surgery, CABG or
+coronary angioplasty/stenting. it is important to know if the hypoperfused myocardium is
+viable, as the revascularization of scar tissue would not provide a clinical benefit.
+Viability imaging can be performed with rest-redistribution thallium-201 perfusion imaging
+or F-18 FDG PET metabolic imaging. F-18 FDG PET evaluation of glucose metabolism is the
+gold standard for evaluation of myocardial viability, although unlike thallium FDG-PET does
+not evaluate perfusion.
+Clinical applications of myocardial perfusion and viability imaging
+Evaluation of acute chest pain. Myocardial perfusion imaging is often the gatekeeper to
+further cardiac workup in patients where there is clinical ambiguity for cardiac ischemia
+(e.g., chest pain with negative ECG and troponins). A negative myocardial perfusion exam
+allows safe discharge.
+A normal myocardial perfusion exam is associated with a 0.6% annual rate of a cardiac event, even among
+patients with a high pre-test likelihood of coronary artery disease.
+Evaluation of hemodynamic significance of coronary stenosis. Even with a coronary
+artery stenosis seen on invasive or CT angiography, patients with a normal nuclear cardiac
+perfusion exam have a relatively low risk for cardiac events.
+Risk stratification after MI. Findings that would classify a patient as high risk include:
+Large and severe perfusion defects.
+Significant stress-induced or peri-infarct ischemia.
+Defect in multiple vascular territories (suggesting multi-vessel disease). Significant lung uptake,
+suggesting left ventricular dysfunction.
+Left ventricular aneurysm.
+Low ejection fraction (less than 40% seen) on gated imaging.
+Ejection fraction (EF) is calculated as EF = (EDC - ESC)/(EDC)
+EDC = end diastolic counts; ESC = end systolic counts
+Cardiac: 487

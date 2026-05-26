@@ -1,0 +1,27 @@
+Suture calcifications
+Curvilinear calcifications of variable lengths (arrows)
+represent calcified surgical suture material.
+Suture calcifications represent calcium deposited on suture material, usually after radiation
+therapy. Suture calcifications are uncommonly seen due to changes in modern surgical
+technique.
+Dystrophic calcifications
+CC and MLO views show a lucent lesion with a bizarre whorled appearance and geometric calcifications
+(arrows), typical of fat necrosis.
+Dystrophic calcifications may occur as a sequela of surgery, biopsy, trauma, or irradiation.
+Usually the appearance of dystrophic calcification is distinctive, with coarse, irregular
+shapes often in association with areas of lucency (due to fat necrosis), but these may pose a
+diagnostic challenge when new or evolving.
+Round and punctate calcifications
+Round and punctate calcifications are associated with various etiologies including fibrocystic
+change. The round shape is sometimes due to deposition in the small terminal acini of
+breast lobules. When diffusely or randomly distributed, round and punctate calcifications
+are considered benign.
+When a round calcification is smaller than 0.5 mm, the term "punctate" is preferred.
+An isolated group of punctate calcifications on a baseline mammogram should be classified
+as BI-RADS 3 (discussed later in chapter).
+Rim calcifications
+Fine peripheral calcification represents calcium deposited on the surface of a sphere, usually
+occurring in an area of fat necrosis or a cyst with calcified walls.
+Previous versions of BI-RADS described these calcifications as "lucent centered" or
+"eggshell."
+Breast: 385
